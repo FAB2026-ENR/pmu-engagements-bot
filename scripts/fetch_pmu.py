@@ -165,9 +165,9 @@ def extract_last_prize(participant_perf: dict):
 def fetch_prix_precedents(date_ddmmyyyy: str, num_reunion, num_course):
     """Renvoie {numPmu: allocation_derniere_course} pour une course donnée,
     ou {} si l'endpoint échoue ou que sa structure a changé."""
-    # ?specialisation=INTERNET est requis par l'API "online" du PMU, sans quoi
-    # elle renvoie un 400 générique (code 4) même pour une requête par ailleurs valide.
-    url = f"{PERF_BASE_URL}/{date_ddmmyyyy}/R{num_reunion}/C{num_course}/performances-detaillees?specialisation=INTERNET"
+    # URL confirmée en inspectant le code source réel de pmu.fr (fetchPerformancesDetaillees) :
+    # le suffixe /pretty est obligatoire, pas de paramètre specialisation ici.
+    url = f"{PERF_BASE_URL}/{date_ddmmyyyy}/R{num_reunion}/C{num_course}/performances-detaillees/pretty"
     try:
         data = fetch_json(url)
     except (requests.RequestException, ValueError) as e:
@@ -290,3 +290,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+  
