@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+"""
 Récupère le programme du jour depuis l'API non officielle du PMU,
 filtre les courses de galop, et calcule le meilleur engagement par
 entraîneur (même logique que l'outil HTML engagements-entraineurs.html).
