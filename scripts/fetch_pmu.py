@@ -46,6 +46,40 @@ _debug_samples_shown = 0
 # Spécialités considérées comme "galop" (on exclut le trot : ATTELE / MONTE).
 GALOP_SPECIALITES = {"PLAT", "HAIES", "STEEPLE-CHASE", "CROSS-COUNTRY", "CROSS"}
 
+# Pour les réunions à l'étranger (ex. Hong Kong), l'allocation de la dernière
+# course (prixPrec) est dans la devise locale alors que l'allocation du jour
+# (prixJour) est en euros — comparer les deux donnerait un faux déclassement
+# identique sur tous les chevaux de la réunion. On neutralise donc le
+# classShift pour les réunions non françaises (le score de forme, lui, reste
+# calculé normalement à partir de la musique).
+FRANCE_LABELS = {"FRANCE"}
+FRANCE_CODES = {"FRA", "FR"}
+_country_debug_shown = False
+
+
+def is_reunion_france(reunion: dict) -> bool:
+    """Best-effort : détecte si une réunion a lieu en France. Par défaut
+    (champ absent ou format inattendu), on considère que c'est la France pour
+    ne pas désactiver le déclassement partout si le nom du champ a changé —
+    un échantillon est journalisé pour ajuster si besoin."""
+    global _country_debug_shown
+    pays = reunion.get("pays")
+    if isinstance(pays, dict):
+        libelle = (pays.get("libelle") or pays.get("nom") or pays.get("name") or "").upper()
+        code = (pays.get("code") or "").upper()
+        if libelle or code:
+            return libelle in FRANCE_LABELS or code in FRANCE_CODES
+    elif isinstance(pays, str) and pays:
+        return pays.upper() in FRANCE_LABELS or pays.upper() in FRANCE_CODES
+
+    if not _country_debug_shown:
+        print(
+            f"  ? champ pays introuvable sur la réunion, clés dispo: {list(reunion.keys())}",
+            file=sys.stderr,
+        )
+        _country_debug_shown = True
+    return True
+
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data"
 
 
@@ -193,6 +227,9 @@ def collect_entries(date_ddmmyyyy: str):
     entries = []
     for reunion in reunions:
         num_reunion = reunion.get("numOfficiel") or reunion.get("numExterne") or reunion.get("numReunion")
+        reunion_france = is_reunion_france(reunion)
+        if not reunion_france:
+            print(f"  i réunion R{num_reunion} hors France détectée — déclassement désactivé pour cette réunion", file=sys.stderr)
         courses = reunion.get("courses", [])
         for course in courses:
             if not is_galop(course):
@@ -210,7 +247,12 @@ def collect_entries(date_ddmmyyyy: str):
 
             # Allocation de la dernière course de chaque cheval (pour détecter les
             # déclassements) — best-effort, peut échouer sans bloquer le reste.
-            prix_precedents = fetch_prix_precedents(date_ddmmyyyy, num_reunion, num_course)
+            # Inutile (et risque de fausses alertes de devise) pour les réunions
+            # à l'étranger : on n'appelle même pas l'endpoint dans ce cas.
+            if reunion_france:
+                prix_precedents = fetch_prix_precedents(date_ddmmyyyy, num_reunion, num_course)
+            else:
+                prix_precedents = {}
 
             for p in participants:
                 cheval = p.get("nom", "")
@@ -230,7 +272,7 @@ def collect_entries(date_ddmmyyyy: str):
                     "entraineur": entraineur,
                     "musique": musique,
                     "prixJour": montant_prix,
-                    "prixPrec": prix_precedents.get(num_pmu),
+                    "prixPrec": prix_precedents.get(num_pmu) if reunion_france else None,
                 })
     return entries
 
@@ -290,4 +332,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-  
