@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T22:04:56.868982+00:00",
+  "generatedAt": "2026-10-04T22:46:23.032081+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -6861,48 +6861,136 @@
   ],
   "buckets": [
     {
-      "label": "< 5",
-      "n": 215,
-      "nGagnants": 22,
-      "nPlaces": 66,
-      "tauxGagnant": 10.2,
-      "tauxPlace": 30.7,
-      "coteGagnantMoyenne": 10.64,
-      "roiGagnant": -25.8,
-      "roiPlace": -37.2
+      "label": "< 0",
+      "n": 13,
+      "nGagnants": 2,
+      "nPlaces": 3,
+      "tauxGagnant": 15.4,
+      "tauxPlace": 23.1,
+      "coteGagnantMoyenne": 3.35,
+      "roiGagnant": -48.5,
+      "roiPlace": -63.8
     },
     {
-      "label": "5 – 7",
-      "n": 64,
+      "label": "0",
+      "n": 73,
+      "nGagnants": 4,
+      "nPlaces": 18,
+      "tauxGagnant": 5.5,
+      "tauxPlace": 24.7,
+      "coteGagnantMoyenne": 8.3,
+      "roiGagnant": -88.6,
+      "roiPlace": -52.7
+    },
+    {
+      "label": "1",
+      "n": 44,
+      "nGagnants": 8,
+      "nPlaces": 20,
+      "tauxGagnant": 18.2,
+      "tauxPlace": 45.5,
+      "coteGagnantMoyenne": 12.01,
+      "roiGagnant": 91.1,
+      "roiPlace": -5.0
+    },
+    {
+      "label": "2",
+      "n": 45,
       "nGagnants": 5,
-      "nPlaces": 17,
-      "tauxGagnant": 7.8,
-      "tauxPlace": 26.6,
-      "coteGagnantMoyenne": 15.61,
-      "roiGagnant": 22.0,
-      "roiPlace": -27.0
+      "nPlaces": 16,
+      "tauxGagnant": 11.1,
+      "tauxPlace": 35.6,
+      "coteGagnantMoyenne": 7.03,
+      "roiGagnant": -53.1,
+      "roiPlace": -23.8
     },
     {
-      "label": "7 – 9",
-      "n": 43,
+      "label": "3",
+      "n": 12,
+      "nGagnants": 0,
+      "nPlaces": 2,
+      "tauxGagnant": 0.0,
+      "tauxPlace": 16.7,
+      "coteGagnantMoyenne": null,
+      "roiGagnant": -100.0,
+      "roiPlace": -74.2
+    },
+    {
+      "label": "4",
+      "n": 28,
       "nGagnants": 3,
-      "nPlaces": 8,
-      "tauxGagnant": 7.0,
-      "tauxPlace": 18.6,
-      "coteGagnantMoyenne": 11.2,
-      "roiGagnant": -74.0,
-      "roiPlace": -52.3
+      "nPlaces": 7,
+      "tauxGagnant": 10.7,
+      "tauxPlace": 25.0,
+      "coteGagnantMoyenne": 19.68,
+      "roiGagnant": 40.5,
+      "roiPlace": -41.1
     },
     {
-      "label": "9+",
-      "n": 20,
+      "label": "5",
+      "n": 33,
+      "nGagnants": 3,
+      "nPlaces": 10,
+      "tauxGagnant": 9.1,
+      "tauxPlace": 30.3,
+      "coteGagnantMoyenne": 22.08,
+      "roiGagnant": 100.8,
+      "roiPlace": 1.8
+    },
+    {
+      "label": "6",
+      "n": 31,
+      "nGagnants": 2,
+      "nPlaces": 7,
+      "tauxGagnant": 6.5,
+      "tauxPlace": 22.6,
+      "coteGagnantMoyenne": 5.9,
+      "roiGagnant": -61.9,
+      "roiPlace": -57.6
+    },
+    {
+      "label": "7",
+      "n": 25,
+      "nGagnants": 1,
+      "nPlaces": 5,
+      "tauxGagnant": 4.0,
+      "tauxPlace": 20.0,
+      "coteGagnantMoyenne": 11.2,
+      "roiGagnant": -55.2,
+      "roiPlace": -64.4
+    },
+    {
+      "label": "8",
+      "n": 18,
+      "nGagnants": 2,
+      "nPlaces": 3,
+      "tauxGagnant": 11.1,
+      "tauxPlace": 16.7,
+      "coteGagnantMoyenne": null,
+      "roiGagnant": -100.0,
+      "roiPlace": -35.6
+    },
+    {
+      "label": "9",
+      "n": 19,
       "nGagnants": 1,
       "nPlaces": 2,
-      "tauxGagnant": 5.0,
-      "tauxPlace": 10.0,
+      "tauxGagnant": 5.3,
+      "tauxPlace": 10.5,
       "coteGagnantMoyenne": 22.7,
-      "roiGagnant": 13.5,
-      "roiPlace": -59.8
+      "roiGagnant": 19.5,
+      "roiPlace": -57.6
+    },
+    {
+      "label": "10+",
+      "n": 1,
+      "nGagnants": 0,
+      "nPlaces": 0,
+      "tauxGagnant": 0.0,
+      "tauxPlace": 0.0,
+      "coteGagnantMoyenne": null,
+      "roiGagnant": -100.0,
+      "roiPlace": -100.0
     }
   ],
   "classShiftBuckets": {
