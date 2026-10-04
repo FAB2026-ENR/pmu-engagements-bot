@@ -117,8 +117,12 @@ def extract_arrivee(participant: dict):
 # --- Cotes gagnant / placé définitives ---
 
 RAPPORTS_URL_SUFFIX = "rapports-definitifs"
-GAGNANT_TYPES = {"SIMPLE_GAGNANT"}
-PLACE_TYPES = {"SIMPLE_PLACE"}
+# Le PMU utilise plusieurs variantes de typePari selon que la course est
+# ouverte aux paris internationaux ou non : "SIMPLE_GAGNANT" vs
+# "SIMPLE_GAGNANT_INTERNATIONAL" (idem pour PLACE). On matche par préfixe
+# pour couvrir toutes les variantes sans devoir toutes les lister.
+GAGNANT_PREFIX = "SIMPLE_GAGNANT"
+PLACE_PREFIX = "SIMPLE_PLACE"
 DIVIDENDE_KEYS = ["dividendePourUnEuro", "rapport", "dividende", "montant"]
 COMBINAISON_KEYS = ["combinaison", "numPmu", "num"]
 
@@ -136,7 +140,9 @@ def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
     result = {}
     for rapport in rapports_list or []:
         type_pari = (rapport.get("typePari") or "").upper()
-        if type_pari not in GAGNANT_TYPES and type_pari not in PLACE_TYPES:
+        is_gagnant = type_pari.startswith(GAGNANT_PREFIX)
+        is_place = type_pari.startswith(PLACE_PREFIX)
+        if not is_gagnant and not is_place:
             continue
         for combi in rapport.get("rapports", rapport.get("combinaisons", [])):
             num_pmu = None
@@ -158,7 +164,7 @@ def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
                     except (TypeError, ValueError):
                         continue
             entry = result.setdefault(num_pmu, {"gagnant": None, "place": None})
-            if type_pari in GAGNANT_TYPES:
+            if is_gagnant:
                 entry["gagnant"] = dividende
             else:
                 entry["place"] = dividende
