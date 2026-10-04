@@ -2,8 +2,14 @@ name: Récupération engagements PMU (galop)
 
 on:
   schedule:
+    # Toutes les 30 min entre 6h et 19h UTC ≈ 8h-21h Paris (couvre l'essentiel
+    # des réunions + les éventuelles mises à jour de déclarations/partants).
     - cron: '*/30 6-19 * * *'
-  workflow_dispatch: {}
+    # Bilan du soir, une fois les réunions de galop terminées : 21h30 UTC
+    # (23h30 Paris en été / 22h30 en hiver) — volontairement tardif pour
+    # laisser le temps aux rapports définitifs d'être publiés par le PMU.
+    - cron: '30 21 * * *'
+  workflow_dispatch: {}  # permet de lancer manuellement depuis l'onglet Actions
 
 permissions:
   contents: write
@@ -23,6 +29,14 @@ jobs:
 
       - name: Récupérer le programme et calculer les meilleurs engagements
         run: python scripts/fetch_pmu.py
+
+      - name: Construire le bilan du soir (arrivées + cotes)
+        # Seulement sur le créneau du soir (ou un lancement manuel, pratique
+        # pour tester) — pas à chaque passage de la journée, pour éviter
+        # d'écraser le bilan avec des résultats partiels avant la fin des
+        # réunions.
+        if: github.event.schedule == '30 21 * * *' || github.event_name == 'workflow_dispatch'
+        run: python scripts/fetch_bilan.py
 
       - name: Commit et push si changement
         run: |
