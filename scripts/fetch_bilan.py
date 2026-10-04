@@ -52,13 +52,13 @@ CLASS_PCT_BUCKETS = [
     ("90%+", 90, None),
 ]
 
-# Tranches de score de forme pour le bilan agrégé (plus bas = meilleure forme).
-SCORE_BUCKETS = [
-    ("< 5", None, 5),
-    ("5 – 7", 5, 7),
-    ("7 – 9", 7, 9),
-    ("9+", 9, None),
-]
+# Tranches de score de forme pour le bilan agrégé (plus bas = meilleure forme),
+# une par note entière : la tranche "5" regroupe les scores de 5,0 à 5,99.
+SCORE_BUCKETS = (
+    [("< 0", None, 0)]
+    + [(str(n), n, n + 1) for n in range(0, 10)]
+    + [("10+", 10, None)]
+)
 
 MAX_DEBUG_SAMPLES = 2
 _debug_samples_shown = 0
