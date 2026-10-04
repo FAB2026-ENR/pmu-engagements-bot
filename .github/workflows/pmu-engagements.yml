@@ -5,11 +5,22 @@ on:
     # Toutes les 30 min entre 6h et 19h UTC ≈ 8h-21h Paris (couvre l'essentiel
     # des réunions + les éventuelles mises à jour de déclarations/partants).
     - cron: '*/30 6-19 * * *'
+    # Message Telegram du matin : 6h45 UTC (8h45 Paris en été / 7h45 en hiver).
+    - cron: '45 6 * * *'
     # Bilan du soir, une fois les réunions de galop terminées : 21h30 UTC
     # (23h30 Paris en été / 22h30 en hiver) — volontairement tardif pour
     # laisser le temps aux rapports définitifs d'être publiés par le PMU.
     - cron: '30 21 * * *'
-  workflow_dispatch: {}  # permet de lancer manuellement depuis l'onglet Actions
+  workflow_dispatch:  # lancement manuel depuis l'onglet Actions
+    inputs:
+      envoi:
+        description: "Envoi Telegram à tester"
+        type: choice
+        default: aucun
+        options:
+          - aucun
+          - matin
+          - bilan
 
 permissions:
   contents: write
@@ -17,6 +28,9 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
     steps:
       - uses: actions/checkout@v4
 
@@ -37,6 +51,14 @@ jobs:
         # réunions.
         if: github.event.schedule == '30 21 * * *' || github.event_name == 'workflow_dispatch'
         run: python scripts/fetch_bilan.py
+
+      - name: Telegram — meilleurs engagements du matin
+        if: github.event.schedule == '45 6 * * *' || (github.event_name == 'workflow_dispatch' && inputs.envoi == 'matin')
+        run: python scripts/notify_telegram.py morning
+
+      - name: Telegram — bilan du soir
+        if: github.event.schedule == '30 21 * * *' || (github.event_name == 'workflow_dispatch' && inputs.envoi == 'bilan')
+        run: python scripts/notify_telegram.py bilan
 
       - name: Commit et push si changement
         run: |
