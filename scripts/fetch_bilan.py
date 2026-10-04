@@ -159,7 +159,9 @@ def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
             for dk in DIVIDENDE_KEYS:
                 if dk in combi and combi[dk] is not None:
                     try:
-                        dividende = float(combi[dk])
+                        # Le PMU exprime les rapports en centimes pour 1€ misé
+                        # (ex. 510 = 5,10€ rendus pour 1€) : on convertit en euros.
+                        dividende = float(combi[dk]) / 100
                         break
                     except (TypeError, ValueError):
                         continue
