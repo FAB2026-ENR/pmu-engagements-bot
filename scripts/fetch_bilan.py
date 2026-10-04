@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Tourne en soirée, une fois les courses de galop du jour terminées.
 
@@ -24,6 +23,10 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import requests
+
+# Même calcul de score / déclassement que le script du matin.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from fetch_pmu import form_score  # noqa: E402
 
 BASE_URL = "https://offline.turfinfo.api.pmu.fr/rest/client/7/programme"
 HEADERS = {
@@ -62,8 +65,10 @@ _debug_samples_shown = 0
 
 
 def paris_today_ddmmyyyy() -> str:
-    now_paris = datetime.now(timezone.utc) + timedelta(hours=2)
-    return now_paris.strftime("%d%m%Y")
+    # Heure de Paris (été) moins 3h : une relance après minuit (jusqu'à 3h du
+    # matin) bilante encore la journée de courses qui vient de se terminer.
+    racing_day = datetime.now(timezone.utc) + timedelta(hours=2) - timedelta(hours=3)
+    return racing_day.strftime("%d%m%Y")
 
 
 def fetch_json(url: str):
@@ -272,8 +277,11 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
         for e in course_entries:
             place, statut = arrivee_par_cheval.get(e["cheval"], (None, None))
             c = cotes_par_cheval.get(e["cheval"], {})
+            score, shift = form_score(e.get("musique", ""), e.get("prixJour"), e.get("prixPrec"))
             bilan_entries.append({
                 **e,
+                "score": score,
+                "classShift": shift,
                 "arrivee": place,
                 "statutArrivee": statut,
                 "coteGagnant": c.get("gagnant"),
