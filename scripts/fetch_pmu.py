@@ -115,17 +115,23 @@ def is_galop(course: dict) -> bool:
 # --- Logique de score, portée depuis engagements-entraineurs.html ---
 
 def parse_musique(musique: str):
+    """Extrait les places de la musique PMU, de la plus récente à la plus ancienne.
+
+    Chaque course = un résultat suivi d'une lettre de discipline minuscule
+    (ex. 5p, 0h, Dp), sans espace entre les courses. Un chiffre 1-9 = la place,
+    0 = non placé (au-delà de la 9e place), une majuscule D/T/A/R = disqualifié,
+    tombé, arrêté, refusé... Ces deux derniers cas comptent comme une mauvaise
+    place (10). Les marqueurs d'année, ex. (25), sont ignorés."""
     if not musique:
         return []
-    tokens = musique.strip().split()
+    texte = re.sub(r"\([^)]*\)", "", musique)
     places = []
-    for tok in tokens:
-        if re.fullmatch(r"\(\d+\)", tok):
-            continue
-        m = re.match(r"^(\d{1,2})", tok)
-        if m:
-            places.append(int(m.group(1)))
-        elif re.match(r"^[DTAa0]", tok, re.IGNORECASE):
+    for m in re.finditer(r"(\d{1,2}|[DTAR])(?=[a-z]|\s|$)", texte):
+        tok = m.group(1)
+        if tok.isdigit():
+            v = int(tok)
+            places.append(10 if v == 0 else min(v, 10))
+        else:
             places.append(10)
     return places
 
