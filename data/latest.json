@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T07:13:29.512022+00:00",
+  "generatedAt": "2026-10-05T07:33:31.849960+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -4356,12 +4356,12 @@
           "musique": "6p1p",
           "prixJour": 24700,
           "prixPrec": 119000.0,
-          "score": 4.81,
+          "score": 2.75,
           "classShift": {
             "type": "descend",
             "pct": 79
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R3",
@@ -4372,12 +4372,12 @@
           "musique": "3p0p5p",
           "prixJour": 20100,
           "prixPrec": 20100.0,
-          "score": 2.6,
+          "score": 4.87,
           "classShift": {
             "type": "stable",
             "pct": 0
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -4419,12 +4419,12 @@
           "musique": "6p6p1p8p2p6p1p8p2p",
           "prixJour": 15400,
           "prixPrec": 25900.0,
-          "score": 5.38,
+          "score": 3.57,
           "classShift": {
             "type": "descend",
             "pct": 41
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R4",
@@ -4435,12 +4435,12 @@
           "musique": "2p0p4p8p",
           "prixJour": 12000,
           "prixPrec": 14400.0,
-          "score": 1.6,
+          "score": 4.56,
           "classShift": {
             "type": "stable",
             "pct": 17
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -4451,7 +4451,7 @@
           "musique": "5p4p5p6p8p",
           "prixJour": 11500,
           "prixPrec": 15600.0,
-          "score": 4.61,
+          "score": 4.76,
           "classShift": {
             "type": "descend",
             "pct": 26
@@ -4472,7 +4472,7 @@
           "musique": "5p1p",
           "prixJour": 20100,
           "prixPrec": 27400.0,
-          "score": 4.59,
+          "score": 2.86,
           "classShift": {
             "type": "descend",
             "pct": 27
@@ -4488,7 +4488,7 @@
           "musique": "4p1p5p",
           "prixJour": 24700,
           "prixPrec": 31100.0,
-          "score": 3.69,
+          "score": 2.65,
           "classShift": {
             "type": "descend",
             "pct": 21
@@ -4504,7 +4504,7 @@
           "musique": "1p7p1p6p2p",
           "prixJour": 19200,
           "prixPrec": 17400.0,
-          "score": 0.6,
+          "score": 1.75,
           "classShift": {
             "type": "stable",
             "pct": 10
@@ -4520,7 +4520,7 @@
           "musique": "8p2p5p0p2p(25)4p3p4p",
           "prixJour": 16300,
           "prixPrec": 16300.0,
-          "score": 8.0,
+          "score": 4.78,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -4536,7 +4536,7 @@
           "musique": "7p6p3p8p2p(25)8p9p5p0p",
           "prixJour": 13400,
           "prixPrec": 21100.0,
-          "score": 6.46,
+          "score": 4.94,
           "classShift": {
             "type": "descend",
             "pct": 36
@@ -4552,7 +4552,7 @@
           "musique": "1p2p5p1p4p5p7p0p(25)0p",
           "prixJour": 15400,
           "prixPrec": 19200.0,
-          "score": 0.6,
+          "score": 1.95,
           "classShift": {
             "type": "stable",
             "pct": 20
@@ -4568,7 +4568,7 @@
           "musique": "3p1p9p4p5p2p3p7p",
           "prixJour": 12000,
           "prixPrec": 14400.0,
-          "score": 2.6,
+          "score": 2.93,
           "classShift": {
             "type": "stable",
             "pct": 17
@@ -4589,7 +4589,7 @@
           "musique": "6p5p6p9p0p3p0p8p(25)8p",
           "prixJour": 13400,
           "prixPrec": 8750.0,
-          "score": 6.42,
+          "score": 6.99,
           "classShift": {
             "type": "monte",
             "pct": 53
@@ -4605,7 +4605,7 @@
           "musique": "3p5p3p0p4p9p1p7p6p7p",
           "prixJour": 14400,
           "prixPrec": 14400.0,
-          "score": 2.6,
+          "score": 3.87,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -4626,7 +4626,7 @@
           "musique": "8p2p7p6p2p",
           "prixJour": 5515,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 5.0,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -4639,7 +4639,7 @@
           "musique": "9p9p8p1p1p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 6.48,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -4657,9 +4657,9 @@
           "musique": "2p7p5p4p6p",
           "prixJour": 2193,
           "prixPrec": null,
-          "score": 1.6,
+          "score": 3.7,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -4670,9 +4670,9 @@
           "musique": "5p4p3p6p1p",
           "prixJour": 2398,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 3.45,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R6",
@@ -4683,7 +4683,7 @@
           "musique": "3p0p0p4p7p",
           "prixJour": 2475,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 5.61,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -4701,9 +4701,9 @@
           "musique": "0p0p0p5p0p",
           "prixJour": 2193,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 9.45,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -4714,9 +4714,9 @@
           "musique": "8p5p2p2p0p",
           "prixJour": 2398,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 5.19,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -4732,7 +4732,7 @@
           "musique": "5p2p",
           "prixJour": 15662,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 3.6,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -4745,7 +4745,7 @@
           "musique": "2p3p0p5p2p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 1.6,
+          "score": 2.52,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -4758,9 +4758,9 @@
           "musique": "3p6p2p(25)2p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 2.24,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R5",
@@ -4771,9 +4771,9 @@
           "musique": "0p4p(25)3p6p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 6.56,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -4789,12 +4789,12 @@
           "musique": "0p2p0p0p4p7p0p(25)1p0p",
           "prixJour": 13400,
           "prixPrec": 22100.0,
-          "score": -0.58,
+          "score": 6.6,
           "classShift": {
             "type": "descend",
             "pct": 39
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -4805,12 +4805,12 @@
           "musique": "4p0p0p9p2p0p8p0p(25)1p",
           "prixJour": 14400,
           "prixPrec": 12500.0,
-          "score": 4.0,
+          "score": 6.37,
           "classShift": {
             "type": "stable",
             "pct": 15
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -4826,12 +4826,12 @@
           "musique": "5p2p5p9p0p0p0p0p8p0p",
           "prixJour": 14400,
           "prixPrec": 19200.0,
-          "score": 4.62,
+          "score": 5.42,
           "classShift": {
             "type": "descend",
             "pct": 25
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -4842,12 +4842,12 @@
           "musique": "5p4p9p2p5p7p7p5p7p5p",
           "prixJour": 13000,
           "prixPrec": 14400.0,
-          "score": 5.0,
+          "score": 4.92,
           "classShift": {
             "type": "stable",
             "pct": 10
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -4863,7 +4863,7 @@
           "musique": "4p0p3p6p9p5p3p1p1p1p",
           "prixJour": 16300,
           "prixPrec": 18200.0,
-          "score": 4.0,
+          "score": 4.69,
           "classShift": {
             "type": "stable",
             "pct": 10
@@ -4879,7 +4879,7 @@
           "musique": "4p4p8p4p3p0p6p(25)9p5p",
           "prixJour": 12500,
           "prixPrec": 25900.0,
-          "score": 3.22,
+          "score": 3.94,
           "classShift": {
             "type": "descend",
             "pct": 52
@@ -4900,7 +4900,7 @@
           "musique": "9p5p8p0p6p6p0p3p3p8p",
           "prixJour": 13400,
           "prixPrec": 19200.0,
-          "score": 8.55,
+          "score": 6.99,
           "classShift": {
             "type": "descend",
             "pct": 30
@@ -4916,7 +4916,7 @@
           "musique": "0p5p0p1p5p8p5p0p8p8p",
           "prixJour": 14400,
           "prixPrec": 13400.0,
-          "score": 0.0,
+          "score": 7.14,
           "classShift": {
             "type": "stable",
             "pct": 7
@@ -4932,7 +4932,7 @@
           "musique": "0p0p0p8p0p2p1p2p6p1p",
           "prixJour": 14400,
           "prixPrec": 19200.0,
-          "score": -0.38,
+          "score": 7.76,
           "classShift": {
             "type": "descend",
             "pct": 25
@@ -4948,12 +4948,12 @@
           "musique": "3p2p1p6p5p3p1p1p5p9p",
           "prixJour": 16300,
           "prixPrec": 15400.0,
-          "score": 2.6,
+          "score": 1.89,
           "classShift": {
             "type": "stable",
             "pct": 6
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R4",
@@ -4964,7 +4964,7 @@
           "musique": "2p3p5p7p2p3p7p0p6p0p",
           "prixJour": 16300,
           "prixPrec": 15400.0,
-          "score": 1.6,
+          "score": 2.81,
           "classShift": {
             "type": "stable",
             "pct": 6
@@ -4980,7 +4980,7 @@
           "musique": "1p1p4p8p0p3p4p2p1p9p",
           "prixJour": 16300,
           "prixPrec": 12500.0,
-          "score": 0.84,
+          "score": 2.57,
           "classShift": {
             "type": "monte",
             "pct": 30
@@ -4996,7 +4996,7 @@
           "musique": "7p9p7p5p6p",
           "prixJour": 12000,
           "prixPrec": 14600.0,
-          "score": 7.0,
+          "score": 7.13,
           "classShift": {
             "type": "stable",
             "pct": 18
@@ -5012,12 +5012,12 @@
           "musique": "0p0p6p7p1p1p1p1p4p2p",
           "prixJour": 12500,
           "prixPrec": 28800.0,
-          "score": -0.85,
+          "score": 5.58,
           "classShift": {
             "type": "descend",
             "pct": 57
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -5033,7 +5033,7 @@
           "musique": "0p7p2p2p7p7p3p3p4p7p",
           "prixJour": 13400,
           "prixPrec": 20200.0,
-          "score": -0.51,
+          "score": 5.24,
           "classShift": {
             "type": "descend",
             "pct": 34
@@ -5049,7 +5049,7 @@
           "musique": "5p7p1p8p0p(25)6p7p6p",
           "prixJour": 11500,
           "prixPrec": 8000.0,
-          "score": 5.35,
+          "score": 5.69,
           "classShift": {
             "type": "monte",
             "pct": 44
@@ -5070,7 +5070,7 @@
           "musique": "(25)1p4p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": null,
+          "score": 1.6,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -5083,7 +5083,7 @@
           "musique": "3p1p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 1.53,
           "classShift": null,
           "meilleurEngagement": true
         }
@@ -5101,7 +5101,7 @@
           "musique": "1p1p3p4p5p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 0.77,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -5114,7 +5114,7 @@
           "musique": "8p9p6p8p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 7.92,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -5132,9 +5132,9 @@
           "musique": "2p4p4p1p4p",
           "prixJour": 5515,
           "prixPrec": null,
-          "score": 1.6,
+          "score": 2.0,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R6",
@@ -5145,7 +5145,7 @@
           "musique": "8p2p4p2p4p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 4.29,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -5158,9 +5158,9 @@
           "musique": "0p3p5p4p8p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 6.51,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -5171,7 +5171,7 @@
           "musique": "3p7p2p6p",
           "prixJour": 2193,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 3.36,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -5189,7 +5189,7 @@
           "musique": "1p8p5p2p9p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 3.13,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -5202,7 +5202,7 @@
           "musique": "4p6p5p5p3p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 4.21,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -5220,7 +5220,7 @@
           "musique": "8p7p6p0p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 7.68,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -5233,7 +5233,7 @@
           "musique": "1p2p4p6p5p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 1.75,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -5246,7 +5246,7 @@
           "musique": "7p9p7p9p8p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 7.74,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -5264,12 +5264,12 @@
           "musique": "2p2p9p1p1p5p1p",
           "prixJour": 24700,
           "prixPrec": 31100.0,
-          "score": 1.29,
+          "score": 0.95,
           "classShift": {
             "type": "descend",
             "pct": 21
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R4",
@@ -5280,7 +5280,7 @@
           "musique": "2p6p5p2p0p0p9p0p0p0p",
           "prixJour": 15400,
           "prixPrec": 18200.0,
-          "score": 1.6,
+          "score": 4.49,
           "classShift": {
             "type": "stable",
             "pct": 15
@@ -5296,7 +5296,7 @@
           "musique": "6p0p6p7p2p0p9p0p0p0p",
           "prixJour": 14400,
           "prixPrec": 19200.0,
-          "score": 5.62,
+          "score": 6.55,
           "classShift": {
             "type": "descend",
             "pct": 25
@@ -5312,12 +5312,12 @@
           "musique": "0p0p8p2p2p6p9p3p6p0p",
           "prixJour": 11500,
           "prixPrec": 16300.0,
-          "score": -0.43,
+          "score": 6.58,
           "classShift": {
             "type": "descend",
             "pct": 29
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -5349,7 +5349,7 @@
           "musique": "4p0p6p3p4p(25)0p",
           "prixJour": 20100,
           "prixPrec": 15600.0,
-          "score": 4.23,
+          "score": 5.63,
           "classShift": {
             "type": "monte",
             "pct": 29
@@ -5370,9 +5370,9 @@
           "musique": "0p6p6p2p0p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 7.26,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R2",
@@ -5383,9 +5383,9 @@
           "musique": "6p5p1p2p7p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 3.9,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -5401,9 +5401,9 @@
           "musique": "0p4p4p6p4p",
           "prixJour": 5515,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 6.85,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -5414,7 +5414,7 @@
           "musique": "9p0p8p6p0p",
           "prixJour": 2398,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 8.83,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -5427,9 +5427,9 @@
           "musique": "7p3p4p3p7p",
           "prixJour": 2398,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 4.45,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -5445,12 +5445,12 @@
           "musique": "0p0p0p0p4p7p5p7p2p6p",
           "prixJour": 14400,
           "prixPrec": 22100.0,
-          "score": -0.52,
+          "score": 8.08,
           "classShift": {
             "type": "descend",
             "pct": 35
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -5461,12 +5461,12 @@
           "musique": "4p0p0p8p0p4p9p1p3p0p",
           "prixJour": 13000,
           "prixPrec": 20200.0,
-          "score": 3.46,
+          "score": 6.2,
           "classShift": {
             "type": "descend",
             "pct": 36
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -5498,7 +5498,7 @@
           "musique": "7p6p5p5p2p(25)6p6p",
           "prixJour": 16300,
           "prixPrec": 20200.0,
-          "score": 7.0,
+          "score": 5.45,
           "classShift": {
             "type": "stable",
             "pct": 19
@@ -5514,7 +5514,7 @@
           "musique": "7p2p0p2p0p7p0p4p4p4p",
           "prixJour": 13400,
           "prixPrec": 13400.0,
-          "score": 7.0,
+          "score": 5.27,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -5535,7 +5535,7 @@
           "musique": "5p4p0p1p2p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 4.01,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -5548,9 +5548,9 @@
           "musique": "4p8p9p9p0p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 6.68,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R2",
@@ -5561,9 +5561,9 @@
           "musique": "4p3p2p3p1p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 1.52,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -5579,7 +5579,7 @@
           "musique": "7p8p9p4p3p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 6.43,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -5592,7 +5592,7 @@
           "musique": "8p8p(25)0p4p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 7.84,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -5610,7 +5610,7 @@
           "musique": "9p0p0p4p6p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 8.55,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -5623,7 +5623,7 @@
           "musique": "4p6p3p7p3p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 3.73,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -5636,7 +5636,7 @@
           "musique": "7p5p3p7p3p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 4.83,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -5654,7 +5654,7 @@
           "musique": "2p1p7p(25)3p",
           "prixJour": 20100,
           "prixPrec": 20100.0,
-          "score": 1.6,
+          "score": 1.48,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -5670,7 +5670,7 @@
           "musique": "5p5p5p9p9p4p0p1p7p4p",
           "prixJour": 15400,
           "prixPrec": 18200.0,
-          "score": 5.0,
+          "score": 5.67,
           "classShift": {
             "type": "stable",
             "pct": 15
@@ -5691,7 +5691,7 @@
           "musique": "6p1p",
           "prixJour": 20100,
           "prixPrec": 20100.0,
-          "score": 6.0,
+          "score": 3.93,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -5707,7 +5707,7 @@
           "musique": "4p1p",
           "prixJour": 20100,
           "prixPrec": 25600.0,
-          "score": 3.69,
+          "score": 2.29,
           "classShift": {
             "type": "descend",
             "pct": 21
@@ -5728,7 +5728,7 @@
           "musique": "7p6p1p",
           "prixJour": 20100,
           "prixPrec": 20100.0,
-          "score": 7.0,
+          "score": 5.24,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -5757,12 +5757,12 @@
           "musique": "0p9p0p5p(25)5p",
           "prixJour": 16300,
           "prixPrec": 18200.0,
-          "score": 0.0,
+          "score": 8.8,
           "classShift": {
             "type": "stable",
             "pct": 10
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -5773,12 +5773,12 @@
           "musique": "3p5p1p8p3p5p9p3p3p3p",
           "prixJour": 13400,
           "prixPrec": 19200.0,
-          "score": 2.15,
+          "score": 2.3,
           "classShift": {
             "type": "descend",
             "pct": 30
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -5794,12 +5794,12 @@
           "musique": "0p8p0p1p2p3p1p2p5p6p",
           "prixJour": 13000,
           "prixPrec": 20200.0,
-          "score": -0.54,
+          "score": 5.5,
           "classShift": {
             "type": "descend",
             "pct": 36
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R4",
@@ -5810,12 +5810,12 @@
           "musique": "0p9p0p0p",
           "prixJour": 11500,
           "prixPrec": 20100.0,
-          "score": -0.65,
+          "score": 9.12,
           "classShift": {
             "type": "descend",
             "pct": 43
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -5831,7 +5831,7 @@
           "musique": "0p4p7p0p9p4p1p0p2p",
           "prixJour": 14400,
           "prixPrec": 19200.0,
-          "score": -0.38,
+          "score": 7.02,
           "classShift": {
             "type": "descend",
             "pct": 25
@@ -5847,7 +5847,7 @@
           "musique": "5p0p5p9p0p7p0p0p8p1p",
           "prixJour": 14400,
           "prixPrec": 12500.0,
-          "score": 5.0,
+          "score": 7.08,
           "classShift": {
             "type": "stable",
             "pct": 15
@@ -5868,7 +5868,7 @@
           "musique": "4p9p1p4p4p3p2p4p",
           "prixJour": 24700,
           "prixPrec": 14400.0,
-          "score": 4.58,
+          "score": 4.56,
           "classShift": {
             "type": "monte",
             "pct": 72
@@ -5884,7 +5884,7 @@
           "musique": "2p0p0p3p1p2p8p5p7p",
           "prixJour": 19200,
           "prixPrec": 15400.0,
-          "score": 1.8,
+          "score": 4.01,
           "classShift": {
             "type": "monte",
             "pct": 25
@@ -5905,7 +5905,7 @@
           "musique": "5p0p",
           "prixJour": 14600,
           "prixPrec": 21000.0,
-          "score": 4.55,
+          "score": 6.22,
           "classShift": {
             "type": "descend",
             "pct": 30
@@ -5937,7 +5937,7 @@
           "musique": "3p1p7p",
           "prixJour": 20100,
           "prixPrec": 14600.0,
-          "score": 2.9,
+          "score": 2.69,
           "classShift": {
             "type": "monte",
             "pct": 38
@@ -5958,7 +5958,7 @@
           "musique": "3p2p3p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 1.53,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -5971,7 +5971,7 @@
           "musique": "7p6p5p4p7p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 6.16,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -5989,7 +5989,7 @@
           "musique": "1p0p",
           "prixJour": 24700,
           "prixPrec": 14600.0,
-          "score": 1.15,
+          "score": 4.15,
           "classShift": {
             "type": "monte",
             "pct": 69
@@ -6005,7 +6005,7 @@
           "musique": "1p7p",
           "prixJour": 24700,
           "prixPrec": 21000.0,
-          "score": 0.6,
+          "score": 2.6,
           "classShift": {
             "type": "stable",
             "pct": 18
@@ -6021,7 +6021,7 @@
           "musique": "6p3p6p7p",
           "prixJour": 12000,
           "prixPrec": 14400.0,
-          "score": 6.0,
+          "score": 5.0,
           "classShift": {
             "type": "stable",
             "pct": 17
@@ -6042,7 +6042,7 @@
           "musique": "1p2p3p3p1p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 0.6,
+          "score": -0.27,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -6073,9 +6073,9 @@
           "musique": "0p7p0p(25)6p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 8.8,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R5",
@@ -6086,9 +6086,9 @@
           "musique": "3p7p3p7p0p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 4.13,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -6104,7 +6104,7 @@
           "musique": "2p5p5p7p3p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 1.6,
+          "score": 2.93,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -6117,7 +6117,7 @@
           "musique": "7p5p4p2p2h",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 4.34,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -6135,12 +6135,12 @@
           "musique": "1p8p2p5p0p0p1p0p(25)0p",
           "prixJour": 16300,
           "prixPrec": 16300.0,
-          "score": 0.6,
+          "score": 3.83,
           "classShift": {
             "type": "stable",
             "pct": 0
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R4",
@@ -6151,12 +6151,12 @@
           "musique": "0p0p7p0p6p3p0p2p8p7p",
           "prixJour": 13000,
           "prixPrec": 19200.0,
-          "score": -0.48,
+          "score": 7.99,
           "classShift": {
             "type": "descend",
             "pct": 32
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -6172,7 +6172,7 @@
           "musique": "8p8p6p6p2p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 6.56,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -6185,7 +6185,7 @@
           "musique": "8p8p6p5p4p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 7.03,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -6203,9 +6203,9 @@
           "musique": "2p0p3p9p3p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 1.6,
+          "score": 3.55,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R5",
@@ -6216,9 +6216,9 @@
           "musique": "4p1p3p4p3p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 1.91,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -6234,9 +6234,9 @@
           "musique": "4p3p3p2p6p",
           "prixJour": 5515,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 2.39,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R6",
@@ -6247,7 +6247,7 @@
           "musique": "8p9p1p2p5p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 5.48,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -6260,9 +6260,9 @@
           "musique": "0p0p9p8p2p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 8.53,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -6304,7 +6304,7 @@
           "musique": "2p4p5p4p1p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 1.6,
+          "score": 2.21,
           "classShift": null,
           "meilleurEngagement": true
         }
@@ -6322,9 +6322,9 @@
           "musique": "1p0p0p2p9p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 4.29,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R6",
@@ -6335,7 +6335,7 @@
           "musique": "5p5p5p9p5p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 5.44,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -6348,7 +6348,7 @@
           "musique": "8p8p6p8p8p",
           "prixJour": 2193,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 7.71,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -6361,7 +6361,7 @@
           "musique": "5p6p6p0p2p",
           "prixJour": 2565,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 5.25,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -6374,9 +6374,9 @@
           "musique": "0p0p6p",
           "prixJour": 2565,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 9.27,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -6392,9 +6392,9 @@
           "musique": "0p3p3p5p5p",
           "prixJour": 13294,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 5.66,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R7",
@@ -6405,9 +6405,9 @@
           "musique": "5p4p9p4p7p",
           "prixJour": 11339,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 5.43,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -6423,7 +6423,7 @@
           "musique": "6p0p6p7p2p",
           "prixJour": 2193,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 6.24,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -6436,9 +6436,9 @@
           "musique": "0p",
           "prixJour": 2565,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 10.0,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -6449,9 +6449,9 @@
           "musique": "7p4p7p1p1p",
           "prixJour": 2475,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 4.36,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R6",
@@ -6462,7 +6462,7 @@
           "musique": "0p0p8p4p3p",
           "prixJour": 2475,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 8.04,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -6480,7 +6480,7 @@
           "musique": "2p5p5p2p",
           "prixJour": 14600,
           "prixPrec": 22100.0,
-          "score": 1.09,
+          "score": 1.89,
           "classShift": {
             "type": "descend",
             "pct": 34
@@ -6496,7 +6496,7 @@
           "musique": "8p0p1p6p5p6p0p8p1p5p",
           "prixJour": 19200,
           "prixPrec": 18200.0,
-          "score": 8.0,
+          "score": 6.38,
           "classShift": {
             "type": "stable",
             "pct": 5
@@ -6517,7 +6517,7 @@
           "musique": "1p4p2p2p8p7p6p7p(25)0p",
           "prixJour": 16300,
           "prixPrec": 15600.0,
-          "score": 0.6,
+          "score": 2.26,
           "classShift": {
             "type": "stable",
             "pct": 4
@@ -6533,7 +6533,7 @@
           "musique": "6p0p0p7p8p6p",
           "prixJour": 16300,
           "prixPrec": 10100.0,
-          "score": 6.49,
+          "score": 8.11,
           "classShift": {
             "type": "monte",
             "pct": 61
@@ -6554,7 +6554,7 @@
           "musique": "1p5p2p5p7p9p",
           "prixJour": 24700,
           "prixPrec": 21000.0,
-          "score": 0.6,
+          "score": 2.59,
           "classShift": {
             "type": "stable",
             "pct": 18
@@ -6570,7 +6570,7 @@
           "musique": "6p8p0p0p5p3p6p6p4p5p",
           "prixJour": 16300,
           "prixPrec": 8000.0,
-          "score": 6.8,
+          "score": 7.59,
           "classShift": {
             "type": "monte",
             "pct": 104
@@ -6604,7 +6604,7 @@
           "musique": "5p1p9p8p2p4p",
           "prixJour": 12000,
           "prixPrec": 14400.0,
-          "score": 5.0,
+          "score": 3.92,
           "classShift": {
             "type": "stable",
             "pct": 17
@@ -6620,7 +6620,7 @@
           "musique": "8p3p0p2p4p(25)1p2p7p",
           "prixJour": 11500,
           "prixPrec": 14400.0,
-          "score": 7.7,
+          "score": 4.59,
           "classShift": {
             "type": "descend",
             "pct": 20
@@ -6636,7 +6636,7 @@
           "musique": "8p4p3p2p(25)0p6p4p0p7p",
           "prixJour": 12500,
           "prixPrec": 16300.0,
-          "score": 7.66,
+          "score": 4.9,
           "classShift": {
             "type": "descend",
             "pct": 23
@@ -6657,7 +6657,7 @@
           "musique": "6p2p2p6p2p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 2.99,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -6670,7 +6670,7 @@
           "musique": "1p5p6p3p3p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 1.8,
           "classShift": null,
           "meilleurEngagement": true
         }
@@ -6688,12 +6688,12 @@
           "musique": "3p1p7p0p3p3p0p2p3p",
           "prixJour": 15400,
           "prixPrec": 18200.0,
-          "score": 2.6,
+          "score": 2.85,
           "classShift": {
             "type": "stable",
             "pct": 15
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R4",
@@ -6704,7 +6704,7 @@
           "musique": "6p2p1p0p2p7p6p8p(25)4p",
           "prixJour": 15400,
           "prixPrec": 18200.0,
-          "score": 6.0,
+          "score": 3.64,
           "classShift": {
             "type": "stable",
             "pct": 15
@@ -6720,7 +6720,7 @@
           "musique": "6p0p8p1p1p2p1p9p5p0p",
           "prixJour": 14400,
           "prixPrec": 12500.0,
-          "score": 6.0,
+          "score": 5.1,
           "classShift": {
             "type": "stable",
             "pct": 15
@@ -6736,7 +6736,7 @@
           "musique": "0p5p0p6p5p0p0p8p7p5p",
           "prixJour": 16300,
           "prixPrec": 21100.0,
-          "score": -0.35,
+          "score": 7.75,
           "classShift": {
             "type": "descend",
             "pct": 23
@@ -6752,7 +6752,7 @@
           "musique": "6p9p8p7p4p0p0p1p1p1p",
           "prixJour": 16300,
           "prixPrec": 18200.0,
-          "score": 6.0,
+          "score": 6.54,
           "classShift": {
             "type": "stable",
             "pct": 10
@@ -6784,7 +6784,7 @@
           "musique": "4p8p7p1p4p3p4p4p7p3p",
           "prixJour": 12000,
           "prixPrec": 14400.0,
-          "score": 4.0,
+          "score": 4.39,
           "classShift": {
             "type": "stable",
             "pct": 17
@@ -6800,7 +6800,7 @@
           "musique": "9p9p8p0p",
           "prixJour": 12000,
           "prixPrec": 14400.0,
-          "score": 9.0,
+          "score": 8.96,
           "classShift": {
             "type": "stable",
             "pct": 17
@@ -6816,7 +6816,7 @@
           "musique": "4p6p8p0p2p5p1p7p5p0p",
           "prixJour": 11500,
           "prixPrec": 11500.0,
-          "score": 4.0,
+          "score": 5.05,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -6832,7 +6832,7 @@
           "musique": "0p",
           "prixJour": 11500,
           "prixPrec": 15600.0,
-          "score": -0.39,
+          "score": 9.61,
           "classShift": {
             "type": "descend",
             "pct": 26
@@ -6848,12 +6848,12 @@
           "musique": "0p8p2p1p7p4p8p9p0p0p",
           "prixJour": 12500,
           "prixPrec": 21100.0,
-          "score": -0.61,
+          "score": 5.88,
           "classShift": {
             "type": "descend",
             "pct": 41
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -6869,12 +6869,12 @@
           "musique": "0p7p5p6p5p3p0p6p0p6p",
           "prixJour": 16300,
           "prixPrec": 21100.0,
-          "score": -0.35,
+          "score": 7.19,
           "classShift": {
             "type": "descend",
             "pct": 23
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -6885,12 +6885,12 @@
           "musique": "1p8p4p8p(25)1p3p2p",
           "prixJour": 11500,
           "prixPrec": 8000.0,
-          "score": 0.95,
+          "score": 3.15,
           "classShift": {
             "type": "monte",
             "pct": 44
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -6919,7 +6919,7 @@
           "musique": "0p0p0p5p5p0p2p0p4p1p",
           "prixJour": 19200,
           "prixPrec": 19200.0,
-          "score": 0.0,
+          "score": 8.31,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -6940,12 +6940,12 @@
           "musique": "4p2p(25)5p7p0p9p0p0p7p",
           "prixJour": 13000,
           "prixPrec": 17300.0,
-          "score": 3.62,
+          "score": 4.66,
           "classShift": {
             "type": "descend",
             "pct": 25
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R4",
@@ -6956,12 +6956,12 @@
           "musique": "0p2p6p7p7p3p(25)9p6p1p",
           "prixJour": 13700,
           "prixPrec": 50900.0,
-          "score": -1.09,
+          "score": 5.15,
           "classShift": {
             "type": "descend",
             "pct": 73
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -6977,7 +6977,7 @@
           "musique": "7p5p7p0p9p(25)Th7hAs9h",
           "prixJour": 14400,
           "prixPrec": 16300.0,
-          "score": 7.0,
+          "score": 7.44,
           "classShift": {
             "type": "stable",
             "pct": 12
@@ -6993,12 +6993,12 @@
           "musique": "5p8p3p5p0p0p4p(25)8p4p",
           "prixJour": 16300,
           "prixPrec": 15400.0,
-          "score": 5.0,
+          "score": 5.59,
           "classShift": {
             "type": "stable",
             "pct": 6
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -7025,12 +7025,12 @@
           "musique": "8p3p1p2p9p4p2p(25)3p4p",
           "prixJour": 11500,
           "prixPrec": 24000.0,
-          "score": 7.22,
+          "score": 2.94,
           "classShift": {
             "type": "descend",
             "pct": 52
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -7046,7 +7046,7 @@
           "musique": "3p5p7p7p8p",
           "prixJour": 5552,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 4.5,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -7059,7 +7059,7 @@
           "musique": "9p3p5p8p6p",
           "prixJour": 13294,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 6.33,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -7077,9 +7077,9 @@
           "musique": "0p1p4p4p0p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 6.1,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R2",
@@ -7090,9 +7090,9 @@
           "musique": "6p9p7p1p6p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 5.86,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -7108,7 +7108,7 @@
           "musique": "3p1p4p3p8p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 1.95,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -7121,7 +7121,7 @@
           "musique": "7p8p4p4p5p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 6.28,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -7139,7 +7139,7 @@
           "musique": "5p2p4p9p0p0p0p(25)0p0p",
           "prixJour": 14400,
           "prixPrec": 14400.0,
-          "score": 5.0,
+          "score": 5.62,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -7155,7 +7155,7 @@
           "musique": "9p6p0p0p5p3p6p(25)2p4p",
           "prixJour": 13000,
           "prixPrec": 19200.0,
-          "score": 8.52,
+          "score": 6.9,
           "classShift": {
             "type": "descend",
             "pct": 32
@@ -7176,12 +7176,12 @@
           "musique": "5p2p4p2p3p2p0p2p5p5p",
           "prixJour": 19200,
           "prixPrec": 7875.0,
-          "score": 5.8,
+          "score": 3.53,
           "classShift": {
             "type": "monte",
             "pct": 144
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R3",
@@ -7192,7 +7192,7 @@
           "musique": "3p6p6p7p4p2p(25)2p6p8p",
           "prixJour": 19200,
           "prixPrec": 19200.0,
-          "score": 2.6,
+          "score": 4.13,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -7208,12 +7208,12 @@
           "musique": "0p4p4p5p0p2p0p5p(25)8p",
           "prixJour": 16300,
           "prixPrec": 19200.0,
-          "score": 0.0,
+          "score": 7.02,
           "classShift": {
             "type": "stable",
             "pct": 15
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -7229,7 +7229,7 @@
           "musique": "8p0p",
           "prixJour": 14600,
           "prixPrec": 21000.0,
-          "score": 7.55,
+          "score": 8.22,
           "classShift": {
             "type": "descend",
             "pct": 30
@@ -7266,12 +7266,12 @@
           "musique": "5p1p",
           "prixJour": 20100,
           "prixPrec": 20100.0,
-          "score": 5.0,
+          "score": 3.27,
           "classShift": {
             "type": "stable",
             "pct": 0
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R3",
@@ -7282,7 +7282,7 @@
           "musique": "6p7p6p0p6p5p8p5p(25)1p",
           "prixJour": 19200,
           "prixPrec": 17400.0,
-          "score": 6.0,
+          "score": 6.33,
           "classShift": {
             "type": "stable",
             "pct": 10
@@ -7298,12 +7298,12 @@
           "musique": "0p3p5p0p6p5p9p7p0p",
           "prixJour": 13400,
           "prixPrec": 12500.0,
-          "score": 0.0,
+          "score": 7.01,
           "classShift": {
             "type": "stable",
             "pct": 7
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -7319,7 +7319,7 @@
           "musique": "6p0p1p8p4p",
           "prixJour": 5552,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 5.79,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7332,7 +7332,7 @@
           "musique": "3p4p2p7p2p",
           "prixJour": 13294,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 2.22,
           "classShift": null,
           "meilleurEngagement": true
         }
@@ -7350,7 +7350,7 @@
           "musique": "5p5p1p(25)3p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 3.32,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7363,7 +7363,7 @@
           "musique": "1p3p2p7p9p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 1.74,
           "classShift": null,
           "meilleurEngagement": true
         }
@@ -7381,9 +7381,9 @@
           "musique": "9p3p3p4p0p",
           "prixJour": 2193,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 5.55,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R6",
@@ -7394,9 +7394,9 @@
           "musique": "5p0p0p1p5p",
           "prixJour": 2398,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 5.99,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -7412,7 +7412,7 @@
           "musique": "7p2p0p6p0p6p6p",
           "prixJour": 11500,
           "prixPrec": 18200.0,
-          "score": 6.45,
+          "score": 5.48,
           "classShift": {
             "type": "descend",
             "pct": 37
@@ -7428,7 +7428,7 @@
           "musique": "0p4p4p5p2p8p(25)8p0p2p",
           "prixJour": 13700,
           "prixPrec": 72000.0,
-          "score": -1.22,
+          "score": 5.08,
           "classShift": {
             "type": "descend",
             "pct": 81
@@ -7449,12 +7449,12 @@
           "musique": "4p1p1p6p2p",
           "prixJour": 24700,
           "prixPrec": 27400.0,
-          "score": 4.0,
+          "score": 1.75,
           "classShift": {
             "type": "stable",
             "pct": 10
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R3",
@@ -7465,12 +7465,12 @@
           "musique": "0p",
           "prixJour": 14600,
           "prixPrec": 21000.0,
-          "score": -0.45,
+          "score": 9.55,
           "classShift": {
             "type": "descend",
             "pct": 30
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R3",
@@ -7481,7 +7481,7 @@
           "musique": "1p4p9p0p(25)1p4p1p6p1p",
           "prixJour": 19200,
           "prixPrec": 25900.0,
-          "score": 0.21,
+          "score": 2.48,
           "classShift": {
             "type": "descend",
             "pct": 26
@@ -7502,9 +7502,9 @@
           "musique": "1p5p2p5p4p",
           "prixJour": 5515,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 1.92,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -7515,9 +7515,9 @@
           "musique": "3p1p4p7p1p",
           "prixJour": 5515,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 1.77,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -7572,7 +7572,7 @@
           "musique": "8p3p6p0p7p9p(25)3p4p7p",
           "prixJour": 20100,
           "prixPrec": 20100.0,
-          "score": 8.0,
+          "score": 6.18,
           "classShift": {
             "type": "stable",
             "pct": 0
@@ -7593,7 +7593,7 @@
           "musique": "0p8p2p2p8p",
           "prixJour": 2745,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 6.54,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -7606,7 +7606,7 @@
           "musique": "5p0p5p0p",
           "prixJour": 2565,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 6.8,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -7624,7 +7624,7 @@
           "musique": "5p4p7p1p2p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 3.57,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -7637,7 +7637,7 @@
           "musique": "6p4p4p5p3p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 4.5,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7650,7 +7650,7 @@
           "musique": "8p3p2p1p6p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 3.89,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -7668,7 +7668,7 @@
           "musique": "4p6p9p0p4p0p0p6p5p1p",
           "prixJour": 16300,
           "prixPrec": 21100.0,
-          "score": 3.65,
+          "score": 5.73,
           "classShift": {
             "type": "descend",
             "pct": 23
@@ -7684,12 +7684,12 @@
           "musique": "0p0p0p1p1p0p4p0p0p",
           "prixJour": 16300,
           "prixPrec": 28800.0,
-          "score": -0.65,
+          "score": 6.82,
           "classShift": {
             "type": "descend",
             "pct": 43
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -7700,7 +7700,7 @@
           "musique": "8p6p1p4p5p4p5p4p4p3p",
           "prixJour": 12500,
           "prixPrec": 14600.0,
-          "score": 8.0,
+          "score": 5.05,
           "classShift": {
             "type": "stable",
             "pct": 14
@@ -7716,12 +7716,12 @@
           "musique": "5p6p6p9p2p1p4p3p(25)1p",
           "prixJour": 12500,
           "prixPrec": 21100.0,
-          "score": 4.38,
+          "score": 3.89,
           "classShift": {
             "type": "descend",
             "pct": 41
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -7737,7 +7737,7 @@
           "musique": "8p2p4p5p(25)1p4p6p2p2p",
           "prixJour": 13700,
           "prixPrec": 24700.0,
-          "score": 7.33,
+          "score": 3.4,
           "classShift": {
             "type": "descend",
             "pct": 45
@@ -7753,7 +7753,7 @@
           "musique": "(25)1p4p2p",
           "prixJour": 13700,
           "prixPrec": 27000.0,
-          "score": 4.26,
+          "score": 0.46,
           "classShift": {
             "type": "descend",
             "pct": 49
@@ -7774,9 +7774,9 @@
           "musique": "0p6p0p8p4p",
           "prixJour": 2193,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 8.38,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R6",
@@ -7787,7 +7787,7 @@
           "musique": "9p0p0p0p5p",
           "prixJour": 2565,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 9.12,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7800,7 +7800,7 @@
           "musique": "0p0p4p0p4p",
           "prixJour": 2565,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 8.6,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7813,9 +7813,9 @@
           "musique": "1p0p5p7p1p",
           "prixJour": 2475,
           "prixPrec": null,
-          "score": 0.6,
+          "score": 3.41,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -7831,7 +7831,7 @@
           "musique": "3p4p5p4p4p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 3.31,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -7844,7 +7844,7 @@
           "musique": "7p7p6p0p6p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 7.09,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7857,7 +7857,7 @@
           "musique": "3p6p4p6p6p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 3.99,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7870,7 +7870,7 @@
           "musique": "9p3p6p7p7p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 6.45,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -7883,7 +7883,7 @@
           "musique": "6p4p3p8p6p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 4.94,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -7906,7 +7906,7 @@
             "type": "descend",
             "pct": 20
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R3",
@@ -7917,12 +7917,12 @@
           "musique": "0p1p(25)2p8p5p",
           "prixJour": 20100,
           "prixPrec": 52800.0,
-          "score": -0.93,
+          "score": 4.47,
           "classShift": {
             "type": "descend",
             "pct": 62
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -7933,7 +7933,7 @@
           "musique": "0p8p4p2p0p1p(25)3p3p1p",
           "prixJour": 16300,
           "prixPrec": 25900.0,
-          "score": -0.55,
+          "score": 5.73,
           "classShift": {
             "type": "descend",
             "pct": 37
@@ -7954,9 +7954,9 @@
           "musique": "7p0p6p1p7p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 6.45,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R2",
@@ -7967,9 +7967,9 @@
           "musique": "0p7p7p0p0p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 0.0,
+          "score": 8.91,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         }
       ]
     },
@@ -7985,7 +7985,7 @@
           "musique": "4p5p9p0p9p",
           "prixJour": 2398,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 6.04,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -8011,7 +8011,7 @@
           "musique": "8p7p6p8p2p",
           "prixJour": 2475,
           "prixPrec": null,
-          "score": 8.0,
+          "score": 6.56,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -8029,9 +8029,9 @@
           "musique": "3p6p0p8p6p",
           "prixJour": 14457,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 5.09,
           "classShift": null,
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R5",
@@ -8042,9 +8042,9 @@
           "musique": "3p4p2p6p4p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 2.69,
           "classShift": null,
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         },
         {
           "reunion": "R5",
@@ -8055,7 +8055,7 @@
           "musique": "9p7p(25)4p0p",
           "prixJour": 7229,
           "prixPrec": null,
-          "score": 9.0,
+          "score": 7.84,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -8086,7 +8086,7 @@
           "musique": "7p8p4p(25)5p",
           "prixJour": 9638,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 6.52,
           "classShift": null,
           "meilleurEngagement": true
         }
@@ -8104,12 +8104,12 @@
           "musique": "4p6p0p0p2p2p3p0p5p",
           "prixJour": 16300,
           "prixPrec": 14400.0,
-          "score": 4.0,
+          "score": 5.19,
           "classShift": {
             "type": "stable",
             "pct": 13
           },
-          "meilleurEngagement": true
+          "meilleurEngagement": false
         },
         {
           "reunion": "R4",
@@ -8120,12 +8120,12 @@
           "musique": "9p7p2p1p(25)3p4p0p4p5p",
           "prixJour": 11500,
           "prixPrec": 19200.0,
-          "score": 8.4,
+          "score": 4.27,
           "classShift": {
             "type": "descend",
             "pct": 40
           },
-          "meilleurEngagement": false
+          "meilleurEngagement": true
         }
       ]
     },
@@ -8141,7 +8141,7 @@
           "musique": "3p4p8p2p8p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 3.48,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -8154,7 +8154,7 @@
           "musique": "4p1p5p5p8p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 3.55,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -8172,7 +8172,7 @@
           "musique": "3p4p3p5p2p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 2.6,
+          "score": 2.15,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -8185,7 +8185,7 @@
           "musique": "4p3p2p6p5p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 3.0,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -8198,7 +8198,7 @@
           "musique": "6p4p4p5p2p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 4.41,
           "classShift": null,
           "meilleurEngagement": false
         }
@@ -8216,7 +8216,7 @@
           "musique": "7p5p0p7p9p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 7.0,
+          "score": 7.18,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -8229,7 +8229,7 @@
           "musique": "2p8p8p4p7p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 1.6,
+          "score": 4.45,
           "classShift": null,
           "meilleurEngagement": true
         }
@@ -8247,7 +8247,7 @@
           "musique": "6p2p6p5p0p",
           "prixJour": 5766,
           "prixPrec": null,
-          "score": 6.0,
+          "score": 4.96,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -8260,7 +8260,7 @@
           "musique": "2p2p1p2p1p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 1.6,
+          "score": -0.23,
           "classShift": null,
           "meilleurEngagement": true
         },
@@ -8273,7 +8273,7 @@
           "musique": "4p2p6p3p5p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 4.0,
+          "score": 3.03,
           "classShift": null,
           "meilleurEngagement": false
         },
@@ -8286,7 +8286,7 @@
           "musique": "5p6p5p3p2p",
           "prixJour": 7688,
           "prixPrec": null,
-          "score": 5.0,
+          "score": 3.94,
           "classShift": null,
           "meilleurEngagement": false
         }

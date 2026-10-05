@@ -1,0 +1,344 @@
+{
+  "version": 2,
+  "generatedAt": "2026-10-05T07:34:11.670828+00:00",
+  "jours": [
+    {
+      "date": "2026-10-02",
+      "partants": 185,
+      "avecArrivee": 182
+    },
+    {
+      "date": "2026-10-03",
+      "partants": 307,
+      "avecArrivee": 293
+    },
+    {
+      "date": "2026-10-04",
+      "partants": 391,
+      "avecArrivee": 364
+    },
+    {
+      "date": "2026-10-05",
+      "partants": 434,
+      "avecArrivee": 0
+    }
+  ],
+  "nPartants": 839,
+  "classShiftDepuis": "2026-10-04",
+  "buckets": [
+    {
+      "label": "< 0",
+      "n": 25,
+      "nGagnants": 2,
+      "nPlaces": 12,
+      "tauxGagnant": 8.0,
+      "tauxPlace": 48.0,
+      "coteGagnantMoyenne": 1.5,
+      "roiGagnant": -88.0,
+      "roiPlace": -62.4
+    },
+    {
+      "label": "0",
+      "n": 99,
+      "nGagnants": 24,
+      "nPlaces": 50,
+      "tauxGagnant": 24.2,
+      "tauxPlace": 50.5,
+      "coteGagnantMoyenne": 5.48,
+      "roiGagnant": -22.6,
+      "roiPlace": -37.5
+    },
+    {
+      "label": "1",
+      "n": 92,
+      "nGagnants": 8,
+      "nPlaces": 34,
+      "tauxGagnant": 8.7,
+      "tauxPlace": 37.0,
+      "coteGagnantMoyenne": 7.12,
+      "roiGagnant": -69.0,
+      "roiPlace": -51.4
+    },
+    {
+      "label": "2",
+      "n": 132,
+      "nGagnants": 15,
+      "nPlaces": 39,
+      "tauxGagnant": 11.4,
+      "tauxPlace": 29.5,
+      "coteGagnantMoyenne": 12.7,
+      "roiGagnant": -13.4,
+      "roiPlace": -52.5
+    },
+    {
+      "label": "3",
+      "n": 125,
+      "nGagnants": 9,
+      "nPlaces": 35,
+      "tauxGagnant": 7.2,
+      "tauxPlace": 28.0,
+      "coteGagnantMoyenne": 16.49,
+      "roiGagnant": 5.6,
+      "roiPlace": -20.6
+    },
+    {
+      "label": "4",
+      "n": 84,
+      "nGagnants": 9,
+      "nPlaces": 22,
+      "tauxGagnant": 10.7,
+      "tauxPlace": 26.2,
+      "coteGagnantMoyenne": 10.64,
+      "roiGagnant": 1.3,
+      "roiPlace": -38.9
+    },
+    {
+      "label": "5",
+      "n": 75,
+      "nGagnants": 7,
+      "nPlaces": 22,
+      "tauxGagnant": 9.3,
+      "tauxPlace": 29.3,
+      "coteGagnantMoyenne": 9.16,
+      "roiGagnant": -38.9,
+      "roiPlace": -21.3
+    },
+    {
+      "label": "6",
+      "n": 64,
+      "nGagnants": 2,
+      "nPlaces": 9,
+      "tauxGagnant": 3.1,
+      "tauxPlace": 14.1,
+      "coteGagnantMoyenne": 7.75,
+      "roiGagnant": -75.8,
+      "roiPlace": -70.0
+    },
+    {
+      "label": "7",
+      "n": 51,
+      "nGagnants": 3,
+      "nPlaces": 10,
+      "tauxGagnant": 5.9,
+      "tauxPlace": 19.6,
+      "coteGagnantMoyenne": 10.95,
+      "roiGagnant": -57.1,
+      "roiPlace": -31.9
+    },
+    {
+      "label": "8",
+      "n": 23,
+      "nGagnants": 2,
+      "nPlaces": 2,
+      "tauxGagnant": 8.7,
+      "tauxPlace": 8.7,
+      "coteGagnantMoyenne": null,
+      "roiGagnant": -100.0,
+      "roiPlace": -100.0
+    },
+    {
+      "label": "9",
+      "n": 13,
+      "nGagnants": 0,
+      "nPlaces": 3,
+      "tauxGagnant": 0.0,
+      "tauxPlace": 23.1,
+      "coteGagnantMoyenne": null,
+      "roiGagnant": -100.0,
+      "roiPlace": 6.5
+    },
+    {
+      "label": "10+",
+      "n": 10,
+      "nGagnants": 0,
+      "nPlaces": 1,
+      "tauxGagnant": 0.0,
+      "tauxPlace": 10.0,
+      "coteGagnantMoyenne": null,
+      "roiGagnant": -100.0,
+      "roiPlace": -41.0
+    }
+  ],
+  "classShiftBuckets": {
+    "descend": [
+      {
+        "label": "20 – 29%",
+        "n": 8,
+        "nGagnants": 1,
+        "nPlaces": 5,
+        "tauxGagnant": 12.5,
+        "tauxPlace": 62.5,
+        "coteGagnantMoyenne": 8.3,
+        "roiGagnant": 3.8,
+        "roiPlace": 131.2
+      },
+      {
+        "label": "30 – 39%",
+        "n": 9,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "40 – 49%",
+        "n": 4,
+        "nGagnants": 1,
+        "nPlaces": 2,
+        "tauxGagnant": 25.0,
+        "tauxPlace": 50.0,
+        "coteGagnantMoyenne": 3.2,
+        "roiGagnant": -20.0,
+        "roiPlace": 30.0
+      },
+      {
+        "label": "50 – 59%",
+        "n": 5,
+        "nGagnants": 1,
+        "nPlaces": 2,
+        "tauxGagnant": 20.0,
+        "tauxPlace": 40.0,
+        "coteGagnantMoyenne": 3.5,
+        "roiGagnant": -30.0,
+        "roiPlace": -24.0
+      },
+      {
+        "label": "60 – 69%",
+        "n": 3,
+        "nGagnants": 0,
+        "nPlaces": 1,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 33.3,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -50.0
+      },
+      {
+        "label": "70 – 79%",
+        "n": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
+      },
+      {
+        "label": "80 – 89%",
+        "n": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
+      },
+      {
+        "label": "90%+",
+        "n": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
+      }
+    ],
+    "monte": [
+      {
+        "label": "20 – 29%",
+        "n": 7,
+        "nGagnants": 0,
+        "nPlaces": 1,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 14.3,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -68.6
+      },
+      {
+        "label": "30 – 39%",
+        "n": 3,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "40 – 49%",
+        "n": 12,
+        "nGagnants": 1,
+        "nPlaces": 3,
+        "tauxGagnant": 8.3,
+        "tauxPlace": 25.0,
+        "coteGagnantMoyenne": 3.0,
+        "roiGagnant": -75.0,
+        "roiPlace": 8.3
+      },
+      {
+        "label": "50 – 59%",
+        "n": 1,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "60 – 69%",
+        "n": 1,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "70 – 79%",
+        "n": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
+      },
+      {
+        "label": "80 – 89%",
+        "n": 1,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "90%+",
+        "n": 58,
+        "nGagnants": 5,
+        "nPlaces": 12,
+        "tauxGagnant": 8.6,
+        "tauxPlace": 20.7,
+        "coteGagnantMoyenne": 17.22,
+        "roiGagnant": 48.4,
+        "roiPlace": -29.0
+      }
+    ]
+  }
+}
