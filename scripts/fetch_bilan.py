@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Tourne en soirée, une fois les courses de galop du jour terminées.
 
@@ -8,9 +7,13 @@ chercher pour chaque course l'arrivée officielle et les cotes gagnant/placé
 définitives, et produit un bilan :
   - pour chaque cheval déclassé (monte ou descend en classe), sa place
     d'arrivée et ses cotes ;
-  - une répartition par tranche de score de forme (ex. < 5, 5-7, 7-9, 9+)
-    avec taux de réussite et cote moyenne — pour objectiver si les scores
-    élevés gagnent effectivement à de belles cotes.
+  - une répartition par score de forme, une tranche par note entière
+    (0, 1, 2 … 9, 10+), avec taux de réussite et cote moyenne — pour
+    objectiver si les bons scores gagnent effectivement à de belles cotes.
+
+Le bilan du jour est ensuite envoyé sur Telegram, si les deux variables
+d'environnement TELEGRAM_BOT_TOKEN et TELEGRAM_CHAT_ID sont renseignées.
+Sans elles, le script fonctionne comme avant, sans rien envoyer.
 
 Comme pour fetch_pmu.py, les noms de champs PMU utilisés ici ne sont pas
 documentés officiellement. Le code reste tolérant (plusieurs noms de champs
@@ -19,6 +22,7 @@ d'extraction, pour pouvoir ajuster rapidement si le format réel diffère.
 """
 
 import json
+import os
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -30,6 +34,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fetch_pmu import form_score  # noqa: E402
 
 BASE_URL = "https://offline.turfinfo.api.pmu.fr/rest/client/7/programme"
+# Accès « web » du PMU : contient les rapports des courses « exclu web »
+# (e-Simple Gagnant, e-Simple Placé), absents de l'accès points de vente.
+ONLINE_BASE_URL = "https://online.turfinfo.api.pmu.fr/rest/client/61/programme"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; engagements-bot/1.0)",
     "Accept": "application/json",
@@ -63,14 +70,22 @@ SCORE_BUCKETS = (
 
 # Version du format du bilan : 2 = calcul du score corrigé (lecture de la
 # musique PMU) ; 3 = chaque partant indique si le PMU a publié les rapports de
-# sa course (rapportsPublies). Un bilan enregistré avec une version plus
+# sa course (rapportsPublies) ; 4 = les rapports des courses « exclu web » sont
+# aussi récupérés (accès web du PMU). Un bilan enregistré avec une version plus
 # ancienne est recalculé automatiquement.
-BILAN_VERSION = 3
+BILAN_VERSION = 4
 
 # Avant cette date, les engagements enregistrés mélangeaient des allocations
 # en devises différentes (ex. Hong Kong) : le déclassement de ces jours-là est
 # faux. On ne s'en sert donc pas, seul le score de forme est utilisé.
 CLASS_SHIFT_MIN_DATE = "2026-10-04"
+
+# Envoi du bilan sur Telegram. Le jeton du bot et l'identifiant de la
+# discussion ne sont jamais écrits ici : ils sont lus dans l'environnement
+# (secrets GitHub du dépôt, transmis par le workflow).
+TELEGRAM_TOKEN_ENV = "TELEGRAM_BOT_TOKEN"
+TELEGRAM_CHAT_ENV = "TELEGRAM_CHAT_ID"
+TELEGRAM_MAX_CHARS = 4000  # limite Telegram : 4096 caractères par message
 
 MAX_DEBUG_SAMPLES = 2
 _debug_samples_shown = 0
@@ -134,31 +149,25 @@ def extract_arrivee(participant: dict):
 # --- Cotes gagnant / placé définitives ---
 
 RAPPORTS_URL_SUFFIX = "rapports-definitifs"
-# Le PMU utilise plusieurs variantes de typePari selon que la course est
-# ouverte aux paris internationaux ou non : "SIMPLE_GAGNANT" vs
-# "SIMPLE_GAGNANT_INTERNATIONAL" (idem pour PLACE). On matche par préfixe
-# pour couvrir toutes les variantes sans devoir toutes les lister.
-GAGNANT_PREFIX = "SIMPLE_GAGNANT"
-PLACE_PREFIX = "SIMPLE_PLACE"
+# Le PMU utilise plusieurs noms de pari selon le canal : "SIMPLE_GAGNANT",
+# "SIMPLE_GAGNANT_INTERNATIONAL", "E_SIMPLE_GAGNANT" (courses « exclu web »),
+# idem pour PLACE. On cherche donc ces mots n'importe où dans le nom (sans
+# confondre avec "COUPLE_GAGNANT", qui ne contient pas "SIMPLE_GAGNANT").
+GAGNANT_MARK = "SIMPLE_GAGNANT"
+PLACE_MARK = "SIMPLE_PLACE"
 DIVIDENDE_KEYS = ["dividendePourUnEuro", "rapport", "dividende", "montant"]
 COMBINAISON_KEYS = ["combinaison", "numPmu", "num"]
 
 
-def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
-    """Renvoie {numPmu: {'gagnant': float|None, 'place': float|None}}."""
-    url = f"{BASE_URL}/{date_ddmmyyyy}/R{num_reunion}/C{num_course}/{RAPPORTS_URL_SUFFIX}"
-    try:
-        data = fetch_json(url)
-    except (requests.RequestException, ValueError) as e:
-        print(f"  ! rapports-definitifs indisponible R{num_reunion}C{num_course}: {e}", file=sys.stderr)
-        return {}
-
+def parse_rapports(data):
+    """Extrait {numPmu: {'gagnant': float|None, 'place': float|None}} d'une
+    réponse « rapports-definitifs »."""
     rapports_list = data if isinstance(data, list) else data.get("rapports", data.get("rapportsDefinitifs", []))
     result = {}
     for rapport in rapports_list or []:
         type_pari = (rapport.get("typePari") or "").upper()
-        is_gagnant = type_pari.startswith(GAGNANT_PREFIX)
-        is_place = type_pari.startswith(PLACE_PREFIX)
+        is_gagnant = GAGNANT_MARK in type_pari
+        is_place = PLACE_MARK in type_pari
         if not is_gagnant and not is_place:
             continue
         for combi in rapport.get("rapports", rapport.get("combinaisons", [])):
@@ -187,10 +196,30 @@ def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
                 entry["gagnant"] = dividende
             else:
                 entry["place"] = dividende
-
-    if not result:
-        debug_sample(f"rapports-definitifs vide/non reconnu R{num_reunion}C{num_course}", data if not isinstance(data, list) else data[:2])
     return result
+
+
+def fetch_rapports(url: str, label: str):
+    try:
+        data = fetch_json(url)
+    except (requests.RequestException, ValueError) as e:
+        print(f"  ! rapports-definitifs indisponible {label}: {e}", file=sys.stderr)
+        return {}
+    result = parse_rapports(data)
+    if not result:
+        debug_sample(f"rapports-definitifs vide/non reconnu {label}", data if not isinstance(data, list) else data[:2])
+    return result
+
+
+def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
+    """Renvoie {numPmu: {'gagnant': float|None, 'place': float|None}}.
+    Essaie d'abord l'accès habituel, puis l'accès web (courses « exclu web »)."""
+    label = f"R{num_reunion}C{num_course}"
+    path = f"{date_ddmmyyyy}/R{num_reunion}/C{num_course}/{RAPPORTS_URL_SUFFIX}"
+    result = fetch_rapports(f"{BASE_URL}/{path}", label)
+    if result:
+        return result
+    return fetch_rapports(f"{ONLINE_BASE_URL}/{path}?specialisation=INTERNET", label + " (web)")
 
 
 def bucket_for_score(score):
@@ -398,6 +427,94 @@ def build_cumul(racing_day_iso: str):
     print(f"Cumul écrit : {out} ({len(jours)} jour(s), {cumul['nPartants']} partants avec arrivée)")
 
 
+# --- Envoi du bilan du soir sur Telegram ---
+
+
+def fmt_pct(valeur):
+    """+22,0 % / -27,0 % ; « n/c » quand le PMU n'a publié aucun rapport."""
+    if valeur is None:
+        return "n/c"
+    return f"{valeur:+.1f}".replace(".", ",") + " %"
+
+
+def ligne_tranche(b):
+    partants = "partant" if b["n"] == 1 else "partants"
+    return (
+        f"{b['label']} : {b['n']} {partants}, {b['nGagnants']} g, {b['nPlaces']} p"
+        f" → {fmt_pct(b['roiGagnant'])} / {fmt_pct(b['roiPlace'])}"
+    )
+
+
+def format_message(payload):
+    """Texte du bilan du jour pour Telegram. Les tranches sans aucun partant
+    arrivé ne sont pas affichées, pour garder un message court."""
+    entries = payload["entries"]
+    avec_arrivee = sum(1 for e in entries if e.get("arrivee") is not None)
+    date_fr = datetime.strptime(payload["date"], "%Y-%m-%d").strftime("%d/%m/%Y")
+
+    lignes = [
+        f"🏇 Bilan galop du {date_fr}",
+        f"{avec_arrivee}/{len(entries)} partants avec une arrivée connue",
+        "Rentabilité d'une mise de 1 € : gagnant / placé",
+        "",
+        "📊 Par score de forme (plus bas = meilleure forme)",
+    ]
+    lignes += [ligne_tranche(b) for b in payload["buckets"] if b["n"]] or ["aucun partant"]
+
+    for cle, titre in (("descend", "⬇️ Descendent de classe"), ("monte", "⬆️ Montent en classe")):
+        lignes += ["", titre]
+        tranches = payload["classShiftBuckets"].get(cle, [])
+        lignes += [ligne_tranche(b) for b in tranches if b["n"]] or ["aucun partant"]
+
+    texte = "\n".join(lignes)
+    if len(texte) > TELEGRAM_MAX_CHARS:
+        texte = texte[:TELEGRAM_MAX_CHARS - 2] + "\n…"
+    return texte
+
+
+def send_telegram(texte: str) -> bool:
+    """Envoie le texte sur Telegram. Renvoie True si le message est parti.
+    Ne fait jamais échouer le script : un envoi raté est seulement signalé."""
+    token = os.environ.get(TELEGRAM_TOKEN_ENV, "").strip()
+    chat_id = os.environ.get(TELEGRAM_CHAT_ENV, "").strip()
+    if not token or not chat_id:
+        print(f"Telegram : {TELEGRAM_TOKEN_ENV} / {TELEGRAM_CHAT_ENV} non renseignés — bilan non envoyé.")
+        return False
+    try:
+        resp = requests.post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            json={"chat_id": chat_id, "text": texte, "disable_web_page_preview": True},
+            timeout=15,
+        )
+    except requests.RequestException as e:
+        # On n'affiche pas le détail de l'erreur : il contient l'adresse
+        # appelée, donc le jeton du bot.
+        print(f"  ! Telegram : envoi impossible ({type(e).__name__})", file=sys.stderr)
+        return False
+    if resp.status_code != 200:
+        print(f"  ! Telegram : HTTP {resp.status_code} — {resp.text[:200]!r}", file=sys.stderr)
+        return False
+    print("Bilan envoyé sur Telegram.")
+    return True
+
+
+def deja_envoye(bilan_path: Path, payload) -> bool:
+    """True si un bilan identique a déjà été envoyé pour ce jour : évite de
+    recevoir deux fois le même message quand le script est relancé dans la
+    soirée. Si les chiffres ont changé entre-temps, le bilan est renvoyé."""
+    if not bilan_path.exists():
+        return False
+    try:
+        ancien = json.loads(bilan_path.read_text(encoding="utf-8"))
+    except ValueError:
+        return False
+    return (
+        ancien.get("telegramEnvoye") is True
+        and ancien.get("buckets") == payload["buckets"]
+        and ancien.get("classShiftBuckets") == payload["classShiftBuckets"]
+    )
+
+
 def main():
     date_ddmmyyyy = paris_today_ddmmyyyy()
     date_iso = datetime.strptime(date_ddmmyyyy, "%d%m%Y").strftime("%Y-%m-%d")
@@ -412,6 +529,16 @@ def main():
 
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
         out_path = OUTPUT_DIR / f"bilan-{date_iso}.json"
+
+        if not avec_arrivee:
+            print("Telegram : aucune arrivée connue pour l'instant — bilan non envoyé.")
+            payload["telegramEnvoye"] = False
+        elif deja_envoye(out_path, payload):
+            print("Telegram : bilan identique déjà envoyé — pas de second message.")
+            payload["telegramEnvoye"] = True
+        else:
+            payload["telegramEnvoye"] = send_telegram(format_message(payload))
+
         out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
         latest_path = OUTPUT_DIR / "bilan-latest.json"
         latest_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
