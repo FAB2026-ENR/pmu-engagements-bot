@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Tourne en soirée, une fois les courses de galop du jour terminées.
 
@@ -59,6 +60,16 @@ SCORE_BUCKETS = (
     + [(str(n), n, n + 1) for n in range(0, 10)]
     + [("10+", 10, None)]
 )
+
+# Version du format du bilan : passe à 2 quand le calcul du score a été corrigé
+# (lecture de la musique PMU). Un bilan enregistré avec une version plus
+# ancienne est recalculé automatiquement.
+BILAN_VERSION = 2
+
+# Avant cette date, les engagements enregistrés mélangeaient des allocations
+# en devises différentes (ex. Hong Kong) : le déclassement de ces jours-là est
+# faux. On ne s'en sert donc pas, seul le score de forme est utilisé.
+CLASS_SHIFT_MIN_DATE = "2026-10-04"
 
 MAX_DEBUG_SAMPLES = 2
 _debug_samples_shown = 0
@@ -277,9 +288,11 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
         for e in course_entries:
             place, statut = arrivee_par_cheval.get(e["cheval"], (None, None))
             c = cotes_par_cheval.get(e["cheval"], {})
-            score, shift = form_score(e.get("musique", ""), e.get("prixJour"), e.get("prixPrec"))
+            prix_prec = e.get("prixPrec") if date_iso >= CLASS_SHIFT_MIN_DATE else None
+            score, shift = form_score(e.get("musique", ""), e.get("prixJour"), prix_prec)
             bilan_entries.append({
                 **e,
+                "prixPrec": prix_prec,
                 "score": score,
                 "classShift": shift,
                 "arrivee": place,
@@ -288,7 +301,20 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
                 "cotePlace": c.get("place"),
             })
 
-    # Agrégats par tranche de score de forme.
+    bucket_results, class_shift_results = build_aggregates(bilan_entries)
+    return {
+        "version": BILAN_VERSION,
+        "date": date_iso,
+        "generatedAt": datetime.now(timezone.utc).isoformat(),
+        "entries": bilan_entries,
+        "buckets": bucket_results,
+        "classShiftBuckets": class_shift_results,
+    }
+
+
+def build_aggregates(bilan_entries):
+    """Tranches de score de forme + tranches de % de déclassement (descend /
+    monte) pour une liste de partants, d'un seul jour ou cumulés."""
     score_groups = {label: [] for label, _, _ in SCORE_BUCKETS}
     for e in bilan_entries:
         label = bucket_for_score(e.get("score"))
@@ -296,9 +322,6 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
             score_groups[label].append(e)
     bucket_results = [aggregate(label, score_groups[label]) for label, _, _ in SCORE_BUCKETS]
 
-    # Agrégats par tranche de % de déclassement, séparément pour "descend"
-    # (favorable, le signal principal) et "monte" (défavorable, sert de
-    # groupe de comparaison).
     class_shift_results = {}
     for shift_type in ("descend", "monte"):
         groups = {label: [] for label, _, _ in CLASS_PCT_BUCKETS}
@@ -310,14 +333,63 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
             if label:
                 groups[label].append(e)
         class_shift_results[shift_type] = [aggregate(label, groups[label]) for label, _, _ in CLASS_PCT_BUCKETS]
+    return bucket_results, class_shift_results
 
-    return {
-        "date": date_iso,
+
+def build_cumul(racing_day_iso: str):
+    """Additionne les bilans de tous les jours disponibles (data/engagements-*.json),
+    en reconstruisant ceux qui manquent ou qui datent d'un ancien calcul, puis
+    écrit data/bilan-cumul.json."""
+    dates = sorted(
+        p.stem.replace("engagements-", "")
+        for p in OUTPUT_DIR.glob("engagements-*.json")
+    )
+    dates = [d for d in dates if d <= racing_day_iso]
+
+    all_entries, jours = [], []
+    for d in dates:
+        bilan_path = OUTPUT_DIR / f"bilan-{d}.json"
+        payload = None
+        if bilan_path.exists():
+            try:
+                payload = json.loads(bilan_path.read_text(encoding="utf-8"))
+            except ValueError:
+                payload = None
+            if payload and payload.get("version") != BILAN_VERSION:
+                payload = None
+        if payload is None:
+            print(f"Reconstruction du bilan du {d}…")
+            d_api = datetime.strptime(d, "%Y-%m-%d").strftime("%d%m%Y")
+            try:
+                payload = build_bilan(d, d_api)
+            except requests.RequestException as e:
+                print(f"  ! échec reconstruction {d}: {e}", file=sys.stderr)
+                payload = None
+            if payload:
+                bilan_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        if not payload:
+            continue
+        entries = payload.get("entries", [])
+        avec_arrivee = sum(1 for e in entries if e.get("arrivee") is not None)
+        jours.append({"date": d, "partants": len(entries), "avecArrivee": avec_arrivee})
+        # Un jour sans aucune arrivée connue (courses non terminées ou API
+        # indisponible) n'apporte rien : on ne l'ajoute pas aux totaux.
+        if avec_arrivee:
+            all_entries.extend(entries)
+
+    bucket_results, class_shift_results = build_aggregates(all_entries)
+    cumul = {
+        "version": BILAN_VERSION,
         "generatedAt": datetime.now(timezone.utc).isoformat(),
-        "entries": bilan_entries,
+        "jours": jours,
+        "nPartants": sum(1 for e in all_entries if e.get("arrivee") is not None),
+        "classShiftDepuis": CLASS_SHIFT_MIN_DATE,
         "buckets": bucket_results,
         "classShiftBuckets": class_shift_results,
     }
+    out = OUTPUT_DIR / "bilan-cumul.json"
+    out.write_text(json.dumps(cumul, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Cumul écrit : {out} ({len(jours)} jour(s), {cumul['nPartants']} partants avec arrivée)")
 
 
 def main():
@@ -327,18 +399,19 @@ def main():
     print(f"Construction du bilan du {date_iso}…")
     payload = build_bilan(date_iso, date_ddmmyyyy)
     if payload is None:
-        print("Rien à écrire.", file=sys.stderr)
-        return
+        print("Rien à écrire pour le jour.", file=sys.stderr)
+    else:
+        avec_arrivee = sum(1 for e in payload["entries"] if e.get("arrivee") is not None)
+        print(f"{avec_arrivee}/{len(payload['entries'])} partants avec une arrivée trouvée.")
 
-    avec_arrivee = sum(1 for e in payload["entries"] if e.get("arrivee") is not None)
-    print(f"{avec_arrivee}/{len(payload['entries'])} partants avec une arrivée trouvée.")
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        out_path = OUTPUT_DIR / f"bilan-{date_iso}.json"
+        out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        latest_path = OUTPUT_DIR / "bilan-latest.json"
+        latest_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"Écrit : {out_path} et {latest_path}")
 
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    out_path = OUTPUT_DIR / f"bilan-{date_iso}.json"
-    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    latest_path = OUTPUT_DIR / "bilan-latest.json"
-    latest_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Écrit : {out_path} et {latest_path}")
+    build_cumul(date_iso)
 
 
 if __name__ == "__main__":
