@@ -61,10 +61,11 @@ SCORE_BUCKETS = (
     + [("10+", 10, None)]
 )
 
-# Version du format du bilan : passe à 2 quand le calcul du score a été corrigé
-# (lecture de la musique PMU). Un bilan enregistré avec une version plus
+# Version du format du bilan : 2 = calcul du score corrigé (lecture de la
+# musique PMU) ; 3 = chaque partant indique si le PMU a publié les rapports de
+# sa course (rapportsPublies). Un bilan enregistré avec une version plus
 # ancienne est recalculé automatiquement.
-BILAN_VERSION = 2
+BILAN_VERSION = 3
 
 # Avant cette date, les engagements enregistrés mélangeaient des allocations
 # en devises différentes (ex. Hong Kong) : le déclassement de ces jours-là est
@@ -211,12 +212,13 @@ def bucket_for_pct(pct):
 
 
 def aggregate(label, bucket_entries):
-    """Taux de réussite + rentabilité d'une mise flat de 1€ par cheval sur ce
-    groupe. On ne compte, au dénominateur comme au numérateur, que les
-    chevaux dont l'arrivée est connue (non partant/disqualifié exclus) — une
-    cote gagnant/placé manquante pour un gagnant/placé compte comme un gain
-    de 0€ pour ce cheval-là (sous-estime légèrement la rentabilité plutôt que
-    de la surestimer en l'ignorant)."""
+    """Taux de réussite (sur tous les partants dont l'arrivée est connue) et
+    rentabilité d'une mise flat de 1€ par cheval.
+
+    La rentabilité n'est calculée que sur les courses dont le PMU a publié les
+    rapports (rapportsPublies) : sur les réunions étrangères, par exemple, il
+    n'y a aucune cote, et compter un gagnant à 0€ fausserait tout. nRoi donne
+    le nombre de partants réellement utilisés pour la rentabilité."""
     valides = [e for e in bucket_entries if e.get("arrivee") is not None]
     n = len(valides)
     n_gagnants = sum(1 for e in valides if e["arrivee"] == 1)
@@ -225,13 +227,15 @@ def aggregate(label, bucket_entries):
     cotes_gagnant_connues = [e["coteGagnant"] for e in valides if e["arrivee"] == 1 and e.get("coteGagnant") is not None]
     cote_moyenne = round(sum(cotes_gagnant_connues) / len(cotes_gagnant_connues), 2) if cotes_gagnant_connues else None
 
-    retour_gagnant = sum((e.get("coteGagnant") or 0) for e in valides if e["arrivee"] == 1)
-    retour_place = sum((e.get("cotePlace") or 0) for e in valides if e["arrivee"] <= 3)
-    roi_gagnant = round(100 * (retour_gagnant - n) / n, 1) if n else None
-    roi_place = round(100 * (retour_place - n) / n, 1) if n else None
+    valides_roi = [e for e in valides if e.get("rapportsPublies", True)]
+    n_roi = len(valides_roi)
+    retour_gagnant = sum((e.get("coteGagnant") or 0) for e in valides_roi if e["arrivee"] == 1)
+    retour_place = sum((e.get("cotePlace") or 0) for e in valides_roi if e["arrivee"] <= 3)
+    roi_gagnant = round(100 * (retour_gagnant - n_roi) / n_roi, 1) if n_roi else None
+    roi_place = round(100 * (retour_place - n_roi) / n_roi, 1) if n_roi else None
 
     return {
-        "label": label, "n": n, "nGagnants": n_gagnants, "nPlaces": n_places,
+        "label": label, "n": n, "nRoi": n_roi, "nGagnants": n_gagnants, "nPlaces": n_places,
         "tauxGagnant": round(100 * n_gagnants / n, 1) if n else None,
         "tauxPlace": round(100 * n_places / n, 1) if n else None,
         "coteGagnantMoyenne": cote_moyenne,
@@ -275,6 +279,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
                 arrivee_par_cheval[nom] = extract_arrivee(p)
 
         cotes = fetch_cotes(date_ddmmyyyy, num_reunion, num_course)
+        rapports_publies = bool(cotes)
         # Les cotes sont indexées par numPmu, pas par nom — on les relie via
         # la liste participants (seule source commune) plutôt que de les
         # réclamer séparément aux entrées sauvegardées (qui n'ont pas numPmu).
@@ -299,6 +304,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
                 "statutArrivee": statut,
                 "coteGagnant": c.get("gagnant"),
                 "cotePlace": c.get("place"),
+                "rapportsPublies": rapports_publies,
             })
 
     bucket_results, class_shift_results = build_aggregates(bilan_entries)
