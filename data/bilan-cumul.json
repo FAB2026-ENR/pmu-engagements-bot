@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "generatedAt": "2026-10-05T07:34:11.670828+00:00",
+  "version": 3,
+  "generatedAt": "2026-10-05T08:14:33.777955+00:00",
   "jours": [
     {
       "date": "2026-10-02",
@@ -29,105 +29,115 @@
     {
       "label": "< 0",
       "n": 25,
+      "nRoi": 13,
       "nGagnants": 2,
       "nPlaces": 12,
       "tauxGagnant": 8.0,
       "tauxPlace": 48.0,
       "coteGagnantMoyenne": 1.5,
-      "roiGagnant": -88.0,
-      "roiPlace": -62.4
+      "roiGagnant": -76.9,
+      "roiPlace": -27.6
     },
     {
       "label": "0",
       "n": 99,
+      "nRoi": 55,
       "nGagnants": 24,
       "nPlaces": 50,
       "tauxGagnant": 24.2,
       "tauxPlace": 50.5,
       "coteGagnantMoyenne": 5.48,
-      "roiGagnant": -22.6,
-      "roiPlace": -37.5
+      "roiGagnant": 39.4,
+      "roiPlace": 12.5
     },
     {
       "label": "1",
       "n": 92,
+      "nRoi": 61,
       "nGagnants": 8,
       "nPlaces": 34,
       "tauxGagnant": 8.7,
       "tauxPlace": 37.0,
       "coteGagnantMoyenne": 7.12,
-      "roiGagnant": -69.0,
-      "roiPlace": -51.4
+      "roiGagnant": -53.3,
+      "roiPlace": -26.6
     },
     {
       "label": "2",
       "n": 132,
+      "nRoi": 92,
       "nGagnants": 15,
       "nPlaces": 39,
       "tauxGagnant": 11.4,
       "tauxPlace": 29.5,
       "coteGagnantMoyenne": 12.7,
-      "roiGagnant": -13.4,
-      "roiPlace": -52.5
+      "roiGagnant": 24.2,
+      "roiPlace": -31.8
     },
     {
       "label": "3",
       "n": 125,
+      "nRoi": 111,
       "nGagnants": 9,
       "nPlaces": 35,
       "tauxGagnant": 7.2,
       "tauxPlace": 28.0,
       "coteGagnantMoyenne": 16.49,
-      "roiGagnant": 5.6,
-      "roiPlace": -20.6
+      "roiGagnant": 18.9,
+      "roiPlace": -10.6
     },
     {
       "label": "4",
       "n": 84,
+      "nRoi": 71,
       "nGagnants": 9,
       "nPlaces": 22,
       "tauxGagnant": 10.7,
       "tauxPlace": 26.2,
       "coteGagnantMoyenne": 10.64,
-      "roiGagnant": 1.3,
-      "roiPlace": -38.9
+      "roiGagnant": 19.9,
+      "roiPlace": -27.7
     },
     {
       "label": "5",
       "n": 75,
+      "nRoi": 59,
       "nGagnants": 7,
       "nPlaces": 22,
       "tauxGagnant": 9.3,
       "tauxPlace": 29.3,
       "coteGagnantMoyenne": 9.16,
-      "roiGagnant": -38.9,
-      "roiPlace": -21.3
+      "roiGagnant": -22.4,
+      "roiPlace": 0.0
     },
     {
       "label": "6",
       "n": 64,
+      "nRoi": 55,
       "nGagnants": 2,
       "nPlaces": 9,
       "tauxGagnant": 3.1,
       "tauxPlace": 14.1,
       "coteGagnantMoyenne": 7.75,
-      "roiGagnant": -75.8,
-      "roiPlace": -70.0
+      "roiGagnant": -71.8,
+      "roiPlace": -65.1
     },
     {
       "label": "7",
       "n": 51,
+      "nRoi": 38,
       "nGagnants": 3,
       "nPlaces": 10,
       "tauxGagnant": 5.9,
       "tauxPlace": 19.6,
       "coteGagnantMoyenne": 10.95,
-      "roiGagnant": -57.1,
-      "roiPlace": -31.9
+      "roiGagnant": -42.4,
+      "roiPlace": -8.6
     },
     {
       "label": "8",
       "n": 23,
+      "nRoi": 15,
       "nGagnants": 2,
       "nPlaces": 2,
       "tauxGagnant": 8.7,
@@ -139,24 +149,26 @@
     {
       "label": "9",
       "n": 13,
+      "nRoi": 9,
       "nGagnants": 0,
       "nPlaces": 3,
       "tauxGagnant": 0.0,
       "tauxPlace": 23.1,
       "coteGagnantMoyenne": null,
       "roiGagnant": -100.0,
-      "roiPlace": 6.5
+      "roiPlace": 53.9
     },
     {
       "label": "10+",
       "n": 10,
+      "nRoi": 7,
       "nGagnants": 0,
       "nPlaces": 1,
       "tauxGagnant": 0.0,
       "tauxPlace": 10.0,
       "coteGagnantMoyenne": null,
       "roiGagnant": -100.0,
-      "roiPlace": -41.0
+      "roiPlace": -15.7
     }
   ],
   "classShiftBuckets": {
@@ -164,6 +176,7 @@
       {
         "label": "20 – 29%",
         "n": 8,
+        "nRoi": 8,
         "nGagnants": 1,
         "nPlaces": 5,
         "tauxGagnant": 12.5,
@@ -175,6 +188,7 @@
       {
         "label": "30 – 39%",
         "n": 9,
+        "nRoi": 9,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": 0.0,
@@ -186,6 +200,7 @@
       {
         "label": "40 – 49%",
         "n": 4,
+        "nRoi": 4,
         "nGagnants": 1,
         "nPlaces": 2,
         "tauxGagnant": 25.0,
@@ -197,6 +212,7 @@
       {
         "label": "50 – 59%",
         "n": 5,
+        "nRoi": 5,
         "nGagnants": 1,
         "nPlaces": 2,
         "tauxGagnant": 20.0,
@@ -208,6 +224,7 @@
       {
         "label": "60 – 69%",
         "n": 3,
+        "nRoi": 3,
         "nGagnants": 0,
         "nPlaces": 1,
         "tauxGagnant": 0.0,
@@ -219,6 +236,7 @@
       {
         "label": "70 – 79%",
         "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": null,
@@ -230,6 +248,7 @@
       {
         "label": "80 – 89%",
         "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": null,
@@ -241,6 +260,7 @@
       {
         "label": "90%+",
         "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": null,
@@ -254,6 +274,7 @@
       {
         "label": "20 – 29%",
         "n": 7,
+        "nRoi": 7,
         "nGagnants": 0,
         "nPlaces": 1,
         "tauxGagnant": 0.0,
@@ -265,6 +286,7 @@
       {
         "label": "30 – 39%",
         "n": 3,
+        "nRoi": 3,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": 0.0,
@@ -276,6 +298,7 @@
       {
         "label": "40 – 49%",
         "n": 12,
+        "nRoi": 12,
         "nGagnants": 1,
         "nPlaces": 3,
         "tauxGagnant": 8.3,
@@ -287,6 +310,7 @@
       {
         "label": "50 – 59%",
         "n": 1,
+        "nRoi": 1,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": 0.0,
@@ -298,6 +322,7 @@
       {
         "label": "60 – 69%",
         "n": 1,
+        "nRoi": 1,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": 0.0,
@@ -309,6 +334,7 @@
       {
         "label": "70 – 79%",
         "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": null,
@@ -320,6 +346,7 @@
       {
         "label": "80 – 89%",
         "n": 1,
+        "nRoi": 1,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": 0.0,
@@ -331,6 +358,7 @@
       {
         "label": "90%+",
         "n": 58,
+        "nRoi": 58,
         "nGagnants": 5,
         "nPlaces": 12,
         "tauxGagnant": 8.6,
