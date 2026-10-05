@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "date": "2026-10-03",
-  "generatedAt": "2026-10-05T08:14:18.960234+00:00",
+  "generatedAt": "2026-10-05T21:47:24.649851+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -2551,7 +2551,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2567,8 +2567,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2583,9 +2583,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 3.0,
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2602,7 +2602,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2619,7 +2619,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2636,7 +2636,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2651,9 +2651,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
+      "coteGagnant": 3.0,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2668,9 +2668,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 27.0,
+      "cotePlace": 4.0,
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2687,7 +2687,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2704,7 +2704,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2721,7 +2721,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2738,7 +2738,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2755,7 +2755,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2771,8 +2771,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.7,
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2789,7 +2789,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2806,7 +2806,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R6",
@@ -2822,8 +2822,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 3.1,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2840,7 +2840,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2857,7 +2857,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2873,8 +2873,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 2.0,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2890,8 +2890,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 3.8,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2908,7 +2908,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2925,7 +2925,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2940,9 +2940,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 5.9,
+      "cotePlace": 2.9,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2959,7 +2959,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2976,7 +2976,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -2992,8 +2992,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 2.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3010,7 +3010,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3025,9 +3025,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 15.3,
+      "cotePlace": 4.6,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3044,7 +3044,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3060,8 +3060,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 6.5,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3078,7 +3078,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3095,7 +3095,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3112,7 +3112,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3129,7 +3129,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3146,7 +3146,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3162,8 +3162,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 3.5,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3180,7 +3180,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3197,7 +3197,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3214,7 +3214,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3231,7 +3231,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3248,7 +3248,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3263,9 +3263,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 4.5,
+      "cotePlace": 1.9,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3282,7 +3282,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3298,8 +3298,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 12.2,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3316,7 +3316,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3333,7 +3333,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3350,7 +3350,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3367,7 +3367,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3384,7 +3384,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3401,7 +3401,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3418,7 +3418,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3435,7 +3435,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3452,7 +3452,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3467,9 +3467,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 2.3,
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3486,7 +3486,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3503,7 +3503,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3520,7 +3520,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3537,7 +3537,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3553,8 +3553,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 5.5,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3570,8 +3570,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 2.1,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3588,7 +3588,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3605,7 +3605,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3622,7 +3622,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3638,8 +3638,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3656,7 +3656,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3673,7 +3673,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3690,7 +3690,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3705,9 +3705,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 6.6,
+      "cotePlace": 1.9,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3724,7 +3724,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3741,7 +3741,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3757,8 +3757,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 5.1,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3775,7 +3775,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3792,7 +3792,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3807,9 +3807,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 2.5,
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3825,8 +3825,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 3.2,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3842,8 +3842,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.6,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3860,7 +3860,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3877,7 +3877,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3894,7 +3894,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3911,7 +3911,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3928,7 +3928,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3945,7 +3945,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3961,8 +3961,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.6,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3979,7 +3979,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -3996,7 +3996,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4012,8 +4012,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.6,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4028,9 +4028,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 2.3,
+      "cotePlace": 1.1,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4047,7 +4047,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4064,7 +4064,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4081,7 +4081,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4098,7 +4098,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4114,8 +4114,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4132,7 +4132,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4147,9 +4147,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 1.7,
+      "cotePlace": 1.1,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4166,7 +4166,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4183,7 +4183,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4200,7 +4200,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4217,7 +4217,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4234,7 +4234,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4249,9 +4249,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 14.6,
+      "cotePlace": 4.8,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4267,8 +4267,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 3.1,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4285,7 +4285,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4302,7 +4302,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4318,8 +4318,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 2.5,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4334,9 +4334,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 2.9,
+      "cotePlace": 1.4,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4352,8 +4352,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.7,
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4370,7 +4370,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4387,7 +4387,7 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4404,7 +4404,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4421,7 +4421,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R7",
@@ -4438,7 +4438,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4455,7 +4455,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4472,7 +4472,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4489,7 +4489,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4506,7 +4506,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4523,7 +4523,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4540,7 +4540,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4557,7 +4557,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4574,7 +4574,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4591,7 +4591,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4608,7 +4608,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4623,9 +4623,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 62.9,
+      "cotePlace": 12.9,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4642,7 +4642,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4658,8 +4658,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 15.9,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4675,8 +4675,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.8,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4691,9 +4691,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 2.9,
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4710,7 +4710,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4727,7 +4727,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4744,7 +4744,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4760,8 +4760,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 4.9,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4778,7 +4778,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4795,7 +4795,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4810,9 +4810,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 3.2,
+      "cotePlace": 2.4,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4829,7 +4829,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4846,7 +4846,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4862,8 +4862,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.4,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4880,7 +4880,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4897,7 +4897,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4913,8 +4913,8 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 2.5,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4931,7 +4931,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4948,7 +4948,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4965,7 +4965,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4980,9 +4980,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 1.3,
+      "cotePlace": 1.3,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -4999,7 +4999,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5016,7 +5016,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5031,9 +5031,9 @@
       "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "coteGagnant": 3.8,
+      "cotePlace": 1.5,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5050,7 +5050,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5067,7 +5067,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5084,7 +5084,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5100,8 +5100,8 @@
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 2.1,
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5118,7 +5118,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5135,7 +5135,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5152,7 +5152,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5169,7 +5169,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5186,7 +5186,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5203,7 +5203,7 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false
+      "rapportsPublies": true
     },
     {
       "reunion": "R8",
@@ -5219,99 +5219,99 @@
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false
+      "cotePlace": 1.6,
+      "rapportsPublies": true
     }
   ],
   "buckets": [
     {
       "label": "< 0",
       "n": 14,
-      "nRoi": 7,
+      "nRoi": 14,
       "nGagnants": 2,
       "nPlaces": 5,
       "tauxGagnant": 14.3,
       "tauxPlace": 35.7,
       "coteGagnantMoyenne": 1.5,
-      "roiGagnant": -57.1,
-      "roiPlace": -34.1
+      "roiGagnant": -78.6,
+      "roiPlace": -54.2
     },
     {
       "label": "0",
       "n": 58,
-      "nRoi": 28,
+      "nRoi": 58,
       "nGagnants": 15,
       "nPlaces": 30,
       "tauxGagnant": 25.9,
       "tauxPlace": 51.7,
-      "coteGagnantMoyenne": 5.13,
-      "roiGagnant": 46.6,
-      "roiPlace": -13.4
+      "coteGagnantMoyenne": 8.64,
+      "roiGagnant": 123.4,
+      "roiPlace": 2.5
     },
     {
       "label": "1",
       "n": 42,
-      "nRoi": 20,
+      "nRoi": 42,
       "nGagnants": 6,
       "nPlaces": 15,
       "tauxGagnant": 14.3,
       "tauxPlace": 35.7,
-      "coteGagnantMoyenne": 5.65,
-      "roiGagnant": -43.5,
-      "roiPlace": -12.5
+      "coteGagnantMoyenne": 4.25,
+      "roiGagnant": -39.3,
+      "roiPlace": -21.2
     },
     {
       "label": "2",
       "n": 57,
-      "nRoi": 29,
+      "nRoi": 57,
       "nGagnants": 4,
       "nPlaces": 17,
       "tauxGagnant": 7.0,
       "tauxPlace": 29.8,
-      "coteGagnantMoyenne": null,
-      "roiGagnant": -100.0,
-      "roiPlace": -65.5
+      "coteGagnantMoyenne": 4.42,
+      "roiGagnant": -68.9,
+      "roiPlace": -24.7
     },
     {
       "label": "3",
       "n": 33,
-      "nRoi": 25,
+      "nRoi": 33,
       "nGagnants": 2,
       "nPlaces": 9,
       "tauxGagnant": 6.1,
       "tauxPlace": 27.3,
       "coteGagnantMoyenne": 14.57,
-      "roiGagnant": 16.6,
-      "roiPlace": 17.2
+      "roiGagnant": -11.7,
+      "roiPlace": 3.6
     },
     {
       "label": "4",
       "n": 21,
-      "nRoi": 13,
+      "nRoi": 21,
       "nGagnants": 1,
       "nPlaces": 6,
       "tauxGagnant": 4.8,
       "tauxPlace": 28.6,
-      "coteGagnantMoyenne": null,
-      "roiGagnant": -100.0,
-      "roiPlace": -58.5
+      "coteGagnantMoyenne": 3.0,
+      "roiGagnant": -85.7,
+      "roiPlace": -42.9
     },
     {
       "label": "5",
       "n": 16,
-      "nRoi": 5,
+      "nRoi": 16,
       "nGagnants": 1,
       "nPlaces": 6,
       "tauxGagnant": 6.2,
       "tauxPlace": 37.5,
-      "coteGagnantMoyenne": null,
-      "roiGagnant": -100.0,
-      "roiPlace": 134.0
+      "coteGagnantMoyenne": 15.3,
+      "roiGagnant": -4.4,
+      "roiPlace": 36.3
     },
     {
       "label": "6",
       "n": 15,
-      "nRoi": 8,
+      "nRoi": 15,
       "nGagnants": 0,
       "nPlaces": 0,
       "tauxGagnant": 0.0,
@@ -5323,19 +5323,19 @@
     {
       "label": "7",
       "n": 6,
-      "nRoi": 3,
+      "nRoi": 6,
       "nGagnants": 1,
       "nPlaces": 2,
       "tauxGagnant": 16.7,
       "tauxPlace": 33.3,
-      "coteGagnantMoyenne": null,
-      "roiGagnant": -100.0,
-      "roiPlace": -100.0
+      "coteGagnantMoyenne": 27.0,
+      "roiGagnant": 350.0,
+      "roiPlace": 51.7
     },
     {
       "label": "8",
       "n": 4,
-      "nRoi": 3,
+      "nRoi": 4,
       "nGagnants": 0,
       "nPlaces": 0,
       "tauxGagnant": 0.0,
@@ -5347,26 +5347,26 @@
     {
       "label": "9",
       "n": 3,
-      "nRoi": 0,
+      "nRoi": 3,
       "nGagnants": 0,
       "nPlaces": 1,
       "tauxGagnant": 0.0,
       "tauxPlace": 33.3,
       "coteGagnantMoyenne": null,
-      "roiGagnant": null,
-      "roiPlace": null
+      "roiGagnant": -100.0,
+      "roiPlace": 83.3
     },
     {
       "label": "10+",
       "n": 1,
-      "nRoi": 0,
+      "nRoi": 1,
       "nGagnants": 0,
       "nPlaces": 0,
       "tauxGagnant": 0.0,
       "tauxPlace": 0.0,
       "coteGagnantMoyenne": null,
-      "roiGagnant": null,
-      "roiPlace": null
+      "roiGagnant": -100.0,
+      "roiPlace": -100.0
     }
   ],
   "classShiftBuckets": {
