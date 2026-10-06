@@ -11,11 +11,13 @@ Le matin, deux messages :
      TOUS les partants du jour (pas seulement les entraîneurs à 2+ engagés) ;
   2. les meilleurs engagements du jour (comme avant).
 
-Le soir, deux messages :
+Le soir, trois messages :
   1. le résultat de ces mêmes chevaux notés 0 à 0,99 (arrivée, cotes,
      rentabilité d'une mise de 1 €), avec le cumul de la tranche depuis le
      début du suivi ;
-  2. le bilan général du jour (comme avant).
+  2. les croisements de cette tranche sur le cumul : selon la cote, le
+     nombre de courses courues, l'entraîneur et le pays ;
+  3. le bilan général du jour (comme avant).
 
 Nécessite deux secrets GitHub (Settings > Secrets and variables > Actions) :
     TELEGRAM_BOT_TOKEN  : le token donné par @BotFather
@@ -230,6 +232,51 @@ def selection_soir():
     send("\n".join(lines))
 
 
+def croisements_soir():
+    """Message du soir : la tranche 0 à 0,99 découpée selon quatre critères,
+    sur le cumul depuis le début du suivi."""
+    path = DATA_DIR / "bilan-cumul.json"
+    if not path.exists():
+        print("bilan-cumul.json introuvable : pas de croisements.", file=sys.stderr)
+        return
+    try:
+        cumul = json.loads(path.read_text(encoding="utf-8"))
+    except ValueError:
+        print("bilan-cumul.json illisible : pas de croisements.", file=sys.stderr)
+        return
+    croisements = cumul.get("croisements")
+    if not croisements:
+        print("Pas de croisements dans le cumul (ancienne version du bilan).", file=sys.stderr)
+        return
+
+    nb_jours = sum(1 for j in cumul.get("jours", []) if j.get("avecArrivee"))
+    lines = [
+        f"🔀 Croisements — chevaux notés {NOTE_LIBELLE}",
+        f"Cumul sur {nb_jours} jour(s), {croisements.get('n', 0)} partants arrivés",
+        "g = gagnants, p = placés ; rentabilité gagnant / placé pour 1 €",
+    ]
+
+    def bloc(titre, groupes):
+        rows = [g for g in (groupes or []) if g.get("n")]
+        if not rows:
+            return
+        lines.append("")
+        lines.append(titre)
+        for g in rows:
+            roi_g = "—" if g.get("roiGagnant") is None else fmt_roi(g["roiGagnant"])
+            roi_p = "—" if g.get("roiPlace") is None else fmt_roi(g["roiPlace"])
+            mot = "partant" if g["n"] == 1 else "partants"
+            lines.append(
+                f"• {g['label']} : {g['n']} {mot}, {g['nGagnants']} g, {g['nPlaces']} p → {roi_g} / {roi_p}"
+            )
+
+    bloc("Selon la cote du cheval", croisements.get("cote"))
+    bloc("Selon le nombre de courses dans la musique", croisements.get("nbCourses"))
+    bloc("Selon l'entraîneur", croisements.get("engagement"))
+    bloc("Selon le pays de la réunion", croisements.get("pays"))
+    send("\n".join(lines))
+
+
 def morning():
     path = DATA_DIR / "latest.json"
     if not path.exists():
@@ -323,6 +370,7 @@ def main():
         morning()
     elif mode == "bilan":
         selection_soir()
+        croisements_soir()
         bilan()
     else:
         print("Usage : notify_telegram.py morning|bilan", file=sys.stderr)
@@ -330,3 +378,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
