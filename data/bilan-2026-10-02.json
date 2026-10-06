@@ -1,7 +1,7 @@
 {
-  "version": 4,
+  "version": 5,
   "date": "2026-10-02",
-  "generatedAt": "2026-10-05T21:47:02.787437+00:00",
+  "generatedAt": "2026-10-06T21:44:34.304641+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -18,7 +18,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -35,7 +39,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.4,
       "cotePlace": 1.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.4,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -52,7 +60,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.8,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.7,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -69,7 +81,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 23.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R2",
@@ -86,7 +102,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 32.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -103,7 +123,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.2,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.1,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R2",
@@ -120,7 +144,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 38.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -137,7 +165,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 29.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -154,7 +186,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 73.0,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -171,7 +207,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -188,7 +228,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 23.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -205,7 +249,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -222,7 +270,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 34.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -239,7 +291,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.9,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -256,7 +312,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 11.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -273,7 +333,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.5,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -290,7 +354,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 5.9,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -307,7 +375,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 23.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -324,7 +396,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.7,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -341,7 +417,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.7,
       "cotePlace": 1.5,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.7,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R2",
@@ -358,7 +438,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.7,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.3,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R2",
@@ -375,7 +459,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R2",
@@ -392,7 +480,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.1,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R2",
@@ -409,7 +501,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 6.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 19.0,
+      "france": true,
+      "nbCourses": 5,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -426,7 +522,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.2,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -443,7 +543,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.2,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "seul"
     },
     {
       "reunion": "R2",
@@ -460,7 +564,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.8,
       "cotePlace": 3.2,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.8,
+      "france": true,
+      "nbCourses": 5,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R2",
@@ -477,7 +585,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.3,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -494,7 +606,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 33.0,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -511,7 +627,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 53.0,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -528,7 +648,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 2.1,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -545,7 +669,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.3,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -562,7 +690,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.9,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -579,7 +711,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 20.7,
       "cotePlace": 3.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -596,7 +732,11 @@
       "statutArrivee": "ARRETE",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -613,7 +753,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.1,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.2,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -630,7 +774,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.3,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -647,7 +795,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.8,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -664,7 +816,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 14.6,
       "cotePlace": 1.7,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 14.0,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -681,7 +837,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 46.0,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -698,7 +858,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.05,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 1.6,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -715,7 +879,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.3,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -732,7 +900,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 17.0,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -749,7 +921,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 33.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -766,7 +942,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 55.0,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -783,7 +963,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 4.5,
       "cotePlace": 2.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.5,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -800,7 +984,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.2,
+      "france": true,
+      "nbCourses": 7,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -817,7 +1005,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.6,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.9,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -834,7 +1026,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 2.9,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -851,7 +1047,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 16.0,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -868,7 +1068,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 6.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 29.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -885,7 +1089,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.5,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -902,7 +1110,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.4,
+      "france": true,
+      "nbCourses": 0,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -919,7 +1131,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 34.0,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -936,7 +1152,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 55.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -953,7 +1173,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 6.2,
       "cotePlace": 2.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.2,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -970,7 +1194,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 41.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -987,7 +1215,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 17.0,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1004,7 +1236,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.1,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1021,7 +1257,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 77.0,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1038,7 +1278,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 6.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1055,7 +1299,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 5.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1072,7 +1320,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.3,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -1089,7 +1341,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.1,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1106,7 +1362,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 5.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 18.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1123,7 +1383,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1140,7 +1404,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1157,7 +1425,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1174,7 +1446,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 5.3,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1191,7 +1467,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 26.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1208,7 +1488,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 25.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1225,7 +1509,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.7,
+      "france": true,
+      "nbCourses": 5,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -1242,7 +1530,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.9,
       "cotePlace": 2.2,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.9,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1259,7 +1551,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 17.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1276,7 +1572,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 39.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1293,7 +1593,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 10.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -1310,7 +1614,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 5.8,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -1327,7 +1635,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1344,7 +1656,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 4.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 15.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1361,7 +1677,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 18.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1378,7 +1698,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.2,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1395,7 +1719,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.2,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.1,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1412,7 +1740,11 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": null,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1429,7 +1761,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 14.3,
       "cotePlace": 4.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 14.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1446,7 +1782,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 24.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1463,7 +1803,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 23.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1480,7 +1824,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 11.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1497,7 +1845,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 16.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1514,7 +1866,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 40.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1531,7 +1887,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 4.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 19.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -1548,7 +1908,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 4.7,
       "cotePlace": 2.1,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.7,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1565,7 +1929,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 3.1,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 10.0,
+      "france": true,
+      "nbCourses": 4,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1582,7 +1950,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 54.0,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1599,7 +1971,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 47.0,
+      "france": true,
+      "nbCourses": 5,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1616,7 +1992,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 54.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1633,7 +2013,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.0,
+      "france": true,
+      "nbCourses": 7,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1650,7 +2034,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 2.7,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1667,7 +2055,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 16.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1684,7 +2076,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1701,7 +2097,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 34.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1718,7 +2118,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1735,7 +2139,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.3,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1752,7 +2160,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 30.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1769,7 +2181,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 10.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1786,7 +2202,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 24.3,
       "cotePlace": 8.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 24.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1803,7 +2223,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 3.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1820,7 +2244,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 11.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1837,7 +2265,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 11.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R4",
@@ -1854,7 +2286,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.3,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1871,7 +2307,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 6.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 19.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1888,7 +2328,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 27.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R4",
@@ -1905,7 +2349,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 23.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "autre"
     },
     {
       "reunion": "R4",
@@ -1922,7 +2370,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 32.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -1939,7 +2391,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.3,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -1956,7 +2412,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 2.8,
       "cotePlace": 1.5,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 2.8,
+      "france": true,
+      "nbCourses": 3,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -1973,7 +2433,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.1,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -1990,7 +2454,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.3,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2007,7 +2475,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 5.9,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 36.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2024,7 +2496,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.6,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2041,7 +2517,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 64.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2058,7 +2538,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 10.0,
+      "france": true,
+      "nbCourses": 2,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2075,7 +2559,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 23.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2092,7 +2580,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 2.6,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2109,7 +2601,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.9,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2126,7 +2622,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 13.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2143,7 +2643,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.1,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2160,7 +2664,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 6.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 28.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2177,7 +2685,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.2,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2194,7 +2706,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 10.3,
       "cotePlace": 2.9,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 10.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2211,7 +2727,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 26.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2228,7 +2748,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.6,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2245,7 +2769,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.5,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2262,7 +2790,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 28.0,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2279,7 +2811,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 35.0,
+      "france": true,
+      "nbCourses": 6,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2296,7 +2832,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 18.0,
       "cotePlace": 3.7,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 16.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2313,7 +2853,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.5,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2330,7 +2874,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 18.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2347,7 +2895,11 @@
       "statutArrivee": "ARRETE",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.0,
+      "france": true,
+      "nbCourses": 5,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2364,7 +2916,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.3,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2381,7 +2937,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
+      "france": true,
+      "nbCourses": 5,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2398,7 +2958,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 21.0,
+      "france": true,
+      "nbCourses": 5,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2415,7 +2979,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 26.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2432,7 +3000,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 13.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2449,7 +3021,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2466,7 +3042,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.8,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2483,7 +3063,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 13.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2500,7 +3084,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 14.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2517,7 +3105,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.5,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.2,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2534,7 +3126,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 43.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2551,7 +3147,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 14.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2568,7 +3168,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 18.6,
       "cotePlace": 4.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 18.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2585,7 +3189,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 47.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2602,7 +3210,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 8.7,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2619,7 +3231,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2636,7 +3252,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 30.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2653,7 +3273,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 29.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2670,7 +3294,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 4.7,
       "cotePlace": 1.7,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.7,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2687,7 +3315,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.6,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.6,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2704,7 +3336,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 32.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2721,7 +3357,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2738,7 +3378,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.4,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2755,7 +3399,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 30.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2772,7 +3420,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.7,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2789,7 +3441,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2806,7 +3462,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2823,7 +3483,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 30.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2840,7 +3504,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 32.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2857,7 +3525,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 63.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2874,7 +3546,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.7,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2891,7 +3567,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -2908,7 +3588,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 17.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2925,7 +3609,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 36.0,
+      "france": true,
+      "nbCourses": 1,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2942,7 +3630,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 13.0,
+      "france": true,
+      "nbCourses": 8,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2959,7 +3651,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.5,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -2976,7 +3672,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 16.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -2993,7 +3693,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.5,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -3010,7 +3714,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.9,
       "cotePlace": 1.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.9,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -3027,7 +3735,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 2.0,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.3,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -3044,7 +3756,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 9.9,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -3061,7 +3777,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": 4.3,
       "cotePlace": 1.4,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 4.3,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "autre"
     },
     {
       "reunion": "R5",
@@ -3078,7 +3798,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 6.6,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -3095,7 +3819,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 7.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "meilleur"
     },
     {
       "reunion": "R5",
@@ -3112,7 +3840,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": 1.3,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 3.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -3129,7 +3861,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 24.0,
+      "france": true,
+      "nbCourses": 9,
+      "engagement": "seul"
     },
     {
       "reunion": "R5",
@@ -3146,7 +3882,11 @@
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": true
+      "rapportsPublies": true,
+      "coteDirecte": 25.0,
+      "france": true,
+      "nbCourses": 10,
+      "engagement": "meilleur"
     }
   ],
   "buckets": [
@@ -3481,6 +4221,163 @@
       },
       {
         "label": "90%+",
+        "n": 0,
+        "nRoi": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
+      }
+    ]
+  },
+  "croisements": {
+    "noteMin": 0,
+    "noteMax": 1,
+    "n": 13,
+    "cote": [
+      {
+        "label": "moins de 3",
+        "n": 3,
+        "nRoi": 3,
+        "nGagnants": 0,
+        "nPlaces": 2,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 66.7,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -21.7
+      },
+      {
+        "label": "3 à 5,9",
+        "n": 3,
+        "nRoi": 3,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "6 à 11,9",
+        "n": 3,
+        "nRoi": 3,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "12 et plus",
+        "n": 4,
+        "nRoi": 4,
+        "nGagnants": 1,
+        "nPlaces": 3,
+        "tauxGagnant": 25.0,
+        "tauxPlace": 75.0,
+        "coteGagnantMoyenne": 14.6,
+        "roiGagnant": 265.0,
+        "roiPlace": 227.5
+      }
+    ],
+    "nbCourses": [
+      {
+        "label": "1 à 2 courses",
+        "n": 8,
+        "nRoi": 8,
+        "nGagnants": 1,
+        "nPlaces": 4,
+        "tauxGagnant": 12.5,
+        "tauxPlace": 50.0,
+        "coteGagnantMoyenne": 14.6,
+        "roiGagnant": 82.5,
+        "roiPlace": 18.1
+      },
+      {
+        "label": "3 à 4 courses",
+        "n": 4,
+        "nRoi": 4,
+        "nGagnants": 0,
+        "nPlaces": 1,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 25.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": 50.0
+      },
+      {
+        "label": "5 courses et plus",
+        "n": 1,
+        "nRoi": 1,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      }
+    ],
+    "engagement": [
+      {
+        "label": "meilleur engagement de son entraîneur",
+        "n": 7,
+        "nRoi": 7,
+        "nGagnants": 1,
+        "nPlaces": 3,
+        "tauxGagnant": 14.3,
+        "tauxPlace": 42.9,
+        "coteGagnantMoyenne": 14.6,
+        "roiGagnant": 108.6,
+        "roiPlace": -42.1
+      },
+      {
+        "label": "autre cheval d'un entraîneur à 2+ partants",
+        "n": 4,
+        "nRoi": 4,
+        "nGagnants": 0,
+        "nPlaces": 1,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 25.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": 35.0
+      },
+      {
+        "label": "entraîneur à un seul partant",
+        "n": 2,
+        "nRoi": 2,
+        "nGagnants": 0,
+        "nPlaces": 1,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 50.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": 200.0
+      }
+    ],
+    "pays": [
+      {
+        "label": "France",
+        "n": 13,
+        "nRoi": 13,
+        "nGagnants": 1,
+        "nPlaces": 5,
+        "tauxGagnant": 7.7,
+        "tauxPlace": 38.5,
+        "coteGagnantMoyenne": 14.6,
+        "roiGagnant": 12.3,
+        "roiPlace": 18.8
+      },
+      {
+        "label": "étranger",
         "n": 0,
         "nRoi": 0,
         "nGagnants": 0,
