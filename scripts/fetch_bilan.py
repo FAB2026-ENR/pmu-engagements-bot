@@ -11,6 +11,11 @@ définitives, et produit un bilan :
     (0, 1, 2 … 9, 10+), avec taux de réussite et cote moyenne — pour
     objectiver si les bons scores gagnent effectivement à de belles cotes.
 
+Pour les chevaux notés de 0 à 0,99 (tranche « 0 »), le bilan ajoute des
+croisements : selon la cote du cheval, le nombre de courses lues dans sa
+musique, sa place dans l'écurie de son entraîneur ce jour-là, et le pays de
+la réunion (France ou étranger).
+
 Comme pour fetch_pmu.py, les noms de champs PMU utilisés ici ne sont pas
 documentés officiellement. Le code reste tolérant (plusieurs noms de champs
 essayés) et journalise des échantillons de diagnostic en cas d'échec
@@ -26,7 +31,7 @@ import requests
 
 # Même calcul de score / déclassement que le script du matin.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from fetch_pmu import form_score  # noqa: E402
+from fetch_pmu import form_score, parse_musique, is_reunion_france  # noqa: E402
 
 BASE_URL = "https://offline.turfinfo.api.pmu.fr/rest/client/7/programme"
 # Accès « web » du PMU : contient les rapports des courses « exclu web »
@@ -66,9 +71,34 @@ SCORE_BUCKETS = (
 # Version du format du bilan : 2 = calcul du score corrigé (lecture de la
 # musique PMU) ; 3 = chaque partant indique si le PMU a publié les rapports de
 # sa course (rapportsPublies) ; 4 = les rapports des courses « exclu web » sont
-# aussi récupérés (accès web du PMU). Un bilan enregistré avec une version plus
-# ancienne est recalculé automatiquement.
-BILAN_VERSION = 4
+# aussi récupérés (accès web du PMU) ; 5 = chaque partant garde sa cote, le
+# pays de sa réunion, le nombre de courses de sa musique et sa place dans
+# l'écurie du jour, et le bilan contient les croisements de la tranche « 0 ».
+# Un bilan enregistré avec une version plus ancienne est recalculé
+# automatiquement.
+BILAN_VERSION = 5
+
+# Croisements : ils portent sur les chevaux dont la note est comprise entre
+# CROISEMENT_NOTE_MIN inclus et CROISEMENT_NOTE_MAX exclu (0 à 0,99).
+CROISEMENT_NOTE_MIN = 0
+CROISEMENT_NOTE_MAX = 1
+COTE_BUCKETS = [
+    ("moins de 3", None, 3),
+    ("3 à 5,9", 3, 6),
+    ("6 à 11,9", 6, 12),
+    ("12 et plus", 12, None),
+]
+NB_COURSES_BUCKETS = [
+    ("1 à 2 courses", 1, 3),
+    ("3 à 4 courses", 3, 5),
+    ("5 courses et plus", 5, None),
+]
+ENGAGEMENT_LIBELLES = [
+    ("meilleur engagement de son entraîneur", "meilleur"),
+    ("autre cheval d'un entraîneur à 2+ partants", "autre"),
+    ("entraîneur à un seul partant", "seul"),
+]
+PAYS_LIBELLES = [("France", True), ("étranger", False)]
 
 # Avant cette date, les engagements enregistrés mélangeaient des allocations
 # en devises différentes (ex. Hong Kong) : le déclassement de ces jours-là est
@@ -260,6 +290,112 @@ def aggregate(label, bucket_entries):
     }
 
 
+# --- Données supplémentaires pour les croisements ---
+
+# Cote du cheval telle que le PMU l'affiche (dernier rapport connu du simple
+# gagnant). Contrairement aux rapports définitifs, elle existe pour tous les
+# partants, pas seulement pour le gagnant et les placés.
+COTE_DIRECTE_KEYS = ["dernierRapportDirect", "dernierRapportReference"]
+
+
+def extract_cote_directe(participant: dict):
+    for key in COTE_DIRECTE_KEYS:
+        val = participant.get(key)
+        if isinstance(val, dict):
+            val = val.get("rapport")
+        if isinstance(val, (int, float)) and not isinstance(val, bool) and val > 0:
+            return float(val)
+    return None
+
+
+def fetch_reunions_france(date_ddmmyyyy: str):
+    """Renvoie {'R3': True, 'R7': False, ...} (True = réunion en France), ou
+    {} si le programme du jour est indisponible."""
+    try:
+        programme = fetch_json(f"{BASE_URL}/{date_ddmmyyyy}")
+    except (requests.RequestException, ValueError) as e:
+        print(f"  ! programme indisponible pour le pays des réunions : {e}", file=sys.stderr)
+        return {}
+    if not isinstance(programme, dict):
+        return {}
+    result = {}
+    for reunion in (programme.get("programme") or {}).get("reunions") or []:
+        num = reunion.get("numOfficiel") or reunion.get("numExterne") or reunion.get("numReunion")
+        if num is not None:
+            result[f"R{num}"] = is_reunion_france(reunion)
+    return result
+
+
+def marquer_engagements(bilan_entries):
+    """Ajoute à chaque partant sa place dans l'écurie du jour : « meilleur »
+    (mieux noté d'un entraîneur ayant 2 partants ou plus), « autre » (autre
+    cheval du même entraîneur) ou « seul » (entraîneur à un seul partant)."""
+    par_entraineur = {}
+    for e in bilan_entries:
+        par_entraineur.setdefault(e.get("entraineur", ""), []).append(e)
+    for chevaux in par_entraineur.values():
+        if len(chevaux) < 2:
+            for e in chevaux:
+                e["engagement"] = "seul"
+            continue
+        notes = [e for e in chevaux if e.get("score") is not None]
+        meilleur = min(notes, key=lambda e: e["score"]) if notes else None
+        for e in chevaux:
+            e["engagement"] = "meilleur" if e is meilleur else "autre"
+
+
+def build_croisements(bilan_entries):
+    """Découpe les chevaux notés 0 à 0,99 selon quatre critères. Chaque
+    groupe est calculé comme une tranche du bilan (voir aggregate)."""
+    retenus = [
+        e for e in bilan_entries
+        if e.get("score") is not None and CROISEMENT_NOTE_MIN <= e["score"] < CROISEMENT_NOTE_MAX
+    ]
+
+    def par_tranches(buckets, valeur):
+        groupes = {label: [] for label, _, _ in buckets}
+        inconnus = []
+        for e in retenus:
+            v = valeur(e)
+            cible = inconnus
+            if v is not None:
+                for label, lo, hi in buckets:
+                    if (lo is None or v >= lo) and (hi is None or v < hi):
+                        cible = groupes[label]
+                        break
+            cible.append(e)
+        resultat = [aggregate(label, groupes[label]) for label, _, _ in buckets]
+        if inconnus:
+            resultat.append(aggregate("inconnu", inconnus))
+        return resultat
+
+    def par_valeurs(libelles, valeur):
+        groupes = {label: [] for label, _ in libelles}
+        inconnus = []
+        for e in retenus:
+            v = valeur(e)
+            label = next((lab for lab, attendu in libelles if v is not None and v == attendu), None)
+            (groupes[label] if label else inconnus).append(e)
+        resultat = [aggregate(label, groupes[label]) for label, _ in libelles]
+        if inconnus:
+            resultat.append(aggregate("inconnu", inconnus))
+        return resultat
+
+    def cote(e):
+        # À défaut de cote affichée, la cote définitive du gagnant fait foi.
+        return e.get("coteDirecte") or (e.get("coteGagnant") if e.get("arrivee") == 1 else None)
+
+    return {
+        "noteMin": CROISEMENT_NOTE_MIN,
+        "noteMax": CROISEMENT_NOTE_MAX,
+        "n": sum(1 for e in retenus if e.get("arrivee") is not None),
+        "cote": par_tranches(COTE_BUCKETS, cote),
+        "nbCourses": par_tranches(NB_COURSES_BUCKETS, lambda e: e.get("nbCourses") or None),
+        "engagement": par_valeurs(ENGAGEMENT_LIBELLES, lambda e: e.get("engagement")),
+        "pays": par_valeurs(PAYS_LIBELLES, lambda e: e.get("france")),
+    }
+
+
 def build_bilan(date_iso: str, date_ddmmyyyy: str):
     src_path = OUTPUT_DIR / f"engagements-{date_iso}.json"
     if not src_path.exists():
@@ -271,6 +407,8 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
     if not entries:
         print("Fichier engagements trouvé mais vide.", file=sys.stderr)
         return None
+
+    reunions_france = fetch_reunions_france(date_ddmmyyyy)
 
     # Regroupe par course pour n'appeler chaque endpoint qu'une fois.
     by_course = {}
@@ -290,10 +428,12 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
             print(f"  ! échec participants (résultats) R{reunion}{course}: {e}", file=sys.stderr)
             participants = []
         arrivee_par_cheval = {}
+        cote_directe_par_cheval = {}
         for p in participants:
             nom = p.get("nom", "")
             if nom:
                 arrivee_par_cheval[nom] = extract_arrivee(p)
+                cote_directe_par_cheval[nom] = extract_cote_directe(p)
 
         cotes = fetch_cotes(date_ddmmyyyy, num_reunion, num_course)
         rapports_publies = bool(cotes)
@@ -322,7 +462,14 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
                 "coteGagnant": c.get("gagnant"),
                 "cotePlace": c.get("place"),
                 "rapportsPublies": rapports_publies,
+                "coteDirecte": cote_directe_par_cheval.get(e["cheval"]),
+                "france": reunions_france.get(e["reunion"]),
+                "nbCourses": len(parse_musique(e.get("musique", ""))),
             })
+
+    marquer_engagements(bilan_entries)
+    avec_cote = sum(1 for e in bilan_entries if e.get("coteDirecte") is not None)
+    print(f"  {avec_cote}/{len(bilan_entries)} partants avec une cote affichée trouvée ({date_iso}).")
 
     bucket_results, class_shift_results = build_aggregates(bilan_entries)
     return {
@@ -332,6 +479,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
         "entries": bilan_entries,
         "buckets": bucket_results,
         "classShiftBuckets": class_shift_results,
+        "croisements": build_croisements(bilan_entries),
     }
 
 
@@ -409,6 +557,7 @@ def build_cumul(racing_day_iso: str):
         "classShiftDepuis": CLASS_SHIFT_MIN_DATE,
         "buckets": bucket_results,
         "classShiftBuckets": class_shift_results,
+        "croisements": build_croisements(all_entries),
     }
     out = OUTPUT_DIR / "bilan-cumul.json"
     out.write_text(json.dumps(cumul, ensure_ascii=False, indent=2), encoding="utf-8")
