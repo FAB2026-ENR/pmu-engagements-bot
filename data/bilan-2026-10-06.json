@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "date": "2026-10-06",
-  "generatedAt": "2026-10-06T21:44:25.647995+00:00",
+  "generatedAt": "2026-10-07T21:48:00.518903+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -1585,7 +1585,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1606,7 +1606,7 @@
       "coteGagnant": 2.6,
       "cotePlace": 1.4,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 2.6,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1627,7 +1627,7 @@
       "coteGagnant": null,
       "cotePlace": 2.0,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 8.6,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1648,7 +1648,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1669,7 +1669,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1690,7 +1690,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 5.8,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1711,7 +1711,7 @@
       "coteGagnant": null,
       "cotePlace": 4.4,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 24.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1732,7 +1732,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 8.3,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1753,7 +1753,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 7.3,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1774,7 +1774,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 30.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1795,7 +1795,7 @@
       "coteGagnant": null,
       "cotePlace": 1.4,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 3.2,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1816,7 +1816,7 @@
       "coteGagnant": null,
       "cotePlace": 2.1,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1837,7 +1837,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 8.5,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1858,7 +1858,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 8.5,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1879,7 +1879,7 @@
       "coteGagnant": 3.7,
       "cotePlace": 1.4,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 3.7,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1900,7 +1900,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 18.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1921,7 +1921,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 6.3,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1942,7 +1942,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 27.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -1963,7 +1963,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -1984,7 +1984,7 @@
       "coteGagnant": null,
       "cotePlace": 2.0,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 8.8,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2005,7 +2005,7 @@
       "coteGagnant": 23.9,
       "cotePlace": 6.3,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 23.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2026,7 +2026,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 2.2,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2047,7 +2047,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2068,7 +2068,7 @@
       "coteGagnant": null,
       "cotePlace": 2.7,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 7.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2089,7 +2089,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 4.5,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2110,7 +2110,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 19.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2131,7 +2131,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2152,7 +2152,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2173,7 +2173,7 @@
       "coteGagnant": 2.9,
       "cotePlace": 1.2,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 2.9,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -2194,7 +2194,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 8.3,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2215,7 +2215,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 36.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2236,7 +2236,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 53.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2257,7 +2257,7 @@
       "coteGagnant": null,
       "cotePlace": 1.9,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 6.4,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -2278,7 +2278,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2299,7 +2299,7 @@
       "coteGagnant": null,
       "cotePlace": 1.5,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 4.5,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2320,7 +2320,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 19.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2341,7 +2341,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 18.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2362,7 +2362,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 29.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2383,7 +2383,7 @@
       "coteGagnant": null,
       "cotePlace": 4.0,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -2404,7 +2404,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 5.4,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2425,7 +2425,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2446,7 +2446,7 @@
       "coteGagnant": null,
       "cotePlace": null,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2467,7 +2467,7 @@
       "coteGagnant": 2.1,
       "cotePlace": 1.4,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 2.1,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2488,7 +2488,7 @@
       "coteGagnant": null,
       "cotePlace": 1.4,
       "rapportsPublies": true,
-      "coteDirecte": null,
+      "coteDirecte": 5.8,
       "france": false,
       "nbCourses": 3,
       "engagement": "seul"
@@ -2504,12 +2504,12 @@
       "prixPrec": null,
       "score": 3.84,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2525,12 +2525,12 @@
       "prixPrec": null,
       "score": 6.36,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2546,12 +2546,12 @@
       "prixPrec": null,
       "score": 3.87,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2567,12 +2567,12 @@
       "prixPrec": null,
       "score": 2.84,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 20.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2588,12 +2588,12 @@
       "prixPrec": null,
       "score": 5.64,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "cotePlace": 2.8,
+      "rapportsPublies": true,
+      "coteDirecte": 8.7,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2610,11 +2610,11 @@
       "score": 3.51,
       "classShift": null,
       "arrivee": null,
-      "statutArrivee": "PARTANT",
+      "statutArrivee": "ARRETE",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2630,12 +2630,12 @@
       "prixPrec": null,
       "score": 2.56,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 1,
       "statutArrivee": "PARTANT",
-      "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "coteGagnant": 4.8,
+      "cotePlace": 1.8,
+      "rapportsPublies": true,
+      "coteDirecte": 4.8,
       "france": false,
       "nbCourses": 3,
       "engagement": "meilleur"
@@ -2651,12 +2651,12 @@
       "prixPrec": null,
       "score": 2.56,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2672,12 +2672,12 @@
       "prixPrec": null,
       "score": 4.05,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
-      "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "cotePlace": 1.9,
+      "rapportsPublies": true,
+      "coteDirecte": 4.8,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2693,12 +2693,12 @@
       "prixPrec": null,
       "score": 2.47,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 9,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 4.8,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2718,8 +2718,8 @@
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
-      "rapportsPublies": false,
-      "coteDirecte": null,
+      "rapportsPublies": true,
+      "coteDirecte": 25.0,
       "france": false,
       "nbCourses": 3,
       "engagement": "autre"
@@ -2764,63 +2764,63 @@
     },
     {
       "label": "2",
-      "n": 12,
-      "nRoi": 12,
-      "nGagnants": 2,
-      "nPlaces": 3,
-      "tauxGagnant": 16.7,
+      "n": 16,
+      "nRoi": 16,
+      "nGagnants": 3,
+      "nPlaces": 4,
+      "tauxGagnant": 18.8,
       "tauxPlace": 25.0,
-      "coteGagnantMoyenne": 3.3,
-      "roiGagnant": -45.0,
-      "roiPlace": -68.3
+      "coteGagnantMoyenne": 3.8,
+      "roiGagnant": -28.7,
+      "roiPlace": -65.0
     },
     {
       "label": "3",
-      "n": 13,
-      "nRoi": 13,
-      "nGagnants": 2,
-      "nPlaces": 7,
-      "tauxGagnant": 15.4,
-      "tauxPlace": 53.8,
-      "coteGagnantMoyenne": 3.8,
-      "roiGagnant": -41.5,
-      "roiPlace": -30.0
-    },
-    {
-      "label": "4",
-      "n": 18,
-      "nRoi": 18,
-      "nGagnants": 3,
-      "nPlaces": 9,
-      "tauxGagnant": 16.7,
-      "tauxPlace": 50.0,
-      "coteGagnantMoyenne": 5.87,
-      "roiGagnant": -2.2,
-      "roiPlace": 21.1
-    },
-    {
-      "label": "5",
-      "n": 16,
-      "nRoi": 16,
-      "nGagnants": 0,
-      "nPlaces": 5,
-      "tauxGagnant": 0.0,
-      "tauxPlace": 31.2,
-      "coteGagnantMoyenne": null,
-      "roiGagnant": -100.0,
-      "roiPlace": -8.8
-    },
-    {
-      "label": "6",
       "n": 15,
       "nRoi": 15,
       "nGagnants": 2,
-      "nPlaces": 5,
+      "nPlaces": 7,
       "tauxGagnant": 13.3,
-      "tauxPlace": 33.3,
+      "tauxPlace": 46.7,
+      "coteGagnantMoyenne": 3.8,
+      "roiGagnant": -49.3,
+      "roiPlace": -39.3
+    },
+    {
+      "label": "4",
+      "n": 19,
+      "nRoi": 19,
+      "nGagnants": 3,
+      "nPlaces": 10,
+      "tauxGagnant": 15.8,
+      "tauxPlace": 52.6,
+      "coteGagnantMoyenne": 5.87,
+      "roiGagnant": -7.4,
+      "roiPlace": 24.7
+    },
+    {
+      "label": "5",
+      "n": 17,
+      "nRoi": 17,
+      "nGagnants": 0,
+      "nPlaces": 6,
+      "tauxGagnant": 0.0,
+      "tauxPlace": 35.3,
+      "coteGagnantMoyenne": null,
+      "roiGagnant": -100.0,
+      "roiPlace": 2.4
+    },
+    {
+      "label": "6",
+      "n": 16,
+      "nRoi": 16,
+      "nGagnants": 2,
+      "nPlaces": 5,
+      "tauxGagnant": 12.5,
+      "tauxPlace": 31.2,
       "coteGagnantMoyenne": 18.05,
-      "roiGagnant": 140.7,
-      "roiPlace": 36.7
+      "roiGagnant": 125.6,
+      "roiPlace": 28.1
     },
     {
       "label": "7",
@@ -3088,6 +3088,18 @@
       },
       {
         "label": "3 à 5,9",
+        "n": 2,
+        "nRoi": 2,
+        "nGagnants": 0,
+        "nPlaces": 2,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 100.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -30.0
+      },
+      {
+        "label": "6 à 11,9",
         "n": 1,
         "nRoi": 1,
         "nGagnants": 0,
@@ -3096,19 +3108,7 @@
         "tauxPlace": 100.0,
         "coteGagnantMoyenne": null,
         "roiGagnant": -100.0,
-        "roiPlace": -100.0
-      },
-      {
-        "label": "6 à 11,9",
-        "n": 0,
-        "nRoi": 0,
-        "nGagnants": 0,
-        "nPlaces": 0,
-        "tauxGagnant": null,
-        "tauxPlace": null,
-        "coteGagnantMoyenne": null,
-        "roiGagnant": null,
-        "roiPlace": null
+        "roiPlace": 90.0
       },
       {
         "label": "12 et plus",
@@ -3121,18 +3121,6 @@
         "coteGagnantMoyenne": null,
         "roiGagnant": null,
         "roiPlace": null
-      },
-      {
-        "label": "inconnu",
-        "n": 2,
-        "nRoi": 2,
-        "nGagnants": 0,
-        "nPlaces": 2,
-        "tauxGagnant": 0.0,
-        "tauxPlace": 100.0,
-        "coteGagnantMoyenne": null,
-        "roiGagnant": -100.0,
-        "roiPlace": 65.0
       }
     ],
     "nbCourses": [
@@ -3235,6 +3223,32 @@
         "coteGagnantMoyenne": null,
         "roiGagnant": -100.0,
         "roiPlace": 65.0
+      }
+    ],
+    "combinaison": [
+      {
+        "label": "France et 5 courses ou plus",
+        "n": 1,
+        "nRoi": 1,
+        "nGagnants": 0,
+        "nPlaces": 1,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 100.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "tous les autres chevaux de la tranche",
+        "n": 3,
+        "nRoi": 3,
+        "nGagnants": 1,
+        "nPlaces": 3,
+        "tauxGagnant": 33.3,
+        "tauxPlace": 100.0,
+        "coteGagnantMoyenne": 1.5,
+        "roiGagnant": -50.0,
+        "roiPlace": 53.3
       }
     ]
   }

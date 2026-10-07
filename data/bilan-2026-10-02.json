@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "date": "2026-10-02",
-  "generatedAt": "2026-10-06T21:44:34.304641+00:00",
+  "generatedAt": "2026-10-07T21:46:48.458702+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -4387,6 +4387,32 @@
         "coteGagnantMoyenne": null,
         "roiGagnant": null,
         "roiPlace": null
+      }
+    ],
+    "combinaison": [
+      {
+        "label": "France et 5 courses ou plus",
+        "n": 1,
+        "nRoi": 1,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
+      },
+      {
+        "label": "tous les autres chevaux de la tranche",
+        "n": 12,
+        "nRoi": 12,
+        "nGagnants": 1,
+        "nPlaces": 5,
+        "tauxGagnant": 8.3,
+        "tauxPlace": 41.7,
+        "coteGagnantMoyenne": 14.6,
+        "roiGagnant": 21.7,
+        "roiPlace": 28.8
       }
     ]
   }
