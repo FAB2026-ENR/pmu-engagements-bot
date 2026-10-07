@@ -14,7 +14,8 @@ définitives, et produit un bilan :
 Pour les chevaux notés de 0 à 0,99 (tranche « 0 »), le bilan ajoute des
 croisements : selon la cote du cheval, le nombre de courses lues dans sa
 musique, sa place dans l'écurie de son entraîneur ce jour-là, et le pays de
-la réunion (France ou étranger).
+la réunion (France ou étranger), plus une combinaison suivie (France et
+5 courses ou plus).
 
 Comme pour fetch_pmu.py, les noms de champs PMU utilisés ici ne sont pas
 documentés officiellement. Le code reste tolérant (plusieurs noms de champs
@@ -73,10 +74,13 @@ SCORE_BUCKETS = (
 # sa course (rapportsPublies) ; 4 = les rapports des courses « exclu web » sont
 # aussi récupérés (accès web du PMU) ; 5 = chaque partant garde sa cote, le
 # pays de sa réunion, le nombre de courses de sa musique et sa place dans
-# l'écurie du jour, et le bilan contient les croisements de la tranche « 0 ».
+# l'écurie du jour, et le bilan contient les croisements de la tranche « 0 » ;
+# 6 = la cote manquante (réunions étrangères) est cherchée par l'accès web, le
+# croisement par cote ne traite plus les gagnants à part, et une combinaison
+# suivie (France + 5 courses ou plus) est ajoutée.
 # Un bilan enregistré avec une version plus ancienne est recalculé
 # automatiquement.
-BILAN_VERSION = 5
+BILAN_VERSION = 6
 
 # Croisements : ils portent sur les chevaux dont la note est comprise entre
 # CROISEMENT_NOTE_MIN inclus et CROISEMENT_NOTE_MAX exclu (0 à 0,99).
@@ -99,6 +103,10 @@ ENGAGEMENT_LIBELLES = [
     ("entraîneur à un seul partant", "seul"),
 ]
 PAYS_LIBELLES = [("France", True), ("étranger", False)]
+# Combinaison suivie, fixée à l'avance : réunion en France ET au moins
+# COMBINAISON_NB_COURSES courses lues dans la musique.
+COMBINAISON_NB_COURSES = 5
+COMBINAISON_LIBELLE = "France et 5 courses ou plus"
 
 # Avant cette date, les engagements enregistrés mélangeaient des allocations
 # en devises différentes (ex. Hong Kong) : le déclassement de ces jours-là est
@@ -308,6 +316,30 @@ def extract_cote_directe(participant: dict):
     return None
 
 
+def fetch_cotes_directes_web(date_ddmmyyyy: str, num_reunion, num_course):
+    """Renvoie {nom du cheval: cote} lue par l'accès web du PMU. Sert pour les
+    courses (surtout à l'étranger) dont l'accès habituel ne donne pas la cote
+    des partants. Renvoie {} si l'accès web ne répond pas ou n'a rien."""
+    url = f"{ONLINE_BASE_URL}/{date_ddmmyyyy}/R{num_reunion}/C{num_course}/participants?specialisation=INTERNET"
+    try:
+        data = fetch_json(url)
+    except (requests.RequestException, ValueError) as e:
+        print(f"  ! cotes web indisponibles R{num_reunion}C{num_course}: {e}", file=sys.stderr)
+        return {}
+    participants = data.get("participants", []) if isinstance(data, dict) else []
+    result = {}
+    for p in participants or []:
+        if not isinstance(p, dict):
+            continue
+        nom = p.get("nom", "")
+        cote = extract_cote_directe(p)
+        if nom and cote is not None:
+            result[nom] = cote
+    if participants and not result:
+        debug_sample(f"cote introuvable par l'accès web R{num_reunion}C{num_course}, clés dispo", list(participants[0].keys()) if isinstance(participants[0], dict) else participants[0])
+    return result
+
+
 def fetch_reunions_france(date_ddmmyyyy: str):
     """Renvoie {'R3': True, 'R7': False, ...} (True = réunion en France), ou
     {} si le programme du jour est indisponible."""
@@ -382,8 +414,14 @@ def build_croisements(bilan_entries):
         return resultat
 
     def cote(e):
-        # À défaut de cote affichée, la cote définitive du gagnant fait foi.
-        return e.get("coteDirecte") or (e.get("coteGagnant") if e.get("arrivee") == 1 else None)
+        # Uniquement la cote affichée, pour tous les chevaux : se rabattre sur
+        # la cote définitive pour les seuls gagnants fausserait les groupes
+        # (les gagnants seraient classés, les perdants sans cote ne le
+        # seraient pas).
+        return e.get("coteDirecte") or None
+
+    def dans_combinaison(e):
+        return e.get("france") is True and (e.get("nbCourses") or 0) >= COMBINAISON_NB_COURSES
 
     return {
         "noteMin": CROISEMENT_NOTE_MIN,
@@ -393,6 +431,10 @@ def build_croisements(bilan_entries):
         "nbCourses": par_tranches(NB_COURSES_BUCKETS, lambda e: e.get("nbCourses") or None),
         "engagement": par_valeurs(ENGAGEMENT_LIBELLES, lambda e: e.get("engagement")),
         "pays": par_valeurs(PAYS_LIBELLES, lambda e: e.get("france")),
+        "combinaison": [
+            aggregate(COMBINAISON_LIBELLE, [e for e in retenus if dans_combinaison(e)]),
+            aggregate("tous les autres chevaux de la tranche", [e for e in retenus if not dans_combinaison(e)]),
+        ],
     }
 
 
@@ -434,6 +476,12 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
             if nom:
                 arrivee_par_cheval[nom] = extract_arrivee(p)
                 cote_directe_par_cheval[nom] = extract_cote_directe(p)
+        # Cote absente pour au moins un cheval de la course qui nous intéresse :
+        # on la demande à l'accès web (un seul appel par course concernée).
+        if any(cote_directe_par_cheval.get(e["cheval"]) is None for e in course_entries):
+            for nom, cote_web in fetch_cotes_directes_web(date_ddmmyyyy, num_reunion, num_course).items():
+                if cote_directe_par_cheval.get(nom) is None:
+                    cote_directe_par_cheval[nom] = cote_web
 
         cotes = fetch_cotes(date_ddmmyyyy, num_reunion, num_course)
         rapports_publies = bool(cotes)
