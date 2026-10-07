@@ -60,6 +60,31 @@ jobs:
         if: github.event.schedule == '30 21 * * *' || (github.event_name == 'workflow_dispatch' && inputs.envoi == 'bilan')
         run: python scripts/notify_telegram.py bilan
 
+      # --- Trot (attelé et monté) ---
+      # Mêmes créneaux que le galop, données rangées à part dans data/trot/.
+      # « continue-on-error » : un souci côté trot ne bloque jamais le galop
+      # ni l'enregistrement final des données.
+      - name: Trot — programme du jour
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python scripts/trot.py programme
+
+      - name: Trot — bilan du soir (arrivées + cotes)
+        if: github.event.schedule == '30 21 * * *' || github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python scripts/trot.py bilan
+
+      - name: Telegram — trot du matin
+        if: github.event.schedule == '45 6 * * *' || (github.event_name == 'workflow_dispatch' && inputs.envoi == 'matin')
+        continue-on-error: true
+        run: python scripts/trot.py telegram-matin
+
+      - name: Telegram — trot du soir
+        if: github.event.schedule == '30 21 * * *' || (github.event_name == 'workflow_dispatch' && inputs.envoi == 'bilan')
+        continue-on-error: true
+        run: python scripts/trot.py telegram-soir
+
       - name: Commit et push si changement
         run: |
           git config user.name "pmu-engagements-bot"
