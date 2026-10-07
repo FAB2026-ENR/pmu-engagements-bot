@@ -1,4 +1,4 @@
-a#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Suivi du trot (attelé et monté), en parallèle du galop.
 
