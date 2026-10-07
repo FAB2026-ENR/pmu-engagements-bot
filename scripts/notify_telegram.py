@@ -15,8 +15,9 @@ Le soir, trois messages :
   1. le résultat de ces mêmes chevaux notés 0 à 0,99 (arrivée, cotes,
      rentabilité d'une mise de 1 €), avec le cumul de la tranche depuis le
      début du suivi ;
-  2. les croisements de cette tranche sur le cumul : selon la cote, le
-     nombre de courses courues, l'entraîneur et le pays ;
+  2. les croisements de cette tranche sur le cumul : la combinaison suivie
+     (France et 5 courses ou plus), puis selon la cote, le nombre de courses
+     courues, l'entraîneur et le pays ;
   3. le bilan général du jour (comme avant).
 
 Nécessite deux secrets GitHub (Settings > Secrets and variables > Actions) :
@@ -270,6 +271,7 @@ def croisements_soir():
                 f"• {g['label']} : {g['n']} {mot}, {g['nGagnants']} g, {g['nPlaces']} p → {roi_g} / {roi_p}"
             )
 
+    bloc("Combinaison suivie", croisements.get("combinaison"))
     bloc("Selon la cote du cheval", croisements.get("cote"))
     bloc("Selon le nombre de courses dans la musique", croisements.get("nbCourses"))
     bloc("Selon l'entraîneur", croisements.get("engagement"))
@@ -378,4 +380,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
