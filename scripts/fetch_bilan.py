@@ -442,7 +442,7 @@ def build_croisements(bilan_entries):
             sans_top = round(100 * (sum(gains) - max(gains) - (len(valides) - 1)) / (len(valides) - 1), 1)
         jour = datetime.strptime(TEST_DEPUIS, "%Y-%m-%d").strftime("%d/%m")
         texte = "—" if sans_top is None else f"{sans_top:+.1f}".replace(".", ",") + " %"
-        resultat["label"] = f"le test, depuis le {jour} (sans le plus gros gagnant : {texte})"
+        resultat["label"] = f"🧪 TEST depuis le {jour} (sans le plus gros gagnant : {texte})"
         resultat["roiGagnantSansTop"] = sans_top
         return resultat
 
