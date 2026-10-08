@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T16:10:41.593456+00:00",
+  "generatedAt": "2026-10-08T16:45:09.707560+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -6852,7 +6852,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -6899,7 +6899,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -6918,6 +6918,7 @@
       "infosCheval": {
         "placeCorde": 3,
         "handicapPoids": 530,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -6946,7 +6947,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -6993,7 +6994,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7012,6 +7013,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 8,
         "nombreVictoires": 0,
@@ -7040,7 +7042,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7087,7 +7089,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7134,7 +7136,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7181,7 +7183,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7228,7 +7230,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7275,7 +7277,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7294,6 +7296,7 @@
       "infosCheval": {
         "placeCorde": 11,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 8,
         "nombreVictoires": 0,
@@ -7322,7 +7325,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7369,7 +7372,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7416,7 +7419,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "REGALON FUNDIDO"
@@ -7708,7 +7711,7 @@
       "reunion": "R5",
       "course": "C2",
       "cheval": "ROJO JAMAS",
-      "jockey": "ANGEL IRENK VEGA CHAMORRO",
+      "jockey": "GABRIEL  URZUA",
       "entraineur": "JOSE GERARDO MELO MELLADO",
       "musique": "9p4p6p",
       "prixJour": 1363,
@@ -7725,7 +7728,7 @@
         "nombrePlacesTroisieme": 10,
         "age": 6,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -7755,7 +7758,7 @@
       "reunion": "R5",
       "course": "C2",
       "cheval": "LINDA LA GRINGA",
-      "jockey": "CRISTIAN ALEJANDRO MUNOZ ROJAS",
+      "jockey": "ANYELO GERMAN SOTO GARCES",
       "entraineur": "EDUARDO S. GONZALEZ",
       "musique": "7p6p0p",
       "prixJour": 1363,
@@ -7772,7 +7775,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 5,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -15274,7 +15277,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -15729,7 +15732,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -16626,7 +16629,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -16676,7 +16679,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -16698,6 +16701,7 @@
           "infosCheval": {
             "placeCorde": 11,
             "handicapPoids": 570,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 8,
             "nombreVictoires": 0,
@@ -16726,7 +16730,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -16776,7 +16780,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -17081,7 +17085,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -18573,7 +18577,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -18586,7 +18590,7 @@
           "reunion": "R5",
           "course": "C2",
           "cheval": "LINDA LA GRINGA",
-          "jockey": "CRISTIAN ALEJANDRO MUNOZ ROJAS",
+          "jockey": "ANYELO GERMAN SOTO GARCES",
           "entraineur": "EDUARDO S. GONZALEZ",
           "musique": "7p6p0p",
           "prixJour": 1363,
@@ -18603,7 +18607,7 @@
             "nombrePlacesTroisieme": 3,
             "age": 5,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -19083,7 +19087,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -19575,6 +19579,7 @@
           "infosCheval": {
             "placeCorde": 3,
             "handicapPoids": 530,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
             "nombreVictoires": 0,
@@ -19603,7 +19608,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -21447,7 +21452,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -21460,7 +21465,7 @@
           "reunion": "R5",
           "course": "C2",
           "cheval": "ROJO JAMAS",
-          "jockey": "ANGEL IRENK VEGA CHAMORRO",
+          "jockey": "GABRIEL  URZUA",
           "entraineur": "JOSE GERARDO MELO MELLADO",
           "musique": "9p4p6p",
           "prixJour": 1363,
@@ -21477,7 +21482,7 @@
             "nombrePlacesTroisieme": 10,
             "age": 6,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -24601,7 +24606,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
@@ -24623,6 +24628,7 @@
           "infosCheval": {
             "placeCorde": 5,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 8,
             "nombreVictoires": 0,
@@ -24651,7 +24657,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "REGALON FUNDIDO"
