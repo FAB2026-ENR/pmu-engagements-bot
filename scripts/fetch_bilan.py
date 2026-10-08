@@ -107,6 +107,9 @@ PAYS_LIBELLES = [("France", True), ("étranger", False)]
 # COMBINAISON_NB_COURSES courses lues dans la musique.
 COMBINAISON_NB_COURSES = 5
 COMBINAISON_LIBELLE = "France et 5 courses ou plus"
+# Test honnête de la combinaison : seuls comptent les chevaux courus à partir
+# de cette date, puisque ceux d'avant ont servi à trouver la piste.
+TEST_DEPUIS = "2026-10-08"
 
 # Avant cette date, les engagements enregistrés mélangeaient des allocations
 # en devises différentes (ex. Hong Kong) : le déclassement de ces jours-là est
@@ -423,6 +426,26 @@ def build_croisements(bilan_entries):
     def dans_combinaison(e):
         return e.get("france") is True and (e.get("nbCourses") or 0) >= COMBINAISON_NB_COURSES
 
+    def groupe_test():
+        """La combinaison sur les seuls chevaux courus depuis TEST_DEPUIS, avec
+        la rentabilité au gagnant sans son plus gros gagnant (critère de
+        décision fixé le 8 octobre), écrite dans le libellé."""
+        chevaux = [e for e in retenus if dans_combinaison(e) and (e.get("jour") or "") >= TEST_DEPUIS]
+        resultat = aggregate("", chevaux)
+        valides = [
+            e for e in chevaux
+            if e.get("arrivee") is not None and e.get("rapportsPublies", True)
+        ]
+        gains = [e.get("coteGagnant") or 0 for e in valides if e["arrivee"] == 1]
+        sans_top = resultat.get("roiGagnant")
+        if gains and len(valides) > 1:
+            sans_top = round(100 * (sum(gains) - max(gains) - (len(valides) - 1)) / (len(valides) - 1), 1)
+        jour = datetime.strptime(TEST_DEPUIS, "%Y-%m-%d").strftime("%d/%m")
+        texte = "—" if sans_top is None else f"{sans_top:+.1f}".replace(".", ",") + " %"
+        resultat["label"] = f"le test, depuis le {jour} (sans le plus gros gagnant : {texte})"
+        resultat["roiGagnantSansTop"] = sans_top
+        return resultat
+
     return {
         "noteMin": CROISEMENT_NOTE_MIN,
         "noteMax": CROISEMENT_NOTE_MAX,
@@ -432,7 +455,8 @@ def build_croisements(bilan_entries):
         "engagement": par_valeurs(ENGAGEMENT_LIBELLES, lambda e: e.get("engagement")),
         "pays": par_valeurs(PAYS_LIBELLES, lambda e: e.get("france")),
         "combinaison": [
-            aggregate(COMBINAISON_LIBELLE, [e for e in retenus if dans_combinaison(e)]),
+            groupe_test(),
+            aggregate(COMBINAISON_LIBELLE + ", depuis le début", [e for e in retenus if dans_combinaison(e)]),
             aggregate("tous les autres chevaux de la tranche", [e for e in retenus if not dans_combinaison(e)]),
         ],
     }
@@ -513,6 +537,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
                 "coteDirecte": cote_directe_par_cheval.get(e["cheval"]),
                 "france": reunions_france.get(e["reunion"]),
                 "nbCourses": len(parse_musique(e.get("musique", ""))),
+                "jour": date_iso,
             })
 
     marquer_engagements(bilan_entries)
