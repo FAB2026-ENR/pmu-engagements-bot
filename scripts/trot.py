@@ -21,7 +21,10 @@ Ce qui diffère du galop :
     pris le départ d'une course terminée et qui n'a pas de place est compté
     comme « non classé », donc comme un pari perdu ;
   - les croisements comparent attelé et monté (pas de « combinaison suivie »,
-    qui est une hypothèse propre au galop).
+    qui est une hypothèse propre au galop) ;
+  - pas de déclassement : au trot, la comparaison des allocations donnait
+    presque tous les chevaux « en montée de catégorie », ce qui faussait les
+    notes. La note du trot repose donc uniquement sur la musique.
 
 Les messages Telegram du trot commencent tous par « 🐎 TROT ».
 """
@@ -45,6 +48,11 @@ NON_PARTANT = "NON_PARTANT"
 STATUT_KEYS = ["statut", "incident", "statutArrivee", "statutParticipant"]
 
 DISCIPLINE_LIBELLES = [("attelé", "attelé"), ("monté", "monté")]
+
+# Version propre au trot, ajoutée à celle du galop : la changer fait
+# recalculer tous les bilans du trot au passage du soir suivant.
+# trot2 = note sans déclassement.
+VERSION_TROT = "trot2"
 
 
 # --- Reconnaître une course de trot ---
@@ -192,7 +200,7 @@ def selection_matin_trot():
 
     retenus = []
     for e in entries:
-        score, shift = fp.form_score(e.get("musique", ""), e.get("prixJour"), e.get("prixPrec"))
+        score, shift = fp.form_score(e.get("musique", ""))
         if nt.dans_la_tranche(score):
             retenus.append({**e, "score": score, "classShift": shift})
     retenus.sort(key=nt.ordre_course)
@@ -204,12 +212,15 @@ def selection_matin_trot():
         mot = "chevaux" if len(retenus) > 1 else "cheval"
         lines.append(f"{len(retenus)} {mot} sur {len(entries)} partants (tous entraîneurs confondus)")
         lines.append("")
-        for c in retenus:
+
+        def format_ligne(c):
             discipline = f" ({c['discipline']})" if c.get("discipline") else ""
-            lines.append(
+            return (
                 f"• {c.get('reunion', '')}{c.get('course', '')}{discipline} — {c['cheval']} — "
-                f"note {nt.fmt_note(c['score'])}{nt.tag_classe(c.get('classShift'))} — {c.get('entraineur', '')}"
+                f"note {nt.fmt_note(c['score'])} — {c.get('entraineur', '')}"
             )
+
+        lines += nt.lignes_par_pays(retenus, nt.pays_des_reunions(data.get("date", "")), format_ligne)
         lines.append("")
         lines.append("Résultat de ces chevaux ce soir, avec le bilan.")
     nt.send("\n".join(lines))
@@ -260,6 +271,11 @@ def croisements_soir_trot():
 # --- Branchement : les scripts du galop travaillent sur le trot ---
 
 def brancher_sur_le_trot():
+    # Pas de déclassement au trot : on ne va pas chercher l'allocation de la
+    # dernière course, et le bilan l'ignore pour tous les jours.
+    fp.fetch_prix_precedents = lambda *args, **kwargs: {}
+    fb.CLASS_SHIFT_MIN_DATE = "9999-12-31"
+    fb.BILAN_VERSION = f"{fb.BILAN_VERSION}-{VERSION_TROT}"
     fp.OUTPUT_DIR = TROT_DIR
     fb.OUTPUT_DIR = TROT_DIR
     nt.DATA_DIR = TROT_DIR
