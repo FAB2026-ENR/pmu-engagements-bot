@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T11:08:47.288953+00:00",
+  "generatedAt": "2026-10-08T11:41:56.575919+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -751,6 +751,7 @@
         "placeCorde": 1,
         "handicapValeur": 35.0,
         "handicapPoids": 560,
+        "poidsConditionMonte": 565,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 7,
         "nombreVictoires": 1,
@@ -4833,7 +4834,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -4883,7 +4884,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -4932,7 +4933,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -4981,7 +4982,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5030,7 +5031,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5080,7 +5081,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5129,7 +5130,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5178,7 +5179,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5228,7 +5229,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5278,7 +5279,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5327,7 +5328,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5377,7 +5378,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -5426,7 +5427,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -14612,7 +14613,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -17183,6 +17184,7 @@
             "placeCorde": 1,
             "handicapValeur": 35.0,
             "handicapPoids": 560,
+            "poidsConditionMonte": 565,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 7,
             "nombreVictoires": 1,
@@ -18981,7 +18983,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -19398,7 +19400,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -20641,7 +20643,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -20696,7 +20698,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -20752,7 +20754,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -23348,7 +23350,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
@@ -23404,7 +23406,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU HONG KONG JOCKEY CLUB"
