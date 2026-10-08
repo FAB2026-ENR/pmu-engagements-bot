@@ -82,6 +82,12 @@ def is_reunion_france(reunion: dict) -> bool:
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data"
 
+# Allocation moyenne des dernières courses de chaque cheval, enregistrée pour
+# étudier un autre calcul du déclassement (comparer avec plusieurs courses
+# plutôt qu'avec la seule dernière). N'entre PAS dans la note pour l'instant.
+NB_COURSES_MOYENNE = 3
+PRIX_MOYENS = {}  # (num_reunion, num_course, num_pmu) -> allocation moyenne
+
 
 def paris_today_ddmmyyyy() -> str:
     """Date du jour au format attendu par l'API PMU (fuseau Paris, approx. UTC+1/+2)."""
@@ -202,6 +208,31 @@ def extract_last_prize(participant_perf: dict):
     return None
 
 
+def extract_prix_moyen(participant_perf: dict):
+    """Moyenne des allocations des NB_COURSES_MOYENNE dernières courses du
+    cheval (celles dont l'allocation est connue), ou None."""
+    for list_key in PAST_RACES_KEYS:
+        past = participant_perf.get(list_key)
+        if not isinstance(past, list) or not past:
+            continue
+        prix = []
+        for course in past:
+            if not isinstance(course, dict):
+                continue
+            for prize_key in PRIZE_KEYS:
+                try:
+                    valeur = float(course.get(prize_key) or 0)
+                except (TypeError, ValueError):
+                    continue
+                if valeur > 0:
+                    prix.append(valeur)
+                    break
+            if len(prix) >= NB_COURSES_MOYENNE:
+                break
+        return round(sum(prix) / len(prix)) if prix else None
+    return None
+
+
 def fetch_prix_precedents(date_ddmmyyyy: str, num_reunion, num_course):
     """Renvoie {numPmu: allocation_derniere_course} pour une course donnée,
     ou {} si l'endpoint échoue ou que sa structure a changé."""
@@ -223,6 +254,12 @@ def fetch_prix_precedents(date_ddmmyyyy: str, num_reunion, num_course):
         prix = extract_last_prize(p)
         if prix is not None:
             result[num_pmu] = prix
+        try:
+            moyen = extract_prix_moyen(p)
+        except Exception:  # simple mesure d'étude : ne doit jamais bloquer le bot
+            moyen = None
+        if moyen is not None:
+            PRIX_MOYENS[(str(num_reunion), str(num_course), num_pmu)] = moyen
     return result
 
 
@@ -279,6 +316,7 @@ def collect_entries(date_ddmmyyyy: str):
                     "musique": musique,
                     "prixJour": montant_prix,
                     "prixPrec": prix_precedents.get(num_pmu) if reunion_france else None,
+                    "prixMoyen": PRIX_MOYENS.get((str(num_reunion), str(num_course), num_pmu)) if reunion_france else None,
                 })
     return entries
 
