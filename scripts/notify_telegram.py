@@ -8,7 +8,8 @@ Usage :
 
 Le matin, deux messages :
   1. les chevaux dont la note de forme est comprise entre 0 et 0,99, parmi
-     TOUS les partants du jour (pas seulement les entraîneurs à 2+ engagés) ;
+     TOUS les partants du jour (pas seulement les entraîneurs à 2+ engagés),
+     classés en deux groupes : réunions en France, puis à l'étranger ;
   2. les meilleurs engagements du jour (comme avant).
 
 Le soir, trois messages :
@@ -29,6 +30,7 @@ Sans ces secrets, le script s'arrête proprement sans rien envoyer.
 import json
 import os
 import sys
+from datetime import datetime
 from pathlib import Path
 
 import requests
@@ -128,6 +130,38 @@ def fmt_place(place):
     return "1er" if place == 1 else f"{place}e"
 
 
+def pays_des_reunions(date_iso: str):
+    """Renvoie {'R1': True, 'R7': False, ...} (True = réunion en France),
+    lu dans le programme du PMU. Renvoie {} si c'est impossible : le message
+    est alors envoyé sans séparation France / étranger."""
+    try:
+        from fetch_bilan import fetch_reunions_france
+        return fetch_reunions_france(datetime.strptime(date_iso, "%Y-%m-%d").strftime("%d%m%Y"))
+    except Exception as e:  # le message du matin doit partir quoi qu'il arrive
+        print(f"Pays des réunions indisponible ({type(e).__name__}) : liste non séparée.", file=sys.stderr)
+        return {}
+
+
+def lignes_par_pays(retenus, pays, format_ligne):
+    """Lignes du message, en deux groupes : France puis étranger."""
+    if not pays:
+        return [format_ligne(c) for c in retenus]
+    lines = []
+    groupes = [
+        ("🇫🇷 France", [c for c in retenus if pays.get(c.get("reunion")) is True]),
+        ("🌍 Étranger", [c for c in retenus if pays.get(c.get("reunion")) is False]),
+    ]
+    inconnus = [c for c in retenus if pays.get(c.get("reunion")) not in (True, False)]
+    if inconnus:
+        groupes.append(("Pays inconnu", inconnus))
+    for titre, groupe in groupes:
+        if lines:
+            lines.append("")
+        lines.append(f"{titre} ({len(groupe)})")
+        lines += [format_ligne(c) for c in groupe] or ["aucun"]
+    return lines
+
+
 def selection_matin():
     """Message du matin : tous les partants du jour notés 0 à 0,99."""
     path = DATA_DIR / "latest.json"
@@ -151,11 +185,14 @@ def selection_matin():
         mot = "chevaux" if len(retenus) > 1 else "cheval"
         lines.append(f"{len(retenus)} {mot} sur {len(entries)} partants (tous entraîneurs confondus)")
         lines.append("")
-        for c in retenus:
-            lines.append(
+
+        def format_ligne(c):
+            return (
                 f"• {c.get('reunion', '')}{c.get('course', '')} — {c['cheval']} — "
                 f"note {fmt_note(c['score'])}{tag_classe(c.get('classShift'))} — {c.get('entraineur', '')}"
             )
+
+        lines += lignes_par_pays(retenus, pays_des_reunions(data.get("date", "")), format_ligne)
         lines.append("")
         lines.append("Résultat de ces chevaux ce soir, avec le bilan.")
     send("\n".join(lines))
