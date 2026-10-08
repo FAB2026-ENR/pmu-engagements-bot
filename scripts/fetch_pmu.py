@@ -88,6 +88,47 @@ OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data"
 NB_COURSES_MOYENNE = 3
 PRIX_MOYENS = {}  # (num_reunion, num_course, num_pmu) -> allocation moyenne
 
+# Critères enregistrés pour être testés plus tard, un par un (ils n'entrent
+# PAS dans la note) : déferrage, corde, poids, valeur handicap, recul au trot,
+# terrain, type de départ, nombre de partants… Le PMU ne documente pas ses
+# champs : on garde ceux qui existent parmi ces noms possibles, et on écrit
+# chaque jour la liste des champs réellement fournis dans data/champs-pmu.json.
+CHAMPS_CHEVAL = [
+    "deferre", "placeCorde", "handicapValeur", "handicapPoids", "poidsConditionMonte",
+    "handicapDistance", "oeilleres", "nombreCourses", "nombreVictoires", "nombrePlaces",
+    "nombrePlacesSecond", "nombrePlacesTroisieme", "age", "sexe", "driverChange",
+    "jumentPleine", "indicateurInedit", "supplement", "allure",
+]
+CHAMPS_COURSE = [
+    "distance", "parcours", "corde", "typePiste", "penetrometre", "nombreDeclaresPartants",
+    "categorieParticularite", "conditionSexe", "conditionAge", "categorieStatut",
+    "discipline", "specialite", "typeDepart", "departImmediat", "libelle",
+]
+_champs_vus = {}
+
+
+def garder_champs(source: dict, noms):
+    """Copie les champs demandés qui existent, en ne gardant que des valeurs
+    simples (texte, nombre, ou petit dictionnaire de valeurs simples)."""
+    resultat = {}
+    for nom in noms:
+        val = source.get(nom)
+        if val is None:
+            continue
+        if isinstance(val, (str, int, float, bool)):
+            resultat[nom] = val
+        elif isinstance(val, dict) and len(val) <= 6 and all(
+            isinstance(v, (str, int, float, bool)) or v is None for v in val.values()
+        ):
+            resultat[nom] = val
+    return resultat
+
+
+def noter_champs(nature: str, source: dict):
+    """Retient, une fois par passage, la liste des champs fournis par le PMU."""
+    if nature not in _champs_vus and isinstance(source, dict):
+        _champs_vus[nature] = sorted(source.keys())
+
 
 def paris_today_ddmmyyyy() -> str:
     """Date du jour au format attendu par l'API PMU (fuseau Paris, approx. UTC+1/+2)."""
@@ -279,6 +320,11 @@ def collect_entries(date_ddmmyyyy: str):
                 continue
             num_course = course.get("numOrdre") or course.get("numExterne")
             montant_prix = course.get("montantPrix")
+            try:
+                noter_champs("course", course)
+                infos_course = garder_champs(course, CHAMPS_COURSE)
+            except Exception:  # mesure d'étude : ne doit jamais bloquer le bot
+                infos_course = {}
 
             try:
                 participants = fetch_json(
@@ -306,6 +352,11 @@ def collect_entries(date_ddmmyyyy: str):
 
                 if not cheval or not entraineur:
                     continue
+                try:
+                    noter_champs("cheval", p)
+                    infos_cheval = garder_champs(p, CHAMPS_CHEVAL)
+                except Exception:
+                    infos_cheval = {}
 
                 entries.append({
                     "reunion": f"R{num_reunion}",
@@ -317,6 +368,8 @@ def collect_entries(date_ddmmyyyy: str):
                     "prixJour": montant_prix,
                     "prixPrec": prix_precedents.get(num_pmu) if reunion_france else None,
                     "prixMoyen": PRIX_MOYENS.get((str(num_reunion), str(num_course), num_pmu)) if reunion_france else None,
+                    "infosCheval": infos_cheval,
+                    "infosCourse": infos_course,
                 })
     return entries
 
@@ -367,6 +420,13 @@ def main():
 
     out_path = OUTPUT_DIR / f"engagements-{date_iso}.json"
     out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    try:
+        (OUTPUT_DIR / "champs-pmu.json").write_text(
+            json.dumps({"date": date_iso, "champs": _champs_vus}, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+    except Exception:
+        pass
 
     latest_path = OUTPUT_DIR / "latest.json"
     latest_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
