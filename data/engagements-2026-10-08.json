@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T12:49:44.917115+00:00",
+  "generatedAt": "2026-10-08T13:13:08.519427+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -1482,6 +1482,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 550,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -1530,7 +1531,7 @@
       "infosCheval": {
         "placeCorde": 3,
         "handicapPoids": 545,
-        "poidsConditionMonte": 530,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -5476,7 +5477,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5525,7 +5526,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5574,7 +5575,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5624,7 +5625,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5673,7 +5674,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5722,7 +5723,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5771,7 +5772,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5820,7 +5821,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5869,7 +5870,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5918,7 +5919,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -5967,7 +5968,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -6016,7 +6017,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -6066,7 +6067,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -6115,7 +6116,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PIERRE VALENTIN"
@@ -19455,7 +19456,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PIERRE VALENTIN"
@@ -20472,7 +20473,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PIERRE VALENTIN"
@@ -20527,7 +20528,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PIERRE VALENTIN"
@@ -22458,6 +22459,7 @@
           "infosCheval": {
             "placeCorde": 2,
             "handicapPoids": 550,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
             "nombreVictoires": 0,
@@ -22933,7 +22935,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PIERRE VALENTIN"
@@ -22988,7 +22990,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PIERRE VALENTIN"
@@ -23461,7 +23463,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PIERRE VALENTIN"
@@ -23576,7 +23578,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PIERRE VALENTIN"
