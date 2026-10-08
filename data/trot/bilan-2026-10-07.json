@@ -1,7 +1,7 @@
 {
-  "version": 6,
+  "version": "6-trot2",
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T21:48:17.241452+00:00",
+  "generatedAt": "2026-10-08T21:48:03.449696+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -11,13 +11,10 @@
       "entraineur": "A. RANDON",
       "musique": "7mDm6aDm3m2m4mDa9m0a",
       "prixJour": 59000,
-      "prixPrec": 35000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.41,
-      "classShift": {
-        "type": "monte",
-        "pct": 69
-      },
+      "score": 6.86,
+      "classShift": null,
       "arrivee": 13,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -26,6 +23,7 @@
       "coteDirecte": 185.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -36,13 +34,10 @@
       "entraineur": "B. LEFEVRE",
       "musique": "2a1a5a7a0a2a3a6a0aDa",
       "prixJour": 59000,
-      "prixPrec": 18500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.94,
-      "classShift": {
-        "type": "monte",
-        "pct": 219
-      },
+      "score": 3.14,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -51,6 +46,7 @@
       "coteDirecte": 23.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -61,13 +57,10 @@
       "entraineur": "M. LEBREC",
       "musique": "6aDaDa0a1aDa1a5aDa1a",
       "prixJour": 59000,
-      "prixPrec": 6000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.46,
-      "classShift": {
-        "type": "monte",
-        "pct": 883
-      },
+      "score": 6.66,
+      "classShift": null,
       "arrivee": 9,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -76,6 +69,7 @@
       "coteDirecte": 57.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -86,13 +80,10 @@
       "entraineur": "TH. LAMARE",
       "musique": "5a8a4mDa5mDa(25)1a1a2a",
       "prixJour": 59000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.45,
-      "classShift": {
-        "type": "monte",
-        "pct": 181
-      },
+      "score": 5.65,
+      "classShift": null,
       "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -101,6 +92,7 @@
       "coteDirecte": 36.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -111,13 +103,10 @@
       "entraineur": "Antonin ANDRE",
       "musique": "6a7aDaDa1aDaDaDa3a2a",
       "prixJour": 59000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.37,
-      "classShift": {
-        "type": "monte",
-        "pct": 181
-      },
+      "score": 6.57,
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -126,6 +115,7 @@
       "coteDirecte": 7.9,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -136,13 +126,10 @@
       "entraineur": "ARNAUD DESMOTTES",
       "musique": "7m6a5mDaDa4aDa2a6aDa",
       "prixJour": 59000,
-      "prixPrec": 30000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.67,
-      "classShift": {
-        "type": "monte",
-        "pct": 97
-      },
+      "score": 6.89,
+      "classShift": null,
       "arrivee": 11,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -151,6 +138,7 @@
       "coteDirecte": 76.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -161,13 +149,10 @@
       "entraineur": "P.L. DESAUNETTE",
       "musique": "1a0aDa3a8a9a9aDa4a5a",
       "prixJour": 59000,
-      "prixPrec": 6000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.69,
-      "classShift": {
-        "type": "monte",
-        "pct": 883
-      },
+      "score": 4.89,
+      "classShift": null,
       "arrivee": 10,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -176,6 +161,7 @@
       "coteDirecte": 24.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -186,13 +172,10 @@
       "entraineur": "A.G. MAILLARD",
       "musique": "9a4a1a5a7a0a4a3a1a2a",
       "prixJour": 59000,
-      "prixPrec": 19500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.17,
-      "classShift": {
-        "type": "monte",
-        "pct": 203
-      },
+      "score": 5.37,
+      "classShift": null,
       "arrivee": 12,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -201,6 +184,7 @@
       "coteDirecte": 70.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -211,13 +195,10 @@
       "entraineur": "G. LESSIEU",
       "musique": "7a0aDa8a4aDa6a8a3a3a",
       "prixJour": 59000,
-      "prixPrec": 20000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 8.41,
-      "classShift": {
-        "type": "monte",
-        "pct": 195
-      },
+      "score": 7.61,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -226,6 +207,7 @@
       "coteDirecte": 141.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -237,13 +219,10 @@
       "entraineur": "J. DUBREIL",
       "musique": "4a0aDaDaDa5aDa5a4a4a",
       "prixJour": 59000,
-      "prixPrec": 30000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.8,
-      "classShift": {
-        "type": "monte",
-        "pct": 97
-      },
+      "score": 7.02,
+      "classShift": null,
       "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -252,6 +231,7 @@
       "coteDirecte": 10.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -262,13 +242,10 @@
       "entraineur": "J.M. BAUDOUIN",
       "musique": "9a2a0a2a2a0a9a4a8aDa",
       "prixJour": 59000,
-      "prixPrec": 59000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 5.48,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -277,6 +254,7 @@
       "coteDirecte": 15.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -288,13 +266,10 @@
       "entraineur": "L.CL. ABRIVARD",
       "musique": "4a5aDa5aDa1a2a5a1a2a",
       "prixJour": 59000,
-      "prixPrec": 59000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 4.94,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": null,
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
@@ -303,6 +278,7 @@
       "coteDirecte": 6.8,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -313,13 +289,10 @@
       "entraineur": "N. LEMETAYER",
       "musique": "9a2a1a1a3a4a1a0a(25)6a",
       "prixJour": 59000,
-      "prixPrec": 68000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 3.32,
-      "classShift": {
-        "type": "stable",
-        "pct": 13
-      },
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -328,6 +301,7 @@
       "coteDirecte": 9.3,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -338,13 +312,10 @@
       "entraineur": "L.M. DAVID",
       "musique": "6a7a4a1a2a4a8a6a4a5a",
       "prixJour": 59000,
-      "prixPrec": 68000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 4.32,
-      "classShift": {
-        "type": "stable",
-        "pct": 13
-      },
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -353,6 +324,7 @@
       "coteDirecte": 15.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -363,13 +335,10 @@
       "entraineur": "Antoine TRIHOLLET",
       "musique": "9a3a9a1aDa0aDa6a(25)1a",
       "prixJour": 59000,
-      "prixPrec": 35000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.72,
-      "classShift": {
-        "type": "monte",
-        "pct": 69
-      },
+      "score": 6.17,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -378,6 +347,7 @@
       "coteDirecte": 13.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -389,13 +359,10 @@
       "entraineur": "A. BUISSON",
       "musique": "9a4a7a2a4a6a5a3a(25)0a",
       "prixJour": 59000,
-      "prixPrec": 90000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.39,
-      "classShift": {
-        "type": "descend",
-        "pct": 34
-      },
+      "score": 5.9,
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 7.5,
@@ -404,7 +371,8 @@
       "coteDirecte": 7.5,
       "france": true,
       "nbCourses": 9,
-      "engagement": "meilleur"
+      "jour": "2026-10-07",
+      "engagement": "autre"
     },
     {
       "reunion": "R1",
@@ -414,13 +382,10 @@
       "entraineur": "D. CHERBONNEL",
       "musique": "2a3a2a2a8a4a0a4a6a4a",
       "prixJour": 59000,
-      "prixPrec": 59000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 1.79,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -429,6 +394,7 @@
       "coteDirecte": 3.8,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -439,13 +405,10 @@
       "entraineur": "S. LALOUM",
       "musique": "4a5m2a3a6a5a8a3a4a3m",
       "prixJour": 59000,
-      "prixPrec": 51000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 3.37,
-      "classShift": {
-        "type": "stable",
-        "pct": 16
-      },
+      "classShift": null,
       "arrivee": 14,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -454,6 +417,7 @@
       "coteDirecte": 14.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -476,6 +440,7 @@
       "coteDirecte": 16.0,
       "france": true,
       "nbCourses": 0,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -487,13 +452,10 @@
       "entraineur": "PH. GAILLARD",
       "musique": "Da",
       "prixJour": 35000,
-      "prixPrec": 15000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 10.8,
-      "classShift": {
-        "type": "monte",
-        "pct": 133
-      },
+      "score": 10.0,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -502,6 +464,7 @@
       "coteDirecte": 93.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -513,13 +476,10 @@
       "entraineur": "Guillaume JOUVE",
       "musique": "Dm4mDa8aDa",
       "prixJour": 35000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "monté",
       "score": 8.47,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -528,6 +488,7 @@
       "coteDirecte": 19.0,
       "france": true,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -539,13 +500,10 @@
       "entraineur": "L. BARASSIN",
       "musique": "DaDa5aDaDa5a6a7a",
       "prixJour": 35000,
-      "prixPrec": 14000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 9.53,
-      "classShift": {
-        "type": "monte",
-        "pct": 150
-      },
+      "score": 8.73,
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -554,6 +512,7 @@
       "coteDirecte": 32.0,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -564,13 +523,10 @@
       "entraineur": "D. BROHIER",
       "musique": "4a4aDmDa",
       "prixJour": 35000,
-      "prixPrec": 19500.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 6.31,
-      "classShift": {
-        "type": "monte",
-        "pct": 79
-      },
+      "score": 5.68,
+      "classShift": null,
       "arrivee": null,
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
@@ -579,6 +535,7 @@
       "coteDirecte": 16.0,
       "france": true,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -589,13 +546,10 @@
       "entraineur": "J.M. MARIE",
       "musique": "DmDm5m6mDm5mDm7aDm",
       "prixJour": 35000,
-      "prixPrec": 22000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 9.1,
-      "classShift": {
-        "type": "monte",
-        "pct": 59
-      },
+      "score": 8.63,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -604,6 +558,7 @@
       "coteDirecte": 22.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -615,13 +570,10 @@
       "entraineur": "M. DUPUIS",
       "musique": "6a5a0a6a9a0a8a8a2a9a",
       "prixJour": 35000,
-      "prixPrec": 12000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 7.65,
-      "classShift": {
-        "type": "monte",
-        "pct": 192
-      },
+      "score": 6.85,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -630,6 +582,7 @@
       "coteDirecte": 98.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -640,13 +593,10 @@
       "entraineur": "D. BONNE",
       "musique": "DmDa1aDa6a5a5aDa4a(25)",
       "prixJour": 35000,
-      "prixPrec": 18000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 8.23,
-      "classShift": {
-        "type": "monte",
-        "pct": 94
-      },
+      "score": 7.47,
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -655,6 +605,7 @@
       "coteDirecte": 5.9,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -665,13 +616,10 @@
       "entraineur": "P. BELLOCHE",
       "musique": "Dm1mDa6aDm5m(25)DmDaDa",
       "prixJour": 35000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "monté",
       "score": 7.36,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 4.0,
@@ -680,6 +628,7 @@
       "coteDirecte": 4.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -690,13 +639,10 @@
       "entraineur": "J.M. CHAINEUX",
       "musique": "4m8a1mDa7aDa",
       "prixJour": 35000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 5.81,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 5.27,
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -705,6 +651,7 @@
       "coteDirecte": 5.2,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -715,13 +662,10 @@
       "entraineur": "M. LECOURT",
       "musique": "7a1a2aDa4aDa7a",
       "prixJour": 35000,
-      "prixPrec": 20000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 5.25,
-      "classShift": {
-        "type": "monte",
-        "pct": 75
-      },
+      "score": 4.65,
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -730,6 +674,7 @@
       "coteDirecte": 2.8,
       "france": true,
       "nbCourses": 7,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -740,13 +685,10 @@
       "entraineur": "J. LE MER",
       "musique": "2a3a4a3aDaDa4a",
       "prixJour": 40000,
-      "prixPrec": 26000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.02,
-      "classShift": {
-        "type": "monte",
-        "pct": 54
-      },
+      "score": 2.59,
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -755,6 +697,7 @@
       "coteDirecte": 7.9,
       "france": true,
       "nbCourses": 7,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -765,13 +708,10 @@
       "entraineur": "P.Y. ROCHARD",
       "musique": "3aDa1a2a8a5aDa",
       "prixJour": 40000,
-      "prixPrec": 35000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 3.7,
-      "classShift": {
-        "type": "stable",
-        "pct": 14
-      },
+      "classShift": null,
       "arrivee": 9,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -780,6 +720,7 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 7,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -790,13 +731,10 @@
       "entraineur": "A. CHAVATTE",
       "musique": "8a2aDa8a2a2a",
       "prixJour": 40000,
-      "prixPrec": 35000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 5.35,
-      "classShift": {
-        "type": "stable",
-        "pct": 14
-      },
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -805,6 +743,7 @@
       "coteDirecte": 5.3,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -816,13 +755,10 @@
       "entraineur": "PH. ALLAIRE",
       "musique": "2a6a1aDaDaDa6aDa(25)3a",
       "prixJour": 40000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.85,
-      "classShift": {
-        "type": "monte",
-        "pct": 90
-      },
+      "score": 4.13,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -831,6 +767,7 @@
       "coteDirecte": 6.6,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -841,13 +778,10 @@
       "entraineur": "LEO ABRIVARD",
       "musique": "4a4aDaDa1aDa(25)4a4a",
       "prixJour": 40000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.75,
-      "classShift": {
-        "type": "monte",
-        "pct": 90
-      },
+      "score": 5.03,
+      "classShift": null,
       "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -856,6 +790,7 @@
       "coteDirecte": 38.0,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -866,13 +801,10 @@
       "entraineur": "E.M. FOURNIER",
       "musique": "4aDa8aDa1a2aDa",
       "prixJour": 40000,
-      "prixPrec": 35000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 5.82,
-      "classShift": {
-        "type": "stable",
-        "pct": 14
-      },
+      "classShift": null,
       "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -881,6 +813,7 @@
       "coteDirecte": 9.3,
       "france": true,
       "nbCourses": 7,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -891,13 +824,10 @@
       "entraineur": "J. BORDAS",
       "musique": "7a5a3a4a1a5a9a9a",
       "prixJour": 40000,
-      "prixPrec": 23000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.29,
-      "classShift": {
-        "type": "monte",
-        "pct": 74
-      },
+      "score": 4.7,
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -906,6 +836,7 @@
       "coteDirecte": 45.0,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -916,13 +847,10 @@
       "entraineur": "J.PH. DUBOIS",
       "musique": "6a7a2a7a1aDa2a",
       "prixJour": 40000,
-      "prixPrec": 18000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.43,
-      "classShift": {
-        "type": "monte",
-        "pct": 122
-      },
+      "score": 4.63,
+      "classShift": null,
       "arrivee": 12,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -931,6 +859,7 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 7,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -941,13 +870,10 @@
       "entraineur": "Sté. Ent. Etienne DUBOIS",
       "musique": "3a1a5a4a",
       "prixJour": 40000,
-      "prixPrec": 35000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 2.16,
-      "classShift": {
-        "type": "stable",
-        "pct": 14
-      },
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 4.6,
@@ -956,6 +882,7 @@
       "coteDirecte": 4.6,
       "france": true,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -966,13 +893,10 @@
       "entraineur": "B. GOGLIN",
       "musique": "2a4a1aDa5a9a",
       "prixJour": 40000,
-      "prixPrec": 19500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.81,
-      "classShift": {
-        "type": "monte",
-        "pct": 105
-      },
+      "score": 3.01,
+      "classShift": null,
       "arrivee": 11,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -981,6 +905,7 @@
       "coteDirecte": 35.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -991,13 +916,10 @@
       "entraineur": "TH. LAMARE",
       "musique": "DaDa3a3aDaDa2a(25)4a",
       "prixJour": 40000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.72,
-      "classShift": {
-        "type": "monte",
-        "pct": 90
-      },
+      "score": 7.0,
+      "classShift": null,
       "arrivee": 10,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1006,6 +928,7 @@
       "coteDirecte": 171.0,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -1016,13 +939,10 @@
       "entraineur": "A. GARANDEAU",
       "musique": "Da1a4a",
       "prixJour": 40000,
-      "prixPrec": 16000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.85,
-      "classShift": {
-        "type": "monte",
-        "pct": 150
-      },
+      "score": 6.05,
+      "classShift": null,
       "arrivee": 14,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1031,6 +951,7 @@
       "coteDirecte": 126.0,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -1041,13 +962,10 @@
       "entraineur": "M. IZZO",
       "musique": "1a3a3a",
       "prixJour": 40000,
-      "prixPrec": 16500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 1.51,
-      "classShift": {
-        "type": "monte",
-        "pct": 142
-      },
+      "score": 0.71,
+      "classShift": null,
       "arrivee": 13,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1056,6 +974,7 @@
       "coteDirecte": 26.0,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1066,13 +985,10 @@
       "entraineur": "L.CL. ABRIVARD",
       "musique": "DaDa1a",
       "prixJour": 40000,
-      "prixPrec": 35000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 7.96,
-      "classShift": {
-        "type": "stable",
-        "pct": 14
-      },
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1081,6 +997,7 @@
       "coteDirecte": 13.0,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -1091,13 +1008,10 @@
       "entraineur": "ARNAUD DESMOTTES",
       "musique": "3a2a2a4aDaDa0a5a",
       "prixJour": 40000,
-      "prixPrec": 18000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.79,
-      "classShift": {
-        "type": "monte",
-        "pct": 122
-      },
+      "score": 2.99,
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1106,7 +1020,8 @@
       "coteDirecte": 55.0,
       "france": true,
       "nbCourses": 8,
-      "engagement": "autre"
+      "jour": "2026-10-07",
+      "engagement": "meilleur"
     },
     {
       "reunion": "R1",
@@ -1116,13 +1031,10 @@
       "entraineur": "H. LE BEC",
       "musique": "2aAa3a5aDa8a3a1aDaDa",
       "prixJour": 35000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.94,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 4.41,
+      "classShift": null,
       "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1131,6 +1043,7 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1141,13 +1054,10 @@
       "entraineur": "B. MARIE",
       "musique": "1aDa0a5a3a2a3a5a(25)0a",
       "prixJour": 35000,
-      "prixPrec": 15000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.84,
-      "classShift": {
-        "type": "monte",
-        "pct": 133
-      },
+      "score": 4.04,
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1156,6 +1066,7 @@
       "coteDirecte": 31.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1166,13 +1077,10 @@
       "entraineur": "G.A. POU POU",
       "musique": "8a2a0a8a7a(25)2a3a4aDa",
       "prixJour": 35000,
-      "prixPrec": 20000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.6,
-      "classShift": {
-        "type": "monte",
-        "pct": 75
-      },
+      "score": 6.0,
+      "classShift": null,
       "arrivee": 10,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1181,6 +1089,7 @@
       "coteDirecte": 84.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1191,13 +1100,10 @@
       "entraineur": "G. HOUEL",
       "musique": "Da0a6a2a1a2a6a6a6a8a",
       "prixJour": 35000,
-      "prixPrec": 14500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.21,
-      "classShift": {
-        "type": "monte",
-        "pct": 141
-      },
+      "score": 6.41,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1206,6 +1112,7 @@
       "coteDirecte": 36.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1216,13 +1123,10 @@
       "entraineur": "A. CHAVATTE",
       "musique": "2aDa2a5a1a5a(25)Da2a2a",
       "prixJour": 35000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.53,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 2.99,
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1231,6 +1135,7 @@
       "coteDirecte": 2.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -1241,13 +1146,10 @@
       "entraineur": "A. HUREAU",
       "musique": "6a3a2aDa1a2a1a5aDa2a",
       "prixJour": 35000,
-      "prixPrec": 14500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.13,
-      "classShift": {
-        "type": "monte",
-        "pct": 141
-      },
+      "score": 3.33,
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.7,
@@ -1256,6 +1158,7 @@
       "coteDirecte": 3.7,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1266,13 +1169,10 @@
       "entraineur": "J. DUBREIL",
       "musique": "6aDa5a6a8a9a3a5a8a0a",
       "prixJour": 35000,
-      "prixPrec": 20000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.5,
-      "classShift": {
-        "type": "monte",
-        "pct": 75
-      },
+      "score": 6.9,
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1281,6 +1181,7 @@
       "coteDirecte": 9.1,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -1291,13 +1192,10 @@
       "entraineur": "S. ERNAULT",
       "musique": "7a5a6a3a1aDa8a(25)2a1a",
       "prixJour": 35000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.26,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 4.72,
+      "classShift": null,
       "arrivee": null,
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
@@ -1306,6 +1204,7 @@
       "coteDirecte": 6.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1316,13 +1215,10 @@
       "entraineur": "Gregg LUPI",
       "musique": "7a6a1a0aDm1a6a(25)0a5a",
       "prixJour": 35000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.38,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 5.84,
+      "classShift": null,
       "arrivee": null,
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
@@ -1331,6 +1227,7 @@
       "coteDirecte": 49.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1341,13 +1238,10 @@
       "entraineur": "D. BLOND",
       "musique": "Da4a2a4a4a2aDaDa5a3a",
       "prixJour": 35000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.4,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 5.86,
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1356,6 +1250,7 @@
       "coteDirecte": 75.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1366,13 +1261,10 @@
       "entraineur": "Sté. Ent. Grégory THOREL",
       "musique": "Dm2m2mAa5aDa7a2a1a4a",
       "prixJour": 35000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 5.55,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1381,6 +1273,7 @@
       "coteDirecte": 85.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -1391,13 +1284,10 @@
       "entraineur": "Mme N. VIEL-PIERRE",
       "musique": "1a1a4a(25)DaDaDaDaDa",
       "prixJour": 35000,
-      "prixPrec": 14000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.3,
-      "classShift": {
-        "type": "monte",
-        "pct": 150
-      },
+      "score": 3.5,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -1406,6 +1296,7 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -1417,13 +1308,10 @@
       "entraineur": "J. GOSSELIN",
       "musique": "4a0a2a8a1a1a8a3a(25)7a",
       "prixJour": 35000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.8,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 4.27,
+      "classShift": null,
       "arrivee": 9,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1432,6 +1320,7 @@
       "coteDirecte": 31.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1442,13 +1331,10 @@
       "entraineur": "D. ARMELLINI",
       "musique": "7m3aDa1a3a2a3a2a3aDa",
       "prixJour": 46000,
-      "prixPrec": 17000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.73,
-      "classShift": {
-        "type": "monte",
-        "pct": 171
-      },
+      "score": 3.93,
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1457,6 +1343,7 @@
       "coteDirecte": 58.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1467,13 +1354,10 @@
       "entraineur": "D. LOCQUENEUX",
       "musique": "1a8a1a1aDa0aDa1a0aDa",
       "prixJour": 46000,
-      "prixPrec": 24000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.95,
-      "classShift": {
-        "type": "monte",
-        "pct": 92
-      },
+      "score": 3.21,
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1482,6 +1366,7 @@
       "coteDirecte": 5.3,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1492,13 +1377,10 @@
       "entraineur": "A. GARANDEAU",
       "musique": "0a1a6a1a2a1a6a7a9a(25)",
       "prixJour": 46000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.27,
-      "classShift": {
-        "type": "monte",
-        "pct": 119
-      },
+      "score": 4.47,
+      "classShift": null,
       "arrivee": 12,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1507,6 +1389,7 @@
       "coteDirecte": 98.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -1517,13 +1400,10 @@
       "entraineur": "F. COMBOT",
       "musique": "8a3aDa0a3a2a5a3a7a7a",
       "prixJour": 46000,
-      "prixPrec": 24000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.37,
-      "classShift": {
-        "type": "monte",
-        "pct": 92
-      },
+      "score": 5.63,
+      "classShift": null,
       "arrivee": 14,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1532,6 +1412,7 @@
       "coteDirecte": 10.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1542,13 +1423,10 @@
       "entraineur": "Sté. Ent. Jonathan VANMEERBECK",
       "musique": "3a5a4a8a0a0a8a3a2aDa",
       "prixJour": 46000,
-      "prixPrec": 14500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.6,
-      "classShift": {
-        "type": "monte",
-        "pct": 217
-      },
+      "score": 4.8,
+      "classShift": null,
       "arrivee": 11,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1557,6 +1435,7 @@
       "coteDirecte": 109.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1567,13 +1446,10 @@
       "entraineur": "A.PH. GRIMAULT",
       "musique": "3a2a1aDaDaDa9a(25)3a2a",
       "prixJour": 46000,
-      "prixPrec": 20000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.98,
-      "classShift": {
-        "type": "monte",
-        "pct": 130
-      },
+      "score": 3.18,
+      "classShift": null,
       "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1582,6 +1458,7 @@
       "coteDirecte": 13.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -1592,13 +1469,10 @@
       "entraineur": "V. MARTENS",
       "musique": "1aDa2aDa5a(25)8aDaDa1a",
       "prixJour": 46000,
-      "prixPrec": 6000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.05,
-      "classShift": {
-        "type": "monte",
-        "pct": 667
-      },
+      "score": 4.25,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -1607,6 +1481,7 @@
       "coteDirecte": 9.2,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -1618,13 +1493,10 @@
       "entraineur": "B.R. PLAIRE",
       "musique": "5a1a0a3a3a1a3a1a1a1a",
       "prixJour": 46000,
-      "prixPrec": 18500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.39,
-      "classShift": {
-        "type": "monte",
-        "pct": 149
-      },
+      "score": 2.59,
+      "classShift": null,
       "arrivee": 13,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1633,6 +1505,7 @@
       "coteDirecte": 82.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1643,13 +1516,10 @@
       "entraineur": "R. HEMERY",
       "musique": "9aDa3a1a3a5a1a2a5a9a",
       "prixJour": 46000,
-      "prixPrec": 20000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.93,
-      "classShift": {
-        "type": "monte",
-        "pct": 130
-      },
+      "score": 5.13,
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1658,6 +1528,7 @@
       "coteDirecte": 214.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1668,13 +1539,10 @@
       "entraineur": "M. LECOURT",
       "musique": "1a1aDaDa2aDa(25)7a2a2a",
       "prixJour": 46000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.44,
-      "classShift": {
-        "type": "monte",
-        "pct": 119
-      },
+      "score": 2.64,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1683,6 +1551,7 @@
       "coteDirecte": 4.2,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -1693,13 +1562,10 @@
       "entraineur": "J.F. VALLETTE",
       "musique": "3a0a7a1aDaDaDa6a0a8a",
       "prixJour": 46000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 6.26,
-      "classShift": {
-        "type": "monte",
-        "pct": 119
-      },
+      "score": 5.46,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -1708,6 +1574,7 @@
       "coteDirecte": 190.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -1719,13 +1586,10 @@
       "entraineur": "D. BROHIER",
       "musique": "4a1a3a8a4a2a7a9a8a9a",
       "prixJour": 46000,
-      "prixPrec": 14500.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.28,
-      "classShift": {
-        "type": "monte",
-        "pct": 217
-      },
+      "score": 3.48,
+      "classShift": null,
       "arrivee": 9,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1734,6 +1598,7 @@
       "coteDirecte": 31.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -1744,13 +1609,10 @@
       "entraineur": "Phady LY",
       "musique": "2a2a5a2a3a2aDa0a0aDa",
       "prixJour": 46000,
-      "prixPrec": 20000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 2.92,
-      "classShift": {
-        "type": "monte",
-        "pct": 130
-      },
+      "score": 2.12,
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1759,6 +1621,7 @@
       "coteDirecte": 46.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1769,13 +1632,10 @@
       "entraineur": "P.Y. VERVA",
       "musique": "2a1a4a2a2a2m2aDa2a1m",
       "prixJour": 46000,
-      "prixPrec": 30000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 1.19,
-      "classShift": {
-        "type": "monte",
-        "pct": 53
-      },
+      "score": 0.76,
+      "classShift": null,
       "arrivee": 10,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1784,6 +1644,7 @@
       "coteDirecte": 18.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1794,13 +1655,10 @@
       "entraineur": "Sté. Ent. Grégory THOREL",
       "musique": "0a9a0aDa7a3a0a4a1a0a",
       "prixJour": 46000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 9.43,
-      "classShift": {
-        "type": "monte",
-        "pct": 119
-      },
+      "score": 8.63,
+      "classShift": null,
       "arrivee": 15,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1809,6 +1667,7 @@
       "coteDirecte": 27.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -1819,13 +1678,10 @@
       "entraineur": "ARNAUD DESMOTTES",
       "musique": "4a(25)2a9a5a2a4a0a3m0a",
       "prixJour": 46000,
-      "prixPrec": 59000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 3.55,
-      "classShift": {
-        "type": "descend",
-        "pct": 22
-      },
+      "score": 3.88,
+      "classShift": null,
       "arrivee": 16,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1834,7 +1690,8 @@
       "coteDirecte": 155.0,
       "france": true,
       "nbCourses": 9,
-      "engagement": "meilleur"
+      "jour": "2026-10-07",
+      "engagement": "autre"
     },
     {
       "reunion": "R1",
@@ -1844,13 +1701,10 @@
       "entraineur": "M. ABRIVARD",
       "musique": "0a0aDa0a(25)5a4a0aDa6a",
       "prixJour": 46000,
-      "prixPrec": 26000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 9.75,
-      "classShift": {
-        "type": "monte",
-        "pct": 77
-      },
+      "score": 9.14,
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 6.9,
@@ -1859,6 +1713,7 @@
       "coteDirecte": 6.9,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -1869,13 +1724,10 @@
       "entraineur": "A. BUISSON",
       "musique": "4a6a5a4aDa2a6a(25)0a4a",
       "prixJour": 46000,
-      "prixPrec": 26000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.76,
-      "classShift": {
-        "type": "monte",
-        "pct": 77
-      },
+      "score": 5.14,
+      "classShift": null,
       "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1884,7 +1736,8 @@
       "coteDirecte": 9.1,
       "france": true,
       "nbCourses": 9,
-      "engagement": "autre"
+      "jour": "2026-10-07",
+      "engagement": "meilleur"
     },
     {
       "reunion": "R1",
@@ -1894,13 +1747,10 @@
       "entraineur": "Ph. GENDRY",
       "musique": "5m9m0m7m6m6a",
       "prixJour": 41000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "monté",
       "score": 6.85,
-      "classShift": {
-        "type": "stable",
-        "pct": 11
-      },
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1909,6 +1759,7 @@
       "coteDirecte": 69.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1919,13 +1770,10 @@
       "entraineur": "T. AGUIAR",
       "musique": "9m6m5m6m7m4m7m0a0a(25)",
       "prixJour": 41000,
-      "prixPrec": 19500.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 8.08,
-      "classShift": {
-        "type": "monte",
-        "pct": 110
-      },
+      "score": 7.28,
+      "classShift": null,
       "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1934,6 +1782,7 @@
       "coteDirecte": 122.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -1944,13 +1793,10 @@
       "entraineur": "J.B. LEMOINE",
       "musique": "DmDa8a7a1a4a",
       "prixJour": 41000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "monté",
       "score": 7.88,
-      "classShift": {
-        "type": "stable",
-        "pct": 11
-      },
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1959,6 +1805,7 @@
       "coteDirecte": 82.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1969,13 +1816,10 @@
       "entraineur": "PH. DAUGEARD",
       "musique": "6m7m5aDa6m4aDa(25)8a7a",
       "prixJour": 41000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "monté",
       "score": 6.62,
-      "classShift": {
-        "type": "stable",
-        "pct": 11
-      },
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -1984,6 +1828,7 @@
       "coteDirecte": 13.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -1994,13 +1839,10 @@
       "entraineur": "T. AGUIAR",
       "musique": "2m5m1m6m5mDm2m8m3m7m",
       "prixJour": 41000,
-      "prixPrec": 24000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 3.63,
-      "classShift": {
-        "type": "monte",
-        "pct": 71
-      },
+      "score": 3.06,
+      "classShift": null,
       "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2009,6 +1851,7 @@
       "coteDirecte": 27.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -2019,13 +1862,10 @@
       "entraineur": "CH.J. BIGEON",
       "musique": "9a8a5a7a9a8a9a0a(25)8a",
       "prixJour": 41000,
-      "prixPrec": 21000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 8.88,
-      "classShift": {
-        "type": "monte",
-        "pct": 95
-      },
+      "score": 8.12,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "ARRETE",
       "coteGagnant": null,
@@ -2034,6 +1874,7 @@
       "coteDirecte": 100.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -2045,13 +1886,10 @@
       "entraineur": "CH. MOTTIER",
       "musique": "1m1mDm3mDa3mDaDm7aDa",
       "prixJour": 41000,
-      "prixPrec": 24000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 3.65,
-      "classShift": {
-        "type": "monte",
-        "pct": 71
-      },
+      "score": 3.08,
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 1.7,
@@ -2060,6 +1898,7 @@
       "coteDirecte": 1.7,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2070,13 +1909,10 @@
       "entraineur": "H. DRAGT",
       "musique": "Aa3a4a2a1a7a",
       "prixJour": 41000,
-      "prixPrec": 30000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 5.1,
-      "classShift": {
-        "type": "monte",
-        "pct": 37
-      },
+      "score": 4.8,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2085,6 +1921,7 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2095,13 +1932,10 @@
       "entraineur": "ST. MEUNIER",
       "musique": "0m3m1mDm0aDmDm2m4m(25)",
       "prixJour": 41000,
-      "prixPrec": 15500.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 7.11,
-      "classShift": {
-        "type": "monte",
-        "pct": 165
-      },
+      "score": 6.31,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2110,6 +1944,7 @@
       "coteDirecte": 22.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -2121,13 +1956,10 @@
       "entraineur": "L. LAUDREN",
       "musique": "Dm4mDa4m8a2mDm2mDaDm",
       "prixJour": 41000,
-      "prixPrec": 19500.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 8.33,
-      "classShift": {
-        "type": "monte",
-        "pct": 110
-      },
+      "score": 7.53,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2136,6 +1968,7 @@
       "coteDirecte": 39.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -2147,13 +1980,10 @@
       "entraineur": "Sté. Ent. Fabrice SOULOY",
       "musique": "3mDm9a1mDm9m5a2mDa1m",
       "prixJour": 41000,
-      "prixPrec": 53000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 4.63,
-      "classShift": {
-        "type": "descend",
-        "pct": 23
-      },
+      "score": 4.98,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2162,6 +1992,7 @@
       "coteDirecte": 4.9,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -2173,13 +2004,10 @@
       "entraineur": "A.PH. GRIMAULT",
       "musique": "Da9m9mDmDm8a(25)1m6m6m",
       "prixJour": 41000,
-      "prixPrec": 24000.0,
+      "prixPrec": null,
       "discipline": "monté",
-      "score": 9.37,
-      "classShift": {
-        "type": "monte",
-        "pct": 71
-      },
+      "score": 8.8,
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2188,6 +2016,7 @@
       "coteDirecte": 13.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2198,13 +2027,10 @@
       "entraineur": "Sté. Ent. Etienne DUBOIS",
       "musique": "0a0aDa6a4a7a8a7a6a(25)",
       "prixJour": 40000,
-      "prixPrec": 30000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 8.92,
-      "classShift": {
-        "type": "monte",
-        "pct": 33
-      },
+      "score": 8.65,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2213,6 +2039,7 @@
       "coteDirecte": 71.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -2224,13 +2051,10 @@
       "entraineur": "Sté. Ent. Christophe CLIN",
       "musique": "Da7a7aDa3a1a1a1a3a4a",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 6.46,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2239,6 +2063,7 @@
       "coteDirecte": 20.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -2250,13 +2075,10 @@
       "entraineur": "G. ROIG-BALAGUER",
       "musique": "Da1a7a3a4a2a1a0a9a(25)",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 5.25,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2265,6 +2087,7 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2275,13 +2098,10 @@
       "entraineur": "Anthony DOLLION",
       "musique": "1a7a1a6a2a(25)Da5a2a3a",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 2.23,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2290,6 +2110,7 @@
       "coteDirecte": 8.4,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2300,13 +2121,10 @@
       "entraineur": "PH. ALLAIRE",
       "musique": "4aDa4a7aDa(25)Da4a2aDa",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 6.25,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.7,
@@ -2315,6 +2133,7 @@
       "coteDirecte": 3.7,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2325,13 +2144,10 @@
       "entraineur": "Guillermo HORRACH VIDAL",
       "musique": "0a3a3a2a8a7a9a3a(25)9a",
       "prixJour": 40000,
-      "prixPrec": 24000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.85,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 5.31,
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2340,6 +2156,7 @@
       "coteDirecte": 84.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2350,13 +2167,10 @@
       "entraineur": "Sté. Ent. R. et D. HUE",
       "musique": "Da8a8aDaDa2a3a2a2a(25)",
       "prixJour": 40000,
-      "prixPrec": 30000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 8.18,
-      "classShift": {
-        "type": "monte",
-        "pct": 33
-      },
+      "score": 7.92,
+      "classShift": null,
       "arrivee": 10,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2365,6 +2179,7 @@
       "coteDirecte": 37.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2375,13 +2190,10 @@
       "entraineur": "J. ENGWERDA",
       "musique": "1a5a1a(25)2a1a1a1a1aDa",
       "prixJour": 40000,
-      "prixPrec": 5000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 1.35,
-      "classShift": {
-        "type": "monte",
-        "pct": 700
-      },
+      "score": 0.55,
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2390,6 +2202,7 @@
       "coteDirecte": 4.5,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -2401,13 +2214,10 @@
       "entraineur": "S. LALOUM",
       "musique": "3a6a4aDa5a7a5aDa6aDa",
       "prixJour": 40000,
-      "prixPrec": 52000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 4.59,
-      "classShift": {
-        "type": "descend",
-        "pct": 23
-      },
+      "score": 4.94,
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2416,6 +2226,7 @@
       "coteDirecte": 15.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2426,13 +2237,10 @@
       "entraineur": "M. ABRIVARD",
       "musique": "7a1a3a6a2a4a1aDa1aDa",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 3.43,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2441,6 +2249,7 @@
       "coteDirecte": 14.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -2451,13 +2260,10 @@
       "entraineur": "G. VERVA",
       "musique": "8a4aDa6a4a2a7a(25)4a6a",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 6.41,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2466,6 +2272,7 @@
       "coteDirecte": 66.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -2477,13 +2284,10 @@
       "entraineur": "H.E. BONDO",
       "musique": "0a5a6aAaDaDaDa1a1aDa",
       "prixJour": 40000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 7.97,
-      "classShift": {
-        "type": "stable",
-        "pct": 13
-      },
+      "classShift": null,
       "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2492,6 +2296,7 @@
       "coteDirecte": 115.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2502,13 +2307,10 @@
       "entraineur": "Sté. Ent. Grégory THOREL",
       "musique": "Da4a0aDa4aDa2a4aDa6a",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 7.78,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": null,
       "statutArrivee": "NON_PARTANT",
       "coteGagnant": null,
@@ -2517,6 +2319,7 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2527,13 +2330,10 @@
       "entraineur": "V. LEBARQUE",
       "musique": "2a1a0a3a2a7a1a2a(25)Da",
       "prixJour": 40000,
-      "prixPrec": 40000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 1.81,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 9,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2542,6 +2342,7 @@
       "coteDirecte": 41.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -2552,13 +2353,10 @@
       "entraineur": "L.CL. ABRIVARD",
       "musique": "0a0a0a(25)8a2a1a5a1a1a",
       "prixJour": 40000,
-      "prixPrec": 24000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 7.86,
-      "classShift": {
-        "type": "monte",
-        "pct": 67
-      },
+      "score": 7.32,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2567,6 +2365,7 @@
       "coteDirecte": 5.2,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2577,13 +2376,10 @@
       "entraineur": "Vitale CIOTOLA",
       "musique": "3a7a4a5a9aDa",
       "prixJour": 46000,
-      "prixPrec": 41000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 4.72,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2592,6 +2388,7 @@
       "coteDirecte": 44.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -2603,13 +2400,10 @@
       "entraineur": "L. LAUDREN",
       "musique": "3a6a0a9a6a2a1a7a(25)0a",
       "prixJour": 46000,
-      "prixPrec": 41000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 4.99,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 9,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2618,6 +2412,7 @@
       "coteDirecte": 14.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -2628,13 +2423,10 @@
       "entraineur": "ERIC LEDOYEN",
       "musique": "3a4a1a1a2a7aDa6aDa4a",
       "prixJour": 46000,
-      "prixPrec": 23000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 2.9,
-      "classShift": {
-        "type": "monte",
-        "pct": 100
-      },
+      "score": 2.1,
+      "classShift": null,
       "arrivee": 8,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2643,6 +2435,7 @@
       "coteDirecte": 40.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2653,13 +2446,10 @@
       "entraineur": "Alain ROUSSEL",
       "musique": "Da8aDa6mDa8a(25)6mDm0a",
       "prixJour": 46000,
-      "prixPrec": 41000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 8.97,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 7,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2668,6 +2458,7 @@
       "coteDirecte": 80.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2678,13 +2469,10 @@
       "entraineur": "A. HENARD",
       "musique": "5a6a8aDaDa6a2a6a3a3a",
       "prixJour": 46000,
-      "prixPrec": 41000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 6.09,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 99,
       "statutArrivee": "DISQUALIFIE_POUR_ALLURE_IRREGULIERE",
       "coteGagnant": null,
@@ -2693,6 +2481,7 @@
       "coteDirecte": 21.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -2704,13 +2493,10 @@
       "entraineur": "Mme Celestine CORTY",
       "musique": "3a1a8a3a1a1a",
       "prixJour": 46000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 1.37,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 6,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2719,6 +2505,7 @@
       "coteDirecte": 2.8,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2729,13 +2516,10 @@
       "entraineur": "Vitale CIOTOLA",
       "musique": "1a3a7a2a0a0a",
       "prixJour": 46000,
-      "prixPrec": 41000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 2.47,
-      "classShift": {
-        "type": "stable",
-        "pct": 12
-      },
+      "classShift": null,
       "arrivee": 1,
       "statutArrivee": "PARTANT",
       "coteGagnant": 3.7,
@@ -2744,6 +2528,7 @@
       "coteDirecte": 3.7,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -2754,13 +2539,10 @@
       "entraineur": "H.E. BONDO",
       "musique": "6a9a7a4a2a5a",
       "prixJour": 46000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 5.75,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 4,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2769,6 +2551,7 @@
       "coteDirecte": 10.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -2779,13 +2562,10 @@
       "entraineur": "N. LEMETAYER",
       "musique": "Da2a2a5a8a(25)3a7aDa1a",
       "prixJour": 46000,
-      "prixPrec": 27000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 5.9,
-      "classShift": {
-        "type": "monte",
-        "pct": 70
-      },
+      "score": 5.34,
+      "classShift": null,
       "arrivee": 5,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2794,6 +2574,7 @@
       "coteDirecte": 8.3,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2804,13 +2585,10 @@
       "entraineur": "D. MOES",
       "musique": "8a0a7a7a2a1a4a3a(25)7a",
       "prixJour": 46000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 6.45,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 10,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2819,6 +2597,7 @@
       "coteDirecte": 105.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2829,13 +2608,10 @@
       "entraineur": "V. LEBARQUE",
       "musique": "Da6a3aDaDa6aDaDa0a(25)",
       "prixJour": 46000,
-      "prixPrec": 27000.0,
+      "prixPrec": null,
       "discipline": "attelé",
-      "score": 8.39,
-      "classShift": {
-        "type": "monte",
-        "pct": 70
-      },
+      "score": 7.83,
+      "classShift": null,
       "arrivee": 3,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2844,6 +2620,7 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -2854,13 +2631,10 @@
       "entraineur": "J.G. VAN EECKHAUTE",
       "musique": "Da3a0a5a2a6a5a5a4a9a",
       "prixJour": 46000,
-      "prixPrec": 46000.0,
+      "prixPrec": null,
       "discipline": "attelé",
       "score": 6.09,
-      "classShift": {
-        "type": "stable",
-        "pct": 0
-      },
+      "classShift": null,
       "arrivee": 2,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
@@ -2869,6 +2643,7 @@
       "coteDirecte": 14.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2891,6 +2666,7 @@
       "coteDirecte": 27.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2913,6 +2689,7 @@
       "coteDirecte": 7.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2935,6 +2712,7 @@
       "coteDirecte": 38.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2957,6 +2735,7 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -2979,6 +2758,7 @@
       "coteDirecte": 28.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3001,6 +2781,7 @@
       "coteDirecte": 15.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -3023,6 +2804,7 @@
       "coteDirecte": 2.2,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3045,6 +2827,7 @@
       "coteDirecte": 3.2,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3067,6 +2850,7 @@
       "coteDirecte": 47.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3089,6 +2873,7 @@
       "coteDirecte": 44.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3111,6 +2896,7 @@
       "coteDirecte": 9.9,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3133,6 +2919,7 @@
       "coteDirecte": 2.5,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3155,6 +2942,7 @@
       "coteDirecte": 2.8,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -3178,6 +2966,7 @@
       "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3200,6 +2989,7 @@
       "coteDirecte": 32.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3222,6 +3012,7 @@
       "coteDirecte": 33.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3244,6 +3035,7 @@
       "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -3266,6 +3058,7 @@
       "coteDirecte": 5.2,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3288,6 +3081,7 @@
       "coteDirecte": 36.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3310,6 +3104,7 @@
       "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3332,6 +3127,7 @@
       "coteDirecte": 5.5,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3354,6 +3150,7 @@
       "coteDirecte": 7.4,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3376,6 +3173,7 @@
       "coteDirecte": 38.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3398,6 +3196,7 @@
       "coteDirecte": 27.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3420,6 +3219,7 @@
       "coteDirecte": 1.9,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3442,6 +3242,7 @@
       "coteDirecte": 19.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -3464,6 +3265,7 @@
       "coteDirecte": 37.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3486,6 +3288,7 @@
       "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3508,6 +3311,7 @@
       "coteDirecte": 3.1,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -3530,6 +3334,7 @@
       "coteDirecte": 8.9,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3552,6 +3357,7 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3574,6 +3380,7 @@
       "coteDirecte": 18.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -3596,6 +3403,7 @@
       "coteDirecte": 4.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -3618,6 +3426,7 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3640,6 +3449,7 @@
       "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3662,6 +3472,7 @@
       "coteDirecte": 5.5,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -3684,6 +3495,7 @@
       "coteDirecte": 29.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3706,6 +3518,7 @@
       "coteDirecte": 43.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3728,6 +3541,7 @@
       "coteDirecte": 37.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3750,6 +3564,7 @@
       "coteDirecte": 85.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3772,6 +3587,7 @@
       "coteDirecte": 23.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3794,6 +3610,7 @@
       "coteDirecte": 2.9,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3816,6 +3633,7 @@
       "coteDirecte": 2.3,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3838,6 +3656,7 @@
       "coteDirecte": 17.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -3861,6 +3680,7 @@
       "coteDirecte": 6.8,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3883,6 +3703,7 @@
       "coteDirecte": 85.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3905,6 +3726,7 @@
       "coteDirecte": 44.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3927,6 +3749,7 @@
       "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3949,6 +3772,7 @@
       "coteDirecte": 74.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -3971,6 +3795,7 @@
       "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -3993,6 +3818,7 @@
       "coteDirecte": 18.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4015,6 +3841,7 @@
       "coteDirecte": 1.7,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4037,6 +3864,7 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -4059,6 +3887,7 @@
       "coteDirecte": 4.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4081,6 +3910,7 @@
       "coteDirecte": 6.7,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4103,6 +3933,7 @@
       "coteDirecte": 20.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -4125,6 +3956,7 @@
       "coteDirecte": 3.7,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4147,6 +3979,7 @@
       "coteDirecte": 4.4,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4169,6 +4002,7 @@
       "coteDirecte": 2.6,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4191,6 +4025,7 @@
       "coteDirecte": 1.8,
       "france": false,
       "nbCourses": 2,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4213,6 +4048,7 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -4235,6 +4071,7 @@
       "coteDirecte": 21.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4257,6 +4094,7 @@
       "coteDirecte": 94.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -4280,6 +4118,7 @@
       "coteDirecte": 9.5,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4302,6 +4141,7 @@
       "coteDirecte": 19.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4324,6 +4164,7 @@
       "coteDirecte": 17.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -4346,6 +4187,7 @@
       "coteDirecte": 1.8,
       "france": false,
       "nbCourses": 2,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4368,6 +4210,7 @@
       "coteDirecte": null,
       "france": false,
       "nbCourses": 2,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4390,6 +4233,7 @@
       "coteDirecte": 49.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4412,6 +4256,7 @@
       "coteDirecte": 4.6,
       "france": false,
       "nbCourses": 2,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4434,6 +4279,7 @@
       "coteDirecte": 4.3,
       "france": false,
       "nbCourses": 2,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4456,6 +4302,7 @@
       "coteDirecte": 24.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -4478,6 +4325,7 @@
       "coteDirecte": 38.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -4501,6 +4349,7 @@
       "coteDirecte": 21.0,
       "france": false,
       "nbCourses": 0,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4523,6 +4372,7 @@
       "coteDirecte": 2.7,
       "france": false,
       "nbCourses": 2,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4545,6 +4395,7 @@
       "coteDirecte": 45.0,
       "france": false,
       "nbCourses": 2,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4567,6 +4418,7 @@
       "coteDirecte": 25.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4589,6 +4441,7 @@
       "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 1,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -4611,6 +4464,7 @@
       "coteDirecte": 30.0,
       "france": false,
       "nbCourses": 0,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4633,6 +4487,7 @@
       "coteDirecte": 184.0,
       "france": false,
       "nbCourses": 1,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4655,6 +4510,7 @@
       "coteDirecte": 4.3,
       "france": false,
       "nbCourses": 0,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4677,6 +4533,7 @@
       "coteDirecte": 30.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4699,6 +4556,7 @@
       "coteDirecte": 3.3,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -4722,6 +4580,7 @@
       "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4744,6 +4603,7 @@
       "coteDirecte": 3.3,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4766,6 +4626,7 @@
       "coteDirecte": 47.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -4788,6 +4649,7 @@
       "coteDirecte": 3.7,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4810,6 +4672,7 @@
       "coteDirecte": 26.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4832,6 +4695,7 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4854,6 +4718,7 @@
       "coteDirecte": 44.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4876,6 +4741,7 @@
       "coteDirecte": 38.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4898,6 +4764,7 @@
       "coteDirecte": 59.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -4920,6 +4787,7 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4942,6 +4810,7 @@
       "coteDirecte": 104.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -4964,6 +4833,7 @@
       "coteDirecte": 1.6,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -4987,6 +4857,7 @@
       "coteDirecte": 25.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5009,6 +4880,7 @@
       "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5031,6 +4903,7 @@
       "coteDirecte": 35.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5053,6 +4926,7 @@
       "coteDirecte": 21.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5075,6 +4949,7 @@
       "coteDirecte": 88.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5097,6 +4972,7 @@
       "coteDirecte": 3.7,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5119,6 +4995,7 @@
       "coteDirecte": 25.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5141,6 +5018,7 @@
       "coteDirecte": 4.1,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5163,6 +5041,7 @@
       "coteDirecte": 20.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5185,6 +5064,7 @@
       "coteDirecte": 1.6,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5207,6 +5087,7 @@
       "coteDirecte": 28.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5229,6 +5110,7 @@
       "coteDirecte": 37.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5251,6 +5133,7 @@
       "coteDirecte": 1.8,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur",
       "nonClasse": true
     },
@@ -5274,6 +5157,7 @@
       "coteDirecte": 43.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5296,6 +5180,7 @@
       "coteDirecte": 26.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5318,6 +5203,7 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5340,6 +5226,7 @@
       "coteDirecte": 45.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5362,6 +5249,7 @@
       "coteDirecte": 15.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5384,6 +5272,7 @@
       "coteDirecte": 8.2,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5406,6 +5295,7 @@
       "coteDirecte": 17.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5428,6 +5318,7 @@
       "coteDirecte": 25.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5450,6 +5341,7 @@
       "coteDirecte": 4.1,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5472,6 +5364,7 @@
       "coteDirecte": null,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5494,6 +5387,7 @@
       "coteDirecte": 2.3,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5516,6 +5410,7 @@
       "coteDirecte": 4.7,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5538,6 +5433,7 @@
       "coteDirecte": 45.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5560,6 +5456,7 @@
       "coteDirecte": 64.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5582,6 +5479,7 @@
       "coteDirecte": 6.9,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5604,6 +5502,7 @@
       "coteDirecte": 32.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -5627,6 +5526,7 @@
       "coteDirecte": 1.6,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5649,6 +5549,7 @@
       "coteDirecte": null,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5671,6 +5572,7 @@
       "coteDirecte": 38.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5693,6 +5595,7 @@
       "coteDirecte": 55.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5715,6 +5618,7 @@
       "coteDirecte": 9.5,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5737,6 +5641,7 @@
       "coteDirecte": 96.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5759,6 +5664,7 @@
       "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -5781,6 +5687,7 @@
       "coteDirecte": 100.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5803,6 +5710,7 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -5825,6 +5733,7 @@
       "coteDirecte": 73.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5847,6 +5756,7 @@
       "coteDirecte": 70.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -5870,6 +5780,7 @@
       "coteDirecte": 3.9,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5892,6 +5803,7 @@
       "coteDirecte": 4.8,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -5915,6 +5827,7 @@
       "coteDirecte": 66.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -5938,6 +5851,7 @@
       "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5960,6 +5874,7 @@
       "coteDirecte": 57.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -5982,6 +5897,7 @@
       "coteDirecte": 57.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6005,6 +5921,7 @@
       "coteDirecte": 28.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6028,6 +5945,7 @@
       "coteDirecte": 2.6,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -6050,6 +5968,7 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     },
     {
@@ -6072,6 +5991,7 @@
       "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul",
       "nonClasse": true
     },
@@ -6095,6 +6015,7 @@
       "coteDirecte": 5.5,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -6117,6 +6038,7 @@
       "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6140,6 +6062,7 @@
       "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6163,6 +6086,7 @@
       "coteDirecte": 18.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur",
       "nonClasse": true
     },
@@ -6186,6 +6110,7 @@
       "coteDirecte": 58.0,
       "france": false,
       "nbCourses": 4,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -6208,6 +6133,7 @@
       "coteDirecte": 55.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "seul"
     },
     {
@@ -6230,6 +6156,7 @@
       "coteDirecte": 21.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6253,6 +6180,7 @@
       "coteDirecte": 56.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6276,6 +6204,7 @@
       "coteDirecte": 26.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6299,6 +6228,7 @@
       "coteDirecte": 10.0,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre"
     },
     {
@@ -6321,6 +6251,7 @@
       "coteDirecte": 6.1,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "autre",
       "nonClasse": true
     },
@@ -6344,6 +6275,7 @@
       "coteDirecte": 2.6,
       "france": false,
       "nbCourses": 5,
+      "jour": "2026-10-07",
       "engagement": "meilleur"
     }
   ],
@@ -6362,123 +6294,123 @@
     },
     {
       "label": "0",
-      "n": 5,
-      "nRoi": 5,
+      "n": 8,
+      "nRoi": 8,
       "nGagnants": 3,
       "nPlaces": 4,
-      "tauxGagnant": 60.0,
-      "tauxPlace": 80.0,
+      "tauxGagnant": 37.5,
+      "tauxPlace": 50.0,
       "coteGagnantMoyenne": 1.73,
-      "roiGagnant": 4.0,
-      "roiPlace": -30.0
+      "roiGagnant": -35.0,
+      "roiPlace": -56.2
     },
     {
       "label": "1",
-      "n": 16,
-      "nRoi": 16,
+      "n": 13,
+      "nRoi": 13,
       "nGagnants": 1,
       "nPlaces": 4,
-      "tauxGagnant": 6.2,
-      "tauxPlace": 25.0,
+      "tauxGagnant": 7.7,
+      "tauxPlace": 30.8,
       "coteGagnantMoyenne": 25.8,
-      "roiGagnant": 61.3,
-      "roiPlace": -33.1
+      "roiGagnant": 98.5,
+      "roiPlace": -17.7
     },
     {
       "label": "2",
-      "n": 14,
-      "nRoi": 14,
+      "n": 19,
+      "nRoi": 19,
       "nGagnants": 4,
-      "nPlaces": 6,
-      "tauxGagnant": 28.6,
-      "tauxPlace": 42.9,
+      "nPlaces": 7,
+      "tauxGagnant": 21.1,
+      "tauxPlace": 36.8,
       "coteGagnantMoyenne": 3.7,
-      "roiGagnant": 5.7,
-      "roiPlace": -22.9
+      "roiGagnant": -22.1,
+      "roiPlace": -28.4
     },
     {
       "label": "3",
-      "n": 32,
-      "nRoi": 32,
-      "nGagnants": 1,
-      "nPlaces": 9,
-      "tauxGagnant": 3.1,
-      "tauxPlace": 28.1,
-      "coteGagnantMoyenne": 1.7,
-      "roiGagnant": -94.7,
-      "roiPlace": -39.4
+      "n": 31,
+      "nRoi": 31,
+      "nGagnants": 2,
+      "nPlaces": 10,
+      "tauxGagnant": 6.5,
+      "tauxPlace": 32.3,
+      "coteGagnantMoyenne": 2.7,
+      "roiGagnant": -82.6,
+      "roiPlace": -7.1
     },
     {
       "label": "4",
-      "n": 29,
-      "nRoi": 29,
-      "nGagnants": 2,
-      "nPlaces": 10,
-      "tauxGagnant": 6.9,
-      "tauxPlace": 34.5,
-      "coteGagnantMoyenne": 3.5,
-      "roiGagnant": -75.9,
-      "roiPlace": 32.8
+      "n": 33,
+      "nRoi": 33,
+      "nGagnants": 1,
+      "nPlaces": 9,
+      "tauxGagnant": 3.0,
+      "tauxPlace": 27.3,
+      "coteGagnantMoyenne": 3.3,
+      "roiGagnant": -90.0,
+      "roiPlace": -16.1
     },
     {
       "label": "5",
-      "n": 47,
-      "nRoi": 47,
+      "n": 44,
+      "nRoi": 44,
       "nGagnants": 4,
-      "nPlaces": 11,
-      "tauxGagnant": 8.5,
-      "tauxPlace": 23.4,
+      "nPlaces": 10,
+      "tauxGagnant": 9.1,
+      "tauxPlace": 22.7,
       "coteGagnantMoyenne": 15.6,
-      "roiGagnant": 32.8,
-      "roiPlace": -30.6
+      "roiGagnant": 41.8,
+      "roiPlace": -29.1
     },
     {
       "label": "6",
-      "n": 41,
-      "nRoi": 41,
+      "n": 44,
+      "nRoi": 44,
       "nGagnants": 4,
-      "nPlaces": 10,
-      "tauxGagnant": 9.8,
-      "tauxPlace": 24.4,
+      "nPlaces": 12,
+      "tauxGagnant": 9.1,
+      "tauxPlace": 27.3,
       "coteGagnantMoyenne": 3.5,
-      "roiGagnant": -65.9,
-      "roiPlace": -36.6
+      "roiGagnant": -68.2,
+      "roiPlace": -25.9
     },
     {
       "label": "7",
-      "n": 29,
-      "nRoi": 29,
+      "n": 27,
+      "nRoi": 27,
       "nGagnants": 1,
       "nPlaces": 7,
-      "tauxGagnant": 3.4,
-      "tauxPlace": 24.1,
+      "tauxGagnant": 3.7,
+      "tauxPlace": 25.9,
       "coteGagnantMoyenne": 4.0,
-      "roiGagnant": -86.2,
-      "roiPlace": -21.7
+      "roiGagnant": -85.2,
+      "roiPlace": -21.9
     },
     {
       "label": "8",
-      "n": 22,
-      "nRoi": 22,
+      "n": 20,
+      "nRoi": 20,
       "nGagnants": 1,
-      "nPlaces": 4,
-      "tauxGagnant": 4.5,
-      "tauxPlace": 18.2,
+      "nPlaces": 3,
+      "tauxGagnant": 5.0,
+      "tauxPlace": 15.0,
       "coteGagnantMoyenne": 4.1,
-      "roiGagnant": -81.4,
-      "roiPlace": -53.2
+      "roiGagnant": -79.5,
+      "roiPlace": -61.5
     },
     {
       "label": "9",
-      "n": 13,
-      "nRoi": 13,
+      "n": 9,
+      "nRoi": 9,
       "nGagnants": 2,
-      "nPlaces": 4,
-      "tauxGagnant": 15.4,
-      "tauxPlace": 30.8,
+      "nPlaces": 3,
+      "tauxGagnant": 22.2,
+      "tauxPlace": 33.3,
       "coteGagnantMoyenne": 6.2,
-      "roiGagnant": -4.6,
-      "roiPlace": -15.4
+      "roiGagnant": 37.8,
+      "roiPlace": -4.4
     },
     {
       "label": "10+",
@@ -6497,27 +6429,27 @@
     "descend": [
       {
         "label": "20 – 29%",
-        "n": 3,
-        "nRoi": 3,
+        "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
         "nPlaces": 0,
-        "tauxGagnant": 0.0,
-        "tauxPlace": 0.0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
         "coteGagnantMoyenne": null,
-        "roiGagnant": -100.0,
-        "roiPlace": -100.0
+        "roiGagnant": null,
+        "roiPlace": null
       },
       {
         "label": "30 – 39%",
-        "n": 1,
-        "nRoi": 1,
-        "nGagnants": 1,
-        "nPlaces": 1,
-        "tauxGagnant": 100.0,
-        "tauxPlace": 100.0,
-        "coteGagnantMoyenne": 7.5,
-        "roiGagnant": 650.0,
-        "roiPlace": 190.0
+        "n": 0,
+        "nRoi": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
       },
       {
         "label": "40 – 49%",
@@ -6607,15 +6539,15 @@
       },
       {
         "label": "30 – 39%",
-        "n": 3,
-        "nRoi": 3,
+        "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
         "nPlaces": 0,
-        "tauxGagnant": 0.0,
-        "tauxPlace": 0.0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
         "coteGagnantMoyenne": null,
-        "roiGagnant": -100.0,
-        "roiPlace": -100.0
+        "roiGagnant": null,
+        "roiPlace": null
       },
       {
         "label": "40 – 49%",
@@ -6631,39 +6563,39 @@
       },
       {
         "label": "50 – 59%",
-        "n": 3,
-        "nRoi": 3,
+        "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
-        "nPlaces": 1,
-        "tauxGagnant": 0.0,
-        "tauxPlace": 33.3,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
         "coteGagnantMoyenne": null,
-        "roiGagnant": -100.0,
-        "roiPlace": -6.7
+        "roiGagnant": null,
+        "roiPlace": null
       },
       {
         "label": "60 – 69%",
-        "n": 9,
-        "nRoi": 9,
+        "n": 0,
+        "nRoi": 0,
         "nGagnants": 0,
         "nPlaces": 0,
-        "tauxGagnant": 0.0,
-        "tauxPlace": 0.0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
         "coteGagnantMoyenne": null,
-        "roiGagnant": -100.0,
-        "roiPlace": -100.0
+        "roiGagnant": null,
+        "roiPlace": null
       },
       {
         "label": "70 – 79%",
-        "n": 11,
-        "nRoi": 11,
-        "nGagnants": 2,
-        "nPlaces": 6,
-        "tauxGagnant": 18.2,
-        "tauxPlace": 54.5,
-        "coteGagnantMoyenne": 4.3,
-        "roiGagnant": -21.8,
-        "roiPlace": 25.5
+        "n": 0,
+        "nRoi": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
       },
       {
         "label": "80 – 89%",
@@ -6679,22 +6611,22 @@
       },
       {
         "label": "90%+",
-        "n": 45,
-        "nRoi": 45,
-        "nGagnants": 1,
-        "nPlaces": 6,
-        "tauxGagnant": 2.2,
-        "tauxPlace": 13.3,
-        "coteGagnantMoyenne": 3.7,
-        "roiGagnant": -91.8,
-        "roiPlace": -41.3
+        "n": 0,
+        "nRoi": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null
       }
     ]
   },
   "croisements": {
     "noteMin": 0,
     "noteMax": 1,
-    "n": 5,
+    "n": 8,
     "cote": [
       {
         "label": "moins de 3",
@@ -6710,8 +6642,8 @@
       },
       {
         "label": "3 à 5,9",
-        "n": 1,
-        "nRoi": 1,
+        "n": 2,
+        "nRoi": 2,
         "nGagnants": 0,
         "nPlaces": 0,
         "tauxGagnant": 0.0,
@@ -6734,15 +6666,15 @@
       },
       {
         "label": "12 et plus",
-        "n": 0,
-        "nRoi": 0,
+        "n": 2,
+        "nRoi": 2,
         "nGagnants": 0,
         "nPlaces": 0,
-        "tauxGagnant": null,
-        "tauxPlace": null,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
         "coteGagnantMoyenne": null,
-        "roiGagnant": null,
-        "roiPlace": null
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
       }
     ],
     "nbCourses": [
@@ -6760,27 +6692,27 @@
       },
       {
         "label": "3 à 4 courses",
-        "n": 1,
-        "nRoi": 1,
+        "n": 2,
+        "nRoi": 2,
         "nGagnants": 0,
         "nPlaces": 1,
         "tauxGagnant": 0.0,
-        "tauxPlace": 100.0,
+        "tauxPlace": 50.0,
         "coteGagnantMoyenne": null,
         "roiGagnant": -100.0,
         "roiPlace": -100.0
       },
       {
         "label": "5 courses et plus",
-        "n": 2,
-        "nRoi": 2,
+        "n": 4,
+        "nRoi": 4,
         "nGagnants": 1,
         "nPlaces": 1,
-        "tauxGagnant": 50.0,
-        "tauxPlace": 50.0,
+        "tauxGagnant": 25.0,
+        "tauxPlace": 25.0,
         "coteGagnantMoyenne": 1.6,
-        "roiGagnant": -20.0,
-        "roiPlace": -45.0
+        "roiGagnant": -60.0,
+        "roiPlace": -72.5
       }
     ],
     "engagement": [
@@ -6810,29 +6742,29 @@
       },
       {
         "label": "entraîneur à un seul partant",
-        "n": 0,
-        "nRoi": 0,
+        "n": 3,
+        "nRoi": 3,
         "nGagnants": 0,
         "nPlaces": 0,
-        "tauxGagnant": null,
-        "tauxPlace": null,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
         "coteGagnantMoyenne": null,
-        "roiGagnant": null,
-        "roiPlace": null
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
       }
     ],
     "pays": [
       {
         "label": "France",
-        "n": 0,
-        "nRoi": 0,
+        "n": 3,
+        "nRoi": 3,
         "nGagnants": 0,
         "nPlaces": 0,
-        "tauxGagnant": null,
-        "tauxPlace": null,
+        "tauxGagnant": 0.0,
+        "tauxPlace": 0.0,
         "coteGagnantMoyenne": null,
-        "roiGagnant": null,
-        "roiPlace": null
+        "roiGagnant": -100.0,
+        "roiPlace": -100.0
       },
       {
         "label": "étranger",
@@ -6850,15 +6782,15 @@
     "discipline": [
       {
         "label": "attelé",
-        "n": 5,
-        "nRoi": 5,
+        "n": 8,
+        "nRoi": 8,
         "nGagnants": 3,
         "nPlaces": 4,
-        "tauxGagnant": 60.0,
-        "tauxPlace": 80.0,
+        "tauxGagnant": 37.5,
+        "tauxPlace": 50.0,
         "coteGagnantMoyenne": 1.73,
-        "roiGagnant": 4.0,
-        "roiPlace": -30.0
+        "roiGagnant": -35.0,
+        "roiPlace": -56.2
       },
       {
         "label": "monté",
