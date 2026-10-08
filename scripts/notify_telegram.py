@@ -17,8 +17,8 @@ Le soir, trois messages :
      rentabilité d'une mise de 1 €), avec le cumul de la tranche depuis le
      début du suivi ;
   2. les croisements de cette tranche sur le cumul : la combinaison suivie
-     (France et 5 courses ou plus), puis selon la cote, le nombre de courses
-     courues, l'entraîneur et le pays ;
+     (France et 5 courses ou plus), la bankroll fictive qui la joue, puis
+     selon la cote, le nombre de courses courues, l'entraîneur et le pays ;
   3. le bilan général du jour (comme avant).
 
 Nécessite deux secrets GitHub (Settings > Secrets and variables > Actions) :
@@ -270,6 +270,77 @@ def selection_soir():
     send("\n".join(lines))
 
 
+# Bankroll fictive : la combinaison testée, jouée sans argent réel.
+# Chaque jour, la mise par cheval vaut BANKROLL_POURCENT % de la bankroll du
+# matin (elle suit donc la bankroll à la hausse comme à la baisse).
+BANKROLL_DEPART = 1000
+BANKROLL_POURCENT = 2
+
+
+def fmt_euros(x):
+    return f"{x:,.0f}".replace(",", " ") + " €"
+
+
+def bankroll_fictive():
+    """Rejoue, jour par jour depuis le début du test, une mise de 2 % de la
+    bankroll sur chaque cheval de la combinaison (France, note 0 à 0,99,
+    5 courses ou plus), au gagnant et au placé. Renvoie None si rien à jouer."""
+    try:
+        from fetch_bilan import TEST_DEPUIS, COMBINAISON_NB_COURSES
+    except Exception as e:
+        print(f"Bankroll fictive indisponible ({type(e).__name__}).", file=sys.stderr)
+        return None
+    resultats = {}
+    for type_pari in ("gagnant", "place"):
+        bank, paris, gagnes, mise = float(BANKROLL_DEPART), 0, 0, 0.0
+        for path in sorted(DATA_DIR.glob("bilan-20*.json")):
+            jour = path.stem.replace("bilan-", "")
+            if jour < TEST_DEPUIS:
+                continue
+            try:
+                entries = json.loads(path.read_text(encoding="utf-8")).get("entries", [])
+            except ValueError:
+                continue
+            mise = round(bank * BANKROLL_POURCENT / 100, 2)
+            for e in sorted(entries, key=ordre_course):
+                if not (dans_la_tranche(e.get("score")) and e.get("france") is True
+                        and (e.get("nbCourses") or 0) >= COMBINAISON_NB_COURSES):
+                    continue
+                place = e.get("arrivee")
+                if place is None or not e.get("rapportsPublies", True):
+                    continue  # non-partant ou cotes non publiées : pari remboursé
+                paris += 1
+                bank -= mise
+                if type_pari == "gagnant" and place == 1:
+                    bank += mise * (e.get("coteGagnant") or 0)
+                    gagnes += 1
+                elif type_pari == "place" and place <= 3 and e.get("cotePlace"):
+                    bank += mise * e["cotePlace"]
+                    gagnes += 1
+        resultats[type_pari] = {"solde": bank, "paris": paris, "gagnes": gagnes,
+                                "prochaine_mise": round(bank * BANKROLL_POURCENT / 100, 2)}
+    if not resultats["gagnant"]["paris"]:
+        return None
+    resultats["depuis"] = TEST_DEPUIS
+    return resultats
+
+
+def lignes_bankroll():
+    b = bankroll_fictive()
+    if not b:
+        return []
+    depuis = datetime.strptime(b["depuis"], "%Y-%m-%d").strftime("%d/%m")
+    lines = ["", f"🔴 Bankroll fictive — départ {fmt_euros(BANKROLL_DEPART)} le {depuis}, {BANKROLL_POURCENT} % par cheval"]
+    for cle, nom in (("gagnant", "Gagnant"), ("place", "Placé")):
+        r = b[cle]
+        evolution = fmt_roi(100 * (r["solde"] - BANKROLL_DEPART) / BANKROLL_DEPART)
+        lines.append(
+            f"🔴 {nom} : {fmt_euros(r['solde'])} ({evolution}) — {r['paris']} paris, {r['gagnes']} gagnés"
+            f" — prochaine mise {fmt_euros(r['prochaine_mise'])}"
+        )
+    return lines
+
+
 def croisements_soir():
     """Message du soir : la tranche 0 à 0,99 découpée selon quatre critères,
     sur le cumul depuis le début du suivi."""
@@ -309,6 +380,7 @@ def croisements_soir():
             )
 
     bloc("Combinaison suivie", croisements.get("combinaison"))
+    lines += lignes_bankroll()
     bloc("Selon la cote du cheval", croisements.get("cote"))
     bloc("Selon le nombre de courses dans la musique", croisements.get("nbCourses"))
     bloc("Selon l'entraîneur", croisements.get("engagement"))
