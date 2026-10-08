@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T15:09:23.713512+00:00",
+  "generatedAt": "2026-10-08T15:44:44.223515+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -5728,7 +5728,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -5769,7 +5769,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -5811,7 +5811,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -5852,7 +5852,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -5894,7 +5894,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -5936,7 +5936,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -5978,7 +5978,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -6020,7 +6020,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -6062,7 +6062,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -6104,7 +6104,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -6146,7 +6146,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -6187,7 +6187,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -6229,7 +6229,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -7523,7 +7523,7 @@
       "reunion": "R4",
       "course": "C7",
       "cheval": "NOUCHKA ROYALE",
-      "jockey": "M. ABRIVARD",
+      "jockey": "G. MARTIN",
       "entraineur": "TANGUY DEVOUASSOUX",
       "musique": "0aDa9a1a4a4aDa7a7a3a",
       "prixJour": 18000,
@@ -7539,7 +7539,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 3,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -9475,7 +9475,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "EUROPEENNE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -9614,7 +9614,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "EUROPEENNE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -11786,7 +11786,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "EUROPEENNE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE LA PLACE DU CANADA"
@@ -13820,7 +13820,7 @@
           "reunion": "R4",
           "course": "C7",
           "cheval": "NOUCHKA ROYALE",
-          "jockey": "M. ABRIVARD",
+          "jockey": "G. MARTIN",
           "entraineur": "TANGUY DEVOUASSOUX",
           "musique": "0aDa9a1a4a4aDa7a7a3a",
           "prixJour": 18000,
@@ -13836,7 +13836,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 3,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
