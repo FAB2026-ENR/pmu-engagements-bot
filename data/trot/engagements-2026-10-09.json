@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T15:44:05.863707+00:00",
+  "generatedAt": "2026-10-09T16:09:44.280922+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -1407,7 +1407,7 @@
       "reunion": "R1",
       "course": "C2",
       "cheval": "QUINTUS TOOMA",
-      "jockey": "V. CIOTOLA",
+      "jockey": "J.Y. RICART",
       "entraineur": "Vitale CIOTOLA",
       "musique": "4a1a6a2aDa0a",
       "prixJour": 49000,
@@ -1424,7 +1424,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 6,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
