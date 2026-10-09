@@ -114,6 +114,13 @@ COMBINAISON_LIBELLE = "France et 5 courses ou plus"
 # Test honnête de la combinaison : seuls comptent les chevaux courus à partir
 # de cette date, puisque ceux d'avant ont servi à trouver la piste.
 TEST_DEPUIS = "2026-10-08"
+# Piste 2, en observation seulement (sans argent), fixée le 9 octobre à partir
+# des 6 chevaux qui la composaient : France, 5 courses ou plus, cote affichée
+# de 6 à 11,9 et note de 0,5 à 0,99. Trouvée en regardant les gagnants, elle ne
+# compte que sur les chevaux courus à partir de PISTE2_DEPUIS.
+PISTE2_DEPUIS = "2026-10-09"
+PISTE2_COTE_MIN, PISTE2_COTE_MAX = 6, 12
+PISTE2_NOTE_MIN, PISTE2_NOTE_MAX = 0.5, 1
 
 # Avant cette date, les engagements enregistrés mélangeaient des allocations
 # en devises différentes (ex. Hong Kong) : le déclassement de ces jours-là est
@@ -472,11 +479,19 @@ def build_croisements(bilan_entries):
     def dans_combinaison(e):
         return e.get("france") is True and (e.get("nbCourses") or 0) >= COMBINAISON_NB_COURSES
 
-    def groupe_test():
-        """La combinaison sur les seuls chevaux courus depuis TEST_DEPUIS, avec
+    def dans_piste2(e):
+        c = cote(e)
+        return (
+            dans_combinaison(e)
+            and c is not None and PISTE2_COTE_MIN <= c < PISTE2_COTE_MAX
+            and PISTE2_NOTE_MIN <= e["score"] < PISTE2_NOTE_MAX
+        )
+
+    def groupe_suivi(prefixe, depuis, filtre):
+        """Un groupe suivi sur les seuls chevaux courus depuis `depuis`, avec
         la rentabilité au gagnant sans son plus gros gagnant (critère de
         décision fixé le 8 octobre), écrite dans le libellé."""
-        chevaux = [e for e in retenus if dans_combinaison(e) and (e.get("jour") or "") >= TEST_DEPUIS]
+        chevaux = [e for e in retenus if filtre(e) and (e.get("jour") or "") >= depuis]
         resultat = aggregate("", chevaux)
         valides = [
             e for e in chevaux
@@ -486,9 +501,9 @@ def build_croisements(bilan_entries):
         sans_top = resultat.get("roiGagnant")
         if gains and len(valides) > 1:
             sans_top = round(100 * (sum(gains) - max(gains) - (len(valides) - 1)) / (len(valides) - 1), 1)
-        jour = datetime.strptime(TEST_DEPUIS, "%Y-%m-%d").strftime("%d/%m")
+        jour = datetime.strptime(depuis, "%Y-%m-%d").strftime("%d/%m")
         texte = "—" if sans_top is None else f"{sans_top:+.1f}".replace(".", ",") + " %"
-        resultat["label"] = f"🧪 TEST depuis le {jour} (sans le plus gros gagnant : {texte})"
+        resultat["label"] = f"{prefixe} depuis le {jour} (sans le plus gros gagnant : {texte})"
         resultat["roiGagnantSansTop"] = sans_top
         return resultat
 
@@ -501,7 +516,8 @@ def build_croisements(bilan_entries):
         "engagement": par_valeurs(ENGAGEMENT_LIBELLES, lambda e: e.get("engagement")),
         "pays": par_valeurs(PAYS_LIBELLES, lambda e: e.get("france")),
         "combinaison": [
-            groupe_test(),
+            groupe_suivi("🧪 TEST", TEST_DEPUIS, dans_combinaison),
+            groupe_suivi("🔬 PISTE 2 (cote 6 à 11,9, note 0,5 à 0,99)", PISTE2_DEPUIS, dans_piste2),
             aggregate(COMBINAISON_LIBELLE + ", depuis le début", [e for e in retenus if dans_combinaison(e)]),
             aggregate("tous les autres chevaux de la tranche", [e for e in retenus if not dans_combinaison(e)]),
         ],
