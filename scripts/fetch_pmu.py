@@ -97,7 +97,7 @@ CHAMPS_CHEVAL = [
     "deferre", "placeCorde", "handicapValeur", "handicapPoids", "poidsConditionMonte",
     "handicapDistance", "oeilleres", "nombreCourses", "nombreVictoires", "nombrePlaces",
     "nombrePlacesSecond", "nombrePlacesTroisieme", "age", "sexe", "driverChange",
-    "jumentPleine", "indicateurInedit", "supplement", "allure",
+    "jumentPleine", "indicateurInedit", "supplement", "allure", "avisEntraineur",
 ]
 CHAMPS_COURSE = [
     "distance", "parcours", "corde", "typePiste", "penetrometre", "nombreDeclaresPartants",
@@ -355,6 +355,14 @@ def collect_entries(date_ddmmyyyy: str):
                 try:
                     noter_champs("cheval", p)
                     infos_cheval = garder_champs(p, CHAMPS_CHEVAL)
+                    # Gains : seuls les montants (carrière, année…), pour
+                    # mesurer le niveau réel du cheval.
+                    gains = p.get("gainsParticipant")
+                    if isinstance(gains, dict):
+                        montants = {k: v for k, v in gains.items()
+                                    if isinstance(v, (int, float)) and not isinstance(v, bool)}
+                        if montants:
+                            infos_cheval["gains"] = montants
                 except Exception:
                     infos_cheval = {}
 
