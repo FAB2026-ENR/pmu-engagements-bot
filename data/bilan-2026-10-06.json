@@ -1,7 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "date": "2026-10-06",
-  "generatedAt": "2026-10-07T21:48:00.518903+00:00",
+  "generatedAt": "2026-10-09T21:48:45.105987+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -25,6 +25,8 @@
       "coteDirecte": 1.8,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "meilleur"
     },
     {
@@ -49,6 +51,8 @@
       "coteDirecte": 2.4,
       "france": true,
       "nbCourses": 5,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "meilleur"
     },
     {
@@ -73,6 +77,8 @@
       "coteDirecte": 9.3,
       "france": true,
       "nbCourses": 2,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "seul"
     },
     {
@@ -97,6 +103,8 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "meilleur"
     },
     {
@@ -121,6 +129,8 @@
       "coteDirecte": 29.0,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -145,6 +155,8 @@
       "coteDirecte": 6.2,
       "france": true,
       "nbCourses": 2,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "meilleur"
     },
     {
@@ -169,6 +181,8 @@
       "coteDirecte": 4.1,
       "france": true,
       "nbCourses": 2,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "autre"
     },
     {
@@ -193,6 +207,8 @@
       "coteDirecte": 4.1,
       "france": true,
       "nbCourses": 2,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -217,6 +233,8 @@
       "coteDirecte": 10.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "seul"
     },
     {
@@ -238,6 +256,8 @@
       "coteDirecte": 19.0,
       "france": true,
       "nbCourses": 0,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "seul"
     },
     {
@@ -259,6 +279,8 @@
       "coteDirecte": 3.0,
       "france": true,
       "nbCourses": 0,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "seul"
     },
     {
@@ -280,6 +302,8 @@
       "coteDirecte": 18.0,
       "france": true,
       "nbCourses": 0,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "autre"
     },
     {
@@ -304,6 +328,8 @@
       "coteDirecte": 3.7,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -328,6 +354,8 @@
       "coteDirecte": 31.0,
       "france": true,
       "nbCourses": 2,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "autre"
     },
     {
@@ -352,6 +380,8 @@
       "coteDirecte": 36.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "meilleur"
     },
     {
@@ -376,6 +406,8 @@
       "coteDirecte": 13.0,
       "france": true,
       "nbCourses": 2,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "meilleur"
     },
     {
@@ -400,6 +432,8 @@
       "coteDirecte": 10.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "seul"
     },
     {
@@ -424,6 +458,8 @@
       "coteDirecte": 43.0,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -448,6 +484,8 @@
       "coteDirecte": 20.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "autre"
     },
     {
@@ -472,6 +510,8 @@
       "coteDirecte": 3.3,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "autre"
     },
     {
@@ -496,6 +536,8 @@
       "coteDirecte": 6.6,
       "france": true,
       "nbCourses": 2,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "autre"
     },
     {
@@ -520,6 +562,8 @@
       "coteDirecte": 10.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 10,
       "engagement": "seul"
     },
     {
@@ -541,6 +585,8 @@
       "coteDirecte": 22.0,
       "france": true,
       "nbCourses": 0,
+      "jour": "2026-10-06",
+      "numPmu": 11,
       "engagement": "seul"
     },
     {
@@ -565,6 +611,8 @@
       "coteDirecte": 4.9,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "meilleur"
     },
     {
@@ -589,6 +637,8 @@
       "coteDirecte": 6.4,
       "france": true,
       "nbCourses": 5,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "meilleur"
     },
     {
@@ -613,6 +663,8 @@
       "coteDirecte": 5.0,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "meilleur"
     },
     {
@@ -637,6 +689,8 @@
       "coteDirecte": 1.8,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "autre"
     },
     {
@@ -661,6 +715,8 @@
       "coteDirecte": 41.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -682,6 +738,8 @@
       "coteDirecte": 20.0,
       "france": true,
       "nbCourses": 0,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -706,6 +764,8 @@
       "coteDirecte": 4.3,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -730,6 +790,8 @@
       "coteDirecte": 3.1,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "seul"
     },
     {
@@ -754,6 +816,8 @@
       "coteDirecte": 5.3,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "seul"
     },
     {
@@ -778,6 +842,8 @@
       "coteDirecte": 8.4,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "seul"
     },
     {
@@ -802,6 +868,8 @@
       "coteDirecte": 20.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -826,6 +894,8 @@
       "coteDirecte": 60.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -850,6 +920,8 @@
       "coteDirecte": 9.4,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "seul"
     },
     {
@@ -874,6 +946,8 @@
       "coteDirecte": 27.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "seul"
     },
     {
@@ -898,6 +972,8 @@
       "coteDirecte": 61.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "meilleur"
     },
     {
@@ -922,6 +998,8 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 10,
       "engagement": "seul"
     },
     {
@@ -946,6 +1024,8 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -970,6 +1050,8 @@
       "coteDirecte": 36.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "autre"
     },
     {
@@ -994,6 +1076,8 @@
       "coteDirecte": 1.7,
       "france": true,
       "nbCourses": 7,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "seul"
     },
     {
@@ -1018,6 +1102,8 @@
       "coteDirecte": 6.8,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "seul"
     },
     {
@@ -1042,6 +1128,8 @@
       "coteDirecte": 39.0,
       "france": true,
       "nbCourses": 1,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -1066,6 +1154,8 @@
       "coteDirecte": 42.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "seul"
     },
     {
@@ -1090,6 +1180,8 @@
       "coteDirecte": 87.0,
       "france": true,
       "nbCourses": 6,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "seul"
     },
     {
@@ -1114,6 +1206,8 @@
       "coteDirecte": 8.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "seul"
     },
     {
@@ -1138,6 +1232,8 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "meilleur"
     },
     {
@@ -1159,6 +1255,8 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 0,
+      "jour": "2026-10-06",
+      "numPmu": 10,
       "engagement": "autre"
     },
     {
@@ -1183,6 +1281,8 @@
       "coteDirecte": 10.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -1207,6 +1307,8 @@
       "coteDirecte": 1.5,
       "france": true,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "meilleur"
     },
     {
@@ -1231,6 +1333,8 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -1255,6 +1359,8 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "seul"
     },
     {
@@ -1279,6 +1385,8 @@
       "coteDirecte": 5.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "meilleur"
     },
     {
@@ -1303,6 +1411,8 @@
       "coteDirecte": 46.0,
       "france": true,
       "nbCourses": 8,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "meilleur"
     },
     {
@@ -1327,6 +1437,8 @@
       "coteDirecte": 33.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "seul"
     },
     {
@@ -1351,6 +1463,8 @@
       "coteDirecte": 15.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "meilleur"
     },
     {
@@ -1375,6 +1489,8 @@
       "coteDirecte": 9.2,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "seul"
     },
     {
@@ -1399,6 +1515,8 @@
       "coteDirecte": 9.6,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "meilleur"
     },
     {
@@ -1423,6 +1541,8 @@
       "coteDirecte": 5.2,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "seul"
     },
     {
@@ -1447,6 +1567,8 @@
       "coteDirecte": 12.0,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "meilleur"
     },
     {
@@ -1471,6 +1593,8 @@
       "coteDirecte": 5.1,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -1495,6 +1619,8 @@
       "coteDirecte": 6.3,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "autre"
     },
     {
@@ -1519,6 +1645,8 @@
       "coteDirecte": 11.0,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "autre"
     },
     {
@@ -1543,6 +1671,8 @@
       "coteDirecte": 5.6,
       "france": true,
       "nbCourses": 10,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "seul"
     },
     {
@@ -1567,6 +1697,8 @@
       "coteDirecte": null,
       "france": true,
       "nbCourses": 9,
+      "jour": "2026-10-06",
+      "numPmu": 10,
       "engagement": "seul"
     },
     {
@@ -1588,6 +1720,8 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -1609,6 +1743,8 @@
       "coteDirecte": 2.6,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "meilleur"
     },
     {
@@ -1630,6 +1766,8 @@
       "coteDirecte": 8.6,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -1651,6 +1789,8 @@
       "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "meilleur"
     },
     {
@@ -1672,6 +1812,8 @@
       "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -1693,6 +1835,8 @@
       "coteDirecte": 5.8,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -1714,6 +1858,8 @@
       "coteDirecte": 24.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "meilleur"
     },
     {
@@ -1735,6 +1881,8 @@
       "coteDirecte": 8.3,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "meilleur"
     },
     {
@@ -1756,6 +1904,8 @@
       "coteDirecte": 7.3,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "meilleur"
     },
     {
@@ -1777,6 +1927,8 @@
       "coteDirecte": 30.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -1798,6 +1950,8 @@
       "coteDirecte": 3.2,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "meilleur"
     },
     {
@@ -1819,6 +1973,8 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -1840,6 +1996,8 @@
       "coteDirecte": 8.5,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "meilleur"
     },
     {
@@ -1861,6 +2019,8 @@
       "coteDirecte": 8.5,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "meilleur"
     },
     {
@@ -1882,6 +2042,8 @@
       "coteDirecte": 3.7,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "meilleur"
     },
     {
@@ -1903,6 +2065,8 @@
       "coteDirecte": 18.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "autre"
     },
     {
@@ -1924,6 +2088,8 @@
       "coteDirecte": 6.3,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "meilleur"
     },
     {
@@ -1945,6 +2111,8 @@
       "coteDirecte": 27.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -1966,6 +2134,8 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "meilleur"
     },
     {
@@ -1987,6 +2157,8 @@
       "coteDirecte": 8.8,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -2008,6 +2180,8 @@
       "coteDirecte": 23.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "autre"
     },
     {
@@ -2029,6 +2203,8 @@
       "coteDirecte": 2.2,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -2050,6 +2226,8 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -2071,6 +2249,8 @@
       "coteDirecte": 7.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "autre"
     },
     {
@@ -2092,6 +2272,8 @@
       "coteDirecte": 4.5,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "autre"
     },
     {
@@ -2113,6 +2295,8 @@
       "coteDirecte": 19.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -2134,6 +2318,8 @@
       "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "autre"
     },
     {
@@ -2155,6 +2341,8 @@
       "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -2176,6 +2364,8 @@
       "coteDirecte": 2.9,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "meilleur"
     },
     {
@@ -2197,6 +2387,8 @@
       "coteDirecte": 8.3,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -2218,6 +2410,8 @@
       "coteDirecte": 36.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -2239,6 +2433,8 @@
       "coteDirecte": 53.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "autre"
     },
     {
@@ -2260,6 +2456,8 @@
       "coteDirecte": 6.4,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "meilleur"
     },
     {
@@ -2281,6 +2479,8 @@
       "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "autre"
     },
     {
@@ -2302,6 +2502,8 @@
       "coteDirecte": 4.5,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 10,
       "engagement": "autre"
     },
     {
@@ -2323,6 +2525,8 @@
       "coteDirecte": 19.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -2344,6 +2548,8 @@
       "coteDirecte": 18.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "autre"
     },
     {
@@ -2365,6 +2571,8 @@
       "coteDirecte": 29.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -2386,6 +2594,8 @@
       "coteDirecte": 14.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "meilleur"
     },
     {
@@ -2407,6 +2617,8 @@
       "coteDirecte": 5.4,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -2428,6 +2640,8 @@
       "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -2449,6 +2663,8 @@
       "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "autre"
     },
     {
@@ -2470,6 +2686,8 @@
       "coteDirecte": 2.1,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "autre"
     },
     {
@@ -2491,6 +2709,8 @@
       "coteDirecte": 5.8,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "seul"
     },
     {
@@ -2512,6 +2732,8 @@
       "coteDirecte": 11.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 1,
       "engagement": "autre"
     },
     {
@@ -2533,6 +2755,8 @@
       "coteDirecte": 12.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 2,
       "engagement": "autre"
     },
     {
@@ -2554,6 +2778,8 @@
       "coteDirecte": 22.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 3,
       "engagement": "autre"
     },
     {
@@ -2575,6 +2801,8 @@
       "coteDirecte": 20.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 4,
       "engagement": "autre"
     },
     {
@@ -2596,6 +2824,8 @@
       "coteDirecte": 8.7,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 5,
       "engagement": "autre"
     },
     {
@@ -2617,6 +2847,8 @@
       "coteDirecte": 16.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 6,
       "engagement": "autre"
     },
     {
@@ -2638,6 +2870,8 @@
       "coteDirecte": 4.8,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 7,
       "engagement": "meilleur"
     },
     {
@@ -2659,6 +2893,8 @@
       "coteDirecte": 13.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 8,
       "engagement": "autre"
     },
     {
@@ -2680,6 +2916,8 @@
       "coteDirecte": 4.8,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 9,
       "engagement": "autre"
     },
     {
@@ -2701,6 +2939,8 @@
       "coteDirecte": 4.8,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 10,
       "engagement": "autre"
     },
     {
@@ -2722,6 +2962,8 @@
       "coteDirecte": 25.0,
       "france": false,
       "nbCourses": 3,
+      "jour": "2026-10-06",
+      "numPmu": 11,
       "engagement": "autre"
     }
   ],
@@ -3227,7 +3469,33 @@
     ],
     "combinaison": [
       {
-        "label": "France et 5 courses ou plus",
+        "label": "🧪 TEST depuis le 08/10 (sans le plus gros gagnant : —)",
+        "n": 0,
+        "nRoi": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null,
+        "roiGagnantSansTop": null
+      },
+      {
+        "label": "🔬 PISTE 2 (cote 6 à 11,9, note 0,5 à 0,99) depuis le 09/10 (sans le plus gros gagnant : —)",
+        "n": 0,
+        "nRoi": 0,
+        "nGagnants": 0,
+        "nPlaces": 0,
+        "tauxGagnant": null,
+        "tauxPlace": null,
+        "coteGagnantMoyenne": null,
+        "roiGagnant": null,
+        "roiPlace": null,
+        "roiGagnantSansTop": null
+      },
+      {
+        "label": "France et 5 courses ou plus, depuis le début",
         "n": 1,
         "nRoi": 1,
         "nGagnants": 0,
@@ -3251,5 +3519,137 @@
         "roiPlace": 53.3
       }
     ]
+  },
+  "courses": {
+    "R3C1": {
+      "partants": 5,
+      "coupleGagnant": {},
+      "couplePlace": {}
+    },
+    "R3C2": {
+      "partants": 7,
+      "coupleGagnant": {},
+      "couplePlace": {}
+    },
+    "R3C3": {
+      "partants": 11,
+      "coupleGagnant": {
+        "1-8": 6.4
+      },
+      "couplePlace": {
+        "1-8": 2.7,
+        "1-9": 3.2,
+        "8-9": 3.2
+      }
+    },
+    "R3C4": {
+      "partants": 6,
+      "coupleGagnant": {},
+      "couplePlace": {}
+    },
+    "R3C5": {
+      "partants": 10,
+      "coupleGagnant": {
+        "1-10": 16.9
+      },
+      "couplePlace": {
+        "1-10": 7.0,
+        "1-4": 6.5,
+        "4-10": 10.6
+      }
+    },
+    "R3C6": {
+      "partants": 10,
+      "coupleGagnant": {
+        "4-9": 31.3
+      },
+      "couplePlace": {
+        "4-9": 5.3,
+        "3-9": 3.6,
+        "3-4": 2.8
+      }
+    },
+    "R3C7": {
+      "partants": 7,
+      "coupleGagnant": {},
+      "couplePlace": {}
+    },
+    "R3C8": {
+      "partants": 9,
+      "coupleGagnant": {
+        "3-8": 35.4
+      },
+      "couplePlace": {
+        "3-8": 10.9,
+        "3-7": 9.7,
+        "7-8": 10.6
+      }
+    },
+    "R6C1": {
+      "partants": 9,
+      "coupleGagnant": {
+        "2-7": 34.7
+      },
+      "couplePlace": {
+        "2-7": 10.2,
+        "2-3": 5.3,
+        "3-7": 18.7
+      }
+    },
+    "R6C2": {
+      "partants": 8,
+      "coupleGagnant": {
+        "3-6": 23.4
+      },
+      "couplePlace": {
+        "3-6": 4.3,
+        "2-6": 1.6,
+        "2-3": 3.7
+      }
+    },
+    "R6C3": {
+      "partants": 8,
+      "coupleGagnant": {
+        "4-7": 78.4
+      },
+      "couplePlace": {
+        "4-7": 18.5,
+        "3-4": 18.2,
+        "3-7": 10.3
+      }
+    },
+    "R6C4": {
+      "partants": 10,
+      "coupleGagnant": {
+        "4-10": 5.5
+      },
+      "couplePlace": {
+        "4-10": 3.0,
+        "4-8": 2.8,
+        "8-10": 3.7
+      }
+    },
+    "R6C5": {
+      "partants": 9,
+      "coupleGagnant": {
+        "4-8": 13.6
+      },
+      "couplePlace": {
+        "4-8": 4.9,
+        "8-9": 1.8,
+        "4-9": 6.0
+      }
+    },
+    "R6C6": {
+      "partants": 10,
+      "coupleGagnant": {
+        "5-7": 16.3
+      },
+      "couplePlace": {
+        "5-7": 6.0,
+        "7-9": 3.8,
+        "5-9": 5.6
+      }
+    }
   }
 }
