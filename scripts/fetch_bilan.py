@@ -24,6 +24,7 @@ d'extraction, pour pouvoir ajuster rapidement si le format réel diffère.
 """
 
 import json
+import re
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -77,10 +78,13 @@ SCORE_BUCKETS = (
 # l'écurie du jour, et le bilan contient les croisements de la tranche « 0 » ;
 # 6 = la cote manquante (réunions étrangères) est cherchée par l'accès web, le
 # croisement par cote ne traite plus les gagnants à part, et une combinaison
-# suivie (France + 5 courses ou plus) est ajoutée.
+# suivie (France + 5 courses ou plus) est ajoutée ;
+# 7 = chaque course garde son nombre de partants et les rapports du couplé
+# gagnant et du couplé placé, et chaque partant son numéro (pour tester les
+# couplés en champ total).
 # Un bilan enregistré avec une version plus ancienne est recalculé
 # automatiquement.
-BILAN_VERSION = 6
+BILAN_VERSION = 7
 
 # Croisements : ils portent sur les chevaux dont la note est comprise entre
 # CROISEMENT_NOTE_MIN inclus et CROISEMENT_NOTE_MAX exclu (0 à 0,99).
@@ -228,27 +232,69 @@ def parse_rapports(data):
     return result
 
 
-def fetch_rapports(url: str, label: str):
+def parse_couples(data):
+    """Extrait les rapports du couplé gagnant et du couplé placé (pour 1 €) :
+    {'gagnant': {'3-7': 12.4, ...}, 'place': {'3-7': 4.1, ...}}. Le couplé
+    ordre est ignoré. Les numéros de chaque combinaison sont triés."""
+    rapports_list = data if isinstance(data, list) else data.get("rapports", data.get("rapportsDefinitifs", []))
+    result = {"gagnant": {}, "place": {}}
+    for rapport in rapports_list or []:
+        if not isinstance(rapport, dict):
+            continue
+        type_pari = (rapport.get("typePari") or "").upper()
+        if "COUPLE" not in type_pari or "ORDRE" in type_pari:
+            continue
+        cible = "gagnant" if "GAGNANT" in type_pari else ("place" if "PLACE" in type_pari else None)
+        if cible is None:
+            continue
+        for combi in rapport.get("rapports", rapport.get("combinaisons", [])) or []:
+            if not isinstance(combi, dict):
+                continue
+            numeros = sorted(int(n) for n in re.findall(r"\d+", str(combi.get("combinaison", ""))))
+            if len(numeros) != 2:
+                continue
+            for dk in DIVIDENDE_KEYS:
+                if combi.get(dk) is not None:
+                    try:
+                        result[cible][f"{numeros[0]}-{numeros[1]}"] = float(combi[dk]) / 100
+                        break
+                    except (TypeError, ValueError):
+                        continue
+    return result
+
+
+def fetch_rapports(url: str, label: str, avec_couples: bool = False):
     try:
         data = fetch_json(url)
     except (requests.RequestException, ValueError) as e:
         print(f"  ! rapports-definitifs indisponible {label}: {e}", file=sys.stderr)
-        return {}
+        return ({}, {"gagnant": {}, "place": {}}) if avec_couples else {}
     result = parse_rapports(data)
     if not result:
         debug_sample(f"rapports-definitifs vide/non reconnu {label}", data if not isinstance(data, list) else data[:2])
+    if avec_couples:
+        try:
+            couples = parse_couples(data)
+        except Exception:  # mesure d'étude : ne doit jamais bloquer le bilan
+            couples = {"gagnant": {}, "place": {}}
+        return result, couples
     return result
 
 
-def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
-    """Renvoie {numPmu: {'gagnant': float|None, 'place': float|None}}.
+def fetch_cotes_et_couples(date_ddmmyyyy: str, num_reunion, num_course):
+    """Renvoie (cotes simples, rapports des couplés) pour une course.
     Essaie d'abord l'accès habituel, puis l'accès web (courses « exclu web »)."""
     label = f"R{num_reunion}C{num_course}"
     path = f"{date_ddmmyyyy}/R{num_reunion}/C{num_course}/{RAPPORTS_URL_SUFFIX}"
-    result = fetch_rapports(f"{BASE_URL}/{path}", label)
+    result, couples = fetch_rapports(f"{BASE_URL}/{path}", label, avec_couples=True)
     if result:
-        return result
-    return fetch_rapports(f"{ONLINE_BASE_URL}/{path}?specialisation=INTERNET", label + " (web)")
+        return result, couples
+    return fetch_rapports(f"{ONLINE_BASE_URL}/{path}?specialisation=INTERNET", label + " (web)", avec_couples=True)
+
+
+def fetch_cotes(date_ddmmyyyy: str, num_reunion, num_course):
+    """Renvoie {numPmu: {'gagnant': float|None, 'place': float|None}}."""
+    return fetch_cotes_et_couples(date_ddmmyyyy, num_reunion, num_course)[0]
 
 
 def bucket_for_score(score):
@@ -482,6 +528,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
         by_course.setdefault((e["reunion"], e["course"]), []).append(e)
 
     bilan_entries = []
+    courses_info = {}
     for (reunion, course), course_entries in by_course.items():
         num_reunion = reunion.lstrip("R")
         num_course = course.lstrip("C")
@@ -507,8 +554,18 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
                 if cote_directe_par_cheval.get(nom) is None:
                     cote_directe_par_cheval[nom] = cote_web
 
-        cotes = fetch_cotes(date_ddmmyyyy, num_reunion, num_course)
+        cotes, couples = fetch_cotes_et_couples(date_ddmmyyyy, num_reunion, num_course)
         rapports_publies = bool(cotes)
+        num_par_cheval = {p.get("nom", ""): p.get("numPmu") for p in participants if p.get("nom")}
+        partants = sum(
+            1 for p in participants
+            if "NON_PARTANT" not in f"{p.get('statut') or ''} {p.get('incident') or ''}".upper()
+        )
+        courses_info[f"{reunion}{course}"] = {
+            "partants": partants,
+            "coupleGagnant": couples.get("gagnant", {}),
+            "couplePlace": couples.get("place", {}),
+        }
         # Les cotes sont indexées par numPmu, pas par nom — on les relie via
         # la liste participants (seule source commune) plutôt que de les
         # réclamer séparément aux entrées sauvegardées (qui n'ont pas numPmu).
@@ -538,6 +595,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
                 "france": reunions_france.get(e["reunion"]),
                 "nbCourses": len(parse_musique(e.get("musique", ""))),
                 "jour": date_iso,
+                "numPmu": num_par_cheval.get(e["cheval"]),
             })
 
     marquer_engagements(bilan_entries)
@@ -553,6 +611,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
         "buckets": bucket_results,
         "classShiftBuckets": class_shift_results,
         "croisements": build_croisements(bilan_entries),
+        "courses": courses_info,
     }
 
 
