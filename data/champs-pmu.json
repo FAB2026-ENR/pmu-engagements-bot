@@ -51,7 +51,8 @@
       "replayDisponible",
       "specialite",
       "statut",
-      "timezoneOffset"
+      "timezoneOffset",
+      "typePiste"
     ],
     "cheval": [
       "age",
@@ -81,6 +82,7 @@
       "numPmu",
       "oeilleres",
       "placeCorde",
+      "poidsConditionMonte",
       "poidsConditionMonteChange",
       "proprietaire",
       "race",

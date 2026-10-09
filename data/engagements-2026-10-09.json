@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T07:43:21.364446+00:00",
+  "generatedAt": "2026-10-09T08:09:52.167540+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -15,6 +15,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 9,
         "nombreVictoires": 1,
@@ -40,6 +41,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -88,6 +90,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -136,6 +139,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -184,6 +188,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -232,6 +237,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -280,6 +286,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -328,6 +335,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -376,6 +384,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -424,6 +433,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -472,6 +482,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -520,6 +531,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -568,6 +580,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -616,6 +629,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -664,6 +678,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -712,6 +727,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -760,6 +776,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -808,6 +825,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -856,6 +874,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -904,6 +923,7 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -952,6 +972,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1000,6 +1021,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1048,6 +1070,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1096,6 +1119,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1144,6 +1168,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1192,6 +1217,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1240,6 +1266,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1288,6 +1315,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1336,6 +1364,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1384,6 +1413,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1432,6 +1462,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1480,6 +1511,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1528,6 +1560,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1576,6 +1609,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1624,6 +1658,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1672,6 +1707,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1720,6 +1756,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1768,6 +1805,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1816,6 +1854,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1864,6 +1903,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1912,6 +1952,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -1960,6 +2001,7 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2008,6 +2050,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2056,6 +2099,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2104,6 +2148,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2152,6 +2197,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2200,6 +2246,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2248,6 +2295,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2296,6 +2344,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2319,6 +2368,7 @@
       "infosCheval": {
         "placeCorde": 1,
         "handicapPoids": 530,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 13,
         "nombreVictoires": 0,
@@ -2344,6 +2394,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2392,6 +2443,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2440,6 +2492,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2488,6 +2541,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2536,6 +2590,7 @@
         "distance": 1350,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2585,6 +2640,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2635,6 +2696,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2684,6 +2751,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2734,6 +2807,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2783,6 +2862,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2832,6 +2917,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2881,6 +2972,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2930,6 +3027,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -2979,6 +3082,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3028,6 +3137,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3077,6 +3192,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3126,6 +3247,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3175,6 +3302,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3226,6 +3359,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3275,6 +3414,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3324,6 +3469,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3374,6 +3525,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3423,6 +3580,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3472,6 +3635,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3522,6 +3691,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3572,6 +3747,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3622,6 +3803,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3671,6 +3858,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3721,6 +3914,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3771,6 +3970,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3821,6 +4026,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3870,6 +4081,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3919,6 +4136,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3969,6 +4192,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4019,6 +4248,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4069,6 +4304,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4119,6 +4360,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4169,6 +4416,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4220,6 +4473,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4270,6 +4529,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4320,6 +4585,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4370,6 +4641,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4421,6 +4698,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4472,6 +4755,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4523,6 +4812,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4573,6 +4868,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4624,6 +4925,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4674,6 +4981,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4725,6 +5038,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4774,6 +5093,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4824,6 +5149,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4873,6 +5204,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4923,6 +5260,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4972,6 +5315,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5022,6 +5371,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5071,6 +5426,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5121,6 +5482,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5170,6 +5537,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5220,6 +5593,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5269,6 +5648,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5319,6 +5704,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5368,6 +5759,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5418,6 +5815,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5467,6 +5870,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5516,6 +5925,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5566,6 +5981,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5616,6 +6037,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5667,6 +6094,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5717,6 +6150,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5767,6 +6206,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5817,6 +6262,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5867,6 +6318,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5917,6 +6374,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -5967,6 +6430,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -6017,6 +6486,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -6067,6 +6542,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -6117,6 +6598,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -6167,6 +6654,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -6217,6 +6710,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6268,6 +6767,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6318,6 +6823,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6368,6 +6879,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6419,6 +6936,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6469,6 +6992,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6520,6 +7049,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6570,6 +7105,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6620,6 +7161,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6671,6 +7218,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6722,6 +7275,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6772,6 +7331,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6822,6 +7387,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6873,6 +7444,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6924,6 +7501,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6975,6 +7558,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7026,6 +7615,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7077,6 +7672,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7127,6 +7728,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7177,6 +7784,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7228,6 +7841,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7278,6 +7897,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7329,6 +7954,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7379,6 +8010,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7429,6 +8066,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7479,6 +8122,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7529,6 +8178,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7579,6 +8234,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7630,6 +8291,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7681,6 +8348,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7731,6 +8404,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7781,6 +8460,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7831,6 +8516,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7882,6 +8573,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7933,6 +8630,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7983,6 +8686,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8033,6 +8742,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8084,6 +8799,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8134,6 +8855,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8185,6 +8912,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8236,6 +8969,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8286,6 +9025,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8336,6 +9081,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8386,6 +9137,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8436,6 +9193,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8486,6 +9249,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8537,6 +9306,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8587,6 +9362,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,1",
+          "heureMesure": "2026-10-09T09:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13223,6 +14004,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13272,6 +14060,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13320,6 +14115,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13369,6 +14171,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13418,6 +14227,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13467,6 +14283,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13515,6 +14338,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13564,6 +14394,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13613,6 +14450,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13662,6 +14506,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13711,6 +14562,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13760,6 +14618,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13809,6 +14674,13 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13858,6 +14730,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -13906,6 +14785,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -13955,6 +14841,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14004,6 +14897,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14052,6 +14952,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14076,6 +14983,7 @@
         "placeCorde": 4,
         "handicapValeur": 33.0,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
         "nombreVictoires": 1,
@@ -14101,6 +15009,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14150,6 +15065,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14199,6 +15121,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14248,6 +15177,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14298,6 +15234,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14347,6 +15290,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14396,6 +15346,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14445,6 +15402,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14493,6 +15457,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14542,6 +15513,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14591,6 +15569,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -14640,6 +15625,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14689,6 +15681,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14738,6 +15737,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14787,6 +15793,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14836,6 +15849,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14885,6 +15905,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14934,6 +15961,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -14983,6 +16017,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -15031,6 +16072,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -15079,6 +16127,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -15127,6 +16182,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -15176,6 +16238,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -15225,6 +16294,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -15274,6 +16350,13 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
@@ -15323,6 +16406,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15372,6 +16462,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15421,6 +16518,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15470,6 +16574,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15519,6 +16630,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15568,6 +16686,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15617,6 +16742,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15667,6 +16799,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15716,6 +16855,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15765,6 +16911,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15814,6 +16967,13 @@
         "distance": 2400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15863,6 +17023,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15913,6 +17080,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15962,6 +17136,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16011,6 +17192,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16060,6 +17248,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16109,6 +17304,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16158,6 +17360,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16207,6 +17416,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16256,6 +17472,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16305,6 +17528,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16354,6 +17584,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16403,6 +17640,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16452,6 +17696,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16501,6 +17752,13 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16550,6 +17808,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16599,6 +17864,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16648,6 +17920,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16697,6 +17976,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16746,6 +18032,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16795,6 +18088,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16844,6 +18144,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16893,6 +18200,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16942,6 +18256,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -16991,6 +18312,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17040,6 +18368,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17089,6 +18424,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17139,6 +18481,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17188,6 +18537,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17237,6 +18593,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17285,6 +18648,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17334,6 +18704,13 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -17383,6 +18760,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17433,6 +18817,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17482,6 +18873,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17531,6 +18929,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17580,6 +18985,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17629,6 +19041,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17678,6 +19097,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17727,6 +19153,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17776,6 +19209,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17825,6 +19265,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17874,6 +19321,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17923,6 +19377,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17972,6 +19433,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18021,6 +19489,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18070,6 +19545,13 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-10-09T09:52",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18124,6 +19606,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18180,6 +19668,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -18236,6 +19730,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -18352,6 +19852,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18404,6 +19910,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18464,6 +19976,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18515,6 +20034,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18566,6 +20092,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -18618,6 +20151,13 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
@@ -18669,6 +20209,13 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
@@ -18726,6 +20273,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18777,6 +20331,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -18829,6 +20390,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18881,6 +20449,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18932,6 +20507,13 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
@@ -18984,6 +20566,13 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
@@ -19036,6 +20625,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19088,6 +20684,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19140,6 +20743,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -19192,6 +20802,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -19244,6 +20861,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19300,6 +20924,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19351,6 +20976,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19402,6 +21028,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19453,6 +21080,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19504,6 +21132,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19555,6 +21184,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19606,6 +21236,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19657,6 +21288,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19708,6 +21340,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19766,6 +21399,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19823,6 +21462,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19880,6 +21525,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20058,6 +21709,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20175,6 +21832,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -20291,6 +21954,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20347,6 +22016,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20523,6 +22198,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20575,6 +22257,13 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
@@ -20627,6 +22316,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20679,6 +22375,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20736,6 +22439,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -20789,6 +22498,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20849,6 +22564,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20902,6 +22623,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -20963,6 +22690,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21020,6 +22753,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21079,6 +22818,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -21131,6 +22877,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -21183,6 +22936,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -21239,6 +22999,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21290,6 +23051,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21341,6 +23103,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21397,6 +23160,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21448,6 +23212,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21499,6 +23264,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21673,6 +23439,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21729,6 +23501,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21789,6 +23567,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21841,6 +23626,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -21893,6 +23685,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -21945,6 +23744,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -21997,6 +23803,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -22054,6 +23867,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22106,6 +23926,13 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
@@ -22158,6 +23985,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -22210,6 +24044,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -22383,6 +24224,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22434,6 +24276,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22490,6 +24333,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22541,6 +24385,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22592,6 +24437,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22650,6 +24496,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22706,6 +24558,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22765,6 +24623,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22816,6 +24675,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22867,6 +24727,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22918,6 +24779,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22976,6 +24838,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23033,6 +24901,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23095,6 +24969,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23152,6 +25032,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23213,6 +25099,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23269,6 +25161,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23329,6 +25227,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23381,6 +25286,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -23438,6 +25350,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -23491,6 +25410,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23548,6 +25474,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23603,6 +25535,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23658,6 +25596,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23714,6 +25658,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23774,6 +25724,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23831,6 +25787,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -23887,6 +25849,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23940,6 +25908,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24000,6 +25974,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -24052,6 +26033,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24109,6 +26097,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -24225,6 +26219,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24277,6 +26278,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -24453,6 +26461,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -24505,6 +26520,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24536,6 +26558,7 @@
           "infosCheval": {
             "placeCorde": 8,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 9,
             "nombreVictoires": 1,
@@ -24561,6 +26584,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24612,6 +26636,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24638,6 +26663,7 @@
           "infosCheval": {
             "placeCorde": 1,
             "handicapPoids": 530,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 13,
             "nombreVictoires": 0,
@@ -24663,6 +26689,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24720,6 +26747,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24772,6 +26806,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24829,6 +26870,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24881,6 +26929,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -24933,6 +26988,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -24991,6 +27053,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25047,6 +27115,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25108,6 +27182,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25161,6 +27242,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25219,6 +27307,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -25271,6 +27366,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25324,6 +27426,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -25381,6 +27490,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25433,6 +27549,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25485,6 +27608,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25660,6 +27790,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25717,6 +27853,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25777,6 +27919,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -25833,6 +27981,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -26012,6 +28166,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26069,6 +28229,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26361,6 +28527,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26413,6 +28586,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -26469,6 +28649,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26520,6 +28701,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26578,6 +28760,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26635,6 +28823,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26692,6 +28886,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26925,6 +29125,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26981,6 +29187,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27160,6 +29372,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27216,6 +29434,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27793,6 +30017,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -27848,6 +30078,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27909,6 +30145,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27965,6 +30207,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28021,6 +30269,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28077,6 +30331,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28134,6 +30394,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28190,6 +30456,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28250,6 +30522,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28305,6 +30583,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -28594,6 +30878,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28884,6 +31174,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28936,6 +31233,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -29166,6 +31470,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29218,6 +31529,13 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -29275,6 +31593,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29327,6 +31652,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -29386,6 +31718,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29443,6 +31781,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29503,6 +31847,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29554,6 +31905,13 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
@@ -29611,6 +31969,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -29663,6 +32028,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29720,6 +32092,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -29772,6 +32151,13 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30275,6 +32661,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30326,6 +32713,7 @@
             "distance": 1350,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30382,6 +32770,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30433,6 +32822,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30484,6 +32874,7 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30535,6 +32926,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30586,6 +32978,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30637,6 +33030,7 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30694,6 +33088,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30750,6 +33150,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -30809,6 +33215,13 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30861,6 +33274,13 @@
             "distance": 2400,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30913,6 +33333,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -30964,6 +33391,13 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-10-09T09:52",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -31021,6 +33455,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31077,6 +33517,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -31133,6 +33579,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31189,6 +33641,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31740,6 +34198,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -31796,6 +34260,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,1",
+              "heureMesure": "2026-10-09T09:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
