@@ -2,6 +2,7 @@
   "date": "2026-10-09",
   "champs": {
     "course": [
+      "arriveeDefinitive",
       "cached",
       "cagnottes",
       "categorieParticularite",
@@ -24,6 +25,7 @@
       "heureDepart",
       "hippodrome",
       "incidents",
+      "isArriveeDefinitive",
       "isDepartAJPlusUn",
       "isDepartImminent",
       "libelle",
@@ -71,6 +73,7 @@
       "handicapDistance",
       "handicapPoids",
       "idCheval",
+      "incident",
       "indicateurInedit",
       "jumentPleine",
       "musique",
