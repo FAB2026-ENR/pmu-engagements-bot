@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T10:06:38.456959+00:00",
+  "generatedAt": "2026-10-10T10:40:46.448708+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -1647,7 +1647,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -1697,7 +1697,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -1747,7 +1747,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -1797,7 +1797,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -1847,7 +1847,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -1897,7 +1897,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -1947,7 +1947,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -1997,7 +1997,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -2047,7 +2047,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -2097,7 +2097,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -2146,7 +2146,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -2195,7 +2195,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -19723,7 +19723,7 @@
       "reunion": "R11",
       "course": "C2",
       "cheval": "NITRO FOREZ",
-      "jockey": "A.BOURGEAIS",
+      "jockey": "G. CHAMPIER",
       "entraineur": "M.PITART",
       "musique": "",
       "prixJour": 14000,
@@ -19740,7 +19740,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": true,
         "supplement": 0,
@@ -20218,7 +20218,7 @@
       "reunion": "R11",
       "course": "C3",
       "cheval": "MARY POPPINS",
-      "jockey": "A.BOURGEAIS",
+      "jockey": "G. CHAMPIER",
       "entraineur": "M.PITART",
       "musique": "Js4s1h0p(25)6p",
       "prixJour": 10000,
@@ -20235,7 +20235,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -22161,7 +22161,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -22214,7 +22214,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -22267,7 +22267,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -23289,7 +23289,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -28003,7 +28003,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -28056,7 +28056,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -30726,7 +30726,7 @@
           "reunion": "R11",
           "course": "C2",
           "cheval": "NITRO FOREZ",
-          "jockey": "A.BOURGEAIS",
+          "jockey": "G. CHAMPIER",
           "entraineur": "M.PITART",
           "musique": "",
           "prixJour": 14000,
@@ -30743,7 +30743,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": true,
             "supplement": 0,
@@ -30784,7 +30784,7 @@
           "reunion": "R11",
           "course": "C3",
           "cheval": "MARY POPPINS",
-          "jockey": "A.BOURGEAIS",
+          "jockey": "G. CHAMPIER",
           "entraineur": "M.PITART",
           "musique": "Js4s1h0p(25)6p",
           "prixJour": 10000,
@@ -30801,7 +30801,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 4,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -31756,7 +31756,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -32152,7 +32152,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
@@ -32443,7 +32443,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DER TIMING ELEKTROTECHNIK - BBAG AUKTIONSRENNEN"
