@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T11:06:50.384390+00:00",
+  "generatedAt": "2026-10-10T11:40:49.682159+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -45,7 +45,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -95,7 +95,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -145,7 +145,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -195,7 +195,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -245,7 +245,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -295,7 +295,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -345,7 +345,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -395,7 +395,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -445,7 +445,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -495,7 +495,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -545,7 +545,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -565,6 +565,7 @@
       "infosCheval": {
         "deferre": "PROTEGE_ANTERIEURS_DEFERRRE_POSTERIEURS",
         "handicapPoids": 650,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2450,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 74,
@@ -595,7 +596,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -644,7 +645,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE COQUAINVILLIERS"
@@ -10081,7 +10082,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10129,7 +10130,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10177,7 +10178,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10226,7 +10227,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10274,7 +10275,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10322,7 +10323,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10370,7 +10371,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10419,7 +10420,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10467,7 +10468,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10516,7 +10517,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10564,7 +10565,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10613,7 +10614,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -10661,7 +10662,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -25170,7 +25171,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE COQUAINVILLIERS"
@@ -27462,7 +27463,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE COQUAINVILLIERS"
@@ -29308,7 +29309,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -29517,7 +29518,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -31933,7 +31934,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -32411,7 +32412,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -32462,7 +32463,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -36006,7 +36007,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE COQUAINVILLIERS"
@@ -36486,7 +36487,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -37985,7 +37986,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE COQUAINVILLIERS"
@@ -38257,7 +38258,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE COQUAINVILLIERS"
@@ -38787,7 +38788,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -39002,7 +39003,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -39378,7 +39379,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -40441,7 +40442,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VIERERWETTEN - RENNEN                   ALLEMAGNE"
@@ -40718,7 +40719,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE COQUAINVILLIERS"
@@ -41066,6 +41067,7 @@
           "infosCheval": {
             "deferre": "PROTEGE_ANTERIEURS_DEFERRRE_POSTERIEURS",
             "handicapPoids": 650,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2450,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 74,
@@ -41096,7 +41098,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE COQUAINVILLIERS"
