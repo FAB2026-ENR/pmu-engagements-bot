@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T12:46:39.080674+00:00",
+  "generatedAt": "2026-10-10T13:08:48.495581+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -4180,7 +4180,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4235,7 +4235,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4290,7 +4290,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4346,7 +4346,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4401,7 +4401,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4456,7 +4456,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4511,7 +4511,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4566,7 +4566,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4621,7 +4621,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4676,7 +4676,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORTERELLE"
@@ -4862,6 +4862,7 @@
         "placeCorde": 6,
         "handicapValeur": 44.5,
         "handicapPoids": 555,
+        "poidsConditionMonte": 560,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
         "nombreVictoires": 2,
@@ -7803,7 +7804,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -7858,7 +7859,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -7914,7 +7915,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -7969,7 +7970,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -8025,7 +8026,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -8080,7 +8081,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -19933,7 +19934,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -19988,7 +19989,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20043,7 +20044,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20098,7 +20099,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20153,7 +20154,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20208,7 +20209,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20263,7 +20264,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20318,7 +20319,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20373,7 +20374,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -20724,6 +20725,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 655,
+        "poidsConditionMonte": 660,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 0,
@@ -21928,7 +21930,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -22613,7 +22615,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -24240,7 +24242,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -24367,7 +24369,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -24917,7 +24919,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -24976,7 +24978,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
@@ -25217,7 +25219,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -26417,7 +26419,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -26961,7 +26963,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -27270,7 +27272,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -27393,7 +27395,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -30829,7 +30831,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX CREDIT AGRICOLE DE CLUNY (PRIX THIERRY GAGEY)"
@@ -31002,7 +31004,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -31063,7 +31065,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -31312,7 +31314,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORTERELLE"
@@ -32666,7 +32668,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ZETLAND STAKES (GROUP 3) - WORLD POOL"
