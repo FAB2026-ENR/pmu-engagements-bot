@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T09:07:07.683457+00:00",
+  "generatedAt": "2026-10-10T09:41:49.079423+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -546,7 +546,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -596,7 +596,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -646,7 +646,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -696,7 +696,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -746,7 +746,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -796,7 +796,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -846,7 +846,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -897,7 +897,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -947,7 +947,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -997,7 +997,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GOURMETAGE RENNEN"
@@ -3341,6 +3341,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3391,6 +3397,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3440,6 +3452,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3489,6 +3507,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3538,6 +3562,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3587,6 +3617,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3636,6 +3672,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3685,6 +3727,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3734,6 +3782,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -3784,6 +3838,12 @@
         "parcours": "1400 M. (NOUVELLE PISTE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3833,6 +3893,12 @@
         "parcours": "1400 M. (NOUVELLE PISTE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3883,6 +3949,12 @@
         "parcours": "1400 M. (NOUVELLE PISTE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3933,6 +4005,12 @@
         "parcours": "1400 M. (NOUVELLE PISTE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3982,6 +4060,12 @@
         "parcours": "1400 M. (NOUVELLE PISTE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4031,6 +4115,12 @@
         "parcours": "1400 M. (NOUVELLE PISTE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4080,6 +4170,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4129,6 +4225,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4178,6 +4280,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4228,6 +4336,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4277,6 +4391,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4326,6 +4446,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4375,6 +4501,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4424,6 +4556,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4473,6 +4611,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4522,6 +4666,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -4571,6 +4721,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4621,6 +4777,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4670,6 +4832,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4720,6 +4888,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4770,6 +4944,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4820,6 +5000,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4871,7 +5057,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -4924,7 +5112,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -4976,7 +5166,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5029,7 +5221,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5082,7 +5276,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5135,7 +5331,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5188,7 +5386,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5241,7 +5441,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5294,7 +5496,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5347,7 +5551,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5400,6 +5606,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5450,6 +5662,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5500,6 +5718,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5550,6 +5774,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5600,6 +5830,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5650,6 +5886,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5700,6 +5942,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5751,6 +5999,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5801,6 +6055,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5851,6 +6111,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5901,6 +6167,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5951,6 +6223,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6001,6 +6279,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6051,6 +6335,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6101,6 +6391,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6151,6 +6447,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6201,6 +6503,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6251,6 +6559,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6302,6 +6616,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6352,6 +6672,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6402,6 +6728,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6452,6 +6784,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6503,6 +6841,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6553,6 +6897,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6603,6 +6953,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6653,6 +7009,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6703,6 +7065,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6753,6 +7121,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6803,6 +7177,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6853,6 +7233,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6903,6 +7289,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -6953,6 +7345,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -7003,6 +7401,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -7053,6 +7457,12 @@
         "parcours": "1800 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-10T10:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -10146,6 +10556,7 @@
       "infosCheval": {
         "placeCorde": 1,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -20942,6 +21353,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -20998,6 +21415,12 @@
             "parcours": "1400 M. (NOUVELLE PISTE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21053,6 +21476,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21110,7 +21539,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -21168,6 +21599,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21224,6 +21661,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21285,6 +21728,12 @@
             "parcours": "1400 M. (NOUVELLE PISTE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21340,6 +21789,12 @@
             "parcours": "1400 M. (NOUVELLE PISTE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21396,6 +21851,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -22611,7 +23072,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GOURMETAGE RENNEN"
@@ -22722,7 +23183,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GOURMETAGE RENNEN"
@@ -23708,6 +24169,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -23763,6 +24230,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23823,6 +24296,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -23878,6 +24357,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23934,6 +24419,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24716,6 +25207,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24772,6 +25269,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25231,6 +25734,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -25287,6 +25796,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -26314,6 +26829,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -26369,6 +26890,12 @@
             "parcours": "1400 M. (NOUVELLE PISTE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26424,6 +26951,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -26480,6 +27013,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26536,6 +27075,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26838,6 +27383,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -26895,7 +27446,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -26962,7 +27515,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GOURMETAGE RENNEN"
@@ -28737,7 +29290,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GOURMETAGE RENNEN"
@@ -29024,7 +29577,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GOURMETAGE RENNEN"
@@ -29292,6 +29845,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -29348,6 +29907,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -30009,7 +30574,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -30067,6 +30634,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -30419,6 +30992,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -30474,6 +31053,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -30656,6 +31241,12 @@
             "parcours": "1400 M. (NOUVELLE PISTE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30711,6 +31302,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -30771,6 +31368,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -30826,6 +31429,12 @@
             "parcours": "1400 M. (NOUVELLE PISTE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30888,7 +31497,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -30946,6 +31557,12 @@
             "parcours": "1800 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -31008,7 +31625,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -31066,6 +31685,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-10T10:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
             "conditionSexe": "TOUS_CHEVAUX",
