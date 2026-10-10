@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T13:40:35.273190+00:00",
+  "generatedAt": "2026-10-10T14:06:41.512478+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -6928,6 +6928,7 @@
         "placeCorde": 5,
         "handicapValeur": 33.0,
         "handicapPoids": 600,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 12,
         "nombreVictoires": 2,
@@ -8524,7 +8525,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES_ET_MALES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -8579,7 +8580,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES_ET_MALES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -8635,7 +8636,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES_ET_MALES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -8691,7 +8692,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES_ET_MALES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -8746,7 +8747,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES_ET_MALES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -22046,7 +22047,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES_ET_MALES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -22105,7 +22106,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES_ET_MALES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -22674,7 +22675,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES_ET_MALES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -24680,7 +24681,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES_ET_MALES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -24738,7 +24739,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES_ET_MALES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY DEWHURST STAKES (GROUP 1) - WORLD POOL"
@@ -30610,6 +30611,7 @@
             "placeCorde": 5,
             "handicapValeur": 33.0,
             "handicapPoids": 600,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 12,
             "nombreVictoires": 2,
