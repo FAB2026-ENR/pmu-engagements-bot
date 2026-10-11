@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T10:07:34.094564+00:00",
+  "generatedAt": "2026-10-11T10:41:26.489912+00:00",
   "entries": [
     {
       "reunion": "R4",
@@ -1188,7 +1188,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1238,7 +1238,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1288,7 +1288,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1338,7 +1338,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1388,7 +1388,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1438,7 +1438,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1488,7 +1488,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1538,7 +1538,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1588,7 +1588,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1638,7 +1638,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1688,7 +1688,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -1738,7 +1738,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -1788,7 +1788,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -1838,7 +1838,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -1887,7 +1887,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -1937,7 +1937,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -1987,7 +1987,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -2037,7 +2037,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -2087,7 +2087,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -2137,7 +2137,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -2186,7 +2186,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -2236,7 +2236,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JAG DE BELLOUET"
@@ -24035,7 +24035,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -24463,7 +24463,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
@@ -24899,7 +24899,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -25321,7 +25321,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
@@ -27359,7 +27359,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
@@ -27411,7 +27411,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
@@ -28948,7 +28948,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -30664,7 +30664,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -30717,7 +30717,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
@@ -30770,7 +30770,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
@@ -31577,7 +31577,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
@@ -32384,7 +32384,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -32812,7 +32812,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -34376,7 +34376,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -34593,7 +34593,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -34961,7 +34961,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -36886,7 +36886,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU MUSEE SAINT-RAYMOND"
@@ -36938,7 +36938,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JAG DE BELLOUET"
