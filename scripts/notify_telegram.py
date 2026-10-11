@@ -127,6 +127,8 @@ def ordre_course(e):
 
 
 def fmt_place(place):
+    if place >= 90:
+        return "non classé"
     return "1er" if place == 1 else f"{place}e"
 
 
