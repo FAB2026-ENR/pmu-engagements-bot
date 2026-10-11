@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T16:42:28.413400+00:00",
+  "generatedAt": "2026-10-11T17:06:53.841705+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -10870,7 +10870,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -10926,7 +10926,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -10982,7 +10982,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11037,7 +11037,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11092,7 +11092,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11147,7 +11147,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11202,7 +11202,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11257,7 +11257,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11312,7 +11312,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11367,7 +11367,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11423,7 +11423,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -11479,7 +11479,7 @@
         "categorieParticularite": "HANDICAP_A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -17221,6 +17221,7 @@
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 560,
+        "poidsConditionMonte": 570,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 1,
         "nombreVictoires": 0,
@@ -19546,6 +19547,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 560,
+        "poidsConditionMonte": 570,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
         "nombreVictoires": 1,
@@ -22098,7 +22100,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -22408,7 +22410,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -23089,7 +23091,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -24849,7 +24851,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -25164,7 +25166,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -28326,6 +28328,7 @@
           "infosCheval": {
             "placeCorde": 8,
             "handicapPoids": 560,
+            "poidsConditionMonte": 570,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 6,
             "nombreVictoires": 1,
@@ -32773,7 +32776,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -32834,7 +32837,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -33091,7 +33094,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -40111,7 +40114,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
@@ -40173,7 +40176,7 @@
             "categorieParticularite": "HANDICAP_A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VAULX-EN-VELIN"
