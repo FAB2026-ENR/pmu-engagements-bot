@@ -418,12 +418,24 @@ def main():
     best = compute_best_engagements(entries)
     print(f"{len(best)} entraîneur(s) avec 2+ engagements aujourd'hui.")
 
+    # Course du Quinté+ du jour (« R1C3 »), pour la page et le message du
+    # matin. Bonus : une erreur ici ne doit jamais bloquer le programme.
+    try:
+        from fetch_bilan import trouver_quinte
+        quinte = trouver_quinte(date_ddmmyyyy)
+    except Exception as e:
+        print(f"  ! Quinté+ du jour introuvable ({type(e).__name__}).")
+        quinte = None
+    if quinte:
+        print(f"Quinté+ du jour : {quinte}.")
+
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     payload = {
         "date": date_iso,
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "entries": entries,
         "bestEngagements": best,
+        "quinte": quinte,
     }
 
     out_path = OUTPUT_DIR / f"engagements-{date_iso}.json"
