@@ -84,7 +84,9 @@ SCORE_BUCKETS = (
 # couplés en champ total).
 # Un bilan enregistré avec une version plus ancienne est recalculé
 # automatiquement.
-BILAN_VERSION = 8
+BILAN_VERSION = 9
+# Version 9 : le bilan note quelle course du jour porte le Quinté+ (champ
+# « quinte »), pour suivre nos chevaux sur ce pari.
 # Version 8 : un cheval parti mais sans place (tombé, arrêté, distancé ou
 # au-delà des places publiées) dans une course terminée compte comme perdant
 # (arrivée 99, « non classé ») au lieu d'être écarté des calculs.
@@ -400,6 +402,32 @@ def fetch_cotes_directes_web(date_ddmmyyyy: str, num_reunion, num_course):
     return result
 
 
+PROGRAMMES = {}
+
+
+def trouver_quinte(date_ddmmyyyy: str):
+    """Renvoie la course du Quinté+ du jour (« R1C3 ») d'après le programme
+    du PMU, ou None. Une course porte le Quinté+ quand un de ses paris
+    contient QUINTE dans son type."""
+    programme = PROGRAMMES.get(date_ddmmyyyy)
+    if programme is None:
+        fetch_reunions_france(date_ddmmyyyy)
+        programme = PROGRAMMES.get(date_ddmmyyyy)
+    if not programme:
+        return None
+    for reunion in (programme.get("programme") or {}).get("reunions") or []:
+        num_r = reunion.get("numOfficiel") or reunion.get("numExterne") or reunion.get("numReunion")
+        for course in reunion.get("courses") or []:
+            paris = course.get("paris") or []
+            types = " ".join(str(p.get("typePari", "")) for p in paris if isinstance(p, dict)).upper()
+            if "QUINTE" in types or "QUINTE" in str(course.get("categorieParticularite", "")).upper():
+                num_c = course.get("numOrdre") or course.get("numExterne")
+                return f"R{num_r}C{num_c}"
+    debug_sample("quinté introuvable, clés d'une course du programme",
+                 list(((((programme.get("programme") or {}).get("reunions") or [{}])[0].get("courses") or [{}])[0]).keys()))
+    return None
+
+
 def fetch_reunions_france(date_ddmmyyyy: str):
     """Renvoie {'R3': True, 'R7': False, ...} (True = réunion en France), ou
     {} si le programme du jour est indisponible."""
@@ -410,6 +438,7 @@ def fetch_reunions_france(date_ddmmyyyy: str):
         return {}
     if not isinstance(programme, dict):
         return {}
+    PROGRAMMES[date_ddmmyyyy] = programme
     result = {}
     for reunion in (programme.get("programme") or {}).get("reunions") or []:
         num = reunion.get("numOfficiel") or reunion.get("numExterne") or reunion.get("numReunion")
@@ -646,6 +675,9 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
     avec_cote = sum(1 for e in bilan_entries if e.get("coteDirecte") is not None)
     print(f"  {avec_cote}/{len(bilan_entries)} partants avec une cote affichée trouvée ({date_iso}).")
 
+    quinte = trouver_quinte(date_ddmmyyyy)
+    if quinte:
+        print(f"  Quinté+ du jour : {quinte}{'' if quinte in courses_info else ' (autre discipline)'}.")
     bucket_results, class_shift_results = build_aggregates(bilan_entries)
     return {
         "version": BILAN_VERSION,
@@ -656,6 +688,7 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
         "classShiftBuckets": class_shift_results,
         "croisements": build_croisements(bilan_entries),
         "courses": courses_info,
+        "quinte": quinte,
     }
 
 
