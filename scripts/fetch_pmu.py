@@ -378,6 +378,8 @@ def collect_entries(date_ddmmyyyy: str):
                     "prixMoyen": PRIX_MOYENS.get((str(num_reunion), str(num_course), num_pmu)) if reunion_france else None,
                     "infosCheval": infos_cheval,
                     "infosCourse": infos_course,
+                    "france": reunion_france,
+                    "numPmu": num_pmu,
                 })
     return entries
 
