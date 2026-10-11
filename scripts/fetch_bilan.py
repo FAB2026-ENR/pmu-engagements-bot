@@ -84,7 +84,11 @@ SCORE_BUCKETS = (
 # couplés en champ total).
 # Un bilan enregistré avec une version plus ancienne est recalculé
 # automatiquement.
-BILAN_VERSION = 7
+BILAN_VERSION = 8
+# Version 8 : un cheval parti mais sans place (tombé, arrêté, distancé ou
+# au-delà des places publiées) dans une course terminée compte comme perdant
+# (arrivée 99, « non classé ») au lieu d'être écarté des calculs.
+PLACE_NON_CLASSE = 99
 
 # Croisements : ils portent sur les chevaux dont la note est comprise entre
 # CROISEMENT_NOTE_MIN inclus et CROISEMENT_NOTE_MAX exclu (0 à 0,99).
@@ -414,6 +418,27 @@ def fetch_reunions_france(date_ddmmyyyy: str):
     return result
 
 
+def marquer_non_classes(bilan_entries):
+    """Dans chaque course terminée (un gagnant est connu), un cheval sans
+    place qui n'est pas non-partant a bien couru et perdu : tombé, arrêté,
+    distancé… Il reçoit l'arrivée PLACE_NON_CLASSE pour compter comme perdant.
+    Renvoie le nombre de chevaux concernés."""
+    par_course = {}
+    for e in bilan_entries:
+        par_course.setdefault((e.get("reunion"), e.get("course")), []).append(e)
+    corriges = 0
+    for chevaux in par_course.values():
+        if not any(e.get("arrivee") == 1 for e in chevaux):
+            continue  # course pas encore courue ou arrivée inconnue
+        for e in chevaux:
+            statut = str(e.get("statutArrivee") or "").upper()
+            if e.get("arrivee") is None and not ("NON" in statut and "PARTANT" in statut):
+                e["arrivee"] = PLACE_NON_CLASSE
+                e["nonClasse"] = True
+                corriges += 1
+    return corriges
+
+
 def marquer_engagements(bilan_entries):
     """Ajoute à chaque partant sa place dans l'écurie du jour : « meilleur »
     (mieux noté d'un entraîneur ayant 2 partants ou plus), « autre » (autre
@@ -615,6 +640,9 @@ def build_bilan(date_iso: str, date_ddmmyyyy: str):
             })
 
     marquer_engagements(bilan_entries)
+    non_classes = marquer_non_classes(bilan_entries)
+    if non_classes:
+        print(f"  {non_classes} cheval(aux) parti(s) sans place (tombé, arrêté…) compté(s) comme perdant(s).")
     avec_cote = sum(1 for e in bilan_entries if e.get("coteDirecte") is not None)
     print(f"  {avec_cote}/{len(bilan_entries)} partants avec une cote affichée trouvée ({date_iso}).")
 
