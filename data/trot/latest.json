@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T08:42:44.444428+00:00",
+  "generatedAt": "2026-10-11T09:07:55.733461+00:00",
   "entries": [
     {
       "reunion": "R4",
@@ -45,7 +45,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -95,7 +95,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -145,7 +145,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -195,7 +195,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -245,7 +245,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -295,7 +295,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -345,7 +345,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -395,7 +395,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -445,7 +445,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -495,7 +495,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -544,7 +544,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX BELLINO II"
@@ -6055,6 +6055,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 5,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -23981,7 +23982,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -25214,7 +25215,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -25267,7 +25268,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -27305,7 +27306,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -27698,6 +27699,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 5,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2100,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -28409,7 +28411,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -28462,7 +28464,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -32329,7 +32331,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -36774,7 +36776,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
@@ -36826,7 +36828,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX BELLINO II"
