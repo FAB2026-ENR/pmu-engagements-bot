@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 9,
   "date": "2026-10-06",
-  "generatedAt": "2026-10-09T21:48:45.105987+00:00",
+  "generatedAt": "2026-10-11T21:48:32.294849+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -2839,7 +2839,7 @@
       "prixPrec": null,
       "score": 3.51,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "ARRETE",
       "coteGagnant": null,
       "cotePlace": null,
@@ -2849,7 +2849,8 @@
       "nbCourses": 3,
       "jour": "2026-10-06",
       "numPmu": 6,
-      "engagement": "autre"
+      "engagement": "autre",
+      "nonClasse": true
     },
     {
       "reunion": "R6",
@@ -3018,15 +3019,15 @@
     },
     {
       "label": "3",
-      "n": 15,
-      "nRoi": 15,
+      "n": 16,
+      "nRoi": 16,
       "nGagnants": 2,
       "nPlaces": 7,
-      "tauxGagnant": 13.3,
-      "tauxPlace": 46.7,
+      "tauxGagnant": 12.5,
+      "tauxPlace": 43.8,
       "coteGagnantMoyenne": 3.8,
-      "roiGagnant": -49.3,
-      "roiPlace": -39.3
+      "roiGagnant": -52.5,
+      "roiPlace": -43.1
     },
     {
       "label": "4",
@@ -3651,5 +3652,6 @@
         "5-9": 5.6
       }
     }
-  }
+  },
+  "quinte": "R1C1"
 }

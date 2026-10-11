@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 9,
   "date": "2026-10-08",
-  "generatedAt": "2026-10-09T21:49:28.286530+00:00",
+  "generatedAt": "2026-10-11T21:49:20.150779+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -3222,7 +3222,7 @@
         "type": "monte",
         "pct": 36
       },
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "TOMBE",
       "coteGagnant": null,
       "cotePlace": null,
@@ -3232,7 +3232,8 @@
       "nbCourses": 3,
       "jour": "2026-10-08",
       "numPmu": 7,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     },
     {
       "reunion": "R1",
@@ -3286,7 +3287,7 @@
         "type": "monte",
         "pct": 36
       },
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "TOMBE",
       "coteGagnant": null,
       "cotePlace": null,
@@ -3296,7 +3297,8 @@
       "nbCourses": 4,
       "jour": "2026-10-08",
       "numPmu": 8,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     },
     {
       "reunion": "R1",
@@ -18538,7 +18540,7 @@
       },
       "score": 3.24,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
@@ -18548,7 +18550,8 @@
       "nbCourses": 5,
       "jour": "2026-10-08",
       "numPmu": 1,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     },
     {
       "reunion": "R6",
@@ -18599,7 +18602,7 @@
       },
       "score": 2.43,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
@@ -18609,7 +18612,8 @@
       "nbCourses": 5,
       "jour": "2026-10-08",
       "numPmu": 2,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     },
     {
       "reunion": "R6",
@@ -18783,7 +18787,7 @@
       },
       "score": 5.51,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
@@ -18793,7 +18797,8 @@
       "nbCourses": 3,
       "jour": "2026-10-08",
       "numPmu": 5,
-      "engagement": "meilleur"
+      "engagement": "meilleur",
+      "nonClasse": true
     },
     {
       "reunion": "R6",
@@ -18966,7 +18971,7 @@
       },
       "score": 6.53,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
@@ -18976,7 +18981,8 @@
       "nbCourses": 5,
       "jour": "2026-10-08",
       "numPmu": 8,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     },
     {
       "reunion": "R6",
@@ -19027,7 +19033,7 @@
       },
       "score": 3.83,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
@@ -19037,7 +19043,8 @@
       "nbCourses": 5,
       "jour": "2026-10-08",
       "numPmu": 9,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     },
     {
       "reunion": "R6",
@@ -19149,7 +19156,7 @@
       },
       "score": 4.41,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
@@ -19159,7 +19166,8 @@
       "nbCourses": 5,
       "jour": "2026-10-08",
       "numPmu": 11,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     }
   ],
   "buckets": [
@@ -19177,15 +19185,15 @@
     },
     {
       "label": "0",
-      "n": 15,
-      "nRoi": 15,
+      "n": 16,
+      "nRoi": 16,
       "nGagnants": 4,
       "nPlaces": 11,
-      "tauxGagnant": 26.7,
-      "tauxPlace": 73.3,
+      "tauxGagnant": 25.0,
+      "tauxPlace": 68.8,
       "coteGagnantMoyenne": 3.88,
-      "roiGagnant": 3.3,
-      "roiPlace": -4.0
+      "roiGagnant": -3.1,
+      "roiPlace": -10.0
     },
     {
       "label": "1",
@@ -19201,63 +19209,63 @@
     },
     {
       "label": "2",
-      "n": 35,
-      "nRoi": 35,
+      "n": 36,
+      "nRoi": 36,
       "nGagnants": 5,
       "nPlaces": 14,
-      "tauxGagnant": 14.3,
-      "tauxPlace": 40.0,
+      "tauxGagnant": 13.9,
+      "tauxPlace": 38.9,
       "coteGagnantMoyenne": 6.54,
-      "roiGagnant": -6.6,
-      "roiPlace": -15.4
+      "roiGagnant": -9.2,
+      "roiPlace": -17.8
     },
     {
       "label": "3",
-      "n": 43,
-      "nRoi": 43,
+      "n": 45,
+      "nRoi": 45,
       "nGagnants": 5,
       "nPlaces": 16,
-      "tauxGagnant": 11.6,
-      "tauxPlace": 37.2,
+      "tauxGagnant": 11.1,
+      "tauxPlace": 35.6,
       "coteGagnantMoyenne": 5.28,
-      "roiGagnant": -38.6,
-      "roiPlace": -24.2
+      "roiGagnant": -41.3,
+      "roiPlace": -27.6
     },
     {
       "label": "4",
-      "n": 42,
-      "nRoi": 42,
+      "n": 44,
+      "nRoi": 44,
       "nGagnants": 2,
       "nPlaces": 11,
-      "tauxGagnant": 4.8,
-      "tauxPlace": 26.2,
+      "tauxGagnant": 4.5,
+      "tauxPlace": 25.0,
       "coteGagnantMoyenne": 6.2,
-      "roiGagnant": -70.5,
-      "roiPlace": -25.5
+      "roiGagnant": -71.8,
+      "roiPlace": -28.9
     },
     {
       "label": "5",
-      "n": 28,
-      "nRoi": 28,
+      "n": 29,
+      "nRoi": 29,
       "nGagnants": 4,
       "nPlaces": 9,
-      "tauxGagnant": 14.3,
-      "tauxPlace": 32.1,
+      "tauxGagnant": 13.8,
+      "tauxPlace": 31.0,
       "coteGagnantMoyenne": 3.65,
-      "roiGagnant": -47.9,
-      "roiPlace": -8.2
+      "roiGagnant": -49.7,
+      "roiPlace": -11.4
     },
     {
       "label": "6",
-      "n": 33,
-      "nRoi": 33,
+      "n": 34,
+      "nRoi": 34,
       "nGagnants": 2,
       "nPlaces": 9,
-      "tauxGagnant": 6.1,
-      "tauxPlace": 27.3,
+      "tauxGagnant": 5.9,
+      "tauxPlace": 26.5,
       "coteGagnantMoyenne": 7.55,
-      "roiGagnant": -54.2,
-      "roiPlace": -5.8
+      "roiGagnant": -55.6,
+      "roiPlace": -8.5
     },
     {
       "label": "7",
@@ -19422,15 +19430,15 @@
       },
       {
         "label": "30 – 39%",
-        "n": 2,
-        "nRoi": 2,
+        "n": 4,
+        "nRoi": 4,
         "nGagnants": 1,
         "nPlaces": 2,
-        "tauxGagnant": 50.0,
-        "tauxPlace": 100.0,
+        "tauxGagnant": 25.0,
+        "tauxPlace": 50.0,
         "coteGagnantMoyenne": 2.0,
-        "roiGagnant": 0.0,
-        "roiPlace": 85.0
+        "roiGagnant": -50.0,
+        "roiPlace": -7.5
       },
       {
         "label": "40 – 49%",
@@ -19509,7 +19517,7 @@
   "croisements": {
     "noteMin": 0,
     "noteMax": 1,
-    "n": 15,
+    "n": 16,
     "cote": [
       {
         "label": "moins de 3",
@@ -19525,15 +19533,15 @@
       },
       {
         "label": "3 à 5,9",
-        "n": 5,
-        "nRoi": 5,
+        "n": 6,
+        "nRoi": 6,
         "nGagnants": 1,
         "nPlaces": 3,
-        "tauxGagnant": 20.0,
-        "tauxPlace": 60.0,
+        "tauxGagnant": 16.7,
+        "tauxPlace": 50.0,
         "coteGagnantMoyenne": 3.8,
-        "roiGagnant": -24.0,
-        "roiPlace": 10.0
+        "roiGagnant": -36.7,
+        "roiPlace": -8.3
       },
       {
         "label": "6 à 11,9",
@@ -19575,15 +19583,15 @@
       },
       {
         "label": "3 à 4 courses",
-        "n": 10,
-        "nRoi": 10,
+        "n": 11,
+        "nRoi": 11,
         "nGagnants": 2,
         "nPlaces": 8,
-        "tauxGagnant": 20.0,
-        "tauxPlace": 80.0,
+        "tauxGagnant": 18.2,
+        "tauxPlace": 72.7,
         "coteGagnantMoyenne": 2.45,
-        "roiGagnant": -51.0,
-        "roiPlace": 4.0
+        "roiGagnant": -55.5,
+        "roiPlace": -5.5
       },
       {
         "label": "5 courses et plus",
@@ -19625,29 +19633,29 @@
       },
       {
         "label": "entraîneur à un seul partant",
-        "n": 3,
-        "nRoi": 3,
+        "n": 4,
+        "nRoi": 4,
         "nGagnants": 0,
         "nPlaces": 2,
         "tauxGagnant": 0.0,
-        "tauxPlace": 66.7,
+        "tauxPlace": 50.0,
         "coteGagnantMoyenne": null,
         "roiGagnant": -100.0,
-        "roiPlace": 13.3
+        "roiPlace": -15.0
       }
     ],
     "pays": [
       {
         "label": "France",
-        "n": 4,
-        "nRoi": 4,
+        "n": 5,
+        "nRoi": 5,
         "nGagnants": 1,
         "nPlaces": 3,
-        "tauxGagnant": 25.0,
-        "tauxPlace": 75.0,
+        "tauxGagnant": 20.0,
+        "tauxPlace": 60.0,
         "coteGagnantMoyenne": 3.8,
-        "roiGagnant": -5.0,
-        "roiPlace": -37.5
+        "roiGagnant": -24.0,
+        "roiPlace": -50.0
       },
       {
         "label": "étranger",
@@ -19703,15 +19711,15 @@
       },
       {
         "label": "tous les autres chevaux de la tranche",
-        "n": 14,
-        "nRoi": 14,
+        "n": 15,
+        "nRoi": 15,
         "nGagnants": 4,
         "nPlaces": 11,
-        "tauxGagnant": 28.6,
-        "tauxPlace": 78.6,
+        "tauxGagnant": 26.7,
+        "tauxPlace": 73.3,
         "coteGagnantMoyenne": 3.88,
-        "roiGagnant": 10.7,
-        "roiPlace": 2.9
+        "roiGagnant": 3.3,
+        "roiPlace": -4.0
       }
     ]
   },
@@ -20027,5 +20035,6 @@
         "3-10": 12.5
       }
     }
-  }
+  },
+  "quinte": "R1C1"
 }

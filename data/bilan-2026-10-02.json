@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 9,
   "date": "2026-10-02",
-  "generatedAt": "2026-10-09T21:47:15.007644+00:00",
+  "generatedAt": "2026-10-11T21:46:57.383286+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -796,7 +796,7 @@
       "prixPrec": null,
       "score": 1.16,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "ARRETE",
       "coteGagnant": null,
       "cotePlace": null,
@@ -806,7 +806,8 @@
       "nbCourses": 4,
       "jour": "2026-10-02",
       "numPmu": 7,
-      "engagement": "meilleur"
+      "engagement": "meilleur",
+      "nonClasse": true
     },
     {
       "reunion": "R4",
@@ -3165,7 +3166,7 @@
       "prixPrec": null,
       "score": 5.73,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "ARRETE",
       "coteGagnant": null,
       "cotePlace": null,
@@ -3175,7 +3176,8 @@
       "nbCourses": 5,
       "jour": "2026-10-02",
       "numPmu": 8,
-      "engagement": "autre"
+      "engagement": "autre",
+      "nonClasse": true
     },
     {
       "reunion": "R5",
@@ -4286,15 +4288,15 @@
     },
     {
       "label": "1",
-      "n": 15,
-      "nRoi": 15,
+      "n": 16,
+      "nRoi": 16,
       "nGagnants": 1,
       "nPlaces": 6,
-      "tauxGagnant": 6.7,
-      "tauxPlace": 40.0,
+      "tauxGagnant": 6.2,
+      "tauxPlace": 37.5,
       "coteGagnantMoyenne": 6.2,
-      "roiGagnant": -58.7,
-      "roiPlace": -35.3
+      "roiGagnant": -61.3,
+      "roiPlace": -39.4
     },
     {
       "label": "2",
@@ -4334,15 +4336,15 @@
     },
     {
       "label": "5",
-      "n": 24,
-      "nRoi": 24,
+      "n": 25,
+      "nRoi": 25,
       "nGagnants": 3,
       "nPlaces": 8,
-      "tauxGagnant": 12.5,
-      "tauxPlace": 33.3,
+      "tauxGagnant": 12.0,
+      "tauxPlace": 32.0,
       "coteGagnantMoyenne": 10.8,
-      "roiGagnant": 35.0,
-      "roiPlace": -15.8
+      "roiGagnant": 29.6,
+      "roiPlace": -19.2
     },
     {
       "label": "6",
@@ -4999,5 +5001,6 @@
         "1-6": 3.5
       }
     }
-  }
+  },
+  "quinte": "R1C4"
 }

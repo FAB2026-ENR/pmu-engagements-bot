@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 9,
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T21:47:05.838163+00:00",
+  "generatedAt": "2026-10-11T21:49:41.892515+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -2916,7 +2916,7 @@
       },
       "score": 7.39,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "TOMBE",
       "coteGagnant": null,
       "cotePlace": null,
@@ -2926,7 +2926,8 @@
       "nbCourses": 5,
       "jour": "2026-10-09",
       "numPmu": 2,
-      "engagement": "autre"
+      "engagement": "autre",
+      "nonClasse": true
     },
     {
       "reunion": "R2",
@@ -25703,7 +25704,7 @@
       },
       "score": 4.68,
       "classShift": null,
-      "arrivee": null,
+      "arrivee": 99,
       "statutArrivee": "PARTANT",
       "coteGagnant": null,
       "cotePlace": null,
@@ -25713,7 +25714,8 @@
       "nbCourses": 4,
       "jour": "2026-10-09",
       "numPmu": 14,
-      "engagement": "seul"
+      "engagement": "seul",
+      "nonClasse": true
     },
     {
       "reunion": "R6",
@@ -25848,15 +25850,15 @@
     },
     {
       "label": "4",
-      "n": 51,
-      "nRoi": 51,
+      "n": 52,
+      "nRoi": 52,
       "nGagnants": 2,
       "nPlaces": 13,
-      "tauxGagnant": 3.9,
-      "tauxPlace": 25.5,
+      "tauxGagnant": 3.8,
+      "tauxPlace": 25.0,
       "coteGagnantMoyenne": 18.57,
-      "roiGagnant": -27.2,
-      "roiPlace": -20.6
+      "roiGagnant": -28.6,
+      "roiPlace": -22.1
     },
     {
       "label": "5",
@@ -25884,15 +25886,15 @@
     },
     {
       "label": "7",
-      "n": 29,
-      "nRoi": 29,
+      "n": 30,
+      "nRoi": 30,
       "nGagnants": 1,
       "nPlaces": 3,
-      "tauxGagnant": 3.4,
-      "tauxPlace": 10.3,
+      "tauxGagnant": 3.3,
+      "tauxPlace": 10.0,
       "coteGagnantMoyenne": 13.3,
-      "roiGagnant": -54.1,
-      "roiPlace": -35.9
+      "roiGagnant": -55.7,
+      "roiPlace": -38.0
     },
     {
       "label": "8",
@@ -26622,5 +26624,6 @@
       "coupleGagnant": {},
       "couplePlace": {}
     }
-  }
+  },
+  "quinte": "R1C4"
 }
