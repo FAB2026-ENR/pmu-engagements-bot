@@ -476,13 +476,127 @@ def bilan():
     send("\n".join(lines))
 
 
+# --- Quinté+ du jour, vu par nos critères ---
+# Bonus « pour le plaisir » : les partants de la course du Quinté+ classés
+# par note de forme (la plus basse en tête). Le matin : notre classement. Le
+# soir : combien de nos chevaux sont dans l'arrivée. Chaque discipline
+# (galop, trot) n'envoie le message que si le Quinté+ du jour est chez elle.
+
+QUINTE_TOP = 8      # chevaux retenus dans notre classement
+QUINTE_BASES = 2    # les mieux notés, présentés comme « bases »
+RACINE_DATA = Path(__file__).resolve().parent.parent / "data"
+
+
+def course_du_quinte(date_iso: str):
+    try:
+        from fetch_bilan import trouver_quinte
+        return trouver_quinte(datetime.strptime(date_iso, "%Y-%m-%d").strftime("%d%m%Y"))
+    except Exception as e:  # le Quinté+ est un bonus : jamais bloquant
+        print(f"Quinté+ introuvable ({type(e).__name__}).", file=sys.stderr)
+        return None
+
+
+def classement_quinte(chevaux):
+    """Partants classés par note (les chevaux sans note en dernier)."""
+    return sorted(chevaux, key=lambda e: (e.get("score") is None, e.get("score") if e.get("score") is not None else 0, e.get("cheval", "")))
+
+
+def est_non_partant(e):
+    statut = str(e.get("statutArrivee") or "").upper()
+    return "NON" in statut and "PARTANT" in statut
+
+
+def quinte_matin():
+    path = DATA_DIR / "latest.json"
+    if not path.exists():
+        return
+    data = json.loads(path.read_text(encoding="utf-8"))
+    code = course_du_quinte(data.get("date", ""))
+    if not code:
+        return
+    chevaux = []
+    for e in data.get("entries", []):
+        if f"{e.get('reunion', '')}{e.get('course', '')}" != code:
+            continue
+        score, _ = form_score(e.get("musique", ""), e.get("prixJour"), e.get("prixPrec"))
+        chevaux.append({**e, "score": score})
+    if not chevaux:
+        return  # le Quinté+ du jour est dans l'autre discipline
+    classes = classement_quinte(chevaux)[:QUINTE_TOP]
+    lines = [f"🏁 Quinté+ du jour vu par nos critères — {code} ({len(chevaux)} partants)", ""]
+    for i, e in enumerate(classes, 1):
+        note = "sans note" if e.get("score") is None else f"note {fmt_note(e['score'])}"
+        base = " ⭐ base" if i <= QUINTE_BASES else ""
+        lines.append(f"{i}. {e['cheval']} — {note} — {e.get('musique', '') or '—'}{base}")
+    lines += ["", "Bonus pour le plaisir : le Quinté+ reste le pari le plus difficile. Résultat ce soir, sans trucage."]
+    send("\n".join(lines))
+
+
+def bilan_quinte(data):
+    """Pour un bilan du jour : (code, nos chevaux classés, arrivée) ou None."""
+    code = data.get("quinte")
+    if not code:
+        return None
+    chevaux = [e for e in data.get("entries", []) if f"{e.get('reunion', '')}{e.get('course', '')}" == code and not est_non_partant(e)]
+    if not chevaux or not any(e.get("arrivee") == 1 for e in chevaux):
+        return None
+    arrivee = sorted((e for e in chevaux if e.get("arrivee") and e["arrivee"] <= 5), key=lambda e: e["arrivee"])
+    return code, classement_quinte(chevaux)[:QUINTE_TOP], arrivee
+
+
+def quinte_soir():
+    path = DATA_DIR / "bilan-latest.json"
+    if not path.exists():
+        return
+    data = json.loads(path.read_text(encoding="utf-8"))
+    res = bilan_quinte(data)
+    if not res:
+        return
+    code, nos, arrivee = res
+    dans = [e for e in nos if e.get("arrivee") and e["arrivee"] <= 5]
+    bases = nos[:QUINTE_BASES]
+    lines = [f"🏁 Quinté+ — résultat — {code}", ""]
+    lines.append("Arrivée : " + " – ".join(e["cheval"] for e in arrivee))
+    lines.append("")
+    for i, e in enumerate(nos, 1):
+        place = e.get("arrivee")
+        res_txt = "non classé" if place is None else fmt_place(place)
+        marque = " ✅" if place and place <= 5 else ""
+        lines.append(f"{i}. {e['cheval']} : {res_txt}{marque}")
+    lines.append("")
+    lines.append(f"Nos {len(nos)} chevaux : {len(dans)} dans l'arrivée sur 5.")
+    lines.append("Bases : " + ", ".join(f"{e['cheval']} {'placé ✅' if e.get('arrivee') and e['arrivee'] <= 3 else 'non placé'}" for e in bases))
+    if len(arrivee) == 5 and len(dans) == 5:
+        lines.append("🎉 Les 5 premiers sont dans nos 8 : Quinté+ dans le désordre trouvé !")
+    # Cumul de tous les Quintés suivis (galop et trot).
+    jours = []
+    for dossier in (RACINE_DATA, RACINE_DATA / "trot"):
+        for f in sorted(dossier.glob("bilan-20*.json")):
+            try:
+                r = bilan_quinte(json.loads(f.read_text(encoding="utf-8")))
+            except ValueError:
+                r = None
+            if r:
+                jours.append(r)
+    if jours:
+        n = len(jours)
+        trouves = sum(sum(1 for e in r[1] if e.get("arrivee") and e["arrivee"] <= 5) for r in jours)
+        bases_ok = sum(sum(1 for e in r[1][:QUINTE_BASES] if e.get("arrivee") and e["arrivee"] <= 3) for r in jours)
+        desordre = sum(1 for r in jours if len(r[2]) == 5 and all(e.get("arrivee") and e["arrivee"] <= 5 for e in r[2]) and sum(1 for e in r[1] if e.get("arrivee") and e["arrivee"] <= 5) == 5)
+        moy = f"{trouves / n:.1f}".replace(".", ",")
+        lines += ["", f"Depuis le début : {n} Quinté(s) suivis — en moyenne {moy} de nos chevaux dans l'arrivée, bases placées {bases_ok} fois sur {n * QUINTE_BASES}, désordre trouvé {desordre} fois."]
+    send("\n".join(lines))
+
+
 def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
     if mode == "morning":
         selection_matin()
+        quinte_matin()
         morning()
     elif mode == "bilan":
         selection_soir()
+        quinte_soir()
         croisements_soir()
         bilan()
     else:
