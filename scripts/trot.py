@@ -297,9 +297,11 @@ def main():
         fb.main()
     elif mode == "telegram-matin":
         selection_matin_trot()
+        nt.quinte_matin()
         nt.morning()
     elif mode == "telegram-soir":
         nt.selection_soir()
+        nt.quinte_soir()
         croisements_soir_trot()
         nt.bilan()
     else:
