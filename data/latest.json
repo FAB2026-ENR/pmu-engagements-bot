@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T11:40:44.636970+00:00",
+  "generatedAt": "2026-10-11T12:09:21.341277+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -6232,7 +6232,7 @@
       "prixMoyen": 20000,
       "infosCheval": {
         "handicapPoids": 750,
-        "poidsConditionMonte": 710,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
         "nombreVictoires": 1,
@@ -6268,7 +6268,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATE_CINQ_SIX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU PONT MOUJA"
@@ -6322,7 +6322,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATE_CINQ_SIX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU PONT MOUJA"
@@ -6376,7 +6376,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATE_CINQ_SIX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU PONT MOUJA"
@@ -6429,7 +6429,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATE_CINQ_SIX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU PONT MOUJA"
@@ -6483,7 +6483,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATE_CINQ_SIX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU PONT MOUJA"
@@ -6537,7 +6537,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATE_CINQ_SIX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU PONT MOUJA"
@@ -19667,7 +19667,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FRANCE GALOP"
@@ -19724,7 +19724,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FRANCE GALOP"
@@ -19781,7 +19781,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FRANCE GALOP"
@@ -19836,7 +19836,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FRANCE GALOP"
@@ -19892,7 +19892,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FRANCE GALOP"
@@ -19948,7 +19948,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FRANCE GALOP"
@@ -24319,7 +24319,7 @@
           "prixMoyen": 20000,
           "infosCheval": {
             "handicapPoids": 750,
-            "poidsConditionMonte": 710,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 11,
             "nombreVictoires": 1,
@@ -24355,7 +24355,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATE_CINQ_SIX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "CROSS",
             "specialite": "OBSTACLE",
             "libelle": "PRIX DU PONT MOUJA"
@@ -24415,7 +24415,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATE_CINQ_SIX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "CROSS",
             "specialite": "OBSTACLE",
             "libelle": "PRIX DU PONT MOUJA"
@@ -24605,7 +24605,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FRANCE GALOP"
@@ -26887,7 +26887,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATE_CINQ_SIX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "CROSS",
             "specialite": "OBSTACLE",
             "libelle": "PRIX DU PONT MOUJA"
@@ -28013,7 +28013,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FRANCE GALOP"
@@ -32759,7 +32759,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FRANCE GALOP"
@@ -34663,7 +34663,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FRANCE GALOP"
@@ -36488,7 +36488,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FRANCE GALOP"
