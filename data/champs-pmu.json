@@ -1,8 +1,7 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "champs": {
     "course": [
-      "arriveeDefinitive",
       "cached",
       "cagnottes",
       "categorieParticularite",
@@ -17,7 +16,6 @@
       "discipline",
       "distance",
       "distanceUnit",
-      "dureeCourse",
       "ecuries",
       "epcPourTousParis",
       "formuleChampLibreIndisponible",
@@ -25,7 +23,6 @@
       "hasEParis",
       "heureDepart",
       "hippodrome",
-      "isArriveeDefinitive",
       "isDepartAJPlusUn",
       "isDepartImminent",
       "libelle",
@@ -44,7 +41,6 @@
       "numOrdre",
       "numReunion",
       "numSocieteMere",
-      "ordreArrivee",
       "parcours",
       "pariMultiCourses",
       "pariSpecial",
@@ -55,15 +51,11 @@
       "replayDisponible",
       "specialite",
       "statut",
-      "timezoneOffset",
-      "typePiste"
+      "timezoneOffset"
     ],
     "cheval": [
       "age",
       "allure",
-      "dernierRapportDirect",
-      "dernierRapportReference",
-      "distanceChevalPrecedent",
       "driver",
       "driverChange",
       "eleveur",
@@ -87,7 +79,7 @@
       "nombreVictoires",
       "numPmu",
       "oeilleres",
-      "ordreArrivee",
+      "pays",
       "placeCorde",
       "poidsConditionMonteChange",
       "proprietaire",
