@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T16:43:14.342819+00:00",
+  "generatedAt": "2026-10-12T17:09:05.665066+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -3389,7 +3389,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3441,7 +3441,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3493,7 +3493,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3544,7 +3544,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3596,7 +3596,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3648,7 +3648,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3700,7 +3700,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3752,7 +3752,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -3804,7 +3804,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "EUROPEENNE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DU PONT NEUF"
@@ -7524,7 +7524,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7575,7 +7575,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7626,7 +7626,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7678,7 +7678,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7730,7 +7730,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7782,7 +7782,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7834,7 +7834,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7886,7 +7886,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7937,7 +7937,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -7989,7 +7989,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -8041,7 +8041,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -8092,7 +8092,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -8144,7 +8144,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -8195,7 +8195,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX RAYMOND RIGAULT"
@@ -11076,7 +11076,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11126,7 +11126,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11176,7 +11176,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11227,7 +11227,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11277,7 +11277,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11327,7 +11327,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11377,7 +11377,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11428,7 +11428,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11478,7 +11478,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11528,7 +11528,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11578,7 +11578,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -11629,7 +11629,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX LOUIS DECAUDIN"
@@ -16062,7 +16062,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX LOUIS DECAUDIN"
@@ -17202,7 +17202,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX LOUIS DECAUDIN"
@@ -17425,7 +17425,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "EUROPEENNE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DU PONT NEUF"
@@ -17978,7 +17978,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "EUROPEENNE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DU PONT NEUF"
@@ -18033,7 +18033,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "EUROPEENNE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DU PONT NEUF"
@@ -18538,7 +18538,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX LOUIS DECAUDIN"
@@ -18591,7 +18591,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX LOUIS DECAUDIN"
@@ -18704,7 +18704,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX LOUIS DECAUDIN"
@@ -19489,7 +19489,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX LOUIS DECAUDIN"
@@ -20106,7 +20106,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX RAYMOND RIGAULT"
@@ -21180,7 +21180,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "EUROPEENNE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DU PONT NEUF"
@@ -21521,7 +21521,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX RAYMOND RIGAULT"
@@ -21751,7 +21751,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX RAYMOND RIGAULT"
@@ -21806,7 +21806,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX RAYMOND RIGAULT"
@@ -21921,7 +21921,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX RAYMOND RIGAULT"
@@ -23035,7 +23035,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX LOUIS DECAUDIN"
