@@ -51,7 +51,6 @@
       "paris",
       "participants",
       "penetrometre",
-      "pronosticsExpires",
       "rapportsDefinitifsDisponibles",
       "replayDisponible",
       "specialite",
@@ -62,6 +61,7 @@
     "cheval": [
       "age",
       "allure",
+      "commentaireApresCourse",
       "dernierRapportDirect",
       "dernierRapportReference",
       "distanceChevalPrecedent",
