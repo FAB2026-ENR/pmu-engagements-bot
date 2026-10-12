@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T09:47:32.671777+00:00",
+  "generatedAt": "2026-10-12T10:11:12.692631+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -56,7 +56,7 @@
       "reunion": "R3",
       "course": "C1",
       "cheval": "HOUSTON DE CUIGNY",
-      "jockey": "M. BEAUVAIS",
+      "jockey": "J. FERRON",
       "entraineur": "K. BUSNEL",
       "musique": "0aDaAa0aDaDa6a9a7a7a",
       "prixJour": 18000,
@@ -64,6 +64,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2875,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 83,
@@ -73,7 +74,7 @@
         "nombrePlacesTroisieme": 10,
         "age": 9,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -19559,7 +19560,7 @@
           "reunion": "R3",
           "course": "C1",
           "cheval": "HOUSTON DE CUIGNY",
-          "jockey": "M. BEAUVAIS",
+          "jockey": "J. FERRON",
           "entraineur": "K. BUSNEL",
           "musique": "0aDaAa0aDaDa6a9a7a7a",
           "prixJour": 18000,
@@ -19567,6 +19568,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+            "poidsConditionMonte": 0,
             "handicapDistance": 2875,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 83,
@@ -19576,7 +19578,7 @@
             "nombrePlacesTroisieme": 10,
             "age": 9,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
