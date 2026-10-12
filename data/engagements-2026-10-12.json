@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T18:48:12.173385+00:00",
+  "generatedAt": "2026-10-12T19:09:40.298119+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -5480,7 +5480,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5536,7 +5536,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5592,7 +5592,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5648,7 +5648,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5704,7 +5704,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5716,7 +5716,7 @@
       "reunion": "R5",
       "course": "C2",
       "cheval": "CHARMING TIZ",
-      "jockey": "JOAQUIN ALEJANDRO HERRERA OLIVAR",
+      "jockey": "RAFAEL FRANCISCO CISTERNAS AYALA",
       "entraineur": "RAFAEL ABRAHAM BERNAL",
       "musique": "0p7p3p0p8p",
       "prixJour": 1796,
@@ -5733,7 +5733,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -5760,7 +5760,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5816,7 +5816,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5872,7 +5872,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5928,7 +5928,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -5984,7 +5984,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -6040,7 +6040,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CARLOFORTE"
@@ -11774,7 +11774,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -13418,7 +13418,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -14293,7 +14293,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -14734,7 +14734,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -16810,7 +16810,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -16825,7 +16825,7 @@
           "reunion": "R5",
           "course": "C2",
           "cheval": "CHARMING TIZ",
-          "jockey": "JOAQUIN ALEJANDRO HERRERA OLIVAR",
+          "jockey": "RAFAEL FRANCISCO CISTERNAS AYALA",
           "entraineur": "RAFAEL ABRAHAM BERNAL",
           "musique": "0p7p3p0p8p",
           "prixJour": 1796,
@@ -16842,7 +16842,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 3,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -16869,7 +16869,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -17562,7 +17562,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -17621,7 +17621,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
@@ -17985,7 +17985,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CARLOFORTE"
