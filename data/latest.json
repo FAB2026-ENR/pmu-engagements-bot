@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T19:56:06.850376+00:00",
+  "generatedAt": "2026-10-13T21:58:29.302668+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -17689,7 +17689,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -17745,7 +17745,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -17801,7 +17801,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -17857,7 +17857,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -17913,7 +17913,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -17969,7 +17969,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18025,7 +18025,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18037,7 +18037,7 @@
       "reunion": "R6",
       "course": "C4",
       "cheval": "EL TATUADO",
-      "jockey": "CARLOS  PAVEZ",
+      "jockey": "JUAN A. CAMPOS",
       "entraineur": "JULIO ENRIQUE ESPINOSA NUNEZ",
       "musique": "9p5p4p",
       "prixJour": 1066,
@@ -18054,7 +18054,7 @@
         "nombrePlacesTroisieme": 4,
         "age": 6,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -18081,7 +18081,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18137,7 +18137,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18193,7 +18193,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18249,7 +18249,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18305,7 +18305,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18361,7 +18361,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "LORENZO ARENAS"
@@ -18417,7 +18417,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18473,7 +18473,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18530,7 +18530,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18586,7 +18586,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18642,7 +18642,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18698,7 +18698,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18754,7 +18754,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18810,7 +18810,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BARRIO NORTE"
@@ -18866,7 +18866,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -18922,7 +18922,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -18978,7 +18978,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -18999,6 +18999,7 @@
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 30,
         "nombreVictoires": 2,
@@ -19034,7 +19035,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -19090,7 +19091,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -19111,6 +19112,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 13,
         "nombreVictoires": 1,
@@ -19146,7 +19148,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -19202,7 +19204,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -19258,7 +19260,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -19314,7 +19316,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -19370,7 +19372,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ANDALIEN"
@@ -20431,7 +20433,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -20490,7 +20492,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BARRIO NORTE"
@@ -20549,7 +20551,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BARRIO NORTE"
@@ -20856,7 +20858,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -20915,7 +20917,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -20974,7 +20976,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -21033,7 +21035,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -21931,7 +21933,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -21990,7 +21992,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
@@ -22014,6 +22016,7 @@
           "infosCheval": {
             "placeCorde": 6,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 13,
             "nombreVictoires": 1,
@@ -22049,7 +22052,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
@@ -22108,7 +22111,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
@@ -23524,7 +23527,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -23583,7 +23586,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BARRIO NORTE"
@@ -23642,7 +23645,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BARRIO NORTE"
@@ -23701,7 +23704,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BARRIO NORTE"
@@ -23760,7 +23763,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BARRIO NORTE"
@@ -24008,7 +24011,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
@@ -24072,7 +24075,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -24131,7 +24134,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -24190,7 +24193,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -25601,7 +25604,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "I. MUNICIPALIDAD DE CONCEPCION"
@@ -25660,7 +25663,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -25719,7 +25722,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BARRIO NORTE"
@@ -25778,7 +25781,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
@@ -25837,7 +25840,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
@@ -27481,7 +27484,7 @@
           "reunion": "R6",
           "course": "C4",
           "cheval": "EL TATUADO",
-          "jockey": "CARLOS  PAVEZ",
+          "jockey": "JUAN A. CAMPOS",
           "entraineur": "JULIO ENRIQUE ESPINOSA NUNEZ",
           "musique": "9p5p4p",
           "prixJour": 1066,
@@ -27498,7 +27501,7 @@
             "nombrePlacesTroisieme": 4,
             "age": 6,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -27525,7 +27528,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "LORENZO ARENAS"
@@ -27549,6 +27552,7 @@
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 30,
             "nombreVictoires": 2,
@@ -27584,7 +27588,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
@@ -31387,7 +31391,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ANDALIEN"
