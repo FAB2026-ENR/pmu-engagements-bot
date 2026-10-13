@@ -8,6 +8,7 @@
       "categorieStatut",
       "conditionSexe",
       "conditions",
+      "corde",
       "courseExclusiveInternet",
       "courseTrackee",
       "departImminent",
@@ -44,12 +45,14 @@
       "pariSpecial",
       "paris",
       "participants",
+      "penetrometre",
       "pronosticsExpires",
       "rapportsDefinitifsDisponibles",
       "replayDisponible",
       "specialite",
       "statut",
-      "timezoneOffset"
+      "timezoneOffset",
+      "typePiste"
     ],
     "cheval": [
       "age",
