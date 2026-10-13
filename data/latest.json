@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T07:09:02.976598+00:00",
+  "generatedAt": "2026-10-13T07:16:13.470752+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -7120,6 +7120,7 @@
         "placeCorde": 4,
         "handicapValeur": 32.0,
         "handicapPoids": 620,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 0,
@@ -9871,6 +9872,7 @@
         "placeCorde": 4,
         "handicapValeur": 32.5,
         "handicapPoids": 625,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 5,
         "nombreVictoires": 0,
@@ -21604,6 +21606,7 @@
             "placeCorde": 4,
             "handicapValeur": 32.0,
             "handicapPoids": 620,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 3,
             "nombreVictoires": 0,
@@ -21661,6 +21664,7 @@
             "placeCorde": 4,
             "handicapValeur": 32.5,
             "handicapPoids": 625,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 5,
             "nombreVictoires": 0,
