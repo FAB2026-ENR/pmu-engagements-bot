@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T11:10:47.484071+00:00",
+  "generatedAt": "2026-10-13T11:44:43.536895+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -480,6 +480,7 @@
         "placeCorde": 10,
         "handicapValeur": 37.5,
         "handicapPoids": 565,
+        "poidsConditionMonte": 570,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
         "nombreVictoires": 3,
@@ -828,6 +829,7 @@
         "placeCorde": 6,
         "handicapValeur": 36.0,
         "handicapPoids": 550,
+        "poidsConditionMonte": 555,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 26,
         "nombreVictoires": 4,
@@ -9879,7 +9881,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -9936,7 +9938,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -9993,7 +9995,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10051,7 +10053,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10108,7 +10110,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10166,7 +10168,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10224,7 +10226,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10281,7 +10283,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10339,7 +10341,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10397,7 +10399,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10454,7 +10456,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10512,7 +10514,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10570,7 +10572,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10627,7 +10629,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10685,7 +10687,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -10734,9 +10736,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -10791,9 +10793,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -10849,9 +10851,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -10907,9 +10909,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -10965,9 +10967,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -11023,9 +11025,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -11080,9 +11082,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -11137,9 +11139,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -11195,9 +11197,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11254,9 +11256,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11313,9 +11315,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11371,9 +11373,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11430,9 +11432,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11488,9 +11490,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11546,9 +11548,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11604,9 +11606,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -11662,9 +11664,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
         "penetrometre": {
-          "valeurMesure": "3,5",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-13T09:00",
-          "intitule": "Souple",
+          "intitule": "Très souple",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -19481,9 +19483,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -20868,6 +20870,7 @@
             "placeCorde": 6,
             "handicapValeur": 36.0,
             "handicapPoids": 550,
+            "poidsConditionMonte": 555,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 26,
             "nombreVictoires": 4,
@@ -21158,9 +21161,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -22588,7 +22591,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -22643,9 +22646,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -22776,9 +22779,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -22973,9 +22976,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -24030,9 +24033,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -24421,9 +24424,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -24562,7 +24565,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -24810,9 +24813,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -24871,9 +24874,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -25882,9 +25885,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -26798,9 +26801,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -26862,9 +26865,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -26926,9 +26929,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -27419,9 +27422,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -29392,9 +29395,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -30058,9 +30061,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
             "penetrometre": {
-              "valeurMesure": "3,5",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-13T09:00",
-              "intitule": "Souple",
+              "intitule": "Très souple",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -30255,7 +30258,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -31784,7 +31787,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BLANPAIN DE SAINT-MARS"
@@ -31847,7 +31850,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BLANPAIN DE SAINT-MARS"
