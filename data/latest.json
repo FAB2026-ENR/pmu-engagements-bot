@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T09:44:58.003414+00:00",
+  "generatedAt": "2026-10-13T10:10:27.857917+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -8539,7 +8539,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -8598,7 +8598,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -8657,7 +8657,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -8715,7 +8715,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -8773,7 +8773,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -8832,7 +8832,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -8890,7 +8890,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -8948,7 +8948,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -9006,7 +9006,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -9064,7 +9064,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -9122,7 +9122,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX GEORES BATIOT"
@@ -9319,6 +9319,7 @@
         "placeCorde": 5,
         "handicapValeur": 28.5,
         "handicapPoids": 595,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 48,
         "nombreVictoires": 4,
@@ -21101,7 +21102,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX GEORES BATIOT"
@@ -24328,6 +24329,7 @@
             "placeCorde": 5,
             "handicapValeur": 28.5,
             "handicapPoids": 595,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 48,
             "nombreVictoires": 4,
@@ -25825,7 +25827,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX GEORES BATIOT"
@@ -30001,7 +30003,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX GEORES BATIOT"
@@ -31654,7 +31656,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX GEORES BATIOT"
@@ -31718,7 +31720,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX GEORES BATIOT"
@@ -32290,7 +32292,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX GEORES BATIOT"
