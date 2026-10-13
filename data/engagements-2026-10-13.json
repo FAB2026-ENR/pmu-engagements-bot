@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generatedAt": "2026-10-13T17:09:43.071361+00:00",
+  "generatedAt": "2026-10-13T17:43:56.868478+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -13605,7 +13605,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -13661,7 +13661,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -13717,7 +13717,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -13773,7 +13773,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -13829,7 +13829,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -13850,6 +13850,7 @@
       "infosCheval": {
         "placeCorde": 3,
         "handicapPoids": 600,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -13885,7 +13886,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -13942,7 +13943,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -13998,7 +13999,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -14055,7 +14056,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -16008,7 +16009,7 @@
       "reunion": "R5",
       "course": "C9",
       "cheval": "YOKKELL",
-      "jockey": "HARRY DAVIES",
+      "jockey": "PADDY BRADLEY",
       "entraineur": "ADRIAN WINTLE",
       "musique": "0p9p6p1p4p",
       "prixJour": 7470,
@@ -16026,7 +16027,7 @@
         "nombrePlacesTroisieme": 8,
         "age": 7,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -19833,7 +19834,7 @@
           "reunion": "R5",
           "course": "C9",
           "cheval": "YOKKELL",
-          "jockey": "HARRY DAVIES",
+          "jockey": "PADDY BRADLEY",
           "entraineur": "ADRIAN WINTLE",
           "musique": "0p9p6p1p4p",
           "prixJour": 7470,
@@ -19851,7 +19852,7 @@
             "nombrePlacesTroisieme": 8,
             "age": 7,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -25447,7 +25448,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
@@ -31218,7 +31219,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HOTEL & CONFERENCING AT WOLVERHAMPTON RACECOURSE EBF MAIDEN STAKES"
