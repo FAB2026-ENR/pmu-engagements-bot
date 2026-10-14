@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+a#!/usr/bin/env python3
 """
 Suivi « Handicaps » : handicaps de plat en France, 13 partants ou plus.
 
@@ -13,7 +13,8 @@ fait la moyenne des rangs (sans donnée = rang du milieu).
 Jockeys et entraîneurs : % sur leurs 20 dernières courses suivies, AVANT le
 jour joué (5 courses minimum, sinon rang du milieu). Le matin, on publie nos
 2 premiers (et le 3e en témoin) ; le soir, le résultat du jour et le cumul
-depuis le 08/10, en simple gagnant à 1 € par cheval.
+depuis le 02/10 (02-07/10 complétés par data/rattrapage/), en simple gagnant
+à 1 € par cheval, avec à part les courses nouvelles depuis le 15/10.
 
 Appelé par notify_telegram.py : handicap.matin(send) et handicap.soir(send).
 Ne doit jamais bloquer les autres messages.
@@ -25,7 +26,8 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-SUIVI_DEPUIS = "2026-10-08"   # premier jour où le type de course est connu
+SUIVI_DEPUIS = "2026-10-02"   # début du suivi (02-07/10 complétés par data/rattrapage/)
+NOUVEAU_DEPUIS = "2026-10-15"  # première journée jamais vue lors du choix de la stratégie
 PARTANTS_MIN = 13
 NB_DERNIERES = 20            # courses retenues pour juger jockeys et entraîneurs
 MIN_COURSES_STAT = 5
@@ -58,6 +60,28 @@ def est_course_suivie(partants):
     return bool(lettres) and lettres.most_common(1)[0][0] == "p"
 
 
+def completer(data):
+    """Avant le 08/10, les bilans n'ont ni type de course ni infos cheval :
+    on les reprend dans data/rattrapage/infos-AAAA-MM-JJ.json s'il existe."""
+    f = DATA_DIR / "rattrapage" / f"infos-{data.get('date')}.json"
+    if not f.exists():
+        return data
+    try:
+        courses = json.loads(f.read_text(encoding="utf-8")).get("courses", {})
+    except ValueError:
+        return data
+    for e in data.get("entries", []):
+        c = courses.get(e.get("reunion", "") + e.get("course", ""))
+        if not c:
+            continue
+        if not e.get("infosCourse"):
+            e["infosCourse"] = c.get("infosCourse", {})
+        h = c.get("chevaux", {}).get(str(e.get("numPmu")))
+        if h and not e.get("infosCheval"):
+            e["infosCheval"] = h.get("infosCheval", {})
+    return data
+
+
 def charger_bilans():
     """{date: bilan} pour tous les bilans galop enregistrés."""
     bilans = {}
@@ -67,7 +91,7 @@ def charger_bilans():
         except ValueError:
             continue
         if data.get("date"):
-            bilans[data["date"]] = data
+            bilans[data["date"]] = completer(data)
     return bilans
 
 
@@ -188,7 +212,7 @@ def texte_matin():
             libelle = ((ps[0].get("infosCourse") or {}).get("libelle") or "").title()
             lignes.append(f"{code} · {libelle} · {len(ps)} partants")
             lignes.append(f"   1. {nom(cl[0][0])}   2. {nom(cl[1][0])}   (3e : {nom(cl[2][0])})")
-    lignes += ["", "Recherche en test depuis le 08/10, suivie chaque soir, perdants compris. Ni pronostic ni conseil de jeu."]
+    lignes += ["", "Recherche en test, suivie chaque soir, perdants compris. Ni pronostic ni conseil de jeu."]
     return "\n".join(lignes)
 
 
@@ -234,17 +258,23 @@ def texte_soir():
         t = [f"{nom(e)} {place_txt(e)}{' ✅ ' + euros(gain(e)) if gain(e) else ''}" for e in cl[:3]]
         lignes.append(f"{code} : {t[0]} · {t[1]} · (3e : {t[2]})")
     lignes.append("")
-    for k in (2, 3):
-        mise = k * len(res)
-        par_course = [sum(gain(e) for e in cl[:k]) for _, _, cl in res]
-        rapport = sum(par_course)
-        trouves = sum(1 for g in par_course if g > 0)
-        sans = (rapport - max(par_course) - (mise - k)) / (mise - k) * 100 if mise > k else 0
-        titre = "Nos 2 premiers" if k == 2 else "Témoin, 3 premiers"
-        lignes.append(f"{titre} depuis le {SUIVI_DEPUIS[8:]}/{SUIVI_DEPUIS[5:7]} : {len(res)} courses, gagnant trouvé {trouves} fois, "
-                      f"{euros(mise)} misés, {euros(rapport)} rapportés, {pct((rapport - mise) / mise * 100)} "
-                      f"(sans la meilleure course : {pct(sans)}).")
-    lignes += ["", "Échantillon encore petit : on suit sans rien changer jusqu'au 8 novembre."]
+    nouveaux = [r for r in res if r[0] >= NOUVEAU_DEPUIS]
+    for titre_periode, lot in ((f"depuis le {SUIVI_DEPUIS[8:]}/{SUIVI_DEPUIS[5:7]}", res),
+                               (f"courses nouvelles depuis le {NOUVEAU_DEPUIS[8:]}/{NOUVEAU_DEPUIS[5:7]}", nouveaux)):
+        if not lot:
+            continue
+        for k in (2, 3):
+            mise = k * len(lot)
+            par_course = [sum(gain(e) for e in cl[:k]) for _, _, cl in lot]
+            rapport = sum(par_course)
+            trouves = sum(1 for g in par_course if g > 0)
+            sans = (rapport - max(par_course) - (mise - k)) / (mise - k) * 100 if mise > k else 0
+            titre = "Nos 2 premiers" if k == 2 else "Témoin, 3 premiers"
+            lignes.append(f"{titre}, {titre_periode} : {len(lot)} courses, gagnant trouvé {trouves} fois, "
+                          f"{euros(mise)} misés, {euros(rapport)} rapportés, {pct((rapport - mise) / mise * 100)} "
+                          f"(sans la meilleure course : {pct(sans)}).")
+        lignes.append("")
+    lignes += ["Stratégie choisie le 14/10 : seules les courses à partir du 15/10 la testent vraiment. On suit sans rien changer jusqu'au 8 novembre."]
     return "\n".join(lignes)
 
 
