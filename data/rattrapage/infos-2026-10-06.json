@@ -1,0 +1,3712 @@
+{
+ "date": "2026-10-06",
+ "courses": {
+  "R3C1": {
+   "infosCourse": {
+    "distance": 2200,
+    "parcours": "2200 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T08:00",
+     "intitule": "Souple",
+     "commentaire": "Relevï¿½"
+    },
+    "nombreDeclaresPartants": 5,
+    "categorieParticularite": "COURSE_A_CONDITIONS",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "PRIX OUMNAZ"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "SHANOUR",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapValeur": 39.0,
+      "handicapPoids": 570,
+      "poidsConditionMonte": 575,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 6,
+      "nombreVictoires": 1,
+      "nombrePlaces": 3,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2959000,
+       "gainsVictoires": 960000,
+       "gainsPlace": 1999000,
+       "gainsAnneeEnCours": 2438400,
+       "gainsAnneePrecedente": 520600
+      }
+     }
+    },
+    "2": {
+     "cheval": "VASSY",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapValeur": 41.5,
+      "handicapPoids": 570,
+      "poidsConditionMonte": 575,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 5,
+      "nombreVictoires": 1,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 1,
+      "age": 3,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2110600,
+       "gainsVictoires": 1050000,
+       "gainsPlace": 1060600,
+       "gainsAnneeEnCours": 714800,
+       "gainsAnneePrecedente": 1395800
+      }
+     }
+    },
+    "3": {
+     "cheval": "SET APART",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 570,
+      "poidsConditionMonte": 575,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 1,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1182300,
+       "gainsVictoires": 960000,
+       "gainsPlace": 222300,
+       "gainsAnneeEnCours": 1182300,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "4": {
+     "cheval": "HEPBURN",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapValeur": 38.5,
+      "handicapPoids": 555,
+      "poidsConditionMonte": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 15,
+      "nombreVictoires": 2,
+      "nombrePlaces": 12,
+      "nombrePlacesSecond": 4,
+      "nombrePlacesTroisieme": 4,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 7156800,
+       "gainsVictoires": 3690000,
+       "gainsPlace": 3466800,
+       "gainsAnneeEnCours": 5336800,
+       "gainsAnneePrecedente": 1820000
+      }
+     }
+    },
+    "5": {
+     "cheval": "MUSIC'S GIRL",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapValeur": 40.0,
+      "handicapPoids": 555,
+      "poidsConditionMonte": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 3,
+      "nombreVictoires": 1,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 960000,
+       "gainsVictoires": 960000,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 960000,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    }
+   }
+  },
+  "R3C2": {
+   "infosCourse": {
+    "distance": 1600,
+    "parcours": "1600 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T10:50",
+     "intitule": "Souple",
+     "commentaire": "Estimï¿½ au dï¿½but des opï¿½rations"
+    },
+    "nombreDeclaresPartants": 7,
+    "categorieParticularite": "COURSE_A_CONDITIONS",
+    "conditionSexe": "MALES_ET_HONGRES",
+    "conditionAge": "DEUX_ANS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "PRIX DE CUISERY"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "LOUKPAN",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 0,
+      "nombrePlaces": 2,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 2,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 540600,
+       "gainsVictoires": 0,
+       "gainsPlace": 540600,
+       "gainsAnneeEnCours": 540600,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "2": {
+     "cheval": "MUNCH",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 0,
+      "nombrePlaces": 2,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1846600,
+       "gainsVictoires": 0,
+       "gainsPlace": 1846600,
+       "gainsAnneeEnCours": 1846600,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "3": {
+     "cheval": "SI NOIR",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 0,
+      "nombrePlaces": 2,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 2,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 226300,
+       "gainsVictoires": 0,
+       "gainsPlace": 226300,
+       "gainsAnneeEnCours": 226300,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "4": {
+     "cheval": "ELMO PUTNEY",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 114200,
+       "gainsVictoires": 0,
+       "gainsPlace": 114200,
+       "gainsAnneeEnCours": 114200,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "5": {
+     "cheval": "ARION",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 0,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": true,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "6": {
+     "cheval": "ADOMATO",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 0,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": true,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "7": {
+     "cheval": "LINTERCEPTOR",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 0,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": true,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    }
+   }
+  },
+  "R3C3": {
+   "infosCourse": {
+    "distance": 1600,
+    "parcours": "1600 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T11:56",
+     "intitule": "Souple",
+     "commentaire": "Estimï¿½"
+    },
+    "nombreDeclaresPartants": 11,
+    "categorieParticularite": "COURSE_A_CONDITIONS",
+    "conditionSexe": "FEMELLES",
+    "conditionAge": "DEUX_ANS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "PRIX DU HARAS DU MA"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "BEMARA",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 182800,
+       "gainsVictoires": 0,
+       "gainsPlace": 182800,
+       "gainsAnneeEnCours": 182800,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "2": {
+     "cheval": "CAPBEARD FAL",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "3": {
+     "cheval": "ZELROMY",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 52500,
+       "gainsVictoires": 0,
+       "gainsPlace": 52500,
+       "gainsAnneeEnCours": 52500,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "4": {
+     "cheval": "LATZIA",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 0,
+      "nombrePlaces": 2,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 325500,
+       "gainsVictoires": 0,
+       "gainsPlace": 325500,
+       "gainsAnneeEnCours": 325500,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "5": {
+     "cheval": "SEA JOLIE",
+     "infosCheval": {
+      "placeCorde": 10,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 294000,
+       "gainsVictoires": 0,
+       "gainsPlace": 294000,
+       "gainsAnneeEnCours": 294000,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "6": {
+     "cheval": "PERLE DE LUNE",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapValeur": 31.5,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 3,
+      "nombreVictoires": 0,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 57600,
+       "gainsVictoires": 0,
+       "gainsPlace": 57600,
+       "gainsAnneeEnCours": 57600,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "7": {
+     "cheval": "PEARL OF LIPS",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "8": {
+     "cheval": "TOKYO DREAMS",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "9": {
+     "cheval": "MUHARA MOON",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 0,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 294000,
+       "gainsVictoires": 0,
+       "gainsPlace": 294000,
+       "gainsAnneeEnCours": 294000,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "10": {
+     "cheval": "KLEINE STER",
+     "infosCheval": {
+      "placeCorde": 11,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 189000,
+       "gainsVictoires": 0,
+       "gainsPlace": 189000,
+       "gainsAnneeEnCours": 189000,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "11": {
+     "cheval": "MALITORNE",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 0,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 2,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": true,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    }
+   }
+  },
+  "R3C4": {
+   "infosCourse": {
+    "distance": 2000,
+    "parcours": "2000 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T12:28",
+     "intitule": "Souple",
+     "commentaire": "Estimï¿½"
+    },
+    "nombreDeclaresPartants": 6,
+    "categorieParticularite": "COURSE_A_CONDITIONS",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "PRIX DE L'ESSOR"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "MAGNUS",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapValeur": 37.0,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 6,
+      "nombreVictoires": 0,
+      "nombrePlaces": 5,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 1,
+      "age": 3,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1450200,
+       "gainsVictoires": 0,
+       "gainsPlace": 1450200,
+       "gainsAnneeEnCours": 1450200,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "2": {
+     "cheval": "SAMOR",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapValeur": 35.0,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 5,
+      "nombreVictoires": 0,
+      "nombrePlaces": 3,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 2,
+      "age": 3,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 976000,
+       "gainsVictoires": 0,
+       "gainsPlace": 976000,
+       "gainsAnneeEnCours": 345800,
+       "gainsAnneePrecedente": 630200
+      }
+     }
+    },
+    "3": {
+     "cheval": "SODA ZABEEL",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapValeur": 33.0,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 8,
+      "nombreVictoires": 0,
+      "nombrePlaces": 6,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 2,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1456500,
+       "gainsVictoires": 0,
+       "gainsPlace": 1456500,
+       "gainsAnneeEnCours": 1273700,
+       "gainsAnneePrecedente": 182800
+      }
+     }
+    },
+    "4": {
+     "cheval": "GAREYA",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapValeur": 36.0,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 3,
+      "nombreVictoires": 0,
+      "nombrePlaces": 3,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 1,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 931700,
+       "gainsVictoires": 0,
+       "gainsPlace": 931700,
+       "gainsAnneeEnCours": 931700,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "5": {
+     "cheval": "NATURALISTE",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapValeur": 34.5,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 6,
+      "nombreVictoires": 0,
+      "nombrePlaces": 5,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 602200,
+       "gainsVictoires": 0,
+       "gainsPlace": 602200,
+       "gainsAnneeEnCours": 602200,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "6": {
+     "cheval": "WINNETOU",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 0,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": true,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    }
+   }
+  },
+  "R3C5": {
+   "infosCourse": {
+    "distance": 1350,
+    "parcours": "1350 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T13:00",
+     "intitule": "Souple",
+     "commentaire": "Estimï¿½"
+    },
+    "nombreDeclaresPartants": 10,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "LA FLECHE"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "TERREDEGUERRE",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapValeur": 31.5,
+      "handicapPoids": 625,
+      "poidsConditionMonte": 630,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 42,
+      "nombreVictoires": 4,
+      "nombrePlaces": 26,
+      "nombrePlacesSecond": 9,
+      "nombrePlacesTroisieme": 5,
+      "age": 6,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 11875900,
+       "gainsVictoires": 3195000,
+       "gainsPlace": 8680900,
+       "gainsAnneeEnCours": 3570900,
+       "gainsAnneePrecedente": 163000
+      }
+     }
+    },
+    "2": {
+     "cheval": "HADITOUNI",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapValeur": 32.0,
+      "handicapPoids": 625,
+      "poidsConditionMonte": 630,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 8,
+      "nombreVictoires": 1,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1369800,
+       "gainsVictoires": 780000,
+       "gainsPlace": 589800,
+       "gainsAnneeEnCours": 1369800,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "3": {
+     "cheval": "STUNNING HERO",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapValeur": 30.5,
+      "handicapPoids": 615,
+      "poidsConditionMonte": 620,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 23,
+      "nombreVictoires": 2,
+      "nombrePlaces": 12,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 1,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3633300,
+       "gainsVictoires": 1630000,
+       "gainsPlace": 2003300,
+       "gainsAnneeEnCours": 1349100,
+       "gainsAnneePrecedente": 2284200
+      }
+     }
+    },
+    "4": {
+     "cheval": "EAGLE GATE",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapValeur": 30.0,
+      "handicapPoids": 610,
+      "poidsConditionMonte": 590,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 39,
+      "nombreVictoires": 5,
+      "nombrePlaces": 22,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 10160800,
+       "gainsVictoires": 5170000,
+       "gainsPlace": 4990800,
+       "gainsAnneeEnCours": 1021200,
+       "gainsAnneePrecedente": 4259600
+      }
+     }
+    },
+    "5": {
+     "cheval": "LOVER SONG",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapValeur": 29.5,
+      "handicapPoids": 605,
+      "poidsConditionMonte": 610,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 22,
+      "nombreVictoires": 2,
+      "nombrePlaces": 8,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3738700,
+       "gainsVictoires": 2250000,
+       "gainsPlace": 1488700,
+       "gainsAnneeEnCours": 238900,
+       "gainsAnneePrecedente": 3384800
+      }
+     }
+    },
+    "6": {
+     "cheval": "DAR ES SALAAM",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapValeur": 28.5,
+      "handicapPoids": 590,
+      "poidsConditionMonte": 595,
+      "oeilleres": "OEILLERES_AUSTRALIENNES",
+      "nombreCourses": 10,
+      "nombreVictoires": 0,
+      "nombrePlaces": 6,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 2,
+      "age": 3,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 740300,
+       "gainsVictoires": 0,
+       "gainsPlace": 740300,
+       "gainsAnneeEnCours": 740300,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "7": {
+     "cheval": "SHATIVA",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapValeur": 25.5,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "OEILLERES_AUSTRALIENNES",
+      "nombreCourses": 11,
+      "nombreVictoires": 1,
+      "nombrePlaces": 5,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 1,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1161200,
+       "gainsVictoires": 575000,
+       "gainsPlace": 586200,
+       "gainsAnneeEnCours": 1161200,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "8": {
+     "cheval": "WHY CHOPE",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapValeur": 25.0,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 83,
+      "nombreVictoires": 11,
+      "nombrePlaces": 29,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 6,
+      "age": 7,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 12658200,
+       "gainsVictoires": 8000000,
+       "gainsPlace": 4658200,
+       "gainsAnneeEnCours": 955600,
+       "gainsAnneePrecedente": 4126600
+      }
+     }
+    },
+    "9": {
+     "cheval": "NEW WAY BABY",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapValeur": 25.0,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 550,
+      "oeilleres": "OEILLERES_AUSTRALIENNES",
+      "nombreCourses": 30,
+      "nombreVictoires": 5,
+      "nombrePlaces": 9,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 5738200,
+       "gainsVictoires": 3945000,
+       "gainsPlace": 1793200,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 3295700
+      }
+     }
+    },
+    "10": {
+     "cheval": "THAT'S LIFE",
+     "infosCheval": {
+      "placeCorde": 10,
+      "handicapValeur": 24.5,
+      "handicapPoids": 555,
+      "poidsConditionMonte": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 24,
+      "nombreVictoires": 2,
+      "nombrePlaces": 12,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 1,
+      "age": 5,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3024400,
+       "gainsVictoires": 1600000,
+       "gainsPlace": 1424400,
+       "gainsAnneeEnCours": 655900,
+       "gainsAnneePrecedente": 1148500
+      }
+     }
+    }
+   }
+  },
+  "R3C6": {
+   "infosCourse": {
+    "distance": 1600,
+    "parcours": "1600 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T13:32",
+     "intitule": "Souple",
+     "commentaire": "Estimï¿½"
+    },
+    "nombreDeclaresPartants": 10,
+    "categorieParticularite": "COURSE_A_CONDITIONS",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "PRIX PALLUAT DE BESSET"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "FAROUKH",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "2": {
+     "cheval": "BOY DOCTOBRE",
+     "infosCheval": {
+      "placeCorde": 10,
+      "handicapPoids": 580,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "3": {
+     "cheval": "FRAYA MAS",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapValeur": 33.5,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 7,
+      "nombreVictoires": 0,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 582100,
+       "gainsVictoires": 0,
+       "gainsPlace": 582100,
+       "gainsAnneeEnCours": 513600,
+       "gainsAnneePrecedente": 68500
+      }
+     }
+    },
+    "4": {
+     "cheval": "NEW PEARL",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapValeur": 27.0,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 21,
+      "nombreVictoires": 0,
+      "nombrePlaces": 11,
+      "nombrePlacesSecond": 3,
+      "nombrePlacesTroisieme": 1,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2091100,
+       "gainsVictoires": 0,
+       "gainsPlace": 2091100,
+       "gainsAnneeEnCours": 1218800,
+       "gainsAnneePrecedente": 872300
+      }
+     }
+    },
+    "5": {
+     "cheval": "SVEREVA",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 1,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "6": {
+     "cheval": "PRINCESS ALICE",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapValeur": 20.5,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "OEILLERES_AUSTRALIENNES",
+      "nombreCourses": 16,
+      "nombreVictoires": 0,
+      "nombrePlaces": 10,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 2,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 803500,
+       "gainsVictoires": 0,
+       "gainsPlace": 803500,
+       "gainsAnneeEnCours": 772000,
+       "gainsAnneePrecedente": 31500
+      }
+     }
+    },
+    "7": {
+     "cheval": "FIDJI",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapValeur": 24.5,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 6,
+      "nombreVictoires": 0,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 203100,
+       "gainsVictoires": 0,
+       "gainsPlace": 203100,
+       "gainsAnneeEnCours": 124300,
+       "gainsAnneePrecedente": 78800
+      }
+     }
+    },
+    "8": {
+     "cheval": "MADAME MAGIC",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapValeur": 31.5,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 11,
+      "nombreVictoires": 0,
+      "nombrePlaces": 6,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 2,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 915300,
+       "gainsVictoires": 0,
+       "gainsPlace": 915300,
+       "gainsAnneeEnCours": 686700,
+       "gainsAnneePrecedente": 228600
+      }
+     }
+    },
+    "9": {
+     "cheval": "CHARMYE",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapValeur": 30.5,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 3,
+      "nombreVictoires": 0,
+      "nombrePlaces": 2,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 202800,
+       "gainsVictoires": 0,
+       "gainsPlace": 202800,
+       "gainsAnneeEnCours": 202800,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "10": {
+     "cheval": "MENDOZA",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 0,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": true,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    }
+   }
+  },
+  "R3C7": {
+   "infosCourse": {
+    "distance": 2400,
+    "parcours": "2400 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T14:17",
+     "intitule": "Souple",
+     "commentaire": "Estimï¿½"
+    },
+    "nombreDeclaresPartants": 7,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "QUATRE_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "PRIX DE PONT-DE-VIVAUX"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "GOLDEN BLUSH",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapValeur": 37.0,
+      "handicapPoids": 630,
+      "poidsConditionMonte": 620,
+      "oeilleres": "OEILLERES_AUSTRALIENNES",
+      "nombreCourses": 24,
+      "nombreVictoires": 6,
+      "nombrePlaces": 13,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 4,
+      "age": 4,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 6704400,
+       "gainsVictoires": 4750000,
+       "gainsPlace": 1954400,
+       "gainsAnneeEnCours": 4624900,
+       "gainsAnneePrecedente": 2079500
+      }
+     }
+    },
+    "2": {
+     "cheval": "ORAGEUX",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapValeur": 34.0,
+      "handicapPoids": 600,
+      "poidsConditionMonte": 605,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 3,
+      "nombreVictoires": 2,
+      "nombrePlaces": 1,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 0,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1308600,
+       "gainsVictoires": 995000,
+       "gainsPlace": 313600,
+       "gainsAnneeEnCours": 1308600,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "3": {
+     "cheval": "MOZART DES BRIERES",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapValeur": 32.5,
+      "handicapPoids": 585,
+      "poidsConditionMonte": 590,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 54,
+      "nombreVictoires": 7,
+      "nombrePlaces": 30,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 5,
+      "age": 6,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 11847200,
+       "gainsVictoires": 5805000,
+       "gainsPlace": 6042200,
+       "gainsAnneeEnCours": 1472000,
+       "gainsAnneePrecedente": 4230200
+      }
+     }
+    },
+    "4": {
+     "cheval": "DARLYVI",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapValeur": 30.5,
+      "handicapPoids": 565,
+      "poidsConditionMonte": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 59,
+      "nombreVictoires": 5,
+      "nombrePlaces": 38,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 11,
+      "age": 8,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 11279900,
+       "gainsVictoires": 4280000,
+       "gainsPlace": 6999900,
+       "gainsAnneeEnCours": 1253500,
+       "gainsAnneePrecedente": 1972400
+      }
+     }
+    },
+    "5": {
+     "cheval": "EMBIEZ",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapValeur": 30.0,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 16,
+      "nombreVictoires": 5,
+      "nombrePlaces": 8,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 4,
+      "age": 5,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 5019500,
+       "gainsVictoires": 3580000,
+       "gainsPlace": 1439500,
+       "gainsAnneeEnCours": 2242000,
+       "gainsAnneePrecedente": 2522500
+      }
+     }
+    },
+    "6": {
+     "cheval": "POTE",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapValeur": 30.0,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 565,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 20,
+      "nombreVictoires": 2,
+      "nombrePlaces": 12,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 5,
+      "age": 5,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3943800,
+       "gainsVictoires": 1300000,
+       "gainsPlace": 2643800,
+       "gainsAnneeEnCours": 489800,
+       "gainsAnneePrecedente": 224000
+      }
+     }
+    },
+    "7": {
+     "cheval": "RAW ENERGY",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapValeur": 29.5,
+      "handicapPoids": 555,
+      "poidsConditionMonte": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 10,
+      "nombreVictoires": 1,
+      "nombrePlaces": 5,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 1,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1824800,
+       "gainsVictoires": 960000,
+       "gainsPlace": 864800,
+       "gainsAnneeEnCours": 76800,
+       "gainsAnneePrecedente": 1748000
+      }
+     }
+    }
+   }
+  },
+  "R3C8": {
+   "infosCourse": {
+    "distance": 1600,
+    "parcours": "1600 M.",
+    "corde": "CORDE_GAUCHE",
+    "typePiste": "HERBE",
+    "penetrometre": {
+     "valeurMesure": "3,6",
+     "heureMesure": "2026-10-06T14:52",
+     "intitule": "Souple",
+     "commentaire": "Estimï¿½"
+    },
+    "nombreDeclaresPartants": 10,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "QUATRE_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "PRIX DU PARC BORELY"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "JOH SPIRIT",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapValeur": 38.0,
+      "handicapPoids": 620,
+      "poidsConditionMonte": 625,
+      "oeilleres": "OEILLERES_AUSTRALIENNES",
+      "nombreCourses": 47,
+      "nombreVictoires": 8,
+      "nombrePlaces": 21,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 5,
+      "age": 7,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 15327000,
+       "gainsVictoires": 10445000,
+       "gainsPlace": 4882000,
+       "gainsAnneeEnCours": 2192300,
+       "gainsAnneePrecedente": 4385700
+      }
+     }
+    },
+    "2": {
+     "cheval": "HAZA",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapValeur": 37.0,
+      "handicapPoids": 610,
+      "poidsConditionMonte": 615,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 31,
+      "nombreVictoires": 3,
+      "nombrePlaces": 18,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 3,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 8359800,
+       "gainsVictoires": 3170000,
+       "gainsPlace": 5189800,
+       "gainsAnneeEnCours": 2036900,
+       "gainsAnneePrecedente": 4997900
+      }
+     }
+    },
+    "3": {
+     "cheval": "NOVA HOPE",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapValeur": 36.0,
+      "handicapPoids": 600,
+      "poidsConditionMonte": 605,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 31,
+      "nombreVictoires": 6,
+      "nombrePlaces": 10,
+      "nombrePlacesSecond": 4,
+      "nombrePlacesTroisieme": 1,
+      "age": 5,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 8223900,
+       "gainsVictoires": 5840000,
+       "gainsPlace": 2383900,
+       "gainsAnneeEnCours": 3104600,
+       "gainsAnneePrecedente": 4704300
+      }
+     }
+    },
+    "4": {
+     "cheval": "HE TOUCHED ME",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapValeur": 35.0,
+      "handicapPoids": 590,
+      "poidsConditionMonte": 595,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 23,
+      "nombreVictoires": 3,
+      "nombrePlaces": 13,
+      "nombrePlacesSecond": 4,
+      "nombrePlacesTroisieme": 4,
+      "age": 4,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 6041100,
+       "gainsVictoires": 2495000,
+       "gainsPlace": 3546100,
+       "gainsAnneeEnCours": 1757500,
+       "gainsAnneePrecedente": 3018600
+      }
+     }
+    },
+    "5": {
+     "cheval": "MAKAROV",
+     "infosCheval": {
+      "placeCorde": 10,
+      "handicapValeur": 35.0,
+      "handicapPoids": 590,
+      "poidsConditionMonte": 585,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 16,
+      "nombreVictoires": 2,
+      "nombrePlaces": 8,
+      "nombrePlacesSecond": 3,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 4237100,
+       "gainsVictoires": 1970000,
+       "gainsPlace": 2267100,
+       "gainsAnneeEnCours": 3448300,
+       "gainsAnneePrecedente": 788800
+      }
+     }
+    },
+    "6": {
+     "cheval": "MARHARRY",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapValeur": 34.5,
+      "handicapPoids": 585,
+      "poidsConditionMonte": 590,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 21,
+      "nombreVictoires": 2,
+      "nombrePlaces": 12,
+      "nombrePlacesSecond": 3,
+      "nombrePlacesTroisieme": 2,
+      "age": 5,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 7107100,
+       "gainsVictoires": 4045000,
+       "gainsPlace": 3062100,
+       "gainsAnneeEnCours": 1698500,
+       "gainsAnneePrecedente": 643600
+      }
+     }
+    },
+    "7": {
+     "cheval": "KODIACOLOR",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapValeur": 33.5,
+      "handicapPoids": 575,
+      "poidsConditionMonte": 580,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 12,
+      "nombreVictoires": 0,
+      "nombrePlaces": 9,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3654700,
+       "gainsVictoires": 0,
+       "gainsPlace": 3654700,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 3054700
+      }
+     }
+    },
+    "8": {
+     "cheval": "PRECIOSO",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapValeur": 33.0,
+      "handicapPoids": 570,
+      "poidsConditionMonte": 575,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 22,
+      "nombreVictoires": 1,
+      "nombrePlaces": 11,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 1,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3928800,
+       "gainsVictoires": 1000000,
+       "gainsPlace": 2928800,
+       "gainsAnneeEnCours": 938000,
+       "gainsAnneePrecedente": 2240800
+      }
+     }
+    },
+    "9": {
+     "cheval": "ZASYMOKA",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapValeur": 31.0,
+      "handicapPoids": 550,
+      "poidsConditionMonte": 555,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 27,
+      "nombreVictoires": 2,
+      "nombrePlaces": 15,
+      "nombrePlacesSecond": 4,
+      "nombrePlacesTroisieme": 5,
+      "age": 5,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 6417200,
+       "gainsVictoires": 2790000,
+       "gainsPlace": 3627200,
+       "gainsAnneeEnCours": 2521600,
+       "gainsAnneePrecedente": 2525600
+      }
+     }
+    },
+    "10": {
+     "cheval": "SAINT FIACRE",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapValeur": 29.5,
+      "handicapPoids": 535,
+      "poidsConditionMonte": 0,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 63,
+      "nombreVictoires": 8,
+      "nombrePlaces": 28,
+      "nombrePlacesSecond": 6,
+      "nombrePlacesTroisieme": 2,
+      "age": 8,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 11365500,
+       "gainsVictoires": 6850000,
+       "gainsPlace": 4515500,
+       "gainsAnneeEnCours": 2406200,
+       "gainsAnneePrecedente": 1558900
+      }
+     }
+    }
+   }
+  },
+  "R6C1": {
+   "infosCourse": {
+    "distance": 1100,
+    "parcours": "PISTE EN SABLE(DIRT)",
+    "corde": "CORDE_DROITE",
+    "typePiste": "GAZON",
+    "penetrometre": {
+     "heureMesure": "2026-10-06T19:40",
+     "intitule": "PSF LENTE",
+     "commentaire": ""
+    },
+    "nombreDeclaresPartants": 9,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "\"QUE COSA\" HANDICAP"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "SONRIELE",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 121,
+      "nombreVictoires": 11,
+      "nombrePlaces": 31,
+      "nombrePlacesSecond": 13,
+      "nombrePlacesTroisieme": 10,
+      "age": 7,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1454940000,
+       "gainsVictoires": 1046790000,
+       "gainsPlace": 408150000,
+       "gainsAnneeEnCours": 398790000,
+       "gainsAnneePrecedente": 645390000
+      }
+     }
+    },
+    "2": {
+     "cheval": "FLIGHT OF ICARUS",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 600,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 82,
+      "nombreVictoires": 9,
+      "nombrePlaces": 22,
+      "nombrePlacesSecond": 9,
+      "nombrePlacesTroisieme": 5,
+      "age": 5,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2560860000,
+       "gainsVictoires": 1997370000,
+       "gainsPlace": 563490000,
+       "gainsAnneeEnCours": 905940000,
+       "gainsAnneePrecedente": 653310000
+      }
+     }
+    },
+    "3": {
+     "cheval": "ROJO JAMAS",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 580,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 75,
+      "nombreVictoires": 13,
+      "nombrePlaces": 29,
+      "nombrePlacesSecond": 10,
+      "nombrePlacesTroisieme": 10,
+      "age": 6,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2205090000,
+       "gainsVictoires": 1790280000,
+       "gainsPlace": 414810000,
+       "gainsAnneeEnCours": 434970000,
+       "gainsAnneePrecedente": 680850000
+      }
+     }
+    },
+    "4": {
+     "cheval": "MY BJORK",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 560,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 91,
+      "nombreVictoires": 11,
+      "nombrePlaces": 38,
+      "nombrePlacesSecond": 17,
+      "nombrePlacesTroisieme": 12,
+      "age": 8,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2243970000,
+       "gainsVictoires": 1711530000,
+       "gainsPlace": 532440000,
+       "gainsAnneeEnCours": 214290000,
+       "gainsAnneePrecedente": 368550000
+      }
+     }
+    },
+    "5": {
+     "cheval": "TROMBONCITO",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 207,
+      "nombreVictoires": 32,
+      "nombrePlaces": 58,
+      "nombrePlacesSecond": 25,
+      "nombrePlacesTroisieme": 25,
+      "age": 10,
+      "sexe": "MALES",
+      "driverChange": true,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 4752450000,
+       "gainsVictoires": 3735090000,
+       "gainsPlace": 1017360000,
+       "gainsAnneeEnCours": 494550000,
+       "gainsAnneePrecedente": 864990000
+      }
+     }
+    },
+    "6": {
+     "cheval": "EL AEREO",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 590,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 115,
+      "nombreVictoires": 11,
+      "nombrePlaces": 23,
+      "nombrePlacesSecond": 8,
+      "nombrePlacesTroisieme": 7,
+      "age": 7,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3598020000,
+       "gainsVictoires": 2796120000,
+       "gainsPlace": 801900000,
+       "gainsAnneeEnCours": 198270000,
+       "gainsAnneePrecedente": 323100000
+      }
+     }
+    },
+    "7": {
+     "cheval": "DRIYANKA",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 18,
+      "nombreVictoires": 4,
+      "nombrePlaces": 5,
+      "nombrePlacesSecond": 3,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 557640000,
+       "gainsVictoires": 487440000,
+       "gainsPlace": 70200000,
+       "gainsAnneeEnCours": 326880000,
+       "gainsAnneePrecedente": 230760000
+      }
+     }
+    },
+    "8": {
+     "cheval": "GOLDEN WARRIOR",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 102,
+      "nombreVictoires": 6,
+      "nombrePlaces": 18,
+      "nombrePlacesSecond": 6,
+      "nombrePlacesTroisieme": 9,
+      "age": 8,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 979920000,
+       "gainsVictoires": 680310000,
+       "gainsPlace": 299610000,
+       "gainsAnneeEnCours": 552510000,
+       "gainsAnneePrecedente": 62460000
+      }
+     }
+    },
+    "9": {
+     "cheval": "STROKE OF LUCK",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapPoids": 590,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 115,
+      "nombreVictoires": 11,
+      "nombrePlaces": 40,
+      "nombrePlacesSecond": 13,
+      "nombrePlacesTroisieme": 14,
+      "age": 8,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 4265280000,
+       "gainsVictoires": 2639610000,
+       "gainsPlace": 1625670000,
+       "gainsAnneeEnCours": 584370000,
+       "gainsAnneePrecedente": 223470000
+      }
+     }
+    }
+   }
+  },
+  "R6C2": {
+   "infosCourse": {
+    "distance": 1100,
+    "parcours": "PISTE EN SABLE(DIRT)",
+    "corde": "CORDE_DROITE",
+    "typePiste": "GAZON",
+    "penetrometre": {
+     "heureMesure": "2026-10-06T19:40",
+     "intitule": "PSF LENTE",
+     "commentaire": ""
+    },
+    "nombreDeclaresPartants": 8,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "\"QUENTIN\" HANDICAP"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "QUE BONITO QUE SOY",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 550,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 32,
+      "nombreVictoires": 6,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1107090000,
+       "gainsVictoires": 1052100000,
+       "gainsPlace": 54990000,
+       "gainsAnneeEnCours": 784170000,
+       "gainsAnneePrecedente": 322920000
+      }
+     }
+    },
+    "2": {
+     "cheval": "IRON STAR",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 610,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 49,
+      "nombreVictoires": 10,
+      "nombrePlaces": 26,
+      "nombrePlacesSecond": 8,
+      "nombrePlacesTroisieme": 10,
+      "age": 5,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3546900000,
+       "gainsVictoires": 2769930000,
+       "gainsPlace": 776970000,
+       "gainsAnneeEnCours": 481950000,
+       "gainsAnneePrecedente": 653580000
+      }
+     }
+    },
+    "3": {
+     "cheval": "WHITE SPIRIT",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 610,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 90,
+      "nombreVictoires": 14,
+      "nombrePlaces": 33,
+      "nombrePlacesSecond": 12,
+      "nombrePlacesTroisieme": 12,
+      "age": 7,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 4886190000,
+       "gainsVictoires": 3449970000,
+       "gainsPlace": 1436220000,
+       "gainsAnneeEnCours": 126450000,
+       "gainsAnneePrecedente": 822780000
+      }
+     }
+    },
+    "4": {
+     "cheval": "TATARISTAN",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 26,
+      "nombreVictoires": 5,
+      "nombrePlaces": 8,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 921960000,
+       "gainsVictoires": 772200000,
+       "gainsPlace": 149760000,
+       "gainsAnneeEnCours": 234810000,
+       "gainsAnneePrecedente": 687150000
+      }
+     }
+    },
+    "5": {
+     "cheval": "SCHNELLER",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 117,
+      "nombreVictoires": 17,
+      "nombrePlaces": 25,
+      "nombrePlacesSecond": 9,
+      "nombrePlacesTroisieme": 10,
+      "age": 7,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 4455090000,
+       "gainsVictoires": 3605940000,
+       "gainsPlace": 849150000,
+       "gainsAnneeEnCours": 612450000,
+       "gainsAnneePrecedente": 155250000
+      }
+     }
+    },
+    "6": {
+     "cheval": "MY HERO",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 610,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 44,
+      "nombreVictoires": 7,
+      "nombrePlaces": 22,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 10,
+      "age": 5,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1358730000,
+       "gainsVictoires": 949320000,
+       "gainsPlace": 409410000,
+       "gainsAnneeEnCours": 864540000,
+       "gainsAnneePrecedente": 121860000
+      }
+     }
+    },
+    "7": {
+     "cheval": "EL MENTALISTA",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 600,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 66,
+      "nombreVictoires": 11,
+      "nombrePlaces": 23,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 8,
+      "age": 8,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 4640760000,
+       "gainsVictoires": 3803220000,
+       "gainsPlace": 837540000,
+       "gainsAnneeEnCours": 287910000,
+       "gainsAnneePrecedente": 424710000
+      }
+     }
+    },
+    "8": {
+     "cheval": "JOVENTURFMAN",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 590,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 84,
+      "nombreVictoires": 12,
+      "nombrePlaces": 34,
+      "nombrePlacesSecond": 11,
+      "nombrePlacesTroisieme": 18,
+      "age": 6,
+      "sexe": "HONGRES",
+      "driverChange": true,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2519190000,
+       "gainsVictoires": 1776060000,
+       "gainsPlace": 743130000,
+       "gainsAnneeEnCours": 285750000,
+       "gainsAnneePrecedente": 812250000
+      }
+     }
+    }
+   }
+  },
+  "R6C3": {
+   "infosCourse": {
+    "distance": 1000,
+    "parcours": "PISTE EN SABLE(DIRT)",
+    "corde": "CORDE_DROITE",
+    "typePiste": "GAZON",
+    "penetrometre": {
+     "heureMesure": "2026-10-06T19:40",
+     "intitule": "PSF LENTE",
+     "commentaire": ""
+    },
+    "nombreDeclaresPartants": 8,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "\"QUEEN GOLD\" HANDICAP"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "SEKOTI",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 21,
+      "nombreVictoires": 1,
+      "nombrePlaces": 10,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 7,
+      "age": 4,
+      "sexe": "FEMELLES",
+      "driverChange": true,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 556560000,
+       "gainsVictoires": 276930000,
+       "gainsPlace": 279630000,
+       "gainsAnneeEnCours": 27450000,
+       "gainsAnneePrecedente": 529110000
+      }
+     }
+    },
+    "2": {
+     "cheval": "FIESTERA LINDA",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 150,
+      "nombreVictoires": 4,
+      "nombrePlaces": 38,
+      "nombrePlacesSecond": 12,
+      "nombrePlacesTroisieme": 12,
+      "age": 8,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1238940000,
+       "gainsVictoires": 414450000,
+       "gainsPlace": 824490000,
+       "gainsAnneeEnCours": 85680000,
+       "gainsAnneePrecedente": 338670000
+      }
+     }
+    },
+    "3": {
+     "cheval": "GRAN DREAMER",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 560,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 29,
+      "nombreVictoires": 2,
+      "nombrePlaces": 5,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 4,
+      "age": 4,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 267210000,
+       "gainsVictoires": 218340000,
+       "gainsPlace": 48870000,
+       "gainsAnneeEnCours": 133830000,
+       "gainsAnneePrecedente": 133380000
+      }
+     }
+    },
+    "4": {
+     "cheval": "REPUBLIC ANA",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 64,
+      "nombreVictoires": 3,
+      "nombrePlaces": 7,
+      "nombrePlacesSecond": 3,
+      "nombrePlacesTroisieme": 3,
+      "age": 5,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1679760000,
+       "gainsVictoires": 1072710000,
+       "gainsPlace": 607050000,
+       "gainsAnneeEnCours": 322560000,
+       "gainsAnneePrecedente": 37620000
+      }
+     }
+    },
+    "5": {
+     "cheval": "YERKO",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 16,
+      "nombreVictoires": 3,
+      "nombrePlaces": 3,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 2,
+      "age": 4,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 717930000,
+       "gainsVictoires": 664650000,
+       "gainsPlace": 53280000,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 717930000
+      }
+     }
+    },
+    "6": {
+     "cheval": "GOOD VICTORY",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 560,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 99,
+      "nombreVictoires": 6,
+      "nombrePlaces": 26,
+      "nombrePlacesSecond": 10,
+      "nombrePlacesTroisieme": 12,
+      "age": 6,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 941670000,
+       "gainsVictoires": 567270000,
+       "gainsPlace": 374400000,
+       "gainsAnneeEnCours": 271080000,
+       "gainsAnneePrecedente": 358740000
+      }
+     }
+    },
+    "7": {
+     "cheval": "JOHN SUNDAY",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 17,
+      "nombreVictoires": 4,
+      "nombrePlaces": 6,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 1,
+      "age": 11,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 4778370000,
+       "gainsVictoires": 3193380000,
+       "gainsPlace": 1584990000,
+       "gainsAnneeEnCours": 17820000,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "8": {
+     "cheval": "PIRI REVOLTOSO",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 20,
+      "nombreVictoires": 1,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 1,
+      "age": 6,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 127620000,
+       "gainsVictoires": 78480000,
+       "gainsPlace": 49140000,
+       "gainsAnneeEnCours": 33030000,
+       "gainsAnneePrecedente": 88200000
+      }
+     }
+    }
+   }
+  },
+  "R6C4": {
+   "infosCourse": {
+    "distance": 1300,
+    "parcours": "PISTE EN SABLE(DIRT)",
+    "corde": "CORDE_DROITE",
+    "typePiste": "GAZON",
+    "penetrometre": {
+     "heureMesure": "2026-10-06T19:40",
+     "intitule": "PSF LENTE",
+     "commentaire": ""
+    },
+    "nombreDeclaresPartants": 10,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "\"QUICHO\" HANDICAP"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "FORTINATTO",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 540,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 46,
+      "nombreVictoires": 6,
+      "nombrePlaces": 9,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 3,
+      "age": 6,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2204280000,
+       "gainsVictoires": 1942650000,
+       "gainsPlace": 261630000,
+       "gainsAnneeEnCours": 8910000,
+       "gainsAnneePrecedente": 679500000
+      }
+     }
+    },
+    "2": {
+     "cheval": "EL TATUADO",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 580,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 74,
+      "nombreVictoires": 10,
+      "nombrePlaces": 15,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 4,
+      "age": 6,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1522350000,
+       "gainsVictoires": 1189980000,
+       "gainsPlace": 332370000,
+       "gainsAnneeEnCours": 521280000,
+       "gainsAnneePrecedente": 114300000
+      }
+     }
+    },
+    "3": {
+     "cheval": "CATAPOS",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 29,
+      "nombreVictoires": 1,
+      "nombrePlaces": 3,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 4,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 121140000,
+       "gainsVictoires": 99990000,
+       "gainsPlace": 21150000,
+       "gainsAnneeEnCours": 121140000,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "4": {
+     "cheval": "COFFEE BAY",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 540,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 105,
+      "nombreVictoires": 11,
+      "nombrePlaces": 29,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 13,
+      "age": 8,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2866050000,
+       "gainsVictoires": 2150730000,
+       "gainsPlace": 715320000,
+       "gainsAnneeEnCours": 26460000,
+       "gainsAnneePrecedente": 714780000
+      }
+     }
+    },
+    "5": {
+     "cheval": "MAGICO SECRETO",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 540,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 57,
+      "nombreVictoires": 5,
+      "nombrePlaces": 8,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 2,
+      "age": 5,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 780390000,
+       "gainsVictoires": 647010000,
+       "gainsPlace": 133380000,
+       "gainsAnneeEnCours": 288900000,
+       "gainsAnneePrecedente": 211320000
+      }
+     }
+    },
+    "6": {
+     "cheval": "TAISEI",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 580,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 87,
+      "nombreVictoires": 5,
+      "nombrePlaces": 18,
+      "nombrePlacesSecond": 4,
+      "nombrePlacesTroisieme": 6,
+      "age": 7,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1554300000,
+       "gainsVictoires": 964080000,
+       "gainsPlace": 590220000,
+       "gainsAnneeEnCours": 151470000,
+       "gainsAnneePrecedente": 275760000
+      }
+     }
+    },
+    "7": {
+     "cheval": "MACKLIN",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 68,
+      "nombreVictoires": 1,
+      "nombrePlaces": 25,
+      "nombrePlacesSecond": 6,
+      "nombrePlacesTroisieme": 9,
+      "age": 5,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 445140000,
+       "gainsVictoires": 99990000,
+       "gainsPlace": 345150000,
+       "gainsAnneeEnCours": 149040000,
+       "gainsAnneePrecedente": 235530000
+      }
+     }
+    },
+    "8": {
+     "cheval": "ALBIORIX",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 60,
+      "nombreVictoires": 10,
+      "nombrePlaces": 26,
+      "nombrePlacesSecond": 13,
+      "nombrePlacesTroisieme": 4,
+      "age": 7,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1953540000,
+       "gainsVictoires": 1308240000,
+       "gainsPlace": 645300000,
+       "gainsAnneeEnCours": 360900000,
+       "gainsAnneePrecedente": 269010000
+      }
+     }
+    },
+    "9": {
+     "cheval": "HAMM GOOD",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapPoids": 580,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 122,
+      "nombreVictoires": 8,
+      "nombrePlaces": 22,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 9,
+      "age": 6,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1916460000,
+       "gainsVictoires": 1458450000,
+       "gainsPlace": 458010000,
+       "gainsAnneeEnCours": 354150000,
+       "gainsAnneePrecedente": 621360000
+      }
+     }
+    },
+    "10": {
+     "cheval": "REY IMPETUOSO",
+     "infosCheval": {
+      "placeCorde": 10,
+      "handicapPoids": 540,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 19,
+      "nombreVictoires": 4,
+      "nombrePlaces": 12,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 4,
+      "age": 6,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1283760000,
+       "gainsVictoires": 900270000,
+       "gainsPlace": 383490000,
+       "gainsAnneeEnCours": 19530000,
+       "gainsAnneePrecedente": 18810000
+      }
+     }
+    }
+   }
+  },
+  "R6C5": {
+   "infosCourse": {
+    "distance": 1000,
+    "parcours": "PISTE EN SABLE(DIRT)",
+    "corde": "CORDE_DROITE",
+    "typePiste": "GAZON",
+    "penetrometre": {
+     "heureMesure": "2026-10-06T19:40",
+     "intitule": "PSF LENTE",
+     "commentaire": ""
+    },
+    "nombreDeclaresPartants": 9,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "\"QUETRUPILLAN\" HANDICAP."
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "PITER ALFONSO",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 73,
+      "nombreVictoires": 5,
+      "nombrePlaces": 21,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 9,
+      "age": 6,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2341440000,
+       "gainsVictoires": 1314990000,
+       "gainsPlace": 1026450000,
+       "gainsAnneeEnCours": 499140000,
+       "gainsAnneePrecedente": 258750000
+      }
+     }
+    },
+    "2": {
+     "cheval": "BY THE BOOK",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 111,
+      "nombreVictoires": 14,
+      "nombrePlaces": 30,
+      "nombrePlacesSecond": 6,
+      "nombrePlacesTroisieme": 16,
+      "age": 8,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2474550000,
+       "gainsVictoires": 1841760000,
+       "gainsPlace": 632790000,
+       "gainsAnneeEnCours": 85140000,
+       "gainsAnneePrecedente": 319140000
+      }
+     }
+    },
+    "3": {
+     "cheval": "SIEMPRE PIOLA",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 7,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 3,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "4": {
+     "cheval": "FURIA DE TROYA",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 65,
+      "nombreVictoires": 4,
+      "nombrePlaces": 20,
+      "nombrePlacesSecond": 4,
+      "nombrePlacesTroisieme": 8,
+      "age": 7,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 854280000,
+       "gainsVictoires": 477900000,
+       "gainsPlace": 376380000,
+       "gainsAnneeEnCours": 244620000,
+       "gainsAnneePrecedente": 99450000
+      }
+     }
+    },
+    "5": {
+     "cheval": "WENA CASTILLO",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 73,
+      "nombreVictoires": 8,
+      "nombrePlaces": 23,
+      "nombrePlacesSecond": 9,
+      "nombrePlacesTroisieme": 7,
+      "age": 8,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2864790000,
+       "gainsVictoires": 1838340000,
+       "gainsPlace": 1026450000,
+       "gainsAnneeEnCours": 248850000,
+       "gainsAnneePrecedente": 8460000
+      }
+     }
+    },
+    "6": {
+     "cheval": "PAULIE GATTO",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 2,
+      "nombreVictoires": 0,
+      "nombrePlaces": 0,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 0,
+      "age": 4,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 0,
+       "gainsVictoires": 0,
+       "gainsPlace": 0,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "7": {
+     "cheval": "DANGER IN RIO",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 550,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 68,
+      "nombreVictoires": 2,
+      "nombrePlaces": 11,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 3,
+      "age": 5,
+      "sexe": "MALES",
+      "driverChange": true,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 347310000,
+       "gainsVictoires": 192330000,
+       "gainsPlace": 154980000,
+       "gainsAnneeEnCours": 116550000,
+       "gainsAnneePrecedente": 114300000
+      }
+     }
+    },
+    "8": {
+     "cheval": "EL REGENTO",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 67,
+      "nombreVictoires": 10,
+      "nombrePlaces": 23,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 9,
+      "age": 6,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1861470000,
+       "gainsVictoires": 1288350000,
+       "gainsPlace": 573120000,
+       "gainsAnneeEnCours": 366660000,
+       "gainsAnneePrecedente": 351090000
+      }
+     }
+    },
+    "9": {
+     "cheval": "FALLEN DREAMER",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 21,
+      "nombreVictoires": 1,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 4,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 113310000,
+       "gainsVictoires": 86670000,
+       "gainsPlace": 26640000,
+       "gainsAnneeEnCours": 99990000,
+       "gainsAnneePrecedente": 13320000
+      }
+     }
+    }
+   }
+  },
+  "R6C6": {
+   "infosCourse": {
+    "distance": 1000,
+    "parcours": "PISTE EN SABLE(DIRT)",
+    "corde": "CORDE_DROITE",
+    "typePiste": "GAZON",
+    "penetrometre": {
+     "heureMesure": "2026-10-06T19:40",
+     "intitule": "PSF LENTE",
+     "commentaire": ""
+    },
+    "nombreDeclaresPartants": 11,
+    "categorieParticularite": "HANDICAP",
+    "conditionSexe": "TOUS_CHEVAUX",
+    "conditionAge": "TROIS_ANS_ET_PLUS",
+    "categorieStatut": "ARRIVEE",
+    "discipline": "PLAT",
+    "specialite": "PLAT",
+    "libelle": "\"QUICK DOLL\" HANDICAP"
+   },
+   "chevaux": {
+    "1": {
+     "cheval": "IL IMPERATORE",
+     "infosCheval": {
+      "placeCorde": 1,
+      "handicapPoids": 550,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 86,
+      "nombreVictoires": 3,
+      "nombrePlaces": 19,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 9,
+      "age": 6,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 495270000,
+       "gainsVictoires": 293580000,
+       "gainsPlace": 201690000,
+       "gainsAnneeEnCours": 200790000,
+       "gainsAnneePrecedente": 109800000
+      }
+     }
+    },
+    "2": {
+     "cheval": "SASUKE",
+     "infosCheval": {
+      "placeCorde": 2,
+      "handicapPoids": 570,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 124,
+      "nombreVictoires": 10,
+      "nombrePlaces": 18,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 9,
+      "age": 6,
+      "sexe": "HONGRES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2003580000,
+       "gainsVictoires": 1596780000,
+       "gainsPlace": 406800000,
+       "gainsAnneeEnCours": 370890000,
+       "gainsAnneePrecedente": 972090000
+      }
+     }
+    },
+    "3": {
+     "cheval": "LUDMILA",
+     "infosCheval": {
+      "placeCorde": 3,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 234,
+      "nombreVictoires": 6,
+      "nombrePlaces": 34,
+      "nombrePlacesSecond": 7,
+      "nombrePlacesTroisieme": 15,
+      "age": 10,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2359980000,
+       "gainsVictoires": 1316700000,
+       "gainsPlace": 1043280000,
+       "gainsAnneeEnCours": 48600000,
+       "gainsAnneePrecedente": 7650000
+      }
+     }
+    },
+    "4": {
+     "cheval": "HEY NINA",
+     "infosCheval": {
+      "placeCorde": 4,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 178,
+      "nombreVictoires": 16,
+      "nombrePlaces": 54,
+      "nombrePlacesSecond": 21,
+      "nombrePlacesTroisieme": 25,
+      "age": 8,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 3246210000,
+       "gainsVictoires": 2083500000,
+       "gainsPlace": 1162710000,
+       "gainsAnneeEnCours": 274500000,
+       "gainsAnneePrecedente": 602100000
+      }
+     }
+    },
+    "5": {
+     "cheval": "MIGHTY SYMPHONY",
+     "infosCheval": {
+      "placeCorde": 5,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 9,
+      "nombreVictoires": 1,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 0,
+      "nombrePlacesTroisieme": 1,
+      "age": 4,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 757800000,
+       "gainsVictoires": 701550000,
+       "gainsPlace": 56250000,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 757800000
+      }
+     }
+    },
+    "6": {
+     "cheval": "FRESCO",
+     "infosCheval": {
+      "placeCorde": 6,
+      "handicapPoids": 560,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 133,
+      "nombreVictoires": 13,
+      "nombrePlaces": 46,
+      "nombrePlacesSecond": 20,
+      "nombrePlacesTroisieme": 18,
+      "age": 7,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 1874970000,
+       "gainsVictoires": 1276560000,
+       "gainsPlace": 598410000,
+       "gainsAnneeEnCours": 348660000,
+       "gainsAnneePrecedente": 612000000
+      }
+     }
+    },
+    "7": {
+     "cheval": "MERCENARIA",
+     "infosCheval": {
+      "placeCorde": 7,
+      "handicapPoids": 560,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 43,
+      "nombreVictoires": 3,
+      "nombrePlaces": 12,
+      "nombrePlacesSecond": 2,
+      "nombrePlacesTroisieme": 6,
+      "age": 5,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 867960000,
+       "gainsVictoires": 528210000,
+       "gainsPlace": 339750000,
+       "gainsAnneeEnCours": 52110000,
+       "gainsAnneePrecedente": 563220000
+      }
+     }
+    },
+    "8": {
+     "cheval": "CHILLY WILLY",
+     "infosCheval": {
+      "placeCorde": 8,
+      "handicapPoids": 550,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 165,
+      "nombreVictoires": 8,
+      "nombrePlaces": 26,
+      "nombrePlacesSecond": 11,
+      "nombrePlacesTroisieme": 8,
+      "age": 7,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 2180340000,
+       "gainsVictoires": 1296270000,
+       "gainsPlace": 884070000,
+       "gainsAnneeEnCours": 120960000,
+       "gainsAnneePrecedente": 546210000
+      }
+     }
+    },
+    "9": {
+     "cheval": "CHARMING STAR",
+     "infosCheval": {
+      "placeCorde": 9,
+      "handicapPoids": 560,
+      "oeilleres": "OEILLERES_CLASSIQUE",
+      "nombreCourses": 58,
+      "nombreVictoires": 6,
+      "nombrePlaces": 9,
+      "nombrePlacesSecond": 5,
+      "nombrePlacesTroisieme": 4,
+      "age": 5,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 877140000,
+       "gainsVictoires": 719100000,
+       "gainsPlace": 158040000,
+       "gainsAnneeEnCours": 229140000,
+       "gainsAnneePrecedente": 611100000
+      }
+     }
+    },
+    "10": {
+     "cheval": "TOTOTITA",
+     "infosCheval": {
+      "placeCorde": 10,
+      "handicapPoids": 550,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 17,
+      "nombreVictoires": 1,
+      "nombrePlaces": 4,
+      "nombrePlacesSecond": 1,
+      "nombrePlacesTroisieme": 3,
+      "age": 6,
+      "sexe": "FEMELLES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 184140000,
+       "gainsVictoires": 128430000,
+       "gainsPlace": 55710000,
+       "gainsAnneeEnCours": 0,
+       "gainsAnneePrecedente": 0
+      }
+     }
+    },
+    "11": {
+     "cheval": "EL CATIMBA",
+     "infosCheval": {
+      "placeCorde": 11,
+      "handicapPoids": 560,
+      "poidsConditionMonte": 0,
+      "oeilleres": "SANS_OEILLERES",
+      "nombreCourses": 25,
+      "nombreVictoires": 2,
+      "nombrePlaces": 7,
+      "nombrePlacesSecond": 3,
+      "nombrePlacesTroisieme": 2,
+      "age": 7,
+      "sexe": "MALES",
+      "driverChange": false,
+      "jumentPleine": false,
+      "indicateurInedit": false,
+      "supplement": 0,
+      "allure": "GALOP",
+      "gains": {
+       "gainsCarriere": 252990000,
+       "gainsVictoires": 180270000,
+       "gainsPlace": 72720000,
+       "gainsAnneeEnCours": 117180000,
+       "gainsAnneePrecedente": 40230000
+      }
+     }
+    }
+   }
+  }
+ }
+}
