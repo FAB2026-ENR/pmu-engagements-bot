@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T09:01:37.938412+00:00",
+  "generatedAt": "2026-10-14T09:58:56.002595+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -6191,6 +6191,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2750,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
