@@ -590,13 +590,16 @@ def quinte_soir():
 
 def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
+    import handicap  # suivi des handicaps de plat (scripts/handicap.py)
     if mode == "morning":
         selection_matin()
         quinte_matin()
+        handicap.matin(send)
         morning()
     elif mode == "bilan":
         selection_soir()
         quinte_soir()
+        handicap.soir(send)
         croisements_soir()
         bilan()
     else:
