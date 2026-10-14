@@ -1,4 +1,4 @@
-a#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Suivi « Handicaps » : handicaps de plat en France, 13 partants ou plus.
 
