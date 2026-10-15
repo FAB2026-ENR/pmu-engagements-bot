@@ -30,6 +30,9 @@ jobs:
       - name: Récupérer les cotes des handicaps suivis
         run: python scripts/historique_cotes.py
 
+      - name: Récupérer les rapports couplé et trio des handicaps suivis
+        run: python scripts/historique_rapports.py
+
       - name: Enregistrer
         if: always()
         run: |
