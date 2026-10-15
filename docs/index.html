@@ -1,0 +1,917 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="margin:0">
+<title>Sélecteur Ligne Droite</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=Libre+Franklin:wght@400;600&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Même identité que la vitrine Ligne Droite : bande de casaque, panneau de réglages, puis les chevaux du jour et le passé du réglage. */
+:root{
+  --paper:#f4f6f2; --sheet:#ffffff; --ink:#15201a; --muted:#56635a; --line:#d3dbd4;
+  --silk:#c45f0e; --navy:#1d3557; --win:#6b6625; --place:#0b1a45; --lose:#8d3a33;
+  --display:"Big Shoulders Display","Arial Narrow",Impact,sans-serif;
+  --body:"Libre Franklin","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#0f1512; --sheet:#161e19; --ink:#e8eee9; --muted:#9caaa1; --line:#2b3730;
+  --silk:#f29a4a; --navy:#9bb7de; --win:#cfc57e; --place:#6c84c8; --lose:#e48d84; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0f1512; --sheet:#161e19; --ink:#e8eee9; --muted:#9caaa1; --line:#2b3730;
+  --silk:#f29a4a; --navy:#9bb7de; --win:#cfc57e; --place:#6c84c8; --lose:#e48d84; color-scheme:dark}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+.silks{height:10px;background:repeating-linear-gradient(90deg,var(--silk) 0 28px,var(--sheet) 28px 56px)}
+.wrap{max-width:1000px;margin:0 auto;padding-inline:16px;padding-block:28px 56px;display:grid;gap:34px}
+.wrap>*{min-width:0}
+.kicker{font-family:var(--mono);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--silk)}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(2.4rem,8vw,4.2rem);line-height:.95;margin:6px 0 10px;text-transform:uppercase}
+.lead{max-width:62ch;margin:0;color:var(--muted)}
+h2{font-family:var(--display);font-weight:800;text-transform:uppercase;letter-spacing:.03em;font-size:1.7rem;margin:0 0 12px;line-height:1}
+.panneau{background:var(--sheet);border:2px solid var(--ink);padding:18px;display:grid;gap:14px}
+.panneau label{display:grid;gap:4px;font-size:.88rem;color:var(--muted);font-weight:600}
+select,input{font:inherit;font-size:1rem;padding:8px 10px;border:1px solid var(--line);background:var(--paper);color:var(--ink);min-width:0;width:100%;box-sizing:border-box}
+select:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid var(--silk);outline-offset:2px}
+#strategie{font-family:var(--display);font-weight:800;font-size:1.35rem;text-transform:uppercase;letter-spacing:.03em;border:2px solid var(--silk)}
+.desc{margin:0;padding:10px 14px;border-left:4px solid var(--silk);background:var(--paper)}
+details{border-top:1px dashed var(--line);padding-top:10px}
+summary{cursor:pointer;font-weight:600;color:var(--navy)}
+.grille{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,150px),1fr));gap:12px;margin-top:12px}
+.alerte{border:1px solid var(--silk);color:var(--ink);background:var(--sheet);padding:12px 16px;font-size:.92rem}
+.alerte b{color:var(--silk)}
+.table-wrap{overflow-x:auto;background:var(--sheet);border:1px solid var(--line)}
+table{width:100%;border-collapse:collapse;min-width:560px;font-size:.92rem}
+th{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:10px 12px;border-bottom:2px solid var(--ink)}
+td{padding:8px 12px;border-bottom:1px solid var(--line)}
+td.n,th.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.vide{padding:16px;color:var(--muted)}
+.board{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,170px),1fr));border:2px solid var(--ink);background:var(--sheet)}
+.board div{padding:14px 16px;border-right:1px solid var(--line);display:grid;gap:2px;min-width:0}
+.board div:last-child{border-right:0}
+.board b{font-family:var(--display);font-weight:800;font-size:2.3rem;line-height:1;font-variant-numeric:tabular-nums}
+.board div>span{font-size:.85rem;color:var(--muted)}
+.pos{color:var(--win)} .neg{color:var(--lose)}
+.pill{font-family:var(--mono);font-size:.75rem;font-weight:600;padding:2px 7px;border:1px solid currentColor;white-space:nowrap}
+.pill.g{color:var(--win)} .pill.p{color:var(--place)} .pill.x{color:var(--lose)}
+.gain-g{color:var(--win);font-weight:600} .gain-p{color:var(--place);font-weight:600} .zero{color:var(--muted);opacity:.6}
+.base{color:var(--silk);font-weight:600}
+.statut{font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.legal{border:1px solid var(--line);background:var(--sheet);padding:14px 18px;font-size:.86rem;color:var(--muted);display:grid;gap:4px}
+.onglets{display:flex;gap:0;border-bottom:2px solid var(--ink);flex-wrap:wrap}
+.onglets button{font-family:var(--display);font-weight:800;font-size:1.15rem;text-transform:uppercase;letter-spacing:.03em;padding:10px 18px;border:2px solid var(--ink);border-bottom:0;background:var(--paper);color:var(--muted);cursor:pointer;margin-right:-2px}
+.onglets button[aria-selected="true"]{background:var(--ink);color:var(--paper)}
+.onglets button:focus-visible,.btn:focus-visible,.etoile:focus-visible{outline:3px solid var(--silk);outline-offset:2px}
+.vue{display:grid;gap:34px}
+.vue[hidden]{display:none}
+.vue>*{min-width:0}
+.infos{font-size:.92rem;color:var(--muted);margin:0}
+.partants{display:grid;gap:0;border:2px solid var(--ink);background:var(--sheet)}
+.ptt{display:grid;grid-template-columns:auto 2.2rem minmax(0,1fr) auto;gap:4px 12px;align-items:start;padding:12px 14px;border-bottom:1px solid var(--line)}
+.ptt:last-child{border-bottom:0}
+.ptt.coche{background:color-mix(in srgb,var(--silk) 9%,var(--sheet))}
+.ptt input[type=checkbox]{width:22px;height:22px;margin:2px 0 0;accent-color:var(--silk)}
+.num{font-family:var(--display);font-weight:800;font-size:1.5rem;line-height:1;text-align:center;border:2px solid var(--ink);padding:2px 0}
+.nom{font-weight:600;min-width:0}
+.sous{font-size:.84rem;color:var(--muted);overflow-wrap:anywhere}
+.droite{text-align:right;display:grid;gap:4px;justify-items:end}
+.note{font-family:var(--mono);font-weight:600;font-size:1.05rem;font-variant-numeric:tabular-nums}
+.badge{font-family:var(--mono);font-size:.7rem;font-weight:600;padding:1px 6px;border:1px solid currentColor;white-space:nowrap}
+.badge.r{color:var(--win)} .badge.v{color:var(--navy)} .badge.i{color:var(--silk)}
+.etoile{font:inherit;font-size:.8rem;font-weight:600;padding:3px 8px;border:1px solid var(--line);background:var(--paper);color:var(--muted);cursor:pointer;white-space:nowrap}
+.etoile[aria-pressed="true"]{border-color:var(--silk);color:var(--silk);background:var(--sheet)}
+.etoile[hidden]{display:none}
+.ptt .plus{grid-column:3 / -1;display:grid;gap:6px}
+.ptt details{border-top:0;padding-top:0}
+.ptt summary{font-size:.86rem}
+.calc{font-family:var(--mono);font-size:.82rem;display:grid;grid-template-columns:1fr auto;gap:2px 14px;max-width:420px;margin-top:6px;padding:8px 10px;background:var(--paper);border:1px solid var(--line)}
+.calc .tot{border-top:1px solid var(--ink);padding-top:3px;font-weight:600}
+.repere{font-size:.84rem;margin:0}
+.repere b{font-variant-numeric:tabular-nums}
+.cote-in{display:flex;gap:8px;align-items:center;font-size:.84rem;color:var(--muted);flex-wrap:wrap}
+.cote-in input{width:90px}
+.btn{font-family:var(--display);font-weight:800;font-size:1.1rem;text-transform:uppercase;letter-spacing:.03em;padding:10px 18px;border:2px solid var(--ink);background:var(--ink);color:var(--paper);cursor:pointer}
+.btn.leger{background:var(--sheet);color:var(--ink)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.resume{font-size:1rem;margin:0}
+.resume b{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.avert{margin:0;padding:10px 14px;border-left:4px solid var(--silk);background:var(--paper);font-size:.9rem}
+.avert:empty{display:none}
+.feuille{display:grid;border:2px solid var(--ink);background:var(--sheet)}
+.ligne{display:grid;grid-template-columns:1fr auto auto;gap:4px 12px;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line)}
+.ligne:last-child{border-bottom:0}
+.res{font-family:var(--mono);font-size:.8rem;white-space:nowrap}
+.ligne .cout{font-family:var(--mono);font-weight:600}
+.suppr{font:inherit;font-size:.8rem;border:1px solid var(--line);background:var(--paper);color:var(--lose);padding:3px 8px;cursor:pointer}
+.jauge{height:10px;background:var(--paper);border:1px solid var(--line)}
+.jauge i{display:block;height:100%;background:var(--win)}
+.jauge i.trop{background:var(--silk)}
+.actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.combi{min-width:0;border:1px solid var(--line);padding:10px 14px;margin:0;background:var(--paper)}
+.combi[hidden]{display:none}
+.combi legend{font-weight:600;font-size:.88rem;color:var(--muted);padding:0 4px}
+.cases{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:6px 14px}
+.cases label{display:flex;gap:8px;align-items:center;font-size:.9rem;color:var(--ink);font-weight:400}
+.cases input{width:18px;height:18px;accent-color:var(--silk)}
+.stats{font-size:.82rem;color:var(--muted);margin-top:2px}
+.stats b{color:var(--ink);font-weight:600}
+.stats .tri{color:var(--silk);font-weight:600}
+.nous{display:grid;gap:18px}
+.nous .intro{font-family:var(--display);font-weight:600;font-size:clamp(1.3rem,4vw,1.7rem);line-height:1.2;margin:0;max-width:40ch}
+.duo{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:0;border:2px solid var(--ink);background:var(--sheet)}
+.duo article{padding:18px 20px;display:grid;gap:8px;align-content:start;border-right:1px solid var(--line)}
+.duo article:last-child{border-right:0}
+.duo .role{font-family:var(--mono);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--silk)}
+.duo h3{font-family:var(--display);font-weight:800;text-transform:uppercase;font-size:1.35rem;margin:0;line-height:1}
+.duo p{margin:0}
+.histoire{margin:0;max-width:68ch}
+.regles{margin:0;padding:0;list-style:none;display:grid;gap:10px;counter-reset:r}
+.regles li{display:grid;grid-template-columns:2.2rem 1fr;gap:12px;align-items:start;counter-increment:r}
+.regles li::before{content:counter(r);font-family:var(--display);font-weight:800;font-size:1.3rem;line-height:1;text-align:center;border:2px solid var(--silk);color:var(--silk);padding:4px 0}
+.debut{border-left:4px solid var(--silk);padding:12px 16px;background:var(--sheet);margin:0;font-size:1.02rem}
+.lien-nous{font-family:var(--mono);font-size:.8rem;color:var(--navy)}
+@media (max-width:640px){.duo article{border-right:0;border-bottom:1px solid var(--line)}.duo article:last-child{border-bottom:0}}
+@media (max-width:560px){.onglets button{flex:1;font-size:1rem;padding:10px 8px}.ptt{grid-template-columns:auto 2rem minmax(0,1fr)}.ptt .droite{grid-column:3;display:flex;flex-wrap:wrap;gap:6px;justify-content:flex-start;align-items:center;text-align:left}}
+</style>
+
+<div class="silks" aria-hidden="true"></div>
+<div class="wrap">
+  <header>
+    <div class="kicker">Ligne Droite · galop et trot</div>
+    <h1>Vos outils du jour</h1>
+    <p class="lead">Deux façons de travailler. <b>Stratégies</b> : choisissez des critères et voyez les chevaux du jour qui y correspondent, avec ce que ces critères ont donné, perdants compris. <b>Mon pronostic</b> : prenez une course, étudiez chaque partant et composez vous-même votre jeu.</p>
+    <a class="lien-nous" href="#qui">Qui sommes-nous ? ↓</a>
+  </header>
+
+  <div class="onglets" role="tablist" aria-label="Outils">
+    <button role="tab" id="tab-strat" aria-controls="vue-strat" aria-selected="true">🎛️ Stratégies</button>
+    <button role="tab" id="tab-prono" aria-controls="vue-prono" aria-selected="false">✍️ Mon pronostic</button>
+  </div>
+
+  <div class="vue" id="vue-strat" role="tabpanel" aria-labelledby="tab-strat">
+
+  <section class="panneau" aria-labelledby="t-reglage">
+    <h2 id="t-reglage" style="margin:0">Votre stratégie</h2>
+    <label for="strategie">Stratégie
+      <select id="strategie">
+        <option value="regularite">🎯 Régularité</option>
+        <option value="valeur">🔬 Valeur</option>
+        <option value="etranger">🌍 Étranger</option>
+        <option value="quinte">🏁 Quinté+</option>
+        <option value="perso">⚙️ Mes propres critères</option>
+      </select>
+    </label>
+    <p class="desc" id="desc"></p>
+    <details id="avance">
+      <summary>Réglages avancés</summary>
+      <div class="grille">
+        <label for="noteMin">Note de forme mini<input id="noteMin" type="number" step="0.1" min="-3" max="10"></label>
+        <label for="noteMax">Note de forme maxi (non comprise)<input id="noteMax" type="number" step="0.1" min="-3" max="10"></label>
+        <label for="coursesMin">Courses minimum dans la musique<input id="coursesMin" type="number" step="1" min="0" max="20"></label>
+        <label for="pays">Réunions
+          <select id="pays"><option value="france">France</option><option value="etranger">Étranger</option><option value="tous">France et étranger</option></select>
+        </label>
+        <label for="coteMin">Cote au départ mini<input id="coteMin" type="number" step="0.5" min="1" placeholder="toutes"></label>
+        <label for="coteMax">Cote au départ maxi (non comprise)<input id="coteMax" type="number" step="0.5" min="1" placeholder="toutes"></label>
+        <label for="typeCourse">Type de course
+          <select id="typeCourse"><option value="tous">Toutes les courses</option><option value="handicap">Handicaps seulement</option><option value="autres">Hors handicaps</option></select>
+        </label>
+        <label for="partMin">Partants minimum<input id="partMin" type="number" step="1" min="2" max="30" placeholder="tous"></label>
+      </div>
+    </details>
+  </section>
+
+  <div class="alerte"><b>À savoir :</b> un réglage qui a bien marché sur les jours passés ne garantit rien pour demain. Plus vous ajoutez de critères, moins il reste de chevaux, et plus un bon résultat peut venir du hasard. Préférez les réglages simples, suivis dans la durée.</div>
+
+  <section>
+    <h2 id="t-jour">Les chevaux du jour</h2>
+    <div class="statut" id="statut-jour"></div>
+    <div class="table-wrap" id="jour" style="margin-top:8px"><div class="vide">Chargement…</div></div>
+    <p class="statut" id="note-cote" hidden></p>
+  </section>
+
+  <section>
+    <h2>Ce que ce réglage a donné</h2>
+    <div class="board" id="board"></div>
+    <div class="statut" id="periode" style="margin-top:8px"></div>
+    <div class="table-wrap" id="histo" style="margin-top:14px"></div>
+  </section>
+
+  </div>
+
+  <div class="vue" id="vue-prono" role="tabpanel" aria-labelledby="tab-prono" hidden>
+    <section class="panneau" aria-labelledby="t-course">
+      <h2 id="t-course" style="margin:0">Choisir une course</h2>
+      <div class="grille">
+        <label for="jourSel">Journée
+          <select id="jourSel"></select>
+        </label>
+        <label for="disc">Discipline
+          <select id="disc"><option value="galop">Galop (plat, obstacles)</option><option value="attelé">Trot attelé</option><option value="monté">Trot monté</option></select>
+        </label>
+      </div>
+      <div class="grille">
+        <label for="typeProno">Type de course
+          <select id="typeProno"><option value="tous">Toutes les courses</option><option value="handicap">Handicaps seulement</option><option value="autres">Hors handicaps</option></select>
+        </label>
+        <label for="partMinProno">Partants minimum<input id="partMinProno" type="number" step="1" min="2" max="30" placeholder="tous"></label>
+      </div>
+      <label for="course">Course du jour
+        <select id="course"></select>
+      </label>
+      <p class="infos" id="infos-course"></p>
+      <p class="avert" id="passe-info"></p>
+      <div class="grille">
+        <label for="tri">Classer les partants
+          <select id="tri">
+            <option value="note">Note de forme</option>
+            <option value="combi">⭐ Classement combiné (mes critères)</option>
+            <option value="jv">Jockey / driver : % de victoires</option>
+            <option value="jp">Jockey / driver : % de podiums</option>
+            <option value="ev">Entraîneur : % de victoires</option>
+            <option value="ep">Entraîneur : % de podiums</option>
+            <option value="cv">Cheval : % de victoires en carrière</option>
+            <option value="cp">Cheval : % de places en carrière</option>
+            <option value="ga">Cheval : gains de l'année</option>
+            <option value="niv">Niveau : descend le plus</option>
+            <option value="corde">Corde : la plus petite</option>
+            <option value="avis">Avis de l'entraîneur (trot)</option>
+            <option value="num">Numéro</option>
+            <option value="arrivee">Arrivée (journées passées)</option>
+          </select>
+        </label>
+        <label for="depuis"><span id="lib-depuis">Jockeys et entraîneurs</span> : sur leurs
+          <select id="depuis"><option value="10">10 dernières courses</option><option value="20" selected>20 dernières courses</option><option value="50">50 dernières courses</option><option value="9999">courses depuis le début du suivi</option></select>
+        </label>
+      </div>
+      <fieldset id="combi" class="combi" hidden>
+        <legend>Mes critères (chaque critère coché compte autant)</legend>
+        <div class="cases" id="cases"></div>
+        <p class="statut" style="margin:6px 0 0">Pour chaque critère, les partants sont classés de 1 au dernier ; on fait la moyenne de leurs rangs. Un cheval sans donnée sur un critère reçoit le rang du milieu, ni avantagé ni pénalisé.</p>
+      </fieldset>
+      <p class="statut" id="recul" style="margin:0"></p>
+    </section>
+
+    <section>
+      <h2>Les partants</h2>
+      <p class="statut" style="margin:0 0 8px">Cochez les chevaux que vous retenez. « Détail » montre le calcul de la note et ce que les chevaux de même profil ont donné.</p>
+      <div class="partants" id="partants"><div class="vide">Chargement…</div></div>
+    </section>
+
+    <section class="panneau" aria-labelledby="t-jeu">
+      <h2 id="t-jeu" style="margin:0">Mon jeu sur cette course</h2>
+      <div class="grille">
+        <label for="pari">Type de pari
+          <select id="pari">
+            <option value="sg">Simple gagnant</option>
+            <option value="sp">Simple placé</option>
+            <option value="cg">Couplé gagnant</option>
+            <option value="cp">Couplé placé</option>
+            <option value="trio">Trio</option>
+            <option value="quinte">Quinté+</option>
+          </select>
+        </label>
+        <label for="mise">Mise par combinaison (€)<input id="mise" type="number" step="0.5" min="0.5" value="1"></label>
+        <label for="budget">Mon budget du jour (€)<input id="budget" type="number" step="1" min="0" placeholder="à fixer avant de jouer"></label>
+      </div>
+      <p class="resume" id="resume"></p>
+      <p class="avert" id="avert"></p>
+      <div class="actions"><button class="btn" id="ajouter" disabled>Ajouter à ma feuille</button></div>
+      <p class="statut" style="margin:0">Mise minimale : vérifiez-la dans l'application PMU, elle dépend du pari. Pour le Quinté+, le couplé et le trio, marquez vos bases avec ★ : elles sont dans toutes les combinaisons.</p>
+    </section>
+
+    <section>
+      <h2>Ma feuille du jour</h2>
+      <div class="feuille" id="feuille"></div>
+      <div style="display:grid;gap:6px;margin-top:12px">
+        <div class="jauge" aria-hidden="true"><i id="jauge" style="width:0"></i></div>
+        <p class="resume" id="total"></p>
+      </div>
+      <div class="actions" style="margin-top:12px">
+        <button class="btn leger" id="copier">Copier ma feuille</button>
+        <button class="btn leger" id="vider">Vider</button>
+        <span class="statut" id="copie-ok" role="status"></span>
+      </div>
+    </section>
+  </div>
+
+  <section class="nous" id="qui" aria-labelledby="t-qui">
+    <h2 id="t-qui" style="margin:0">Qui sommes-nous</h2>
+    <p class="intro">Deux amis, une même question : peut-on lire les courses autrement qu'au feeling ?</p>
+    <div class="duo">
+      <article>
+        <span class="role">Le turfiste</span>
+        <h3>35 ans de passion</h3>
+        <p>Trente-cinq ans à éplucher les programmes, à lire et relire les musiques, à suivre les entraîneurs et leurs engagements. Des tickets gagnants, et beaucoup de perdants : c'est comme ça qu'on apprend.</p>
+        <p>Avec le temps, une conviction : la régularité d'un cheval et le niveau de la course où on l'engage en disent plus que les rumeurs du jour.</p>
+      </article>
+      <article>
+        <span class="role">L'informaticien</span>
+        <h3>Ce qui se mesure</h3>
+        <p>Son ami, lui, ne croit que ce qui se vérifie. Il a constitué une base d'un an de courses, arrivées et allocations comprises, pour tester une idée sur des milliers de chevaux plutôt que sur trois coups de chance.</p>
+        <p>Une intuition qui ne tient pas sur un an de résultats n'est qu'une anecdote.</p>
+      </article>
+    </div>
+    <p class="histoire">L'un apporte l'œil du terrain, l'autre la rigueur des chiffres. Ensemble, ils travaillent depuis <b>plus de 5 ans</b> sur la base de données, les stratégies et les critères : des centaines d'idées testées, beaucoup abandonnées, quelques-unes retenues. Ils ont ainsi transformé des années d'expérience en règles précises, comme la note de forme, et laissé les résultats trancher. Ce que vous trouvez ici, ce sont ces recherches personnelles, mises à votre disposition. Pas des pronostics.</p>
+    <h3 style="font-family:var(--display);font-weight:800;text-transform:uppercase;font-size:1.25rem;margin:4px 0 0">Notre façon de faire</h3>
+    <ol class="regles">
+      <li><span><b>Des critères écrits noir sur blanc.</b> La note de forme se calcule de la même façon pour tous les chevaux, et vous pouvez en voir le détail cheval par cheval.</span></li>
+      <li><span><b>Tout est publié, perdants compris.</b> Depuis le premier jour du test public, le 8 octobre, chaque cheval retenu reste dans les bilans. Rien n'est effacé, rien n'est arrangé.</span></li>
+      <li><span><b>Quand une règle change, on le dit.</b> Avec la date et la raison, pour que vous sachiez toujours ce qui a été mesuré.</span></li>
+      <li><span><b>Des outils, pas des promesses.</b> Nous vous donnons de quoi étudier une course et composer votre propre jeu, avec un budget fixé à l'avance.</span></li>
+    </ol>
+    <h3 style="font-family:var(--display);font-weight:800;text-transform:uppercase;font-size:1.25rem;margin:4px 0 0">Une application qui va grandir</h3>
+    <p class="histoire">Ce que vous voyez aujourd'hui n'est qu'une première version. Nous allons l'améliorer au fil du temps : de nouveaux critères, plus de disciplines, des statistiques de jockeys, drivers et entraîneurs qui gagnent en solidité chaque jour de courses, et les tests sur notre base d'un an pour affiner chaque réglage. Le but : rendre l'outil toujours plus précis et plus utile pour préparer votre jeu.</p>
+    <p class="histoire">Chaque amélioration sera d'abord vérifiée sur les chiffres, puis annoncée avec sa date. Une nouveauté qui ne tient pas ses promesses sera retirée, et nous le dirons aussi.</p>
+    <p class="debut"><b>Vous faites partie du début.</b> Le test public est gratuit jusqu'au 8 novembre : suivez-le jour après jour, et jugez sur pièces. La réalité, sans trucage.</p>
+  </section>
+
+  <section class="legal">
+    <div><b>Les jeux d'argent sont interdits aux mineurs (18+).</b> Jouer comporte des risques : endettement, dépendance. Joueurs Info Service : 09 74 75 13 13 (appel non surtaxé).</div>
+    <div>Cet outil applique des critères de recherche personnels à des données publiques. Ce n'est ni un pronostic, ni un conseil de jeu ou d'investissement. Les résultats passés ne garantissent pas les résultats futurs. Rapports définitifs du PMU pour 1 €.</div>
+  </section>
+</div>
+
+<script>/* Version en ligne : les données sont lues en direct sur le dépôt GitHub du bot. */
+const SNAP_STATS = {j:{},e:{}}; const SNAP_RECUL = ""; const SNAP_JOURS = []; const SNAP_JOURS_T = []; const SNAP_ROWS = []; const SNAP_JOUR = {date:"",quinte:null,entries:[]};
+const SNAP_STATS_T = {j:{},e:{}}; const SNAP_RECUL_T = ""; const SNAP_ROWS_T = []; const SNAP_JOUR_T = {date:"",quinte:null,entries:[]};</script>
+<script>
+const DEPOT = "https://raw.githubusercontent.com/FAB2026-ENR/pmu-engagements-bot/refs/heads/main/data/";
+const $ = id => document.getElementById(id);
+const fr = (x, d = 2) => x.toLocaleString("fr-FR", {minimumFractionDigits: d, maximumFractionDigits: d});
+const pct = x => (x >= 0 ? "+" : "−") + Math.abs(x).toLocaleString("fr-FR", {maximumFractionDigits: 1}) + " %";
+const jourC = d => d.slice(8, 10) + "/" + d.slice(5, 7);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+const STRATEGIES = {
+  regularite: {noteMin: 0, noteMax: 1, coursesMin: 5, pays: "france", coteMin: "", coteMax: "", typeCourse: "tous", partMin: "",
+    desc: "Notre stratégie de base. Des chevaux réguliers, avec une très bonne note de forme calculée sur au moins 5 courses, en France. Tout est connu le matin : vous pouvez jouer en début de journée."},
+  valeur: {noteMin: 0.5, noteMax: 1, coursesMin: 5, pays: "france", coteMin: 6, coteMax: 12, typeCourse: "tous", partMin: "",
+    desc: "Les chevaux de la Régularité que les parieurs sous-estiment : cote entre 6 et 12. Demande de vérifier la cote sur l'application PMU juste avant le départ. Encore peu de recul."},
+  etranger: {noteMin: 0, noteMax: 1, coursesMin: 5, pays: "etranger", coteMin: "", coteMax: "", typeCourse: "tous", partMin: "",
+    desc: "Les mêmes critères sur les réunions étrangères. Moins de gagnants, de plus gros rapports, des résultats qui varient beaucoup d'une semaine à l'autre. À l'étranger, la musique s'arrête à 5 courses."},
+  quinte: {quinte: true,
+    desc: "La course du Quinté+ classée par note de forme : nos 8 chevaux, dont 2 bases. Un bonus pour le plaisir, le Quinté+ restant le pari le plus difficile."},
+  perso: {desc: "Réglez vos propres critères dans les réglages avancés. Gardez en tête l'avertissement ci-dessous."}
+};
+
+// Note de forme : même calcul que le bot.
+function parseMusique(m){
+  if(!m) return [];
+  const t = m.replace(/\([^)]*\)/g, ""); const out = []; const re = /(\d{1,2}|[DTAR])(?=[a-z]|\s|$)/g; let x;
+  while((x = re.exec(t)) !== null){ const k = x[1]; if(/^\d+$/.test(k)){ const v = parseInt(k, 10); out.push(v === 0 ? 10 : Math.min(v, 10)); } else out.push(10); }
+  return out;
+}
+function noteForme(m, pj, pp){
+  const pl = parseMusique(m);
+  if(!pl.length && !(pj && pp)) return null;
+  let s;
+  if(pl.length){ let w = 0, ws = 0; pl.forEach((p, i) => { w += p / (i + 1); ws += 1 / (i + 1); }); s = w / ws - pl.slice(0, 5).filter(p => p >= 1 && p <= 3).length * 0.4; }
+  else s = 5;
+  if(pj && pp){ const d = (pj - pp) / pp; if(d <= -0.2) s -= Math.min(-d, 1) * 1.5; else if(d >= 0.2) s += Math.min(d, 1) * 0.8; }
+  return Math.round(s * 100) / 100;
+}
+
+// Le fichier embarque une copie compacte des données (infos de course une seule fois par course).
+function deplier(J){ if(!J.ic) return J; return {...J, entries: J.entries.map(e => ({...e, infosCourse: J.ic[e.reunion + e.course] || {}}))}; }
+let HISTO = SNAP_ROWS;        // [jour, course, cheval, note, france, courses, arrivée, gagnant, placé, cote]
+let JOUR = deplier(SNAP_JOUR);         // {date, quinte, entries}
+let QUINTES = [];
+let STATS = SNAP_STATS;     // {j: {jockey: [[arrivée, gagnant, placé], …]}, e: {entraîneur: …}}, plus récent d'abord
+let RECUL = SNAP_RECUL;     // premier jour du suivi
+// Trot (attelé et monté) : mêmes structures, fichiers data/trot/.
+let JOURS_G = SNAP_JOURS, JOURS_T = SNAP_JOURS_T, PASSE = {};
+let JOUR_T = deplier(SNAP_JOUR_T), HISTO_T = SNAP_ROWS_T, STATS_T = SNAP_STATS_T, RECUL_T = SNAP_RECUL_T;             // [{d, code, nos, dans, bases}]
+
+function reglage(){
+  const v = id => $(id).value === "" ? null : parseFloat($(id).value);
+  return {noteMin: v("noteMin"), noteMax: v("noteMax"), coursesMin: v("coursesMin") ?? 0, pays: $("pays").value, coteMin: v("coteMin"), coteMax: v("coteMax"), typeCourse: $("typeCourse").value, partMin: v("partMin")};
+}
+function appliquer(key){
+  const s = STRATEGIES[key];
+  $("desc").textContent = s.desc;
+  if(key !== "perso" && !s.quinte) ["noteMin","noteMax","coursesMin","pays","coteMin","coteMax","typeCourse","partMin"].forEach(id => $(id).value = s[id]);
+  $("avance").hidden = !!s.quinte;
+  if(key === "perso") $("avance").open = true;
+  afficher();
+}
+const RATTRAPAGE_FIN = "2026-10-08";
+function completer(bilan, infos){
+  if(!bilan || !infos || !infos.courses) return bilan;
+  (bilan.entries || []).forEach(e => { const c = infos.courses[e.reunion + e.course]; if(!c) return;
+    if(!e.infosCourse || !Object.keys(e.infosCourse).length) e.infosCourse = c.infosCourse || {};
+    const h = (c.chevaux || {})[String(e.numPmu)]; if(h && (!e.infosCheval || !Object.keys(e.infosCheval).length)) e.infosCheval = h.infosCheval || {}; });
+  return bilan;
+}
+const estHandicap = e => /HANDICAP/.test(String(((e && e.infosCourse) || {}).categorieParticularite || ""));
+function garde(r, n, courses, france, cote, hcap, nbPart){
+  if(r.typeCourse !== "tous"){ if(hcap == null) return false; if(r.typeCourse === "handicap" ? !hcap : hcap) return false; }
+  if(r.partMin != null && (nbPart == null || nbPart < r.partMin)) return false;
+  if(n == null || (r.noteMin != null && n < r.noteMin) || (r.noteMax != null && n >= r.noteMax)) return false;
+  if(courses < r.coursesMin) return false;
+  if(r.pays === "france" && france !== 1 && france !== true) return false;
+  if(r.pays === "etranger" && france !== 0 && france !== false) return false;
+  if(cote !== undefined && (r.coteMin != null || r.coteMax != null)){
+    if(!cote) return false;
+    if(r.coteMin != null && cote < r.coteMin) return false;
+    if(r.coteMax != null && cote >= r.coteMax) return false;
+  }
+  return true;
+}
+
+function afficher(){
+  if($("strategie").value === "quinte") return afficherQuinte();
+  const r = reglage();
+  // Chevaux du jour
+  $("t-jour").textContent = "Les chevaux du jour";
+  const NBP = {}; (JOUR.entries || []).forEach(e => NBP[e.reunion + e.course] = (NBP[e.reunion + e.course] || 0) + 1);
+  const jour = (JOUR.entries || []).map(e => ({...e, note: noteForme(e.musique, e.prixJour, e.prixPrec), nb: parseMusique(e.musique).length}))
+    .filter(e => garde(r, e.note, e.nb, e.france === undefined ? null : e.france, e.infosCourse && e.infosCourse.categorieParticularite ? estHandicap(e) : null, NBP[e.reunion + e.course]))
+    .sort((a, b) => a.reunion.localeCompare(b.reunion, "fr", {numeric: true}) || a.course.localeCompare(b.course, "fr", {numeric: true}));
+  $("statut-jour").textContent = JOUR.date ? `Programme du ${jourC(JOUR.date)}/${JOUR.date.slice(0, 4)}` : "";
+  const paysInconnu = (JOUR.entries || []).length && JOUR.entries[0].france === undefined && r.pays !== "tous";
+  if(paysInconnu){
+    $("jour").innerHTML = `<div class="vide">Le pays des réunions n'est pas encore dans le fichier du matin du bot : choisissez « France et étranger » dans les réglages avancés, ou revenez demain.</div>`;
+  } else if(!jour.length){
+    $("jour").innerHTML = `<div class="vide">Aucun cheval ne correspond à ce réglage aujourd'hui. C'est une réponse aussi : mieux vaut ne rien jouer que forcer.</div>`;
+  } else {
+    $("jour").innerHTML = `<table><thead><tr><th>Course</th><th>Cheval</th><th>Pays</th><th class="n">Note</th><th class="n">Courses</th><th>Musique</th><th>Entraîneur</th></tr></thead><tbody>` +
+      jour.map(e => `<tr><td><b>${esc(e.reunion + e.course)}</b></td><td><b>${esc(e.cheval)}</b></td><td>${e.france ? "🇫🇷" : "🌍"}</td><td class="n">${fr(e.note)}</td><td class="n">${e.nb}</td><td>${esc(e.musique)}</td><td>${esc(e.entraineur)}</td></tr>`).join("") + `</tbody></table>`;
+  }
+  const coteActive = r.coteMin != null || r.coteMax != null;
+  $("note-cote").hidden = !coteActive;
+  if(coteActive) $("note-cote").textContent = `Critère de cote : ne jouer un cheval que si sa cote est ${r.coteMin != null ? "d'au moins " + fr(r.coteMin, 1) : ""}${r.coteMin != null && r.coteMax != null ? " et " : ""}${r.coteMax != null ? "de moins de " + fr(r.coteMax, 1) : ""} sur l'application PMU, 2 à 5 minutes avant le départ.`;
+
+  // Passé du réglage
+  const rows = HISTO.filter(x => garde(r, x[3], x[5], x[4], x[9] ?? null, x[10] ?? null, x[11] ?? null)).sort((a, b) => a[0].localeCompare(b[0]));
+  const n = rows.length;
+  if(!n){ $("board").innerHTML = `<div><b>0</b><span>cheval avec ce réglage</span></div>`; $("periode").textContent = ""; $("histo").innerHTML = ""; return; }
+  const gs = rows.map(x => x[7]), ps = rows.map(x => x[8]);
+  const sG = gs.reduce((a, b) => a + b, 0), sP = ps.reduce((a, b) => a + b, 0);
+  const nG = gs.filter(v => v > 0).length, nP = ps.filter(v => v > 0).length;
+  const roiG = (sG - n) / n * 100, roiP = (sP - n) / n * 100;
+  const top = Math.max(...gs), roiSans = n > 1 ? (sG - top - (n - 1)) / (n - 1) * 100 : null;
+  const cls = v => v >= 0 ? "pos" : "neg";
+  $("board").innerHTML = [
+    [n, "chevaux"],
+    [`${nG} <small style="font-size:.45em">(${Math.round(nG / n * 100)} %)</small>`, "gagnants"],
+    [`<span class="${cls(roiG)}">${pct(roiG)}</span>`, "rentabilité au gagnant"],
+    [roiSans == null ? "—" : `<span class="${cls(roiSans)}">${pct(roiSans)}</span>`, "gagnant, sans le plus gros rapport"],
+    [`<span class="${cls(roiP)}">${pct(roiP)}</span>`, `rentabilité au placé (${nP} payés)`],
+  ].map(([b, s]) => `<div><b>${b}</b><span>${s}</span></div>`).join("");
+  $("periode").textContent = `Du ${jourC(rows[0][0])} au ${jourC(rows[n - 1][0])} · 1 € par cheval · rapports définitifs du PMU · ${n < 50 ? "échantillon encore petit, prudence" : "échantillon correct"}`;
+  const dern = rows.slice(-25).reverse();
+  $("histo").innerHTML = `<table><thead><tr><th>Jour</th><th>Course</th><th>Cheval</th><th class="n">Note</th><th class="n">Cote</th><th>Arrivée</th><th class="n">Gagnant</th><th class="n">Placé</th></tr></thead><tbody>` +
+    dern.map(x => { const c = x[7] > 0 ? "g" : x[8] > 0 ? "p" : "x"; const pl = x[6] >= 90 ? "non classé" : x[6] === 1 ? "1er" : x[6] + "e";
+      return `<tr><td>${jourC(x[0])}</td><td>${esc(x[1])}</td><td><b>${esc(x[2])}</b></td><td class="n">${fr(x[3])}</td><td class="n">${x[9] ? fr(x[9], 1) : "—"}</td><td><span class="pill ${c}">${pl}</span></td><td class="n ${x[7] > 0 ? "gain-g" : "zero"}">${fr(x[7])}</td><td class="n ${x[8] > 0 ? "gain-p" : "zero"}">${fr(x[8])}</td></tr>`; }).join("") +
+    `</tbody></table><div class="vide" style="padding:8px 12px">Les ${dern.length} derniers chevaux de ce réglage (le tableau du haut compte tous les chevaux).</div>`;
+}
+
+function afficherQuinte(){
+  $("t-jour").textContent = "Le Quinté+ du jour";
+  $("note-cote").hidden = true;
+  $("statut-jour").textContent = JOUR.date ? `Programme du ${jourC(JOUR.date)}/${JOUR.date.slice(0, 4)}` : "";
+  const code = JOUR.quinte;
+  const partants = (JOUR.entries || []).filter(e => e.reunion + e.course === code);
+  if(!code){
+    $("jour").innerHTML = `<div class="vide">La course du Quinté+ n'est pas encore repérée dans le fichier du matin.</div>`;
+  } else if(!partants.length){
+    $("jour").innerHTML = `<div class="vide">Le Quinté+ du jour (${esc(code)}) se court au trot : il sera bientôt ajouté à cette page.</div>`;
+  } else {
+    const nos = partants.map(e => ({...e, note: noteForme(e.musique, e.prixJour, e.prixPrec)}))
+      .sort((a, b) => (a.note == null) - (b.note == null) || (a.note ?? 0) - (b.note ?? 0)).slice(0, 8);
+    $("jour").innerHTML = `<table><thead><tr><th>#</th><th>Cheval</th><th class="n">Note</th><th>Musique</th><th>Entraîneur</th><th></th></tr></thead><tbody>` +
+      nos.map((e, i) => `<tr><td>${i + 1}</td><td><b>${esc(e.cheval)}</b></td><td class="n">${e.note == null ? "—" : fr(e.note)}</td><td>${esc(e.musique)}</td><td>${esc(e.entraineur)}</td><td class="base">${i < 2 ? "⭐ base" : ""}</td></tr>`).join("") +
+      `</tbody></table><div class="vide" style="padding:8px 12px">${esc(code)} · ${partants.length} partants</div>`;
+  }
+  if(!QUINTES.length){
+    $("board").innerHTML = `<div><b>—</b><span>Le suivi des Quintés s'affichera ici dès les premiers résultats.</span></div>`;
+    $("periode").textContent = ""; $("histo").innerHTML = ""; return;
+  }
+  const n = QUINTES.length, moy = QUINTES.reduce((s, q) => s + q.dans, 0) / n, bases = QUINTES.reduce((s, q) => s + q.bases, 0), des = QUINTES.filter(q => q.dans === 5).length;
+  $("board").innerHTML = [[n, "Quintés suivis"], [fr(moy, 1), "de nos 8 dans l'arrivée, en moyenne"], [`${bases} / ${n * 2}`, "bases placées"], [des, "désordre trouvé"]]
+    .map(([b, s]) => `<div><b>${b}</b><span>${s}</span></div>`).join("");
+  $("periode").textContent = "Nos 8 chevaux les mieux notés dans la course du Quinté+, comparés à l'arrivée.";
+  $("histo").innerHTML = `<table><thead><tr><th>Jour</th><th>Course</th><th class="n">Nos 8 dans l'arrivée</th><th class="n">Bases placées</th><th>Désordre</th></tr></thead><tbody>` +
+    [...QUINTES].sort((a, b) => b.d.localeCompare(a.d)).map(q => `<tr><td>${jourC(q.d)}</td><td>${esc(q.code)}</td><td class="n ${q.dans >= 3 ? "gain-g" : ""}">${q.dans} / 5</td><td class="n ${q.bases ? "gain-p" : "zero"}">${q.bases} / 2</td><td>${q.dans === 5 ? '<span class="pill g">trouvé</span>' : '<span class="pill x">non</span>'}</td></tr>`).join("") + `</tbody></table>`;
+}
+
+const nonPartant = e => { const s = String(e.statutArrivee || "").toUpperCase(); return s.includes("NON") && s.includes("PARTANT"); };
+async function charger(){
+  try{
+    const latest = await (await fetch(DEPOT + "latest.json", {cache: "no-store"})).json();
+    if(latest && latest.entries) JOUR = latest;
+  }catch(e){}
+  try{
+    const cumul = await (await fetch(DEPOT + "bilan-cumul.json", {cache: "no-store"})).json();
+    const jours = (cumul.jours || []).filter(j => j.avecArrivee > 0).map(j => j.date).sort();
+    const fichiers = await Promise.all(jours.map(j => fetch(DEPOT + `bilan-${j}.json`, {cache: "no-store"}).then(r => r.ok ? r.json() : null).catch(() => null)));
+    // Avant le 08/10 : type de course et infos cheval rattrapés à part (data/rattrapage/).
+    await Promise.all(jours.map((j, i) => j < RATTRAPAGE_FIN && fichiers[i] ? fetch(DEPOT + `rattrapage/infos-${j}.json`, {cache: "no-store"}).then(r => r.ok ? r.json() : null).then(x => completer(fichiers[i], x)).catch(() => null) : null));
+    const rows = [], qs = [], st = {j: {}, e: {}};
+    fichiers.forEach((f, i) => {
+      if(!f) return;
+      const es = f.entries || [];
+      const finies = new Set(es.filter(e => e.arrivee === 1).map(e => e.reunion + e.course));
+      const nbp = {}; es.forEach(e => { if(!nonPartant(e)) nbp[e.reunion + e.course] = (nbp[e.reunion + e.course] || 0) + 1; });
+      es.forEach(e => {
+        if(nonPartant(e) || e.rapportsPublies === false) return;
+        let a = e.arrivee;
+        if(a == null){ if(!finies.has(e.reunion + e.course)) return; a = 99; }
+        [["j", e.jockey], ["e", e.entraineur]].forEach(([k, nom]) => { if(nom) (st[k][nom] = st[k][nom] || []).push([a, +jours[i].replace(/-/g, "")]); });
+        rows.push([jours[i], e.reunion + e.course, e.cheval, e.score ?? null, e.france === true ? 1 : e.france === false ? 0 : null, e.nbCourses || 0, a, a === 1 ? (e.coteGagnant || 0) : 0, a <= 3 ? (e.cotePlace || 0) : 0, e.coteDirecte || null, e.infosCourse && e.infosCourse.categorieParticularite ? (estHandicap(e) ? 1 : 0) : null, nbp[e.reunion + e.course] || null]);
+      });
+      if(f.quinte){
+        const ch = es.filter(e => e.reunion + e.course === f.quinte && !nonPartant(e));
+        if(ch.some(e => e.arrivee === 1)){
+          const nos = [...ch].sort((a, b) => (a.score == null) - (b.score == null) || (a.score ?? 0) - (b.score ?? 0)).slice(0, 8);
+          qs.push({d: jours[i], code: f.quinte, dans: nos.filter(e => e.arrivee && e.arrivee <= 5).length, bases: nos.slice(0, 2).filter(e => e.arrivee && e.arrivee <= 3).length});
+        }
+      }
+    });
+    JOURS_G = jours;
+    if(rows.length){ HISTO = rows; QUINTES = qs; ["j", "e"].forEach(k => Object.values(st[k]).forEach(l => l.reverse())); STATS = st; RECUL = jours[0]; }
+  }catch(e){}
+  afficher();
+  initProno();
+  await chargerTrot();
+}
+async function chargerTrot(){
+  const D = DEPOT + "trot/";
+  try{
+    const latest = await (await fetch(D + "latest.json", {cache: "no-store"})).json();
+    if(latest && latest.entries) JOUR_T = latest;
+  }catch(e){}
+  try{
+    const cumul = await (await fetch(D + "bilan-cumul.json", {cache: "no-store"})).json();
+    const jours = (cumul.jours || []).filter(j => j.avecArrivee > 0).map(j => j.date).sort();
+    const fichiers = await Promise.all(jours.map(j => fetch(D + `bilan-${j}.json`, {cache: "no-store"}).then(r => r.ok ? r.json() : null).catch(() => null)));
+    const rows = [], st = {j: {}, e: {}};
+    fichiers.forEach((f, i) => {
+      if(!f) return;
+      const es = f.entries || [], finies = new Set(es.filter(e => e.arrivee === 1).map(e => e.reunion + e.course));
+      es.forEach(e => {
+        if(nonPartant(e) || e.rapportsPublies === false) return;
+        let a = e.arrivee;
+        if(a == null){ if(!finies.has(e.reunion + e.course)) return; a = 99; }
+        [["j", e.jockey], ["e", e.entraineur]].forEach(([k, nom]) => { if(nom) (st[k][nom] = st[k][nom] || []).push([a, +jours[i].replace(/-/g, "")]); });
+        rows.push([jours[i], e.reunion + e.course, e.cheval, e.score ?? null, e.france === false ? 0 : 1, e.nbCourses || 0, a, a === 1 ? (e.coteGagnant || 0) : 0, a <= 3 ? (e.cotePlace || 0) : 0, e.coteDirecte || null]);
+      });
+    });
+    JOURS_T = jours;
+    if(rows.length){ ["j", "e"].forEach(k => Object.values(st[k]).forEach(l => l.reverse())); HISTO_T = rows; STATS_T = st; RECUL_T = jours[0]; }
+  }catch(e){}
+  if($("disc").value !== "galop") initProno(); else remplirJours();
+}
+
+// ===== Mon pronostic =====
+const PARIS = {
+  sg: {nom: "Simple gagnant", k: 1, mise: 1},
+  sp: {nom: "Simple placé", k: 1, mise: 1},
+  cg: {nom: "Couplé gagnant", k: 2, mise: 1},
+  cp: {nom: "Couplé placé", k: 2, mise: 1},
+  trio: {nom: "Trio", k: 3, mise: 1},
+  quinte: {nom: "Quinté+", k: 5, mise: 2}
+};
+const COMBI = (n, k) => { if(k < 0 || k > n) return 0; let r = 1; for(let i = 1; i <= k; i++) r = r * (n - k + i) / i; return Math.round(r); };
+const nomPropre = s => String(s || "").toLowerCase().replace(/(^|[\s'’.(-])([a-zà-ÿ])/g, (m, a, b) => a + b.toUpperCase());
+const euros = x => fr(x, x % 1 ? 2 : 0) + " €";
+const coche = new Set(), bases = new Set(), cotesVues = {};
+let FEUILLE = [];
+const estTrot = () => $("disc").value !== "galop";
+const jourChoisi = () => $("jourSel").value || "";          // "" = aujourd'hui, sinon AAAA-MM-JJ
+const clePasse = () => (estTrot() ? "trot|" : "galop|") + jourChoisi();
+function SRC(){
+  const d = jourChoisi(), base = estTrot() ? {histo: HISTO_T, stats: STATS_T, recul: RECUL_T, jour: JOUR_T} : {histo: HISTO, stats: STATS, recul: RECUL, jour: JOUR};
+  const J = d ? (PASSE[clePasse()] || {entries: [], quinte: null}) : base.jour;
+  let entries = J.entries || [];
+  if(estTrot()) entries = entries.filter(e => e.discipline === $("disc").value);
+  return {entries, histo: d ? base.histo.filter(x => x[0] < d) : base.histo, stats: base.stats, recul: base.recul, quinte: J.quinte, passe: !!d, date: d, courses: J.courses || {}};
+}
+const cleFeuille = () => "ld-feuille-" + (JOUR.date || "");
+function lireFeuille(){ try{ FEUILLE = JSON.parse(localStorage.getItem(cleFeuille()) || "[]"); }catch(e){ FEUILLE = []; } try{ const b = localStorage.getItem("ld-budget"); if(b) $("budget").value = b; }catch(e){} }
+function ecrireFeuille(){ try{ localStorage.setItem(cleFeuille(), JSON.stringify(FEUILLE)); localStorage.setItem("ld-budget", $("budget").value); }catch(e){} }
+
+// Le calcul de la note, étape par étape (mêmes règles que le bot).
+function detailNote(e){
+  const pl = parseMusique(e.musique);
+  const d = {nb: pl.length, moy: null, pod: 0, niveau: 0, shift: null, total: null};
+  if(!pl.length && !(e.prixJour && e.prixPrec)) return d;
+  let s = 5;
+  if(pl.length){ let w = 0, ws = 0; pl.forEach((p, i) => { w += p / (i + 1); ws += 1 / (i + 1); }); d.moy = w / ws; d.pod = pl.slice(0, 5).filter(p => p >= 1 && p <= 3).length; s = d.moy - d.pod * 0.4; }
+  if(e.prixJour && e.prixPrec){ const x = (e.prixJour - e.prixPrec) / e.prixPrec;
+    if(x <= -0.2){ d.niveau = -Math.min(-x, 1) * 1.5; d.shift = "descend"; } else if(x >= 0.2){ d.niveau = Math.min(x, 1) * 0.8; d.shift = "monte"; } else d.shift = "stable";
+    d.pct = Math.round(Math.abs(x) * 100); s += d.niveau; }
+  d.total = Math.round(s * 100) / 100;
+  return d;
+}
+const TR_NOTE = [[-99, 0, "négatives"], [0, 0.5, "de 0 à 0,49"], [0.5, 1, "de 0,5 à 0,99"], [1, 2, "de 1 à 1,99"], [2, 3, "de 2 à 2,99"], [3, 5, "de 3 à 4,99"], [5, 99, "de 5 et plus"]];
+const TR_COTE = [[1, 3, "sous 3"], [3, 6, "de 3 à 5,9"], [6, 12, "de 6 à 11,9"], [12, 20, "de 12 à 19,9"], [20, 9999, "de 20 et plus"]];
+const tranche = (T, v) => T.find(([a, b]) => v >= a && v < b);
+function repere(note, france, cote){
+  const tn = tranche(TR_NOTE, note); if(!tn) return "";
+  const tc = cote ? tranche(TR_COTE, cote) : null;
+  const rows = SRC().histo.filter(x => x[3] != null && x[3] >= tn[0] && x[3] < tn[1] && x[4] === (france ? 1 : 0) && (!tc || (x[9] && x[9] >= tc[0] && x[9] < tc[1])));
+  const qui = `Notes ${tn[2]}${tc ? ", cote " + tc[2] : ""}, ${france ? "en France" : "à l'étranger"}`;
+  const n = rows.length;
+  if(!n) return `${qui} : aucun cheval dans nos bilans pour l'instant.`;
+  const nG = rows.filter(x => x[7] > 0).length, nP = rows.filter(x => x[8] > 0).length;
+  const roi = (rows.reduce((a, x) => a + x[7], 0) - n) / n * 100;
+  return `${qui} : <b>${nG} gagnants sur ${n}</b> (${Math.round(nG / n * 100)} %), ${nP} placés · au gagnant <b class="${roi >= 0 ? "pos" : "neg"}">${pct(roi)}</b>${n < 30 ? " · <i>peu de chevaux, simple indication</i>" : ""}`;
+}
+const coursesDuJour = () => { const m = new Map(); SRC().entries.forEach(e => { const c = e.reunion + e.course; if(!m.has(c)) m.set(c, []); m.get(c).push(e); }); return m; };
+function remplirCourses(){
+  const m0 = coursesDuJour(), sel = $("course"), avant = sel.value, m = new Map();
+  const typ = $("typeProno").value, pmin = parseInt($("partMinProno").value, 10) || 0;
+  m0.forEach((es, c) => { const n = es.filter(e => !nonPartantE(e)).length, h = es[0].infosCourse && es[0].infosCourse.categorieParticularite ? estHandicap(es[0]) : null;
+    if(n < pmin) return; if(typ !== "tous" && (h == null || (typ === "handicap" ? !h : h))) return; m.set(c, es); });
+  const parR = new Map();
+  [...m.keys()].sort((a, b) => a.localeCompare(b, "fr", {numeric: true})).forEach(c => { const r = m.get(c)[0].reunion; if(!parR.has(r)) parR.set(r, []); parR.get(r).push(c); });
+  sel.innerHTML = [...parR].map(([r, cs]) => { const f = m.get(cs[0])[0].france;
+    return `<optgroup label="${esc(r)} · ${f === false ? "étranger" : "France"}">` + cs.map(c => { const e = m.get(c)[0], ic = e.infosCourse || {};
+      return `<option value="${esc(c)}">${c === SRC().quinte ? "🏁 " : ""}${estHandicap(e) ? "Ⓗ " : ""}${esc(c)} · ${esc(nomPropre(ic.libelle || ""))} · ${m.get(c).filter(x => !nonPartantE(x)).length} part.</option>`; }).join("") + `</optgroup>`; }).join("");
+  if(!m.size){ sel.innerHTML = `<option value="">${m0.size ? "Aucune course ne correspond à ces filtres" : "Aucune course de " + (estTrot() ? "trot " + $("disc").value : "galop") + " dans le fichier"}</option>`; return; }
+  if(avant && m.has(avant)) sel.value = avant;
+  else if(SRC().quinte && m.has(SRC().quinte)) sel.value = SRC().quinte;
+  else { const fr1 = [...m.keys()].find(c => m.get(c)[0].france !== false); if(fr1) sel.value = fr1; }
+}
+// Statistiques jockey / entraîneur sur leurs N dernières courses suivies (5 minimum pour classer).
+function statPers(k, nom){
+  const S = SRC(), lim = S.date ? +S.date.replace(/-/g, "") : 1e9;
+  const l = (S.stats[k][nom] || []).filter(x => x[1] < lim).slice(0, +$("depuis").value), n = l.length;
+  const v = l.filter(x => x[0] === 1).length, p = l.filter(x => x[0] <= 3).length;
+  return {n, v, p, pv: n >= 5 ? v / n : null, pp: n >= 5 ? p / n : null};
+}
+const CRIT = {
+  note:  {lib: "Note de forme", sens: 1, val: e => e.d.total},
+  jv:    {lib: "Jockey / driver : % de victoires", sens: -1, val: e => statPers("j", e.jockey).pv},
+  jp:    {lib: "Jockey / driver : % de podiums", sens: -1, val: e => statPers("j", e.jockey).pp},
+  ev:    {lib: "Entraîneur : % de victoires", sens: -1, val: e => statPers("e", e.entraineur).pv},
+  ep:    {lib: "Entraîneur : % de podiums", sens: -1, val: e => statPers("e", e.entraineur).pp},
+  cv:    {lib: "Cheval : % de victoires en carrière", sens: -1, val: e => { const c = e.infosCheval || {}; return c.nombreCourses >= 3 ? (c.nombreVictoires || 0) / c.nombreCourses : null; }},
+  cp:    {lib: "Cheval : % de places en carrière", sens: -1, val: e => { const c = e.infosCheval || {}; return c.nombreCourses >= 3 ? (c.nombrePlaces || 0) / c.nombreCourses : null; }},
+  ga:    {lib: "Cheval : gains de l'année", sens: -1, val: e => ((e.infosCheval || {}).gains || {}).gainsAnneeEnCours ?? null},
+  niv:   {lib: "Niveau : descend le plus", sens: 1, val: e => e.france !== false && e.prixJour && e.prixPrec ? (e.prixJour - e.prixPrec) / e.prixPrec : null},
+  corde: {lib: "Corde : la plus petite", sens: 1, val: e => (e.infosCheval || {}).placeCorde || null},
+  avis:  {lib: "Avis de l'entraîneur (trot)", sens: 1, val: e => ({POSITIF: 0, NEUTRE: 1, NEGATIF: 2})[(e.infosCheval || {}).avisEntraineur] ?? null}
+};
+const CRIT_COMBI_DEFAUT = ["note", "jv", "ev"];
+function remplirCases(){
+  let coches = CRIT_COMBI_DEFAUT;
+  try{ const s = JSON.parse(localStorage.getItem("ld-criteres") || "null"); if(Array.isArray(s) && s.length) coches = s; }catch(e){}
+  $("cases").innerHTML = Object.entries(CRIT).map(([k, c]) => `<label><input type="checkbox" value="${k}" ${coches.includes(k) ? "checked" : ""}>${esc(c.lib)}</label>`).join("");
+}
+const critCoches = () => [...document.querySelectorAll("#cases input:checked")].map(i => i.value);
+// Rang de chaque partant pour un critère (ex aequo = rang moyen, sans donnée = rang du milieu).
+function rangs(ps, k){
+  const c = CRIT[k], vals = ps.map(e => c.val(e)), n = ps.length, out = new Array(n).fill((n + 1) / 2);
+  const idx = vals.map((v, i) => [v, i]).filter(([v]) => v != null).sort((a, b) => c.sens * (a[0] - b[0]));
+  let r = 0;
+  while(r < idx.length){ let s = r; while(s + 1 < idx.length && idx[s + 1][0] === idx[r][0]) s++; const m = (r + s) / 2 + 1; for(let q = r; q <= s; q++) out[idx[q][1]] = m; r = s + 1; }
+  return out;
+}
+function trier(ps){
+  const tri = $("tri").value;
+  if(tri === "num") return ps.sort((a, b) => (a.numPmu || 0) - (b.numPmu || 0));
+  if(tri === "arrivee") return ps.sort((a, b) => (a.arrivee ?? 98) - (b.arrivee ?? 98) || (a.numPmu || 0) - (b.numPmu || 0));
+  if(tri === "combi"){
+    const ks = critCoches();
+    if(!ks.length){ ps.forEach(e => e.rang = null); return ps.sort((a, b) => (a.numPmu || 0) - (b.numPmu || 0)); }
+    const R = ks.map(k => rangs(ps, k));
+    ps.forEach((e, i) => e.rang = R.reduce((s, r) => s + r[i], 0) / ks.length);
+    return ps.sort((a, b) => a.rang - b.rang || (a.numPmu || 0) - (b.numPmu || 0));
+  }
+  const c = CRIT[tri];
+  return ps.sort((a, b) => { const x = c.val(a), y = c.val(b); return (x == null) - (y == null) || c.sens * ((x ?? 0) - (y ?? 0)) || (a.numPmu || 0) - (b.numPmu || 0); });
+}
+function ligneStats(e, tri){
+  const j = statPers("j", e.jockey), en = statPers("e", e.entraineur), c = e.infosCheval || {}, g = (c.gains || {}).gainsAnneeEnCours;
+  const pc = (a, b) => b ? Math.round(a / b * 100) + " %" : "—";
+  const hl = ks => ks.includes(tri) || (tri === "combi" && ks.some(k => critCoches().includes(k))) ? "tri" : "";
+  const bout = [
+    `<span class="${hl(["jv", "jp"])}">${$("disc").value === "attelé" ? "Driver" : "Jockey"} : ${j.n ? `<b>${j.v} v.</b> et ${j.p} podium${j.p > 1 ? "s" : ""} sur ${j.n}` : "pas encore suivi"}${j.n && j.n < 5 ? " (trop peu)" : ""}</span>`,
+    `<span class="${hl(["ev", "ep"])}">Entraîneur : ${en.n ? `<b>${en.v} v.</b> et ${en.p} podium${en.p > 1 ? "s" : ""} sur ${en.n}` : "pas encore suivi"}${en.n && en.n < 5 ? " (trop peu)" : ""}</span>`
+  ];
+  if(c.nombreCourses) bout.push(`<span class="${hl(["cv", "cp"])}">Carrière : <b>${c.nombreVictoires || 0} v.</b> sur ${c.nombreCourses} (${pc(c.nombreVictoires || 0, c.nombreCourses)}), ${c.nombrePlaces || 0} places</span>`);
+  const av = c.avisEntraineur; if(av && av !== "NEUTRE") bout.push(`<span class="${hl(["avis"])}">Avis entraîneur : <b>${av === "POSITIF" ? "positif" : "négatif"}</b></span>`);
+  if(g != null) bout.push(`<span class="${hl(["ga"])}">${euros(Math.round(g / 100))} gagnés cette année</span>`);
+  return bout.join(" · ");
+}
+function remplirJours(){
+  const sel = $("jourSel"), avant = sel.value, js = (estTrot() ? JOURS_T : JOURS_G) || [], auj = (estTrot() ? JOUR_T : JOUR).date;
+  sel.innerHTML = `<option value="">Aujourd'hui${auj ? " · " + jourC(auj) : ""}</option>` + [...js].filter(d => d !== auj).sort().reverse().map(d => `<option value="${d}">${jourC(d)}/${d.slice(0, 4)} · résultats</option>`).join("");
+  sel.value = [...sel.options].some(o => o.value === avant) ? avant : "";
+}
+async function chargerPasse(){
+  const d = jourChoisi(); $("passe-info").textContent = "";
+  if(!d || PASSE[clePasse()]) return true;
+  $("partants").innerHTML = `<div class="vide">Chargement de la journée du ${jourC(d)}…</div>`;
+  try{
+    const r = await fetch(DEPOT + (estTrot() ? "trot/" : "") + `bilan-${d}.json`, {cache: "no-store"});
+    if(!r.ok) throw new Error(r.status);
+    const b = await r.json();
+    if(!estTrot() && d < RATTRAPAGE_FIN){ try{ const x = await fetch(DEPOT + `rattrapage/infos-${d}.json`, {cache: "no-store"}); if(x.ok) completer(b, await x.json()); }catch(e){} }
+    PASSE[clePasse()] = b; return true;
+  }catch(e){
+    $("partants").innerHTML = `<div class="vide">Impossible de charger cette journée. Les journées passées se lisent en direct sur internet : ouvrez le fichier dans Safari, avec une connexion.</div>`;
+    return false;
+  }
+}
+const nonPartantE = e => { const s = String(e.statutArrivee || "").toUpperCase(); return s.includes("NON") && s.includes("PARTANT"); };
+const fmtArr = e => nonPartantE(e) ? "non partant" : e.arrivee == null ? "non classé" : e.arrivee >= 90 ? "non classé" : e.arrivee === 1 ? "1er" : e.arrivee + "e";
+function partantsCourse(){ return (coursesDuJour().get($("course").value) || []).map(e => ({...e, d: detailNote(e)})); }
+function afficherProno(){
+  const ps = partantsCourse();
+  const p0 = ps[0];
+  if(!p0){ $("partants").innerHTML = `<div class="vide">Pas de partants à afficher.</div>`; $("infos-course").textContent = ""; majJeu(); return; }
+  const ic = p0.infosCourse || {}, pen = ic.penetrometre || {};
+  $("infos-course").textContent = [nomPropre(ic.libelle), ic.distance ? fr(ic.distance, 0) + " m" : "", ({TROT_ATTELE: "Trot attelé", TROT_MONTE: "Trot monté"})[ic.specialite] || nomPropre(ic.specialite), ic.typePiste ? nomPropre(ic.typePiste) + (pen.intitule ? " " + pen.intitule.toLowerCase() : "") : "", ic.categorieParticularite && ic.categorieParticularite !== "INCONNU" ? nomPropre(String(ic.categorieParticularite).replace(/_/g, " ")) : "", ps.length + " partants", p0.prixJour ? euros(p0.prixJour) + " d'allocation" : "", p0.france === false ? "réunion à l'étranger" : ""].filter(Boolean).join(" · ");
+  const S = SRC();
+  if(S.passe){
+    const arr = ps.filter(e => e.arrivee && e.arrivee < 90).sort((a, b) => a.arrivee - b.arrivee).slice(0, 5).map(e => e.numPmu);
+    $("passe-info").innerHTML = `<b>Journée passée.</b> Arrivée : ${arr.length ? arr.join(" – ") : "non disponible"}. Notes, repères et statistiques sont calculés avec ce qu'on savait <i>avant</i> cette journée. La cote affichée est celle relevée par le bot.`;
+  } else $("passe-info").textContent = "";
+  const tri = $("tri").value;
+  $("combi").hidden = tri !== "combi";
+  trier(ps);
+  const R = SRC().recul;
+  $("lib-depuis").textContent = estTrot() ? "Drivers, jockeys et entraîneurs" : "Jockeys et entraîneurs";
+  $("recul").textContent = `Statistiques ${estTrot() ? "drivers, jockeys" : "jockeys"} et entraîneurs : nos bilans ${estTrot() ? "trot (attelé et monté)" : "galop, France et étranger"} depuis le ${R ? jourC(R) : "début du suivi"}. Elles prennent du poids chaque jour ; sous 5 courses, on ne classe pas.`;
+  const kPari = PARIS[$("pari").value].k;
+  $("partants").innerHTML = ps.map(e => {
+    const id = e.reunion + e.course + "-" + e.numPmu, d = e.d, ic2 = e.infosCheval || {}, cv = cotesVues[id] ?? (S.passe ? e.coteDirecte || undefined : undefined);
+    const fr_ = e.france !== false;
+    const trot = estTrot();
+    const incompl = !trot && fr_ && !e.prixPrec && e.prixJour;
+    const badges = [];
+    if(!trot && d.total != null && fr_ && d.nb >= 5 && d.total >= 0 && d.total < 1) badges.push(`<span class="badge r">🎯 Régularité</span>`);
+    if(!trot && d.total != null && fr_ && d.nb >= 5 && d.total >= 0.5 && d.total < 1 && cv >= 6 && cv < 12) badges.push(`<span class="badge v">🔬 Valeur</span>`);
+    if(incompl) badges.push(`<span class="badge i" title="Allocation de la dernière course introuvable">note incomplète</span>`);
+    const niv = trot ? ["pas d'ajustement au trot", "0,00"] : !fr_ ? ["à l'étranger : pas d'ajustement", "0,00"] : !e.prixPrec ? ["allocation précédente introuvable", "—"] :
+      d.shift === "stable" ? [`même niveau (écart ${d.pct} %)`, "0,00"] : [`${d.shift === "monte" ? "monte" : "descend"} de ${d.pct} %`, (d.niveau > 0 ? "+" : "−") + fr(Math.abs(d.niveau))];
+    const calc = d.total == null ? `<div class="statut">Pas de musique : pas de note.</div>` : `<div class="calc">
+      <span>Moyenne de la musique (${d.nb} courses)</span><span>${d.moy == null ? "5,00" : fr(d.moy)}</span>
+      <span>Podiums dans les 5 dernières : ${d.pod} × 0,4</span><span>−${fr(d.pod * 0.4)}</span>
+      <span>Niveau : ${esc(niv[0])}</span><span>${niv[1]}</span>
+      <span class="tot">Note de forme</span><span class="tot">${fr(d.total)}</span></div>`;
+    return `<div class="ptt${coche.has(id) ? " coche" : ""}">
+      <input type="checkbox" data-id="${esc(id)}" ${coche.has(id) ? "checked" : ""} aria-label="Retenir ${esc(e.cheval)}">
+      <div class="num">${e.numPmu ?? "?"}</div>
+      <div class="nom">${esc(nomPropre(e.cheval))}<div class="sous">${esc(e.musique || "pas de musique")} · ${esc(nomPropre(e.jockey || ""))} / ${esc(nomPropre(e.entraineur || ""))}${ic2.placeCorde ? " · corde " + ic2.placeCorde : ""}</div><div class="stats">${ligneStats(e, tri)}</div></div>
+      <div class="droite">${tri === "combi" && e.rang != null ? `<span class="badge i">rang moyen ${fr(e.rang, 1)}</span>` : ""}<span class="note">${d.total == null ? "—" : fr(d.total)}</span>${badges.join("")}${S.passe ? resultatCheval(e) : ""}
+        <button class="etoile" data-base="${esc(id)}" aria-pressed="${bases.has(id)}" ${kPari < 2 || !coche.has(id) ? "hidden" : ""}>★ base</button></div>
+      <div class="plus"><details><summary>Détail</summary>${calc}
+        <p class="repere" style="margin-top:6px" data-rep="${esc(id)}">${d.total == null ? "" : repere(d.total, fr_, cv)}</p>
+        <label class="cote-in">Cote vue sur le PMU <input type="number" step="0.1" min="1" data-cote="${esc(id)}" value="${cv ?? ""}" placeholder="ex. 8,5"> <span>affine le repère</span></label>
+      </details></div></div>`;
+  }).join("");
+  majJeu();
+}
+function resultatCheval(e){
+  const a = e.arrivee, c = a === 1 ? "g" : a && a <= 3 ? "p" : "x";
+  const rap = a === 1 && e.coteGagnant ? ` G ${fr(e.coteGagnant)}` : "";
+  const rp = a && a <= 3 && e.cotePlace ? ` P ${fr(e.cotePlace)}` : "";
+  return `<span class="pill ${c}">${fmtArr(e)}</span>${e.coteDirecte ? `<span class="res">cote ${fr(e.coteDirecte, 1)}</span>` : ""}${rap || rp ? `<span class="res">${rap}${rp}</span>` : ""}`;
+}
+function selection(){
+  const ps = partantsCourse().filter(e => coche.has(e.reunion + e.course + "-" + e.numPmu)).sort((a, b) => a.numPmu - b.numPmu);
+  return {ps, b: ps.filter(e => bases.has(e.reunion + e.course + "-" + e.numPmu))};
+}
+function jeuActuel(){
+  const p = PARIS[$("pari").value], {ps, b} = selection(), mise = parseFloat($("mise").value) || 0;
+  const nb = p.k >= 2 ? b.length : 0;
+  const combis = p.k === 1 ? ps.length : (nb >= p.k ? 0 : COMBI(ps.length - nb, p.k - nb));
+  return {p, ps, b: p.k >= 2 ? b : [], combis, mise, cout: combis * mise};
+}
+// Combinaisons d'un jeu (bases toujours présentes), puis gains avec les rapports PMU pour 1 €.
+function combinaisons(nums, bases, k){
+  const libres = nums.filter(n => !bases.includes(n)), out = [], r = k - bases.length;
+  (function rec(i, pris){ if(pris.length === r){ out.push([...bases, ...pris]); return; } for(let q = i; q < libres.length; q++) rec(q + 1, [...pris, libres[q]]); })(0, []);
+  return out;
+}
+function resultatJeu(j, crs){
+  const v = j.p === PARIS.sg ? "sg" : j.p === PARIS.sp ? "sp" : j.p === PARIS.cg ? "cg" : j.p === PARIS.cp ? "cp" : "autre";
+  if(v === "sg") return j.ps.reduce((s, e) => s + (e.arrivee === 1 ? (e.coteGagnant || 0) * j.mise : 0), 0);
+  if(v === "sp") return j.ps.reduce((s, e) => s + (e.arrivee && e.arrivee <= 3 ? (e.cotePlace || 0) * j.mise : 0), 0);
+  if(v === "cg" || v === "cp"){
+    const t = v === "cg" ? crs.coupleGagnant : crs.couplePlace; if(!t || !Object.keys(t).length) return null;
+    return combinaisons(j.ps.map(e => e.numPmu), j.b.map(e => e.numPmu), 2).reduce((s, c) => s + (t[[...c].sort((a, b) => a - b).join("-")] || 0) * j.mise, 0);
+  }
+  return null;
+}
+function majJeu(){
+  const j = jeuActuel(), code = $("course").value, nbPart = (coursesDuJour().get(code) || []).length, av = [];
+  if(!j.ps.length) $("resume").innerHTML = "Cochez au moins un cheval.";
+  else if(j.p.k >= 2 && j.b.length >= j.p.k) $("resume").innerHTML = `Trop de bases : au maximum ${j.p.k - 1} pour un ${j.p.nom}.`;
+  else if(!j.combis) $("resume").innerHTML = `Un ${j.p.nom} demande au moins ${j.p.k} chevaux : vous en avez coché ${j.ps.length}.`;
+  else $("resume").innerHTML = `${j.p.nom} · ${j.ps.length} cheva${j.ps.length > 1 ? "ux" : "l"}${j.b.length ? " dont " + j.b.length + " base" + (j.b.length > 1 ? "s" : "") : ""} → <b>${j.combis}</b> combinaison${j.combis > 1 ? "s" : ""} × ${euros(j.mise)} = <b>${euros(j.cout)}</b>`;
+  if(j.p.k === 2 && nbPart < 8) av.push("Règle Ligne Droite : pas de couplé dans les courses de moins de 8 partants, les rapports y sont trop faibles.");
+  const qd = JOUR.quinte || JOUR_T.quinte;
+  if($("pari").value === "quinte" && code !== qd) av.push(`Cette course n'est pas celle du Quinté+${qd ? " (" + qd + ")" : ""} : le pari Quinté+ n'y est pas proposé.`);
+  if(j.p.k >= 2 && j.combis > 30) av.push(`${j.combis} combinaisons, c'est beaucoup : plus on couvre de chevaux, plus le gain net fond. Retirez les chevaux dont vous êtes le moins sûr.`);
+  const budget = parseFloat($("budget").value) || 0, deja = FEUILLE.reduce((s, l) => s + l.cout, 0);
+  if(budget && j.cout && deja + j.cout > budget) av.push(`Avec ce jeu, votre feuille passerait à ${euros(deja + j.cout)}, au-dessus de votre budget de ${euros(budget)}.`);
+  $("avert").innerHTML = av.map(esc).join("<br>");
+  $("ajouter").disabled = !j.combis || ($("pari").value === "quinte" && code !== (JOUR.quinte || JOUR_T.quinte));
+  const S = SRC();
+  if(S.passe){
+    $("ajouter").disabled = true;
+    if(j.combis){ const r = resultatJeu(j, S.courses[code] || {});
+      $("resume").innerHTML += r == null ? `<br>Résultat : rapport non disponible pour ce pari dans nos fichiers.` :
+        `<br>Résultat : ce jeu aurait rapporté <b class="${r >= j.cout ? "pos" : "neg"}">${euros(Math.round(r * 100) / 100)}</b> pour ${euros(j.cout)} misés, soit ${r - j.cout >= 0 ? "+" : "−"}${euros(Math.abs(Math.round((r - j.cout) * 100) / 100))}.`; }
+    av.push("Journée passée : la feuille du jour sert aux jeux d'aujourd'hui, ce jeu n'y est pas ajouté.");
+    $("avert").innerHTML = av.map(esc).join("<br>");
+  }
+  document.querySelectorAll(".etoile").forEach(bt => bt.hidden = j.p.k < 2 || !coche.has(bt.dataset.base));
+  afficherFeuille();
+}
+function afficherFeuille(){
+  const budget = parseFloat($("budget").value) || 0, total = FEUILLE.reduce((s, l) => s + l.cout, 0);
+  $("feuille").innerHTML = FEUILLE.length ? FEUILLE.map((l, i) => `<div class="ligne"><div><b>${esc(l.course)}</b> · ${esc(l.pari)}<div class="sous">${esc(l.chevaux)}</div></div><span class="cout">${euros(l.cout)}</span><button class="suppr" data-suppr="${i}" aria-label="Retirer ce jeu">Retirer</button></div>`).join("")
+    : `<div class="vide">Votre feuille est vide. Composez un jeu au-dessus, puis « Ajouter à ma feuille ».</div>`;
+  const pc = budget ? Math.min(total / budget * 100, 100) : 0;
+  $("jauge").style.width = pc + "%"; $("jauge").className = budget && total > budget ? "trop" : "";
+  $("total").innerHTML = !budget ? `Total de la feuille : <b>${euros(total)}</b>. Fixez un budget du jour <i>avant</i> de jouer : c'est la première règle.`
+    : total > budget ? `Total : <b>${euros(total)}</b> pour un budget de ${euros(budget)}. <b class="neg">Vous dépassez de ${euros(total - budget)}</b> : retirez un jeu plutôt que d'augmenter le budget.`
+    : `Total : <b>${euros(total)}</b> sur un budget de ${euros(budget)} · il reste ${euros(budget - total)}.`;
+}
+function texteFeuille(){
+  const total = FEUILLE.reduce((s, l) => s + l.cout, 0);
+  return `Ma feuille du ${JOUR.date ? jourC(JOUR.date) : ""}\n` + FEUILLE.map(l => `${l.course} · ${l.pari} : ${l.chevaux} → ${euros(l.cout)}`).join("\n") + `\nTotal : ${euros(total)}`;
+}
+function initProno(){
+  if(!$("cases").children.length) remplirCases();
+  remplirJours();
+  lireFeuille(); remplirCourses(); afficherProno();
+}
+function onglet(v){
+  const p = v === "prono";
+  $("tab-strat").setAttribute("aria-selected", !p); $("tab-prono").setAttribute("aria-selected", p);
+  $("vue-strat").hidden = p; $("vue-prono").hidden = !p;
+  try{ localStorage.setItem("ld-onglet", v); }catch(e){}
+}
+$("tab-strat").addEventListener("click", () => onglet("strat"));
+$("tab-prono").addEventListener("click", () => onglet("prono"));
+$("course").addEventListener("change", () => { coche.clear(); bases.clear(); afficherProno(); });
+async function changerJour(){ coche.clear(); bases.clear(); $("course").value = ""; if(!(await chargerPasse())) return; remplirCourses(); if(SRC().passe && $("tri").value === "note") {} afficherProno(); }
+$("disc").addEventListener("change", () => { remplirJours(); changerJour(); });
+$("jourSel").addEventListener("change", changerJour);
+["typeProno", "partMinProno"].forEach(id => $(id).addEventListener("input", () => { coche.clear(); bases.clear(); $("course").value = ""; remplirCourses(); afficherProno(); }));
+$("tri").addEventListener("change", afficherProno);
+$("depuis").addEventListener("change", afficherProno);
+$("cases").addEventListener("change", () => { try{ localStorage.setItem("ld-criteres", JSON.stringify(critCoches())); }catch(e){} afficherProno(); });
+$("pari").addEventListener("change", () => { $("mise").value = PARIS[$("pari").value].mise; majJeu(); });
+["mise", "budget"].forEach(id => $(id).addEventListener("input", () => { ecrireFeuille(); majJeu(); }));
+$("partants").addEventListener("change", ev => {
+  const c = ev.target.dataset.id;
+  if(c){ ev.target.checked ? coche.add(c) : (coche.delete(c), bases.delete(c)); ev.target.closest(".ptt").classList.toggle("coche", ev.target.checked); majJeu(); }
+});
+$("partants").addEventListener("input", ev => {
+  const c = ev.target.dataset.cote; if(!c) return;
+  const v = parseFloat(String(ev.target.value).replace(",", "."));
+  if(v >= 1) cotesVues[c] = v; else delete cotesVues[c];
+  const e = partantsCourse().find(x => x.reunion + x.course + "-" + x.numPmu === c);
+  const rp = document.querySelector(`[data-rep="${CSS.escape(c)}"]`);
+  if(e && rp && e.d.total != null) rp.innerHTML = repere(e.d.total, e.france !== false, cotesVues[c]);
+  const ptt = ev.target.closest(".ptt"), dr = ptt.querySelector(".droite");
+  const okV = !estTrot() && e && e.france !== false && e.d.nb >= 5 && e.d.total >= 0.5 && e.d.total < 1 && cotesVues[c] >= 6 && cotesVues[c] < 12;
+  const bv = dr.querySelector(".badge.v");
+  if(okV && !bv) dr.querySelector(".note").insertAdjacentHTML("afterend", `<span class="badge v">🔬 Valeur</span>`);
+  if(!okV && bv) bv.remove();
+});
+$("partants").addEventListener("click", ev => {
+  const c = ev.target.dataset.base; if(!c) return;
+  bases.has(c) ? bases.delete(c) : bases.add(c);
+  ev.target.setAttribute("aria-pressed", bases.has(c)); majJeu();
+});
+$("ajouter").addEventListener("click", () => {
+  const j = jeuActuel(); if(!j.combis) return;
+  const ids = new Set(j.b.map(e => e.numPmu));
+  FEUILLE.push({course: $("course").value + (estTrot() ? " (trot " + $("disc").value + ")" : ""), pari: j.p.nom + (j.p.k > 1 ? ` · ${j.combis} comb. × ${euros(j.mise)}` : ` · ${euros(j.mise)} par cheval`),
+    chevaux: j.ps.map(e => (ids.has(e.numPmu) ? "★" : "") + e.numPmu + " " + nomPropre(e.cheval)).join(", "), cout: j.cout});
+  ecrireFeuille(); majJeu();
+});
+$("feuille").addEventListener("click", ev => { const i = ev.target.dataset.suppr; if(i == null) return; FEUILLE.splice(+i, 1); ecrireFeuille(); majJeu(); });
+$("vider").addEventListener("click", () => { FEUILLE = []; ecrireFeuille(); majJeu(); });
+$("copier").addEventListener("click", async () => {
+  const t = texteFeuille();
+  try{ await navigator.clipboard.writeText(t); $("copie-ok").textContent = "Feuille copiée."; }
+  catch(e){ const ta = document.createElement("textarea"); ta.value = t; document.body.appendChild(ta); ta.select(); try{ document.execCommand("copy"); $("copie-ok").textContent = "Feuille copiée."; }catch(e2){ $("copie-ok").textContent = "Copie impossible ici."; } ta.remove(); }
+});
+try{ if(localStorage.getItem("ld-onglet") === "prono") onglet("prono"); }catch(e){}
+
+$("strategie").addEventListener("change", () => appliquer($("strategie").value));
+["noteMin","noteMax","coursesMin","pays","coteMin","coteMax","typeCourse","partMin"].forEach(id => $(id).addEventListener("input", () => {
+  if($("strategie").value !== "perso"){ $("strategie").value = "perso"; $("desc").textContent = STRATEGIES.perso.desc; }
+  afficher();
+}));
+appliquer("regularite");
+initProno();
+charger();
+</script>
+
+</body>
+</html>
