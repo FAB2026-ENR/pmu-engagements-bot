@@ -33,6 +33,9 @@ jobs:
       - name: Récupérer les rapports couplé et trio des handicaps suivis
         run: python scripts/historique_rapports.py
 
+      - name: Récupérer toutes les courses de plat de 10 à 16 partants
+        run: python scripts/historique_large.py
+
       - name: Enregistrer
         if: always()
         run: |
