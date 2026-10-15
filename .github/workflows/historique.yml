@@ -1,8 +1,9 @@
-name: Remontée historique (ponctuel)
+  name: Remontée historique (ponctuel)
 
 # Se lance à la main : onglet Actions > ce workflow > Run workflow.
 # Reconstruit les journées de galop du 01/07 au 01/10 dans data/historique/
-# (environ 45 minutes par lancement ; relancer pour continuer si besoin).
+# puis les cotes des handicaps suivis (data/historique/cotes-*.json).
+# Environ 45 minutes par étape au plus ; relancer pour continuer si besoin.
 on:
   workflow_dispatch:
 
@@ -12,7 +13,7 @@ permissions:
 jobs:
   historique:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 110
     steps:
       - uses: actions/checkout@v4
 
@@ -25,6 +26,9 @@ jobs:
 
       - name: Récupérer les journées passées
         run: python scripts/historique.py
+
+      - name: Récupérer les cotes des handicaps suivis
+        run: python scripts/historique_cotes.py
 
       - name: Enregistrer
         if: always()
