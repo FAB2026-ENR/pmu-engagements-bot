@@ -1,0 +1,38 @@
+name: Remontée historique (ponctuel)
+
+# Se lance à la main : onglet Actions > ce workflow > Run workflow.
+# Reconstruit les journées de galop du 01/07 au 01/10 dans data/historique/
+# (environ 45 minutes par lancement ; relancer pour continuer si besoin).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  historique:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Récupérer les journées passées
+        run: python scripts/historique.py
+
+      - name: Enregistrer
+        if: always()
+        run: |
+          git config user.name "pmu-engagements-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/historique/
+          git diff --staged --quiet && exit 0
+          git commit -m "Remontée historique des journées de galop"
+          git pull --rebase
+          git push
