@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulateur Handicaps</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=Libre+Franklin:wght@400;600&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Même identité que la vitrine et le sélecteur Ligne Droite. */
+:root{
+  --paper:#f4f6f2; --sheet:#ffffff; --ink:#15201a; --muted:#56635a; --line:#d3dbd4;
+  --silk:#c45f0e; --navy:#1d3557; --win:#6b6625; --place:#0b1a45; --lose:#8d3a33; --grid:#e3e8e3;
+  --display:"Big Shoulders Display","Arial Narrow",Impact,sans-serif;
+  --body:"Libre Franklin","Segoe UI",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#0f1512; --sheet:#161e19; --ink:#e8eee9; --muted:#9caaa1; --line:#2b3730; --grid:#222c26;
+  --silk:#f29a4a; --navy:#9bb7de; --win:#cfc57e; --place:#6c84c8; --lose:#e48d84; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0f1512; --sheet:#161e19; --ink:#e8eee9; --muted:#9caaa1; --line:#2b3730; --grid:#222c26;
+  --silk:#f29a4a; --navy:#9bb7de; --win:#cfc57e; --place:#6c84c8; --lose:#e48d84; color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+.silks{height:10px;background:repeating-linear-gradient(90deg,var(--silk) 0 28px,var(--sheet) 28px 56px)}
+.wrap{max-width:1000px;margin:0 auto;padding:28px 16px 56px;display:grid;gap:30px}
+.wrap>*{min-width:0}
+.kicker{font-family:var(--mono);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--silk)}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(2.3rem,8vw,4rem);line-height:.95;margin:6px 0 10px;text-transform:uppercase}
+h2{font-family:var(--display);font-weight:800;text-transform:uppercase;letter-spacing:.03em;font-size:1.6rem;margin:0 0 12px;line-height:1}
+.lead{max-width:64ch;margin:0;color:var(--muted)}
+a{color:var(--navy)}
+.panneau{background:var(--sheet);border:2px solid var(--ink);padding:18px;display:grid;gap:14px}
+.grille{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:12px}
+label{display:grid;gap:4px;font-size:.88rem;color:var(--muted);font-weight:600}
+select,input{font:inherit;font-size:1rem;padding:8px 10px;border:1px solid var(--line);background:var(--paper);color:var(--ink);width:100%;min-width:0}
+select:focus-visible,input:focus-visible{outline:3px solid var(--silk);outline-offset:2px}
+.desc{margin:0;padding:10px 14px;border-left:4px solid var(--silk);background:var(--paper);font-size:.95rem}
+.board{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,170px),1fr));border:2px solid var(--ink);background:var(--sheet)}
+.board div{padding:14px 16px;border-right:1px solid var(--line);display:grid;gap:2px;min-width:0}
+.board div:last-child{border-right:0}
+.board b{font-family:var(--display);font-weight:800;font-size:2.2rem;line-height:1;font-variant-numeric:tabular-nums}
+.board div>span{font-size:.85rem;color:var(--muted)}
+.pos{color:var(--win)} .neg{color:var(--lose)}
+.statut{font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.graph{background:var(--sheet);border:1px solid var(--line);padding:12px 12px 6px;position:relative}
+.graph svg{display:block;width:100%;height:auto;overflow:visible}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--paper);font-size:.8rem;padding:6px 9px;line-height:1.4;white-space:nowrap;opacity:0;transition:opacity .1s}
+.table-wrap{overflow-x:auto;background:var(--sheet);border:1px solid var(--line)}
+table{width:100%;border-collapse:collapse;min-width:640px;font-size:.9rem}
+th{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);text-align:left;padding:10px 12px;border-bottom:2px solid var(--ink)}
+td{padding:7px 12px;border-bottom:1px solid var(--line)}
+td.n,th.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.jour td{background:var(--paper);font-weight:600;font-size:.82rem}
+.pill{font-family:var(--mono);font-size:.75rem;font-weight:600;padding:2px 7px;border:1px solid currentColor;white-space:nowrap}
+.pill.g{color:var(--win)} .pill.p{color:var(--place)} .pill.x{color:var(--lose)}
+.alerte{border:1px solid var(--silk);background:var(--sheet);padding:12px 16px;font-size:.92rem}
+.alerte b{color:var(--silk)}
+.vide{padding:16px;color:var(--muted)}
+.legal{border:1px solid var(--line);background:var(--sheet);padding:14px 18px;font-size:.86rem;color:var(--muted);display:grid;gap:4px}
+</style>
+</head>
+<body>
+<div class="silks" aria-hidden="true"></div>
+<div class="wrap">
+  <header>
+    <div class="kicker">Ligne Droite · galop · mis à jour chaque soir</div>
+    <h1>Simulateur Handicaps</h1>
+    <p class="lead">Et si vous aviez joué notre stratégie depuis le début ? Choisissez votre bankroll et votre mise : la page rejoue chaque course avec les rapports définitifs du PMU, perdants compris. Elle se met à jour toute seule avec les résultats du soir.</p>
+    <p class="statut" style="margin:8px 0 0"><a href="./">← Vos outils du jour</a></p>
+  </header>
+
+  <section class="panneau" aria-labelledby="t-reg">
+    <h2 id="t-reg" style="margin:0">Vos réglages</h2>
+    <p class="desc"><b>La stratégie :</b> handicaps de plat en France, 13 partants et plus. Dans chaque course, les partants sont classés par notre classement combiné à 9 critères (forme, jockey, entraîneur, carrière, niveau, corde). On joue en simple gagnant.</p>
+    <div class="grille">
+      <label for="jeu">Chevaux joués
+        <select id="jeu">
+          <option value="2">Nos 2 premiers (stratégie)</option>
+          <option value="3">Nos 3 premiers (témoin)</option>
+          <option value="1">Notre 1er seulement</option>
+          <option value="alerte">⭐ Alerte régularité seulement</option>
+        </select>
+      </label>
+      <label for="depuis">À partir du
+        <select id="depuis">
+          <option value="2026-10-02">02/10 (début du suivi)</option>
+          <option value="2026-10-15">15/10 (le vrai test)</option>
+        </select>
+      </label>
+      <label for="bankroll">Bankroll de départ (€)<input id="bankroll" type="number" min="10" step="10" value="1000"></label>
+      <label for="mode">Mise
+        <select id="mode"><option value="pct">Pourcentage de la bankroll</option><option value="fixe">Montant fixe</option></select>
+      </label>
+      <label for="mise"><span id="lib-mise">Pourcentage par cheval (%)</span><input id="mise" type="number" min="0.5" step="0.5" value="2"></label>
+    </div>
+    <p class="statut" id="statut" style="margin:0">Chargement des résultats…</p>
+  </section>
+
+  <section>
+    <h2>Résultat</h2>
+    <div class="board" id="board"></div>
+  </section>
+
+  <section>
+    <h2>Évolution de la bankroll</h2>
+    <div class="graph" id="graph"><div class="vide">Chargement…</div><div class="tip" id="tip"></div></div>
+    <p class="statut" style="margin:6px 0 0">Un point par journée de courses. La ligne pointillée marque la bankroll de départ.</p>
+  </section>
+
+  <div class="alerte"><b>À savoir :</b> la stratégie a été choisie le 14/10 en regardant les courses du 08 au 13/10. Seules les courses à partir du 15/10 la testent vraiment : choisissez « 15/10 » pour voir ce test seul. Une bonne série passée ne garantit rien pour demain.</div>
+
+  <section>
+    <h2>Toutes les courses jouées</h2>
+    <div class="table-wrap" id="detail"><div class="vide">Chargement…</div></div>
+  </section>
+
+  <section class="legal">
+    <div><b>Les jeux d'argent sont interdits aux mineurs (18+).</b> Jouer comporte des risques : endettement, dépendance. Joueurs Info Service : 09 74 75 13 13 (appel non surtaxé).</div>
+    <div>Simulation à partir de recherches personnelles et de données publiques. Ce n'est ni un pronostic, ni un conseil de jeu ou d'investissement. Les résultats passés ne garantissent pas les résultats futurs. Rapports définitifs du PMU pour 1 €.</div>
+  </section>
+</div>
+
+<script>
+const DEPOT = "https://raw.githubusercontent.com/FAB2026-ENR/pmu-engagements-bot/refs/heads/main/data/";
+const RATTRAPAGE_FIN = "2026-10-08";
+const $ = id => document.getElementById(id);
+const fr = (x, d = 2) => x.toLocaleString("fr-FR", {minimumFractionDigits: d, maximumFractionDigits: d});
+const eur = x => fr(x, Math.abs(x) >= 1000 ? 0 : 2) + " €";
+const pct = x => (x >= 0 ? "+" : "−") + Math.abs(x).toLocaleString("fr-FR", {maximumFractionDigits: 1}) + " %";
+const jourC = d => d.slice(8, 10) + "/" + d.slice(5, 7);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+// ---------- Même calcul que scripts/handicap.py du bot ----------
+const CRIT = ["note", "jv", "jp", "ev", "ep", "cv", "cp", "niv", "corde"];
+const SENS = {note: 1, jv: -1, jp: -1, ev: -1, ep: -1, cv: -1, cp: -1, niv: 1, corde: 1};
+const nonPartant = e => { const s = String(e.statutArrivee || "").toUpperCase(); return s.includes("NON") && s.includes("PARTANT"); };
+function lettre(m){ const t = String(m || "").replace(/\([^)]*\)/g, ""); const x = t.match(/(?:\d{1,2}|[DTAR])([a-z])/); return x ? x[1] : null; }
+function nbCourses(e){ if(e.nbCourses != null) return e.nbCourses; const t = String(e.musique || "").replace(/\([^)]*\)/g, ""); return (t.match(/(\d{1,2}|[DTAR])(?=[a-z]|\s|$)/g) || []).length; }
+function suivie(ps){
+  if(ps.length < 13 || ps[0].france !== true) return false;
+  const ic = ps[0].infosCourse || {};
+  if(!String(ic.categorieParticularite || "").includes("HANDICAP")) return false;
+  if(ic.specialite) return ic.specialite === "PLAT";
+  const c = {}; ps.forEach(e => { const l = lettre(e.musique); if(l) c[l] = (c[l] || 0) + 1; });
+  const top = Object.entries(c).sort((a, b) => b[1] - a[1])[0];
+  return !!top && top[0] === "p";
+}
+function stat(hist, k, nom){ const l = (hist[k][nom] || []).slice(-20); if(l.length < 5) return [null, null]; return [l.filter(a => a === 1).length / l.length, l.filter(a => a <= 3).length / l.length]; }
+function valeur(k, e, hist){
+  const c = e.infosCheval || {};
+  if(k === "note") return e.score ?? null;
+  if(k === "jv" || k === "jp") return stat(hist, "j", e.jockey)[k === "jv" ? 0 : 1];
+  if(k === "ev" || k === "ep") return stat(hist, "e", e.entraineur)[k === "ev" ? 0 : 1];
+  if(k === "cv" || k === "cp"){ const n = c.nombreCourses || 0; if(n < 3) return null; return (c[k === "cv" ? "nombreVictoires" : "nombrePlaces"] || 0) / n; }
+  if(k === "niv") return e.france !== false && e.prixJour && e.prixPrec ? (e.prixJour - e.prixPrec) / e.prixPrec : null;
+  if(k === "corde") return c.placeCorde || null;
+  return null;
+}
+function rangs(ps, k, hist){
+  const n = ps.length, out = new Array(n).fill((n + 1) / 2);
+  const v = ps.map((e, i) => [valeur(k, e, hist), i]).filter(x => x[0] != null).sort((a, b) => SENS[k] * (a[0] - b[0]));
+  let r = 0;
+  while(r < v.length){ let s = r; while(s + 1 < v.length && v[s + 1][0] === v[r][0]) s++; for(let q = r; q <= s; q++) out[v[q][1]] = (r + s) / 2 + 1; r = s + 1; }
+  return out;
+}
+function classer(ps, hist){
+  const R = CRIT.map(k => rangs(ps, k, hist));
+  const m = ps.map((_, i) => R.reduce((s, r) => s + r[i], 0) / CRIT.length);
+  return ps.map((e, i) => i).sort((a, b) => m[a] - m[b] || (ps[a].numPmu || 0) - (ps[b].numPmu || 0)).map(i => ps[i]);
+}
+function completer(bilan, infos){
+  if(!bilan || !infos || !infos.courses) return;
+  (bilan.entries || []).forEach(e => { const c = infos.courses[e.reunion + e.course]; if(!c) return;
+    if(!e.infosCourse || !Object.keys(e.infosCourse).length) e.infosCourse = c.infosCourse || {};
+    const h = (c.chevaux || {})[String(e.numPmu)]; if(h && (!e.infosCheval || !Object.keys(e.infosCheval).length)) e.infosCheval = h.infosCheval || {}; });
+}
+const estAlerte = e => e.score != null && e.score >= 0 && e.score < 1 && nbCourses(e) >= 5;
+
+let COURSES = [];  // [{d, code, nom, np, classes: [...]}]
+
+async function charger(){
+  try{
+    const cumul = await (await fetch(DEPOT + "bilan-cumul.json", {cache: "no-store"})).json();
+    const jours = (cumul.jours || []).filter(j => j.avecArrivee > 0).map(j => j.date).sort();
+    const bilans = await Promise.all(jours.map(j => fetch(DEPOT + `bilan-${j}.json`, {cache: "no-store"}).then(r => r.ok ? r.json() : null).catch(() => null)));
+    await Promise.all(jours.map((j, i) => j < RATTRAPAGE_FIN && bilans[i] ? fetch(DEPOT + `rattrapage/infos-${j}.json`, {cache: "no-store"}).then(r => r.ok ? r.json() : null).then(x => completer(bilans[i], x)).catch(() => null) : null));
+    const hist = {j: {}, e: {}};
+    jours.forEach((d, i) => {
+      const b = bilans[i]; if(!b) return;
+      const es = b.entries || [], par = {};
+      es.forEach(e => { if(!nonPartant(e)) (par[e.reunion + e.course] = par[e.reunion + e.course] || []).push(e); });
+      Object.entries(par).sort((a, b) => a[0].localeCompare(b[0], "fr", {numeric: true})).forEach(([code, ps]) => {
+        if(!suivie(ps)) return;
+        if(!ps.some(e => e.arrivee === 1) || ps.some(e => e.rapportsPublies === false)) return;
+        COURSES.push({d, code, nom: (ps[0].infosCourse || {}).libelle || "", np: ps.length, classes: classer(ps, hist)});
+      });
+      // Historique jockeys / entraîneurs, mis à jour APRÈS la journée.
+      const finies = new Set(es.filter(e => e.arrivee === 1).map(e => e.reunion + e.course));
+      es.forEach(e => {
+        if(nonPartant(e) || e.rapportsPublies === false) return;
+        let a = e.arrivee; if(a == null){ if(!finies.has(e.reunion + e.course)) return; a = 99; }
+        [["j", e.jockey], ["e", e.entraineur]].forEach(([k, nom]) => { if(nom) (hist[k][nom] = hist[k][nom] || []).push(a); });
+      });
+    });
+    $("statut").textContent = `Résultats chargés jusqu'au ${jourC(jours[jours.length - 1])} · ${COURSES.length} handicaps suivis depuis le ${jourC(jours[0])}.`;
+  }catch(e){
+    $("statut").textContent = "Impossible de charger les résultats pour le moment. Réessayez dans quelques minutes.";
+  }
+  simuler();
+}
+
+// ---------- Simulation ----------
+const gain = e => e.arrivee === 1 ? (e.coteGagnant || 0) : 0;
+function simuler(){
+  const jeu = $("jeu").value, depuis = $("depuis").value, depart = Math.max(parseFloat($("bankroll").value) || 0, 1);
+  const mode = $("mode").value, m = Math.max(parseFloat($("mise").value) || 0, 0);
+  $("lib-mise").textContent = mode === "pct" ? "Pourcentage par cheval (%)" : "Mise par cheval (€)";
+  const courses = COURSES.filter(c => c.d >= depuis);
+  let bk = depart, plusBas = depart, plusHaut = depart, misesTot = 0, rapTot = 0, nParis = 0, nGagnes = 0;
+  const lignes = [], points = [{d: depuis, bk: depart}], parJour = {};
+  courses.forEach(c => (parJour[c.d] = parJour[c.d] || []).push(c));
+  Object.keys(parJour).sort().forEach(d => {
+    const base = bk;  // la mise en % se calcule sur la bankroll du début de journée
+    lignes.push({jour: d});
+    parJour[d].forEach(c => {
+      const choix = jeu === "alerte" ? c.classes.map((e, i) => [e, i]).filter(([e]) => estAlerte(e)) : c.classes.slice(0, +jeu).map((e, i) => [e, i]);
+      choix.forEach(([e, i]) => {
+        const mise = mode === "pct" ? base * m / 100 : m;
+        if(mise <= 0) return;
+        const r = gain(e) * mise;
+        bk += r - mise; misesTot += mise; rapTot += r; nParis++; if(r > 0) nGagnes++;
+        plusBas = Math.min(plusBas, bk); plusHaut = Math.max(plusHaut, bk);
+        lignes.push({c, e, rang: i + 1, mise, r, bk});
+      });
+    });
+    points.push({d, bk});
+  });
+  const roi = misesTot ? (rapTot - misesTot) / misesTot * 100 : 0, solde = bk - depart;
+  const cls = v => v >= 0 ? "pos" : "neg";
+  $("board").innerHTML = [
+    [`<span class="${cls(solde)}">${eur(bk)}</span>`, `bankroll finale (départ ${eur(depart)})`],
+    [`<span class="${cls(solde)}">${solde >= 0 ? "+" : "−"}${eur(Math.abs(solde))}</span>`, "gain ou perte"],
+    [`<span class="${cls(roi)}">${pct(roi)}</span>`, "rentabilité des mises"],
+    [`${nGagnes} <small style="font-size:.45em">/ ${nParis}</small>`, "chevaux gagnants / joués"],
+    [eur(plusBas), "point le plus bas"],
+  ].map(([b, s]) => `<div><b>${b}</b><span>${s}</span></div>`).join("");
+  dessiner(points, depart);
+  $("detail").innerHTML = !nParis ? `<div class="vide">Aucun cheval joué avec ce réglage sur cette période.${jeu === "alerte" ? " L'alerte régularité est rare : quelques cas par mois." : ""}</div>` :
+    `<table><thead><tr><th>Course</th><th>Cheval</th><th class="n">Notre rang</th><th>Arrivée</th><th class="n">Rapport</th><th class="n">Mise</th><th class="n">Gain</th><th class="n">Bankroll</th></tr></thead><tbody>` +
+    lignes.map(l => l.jour ? `<tr class="jour"><td colspan="8">${jourC(l.jour)}/${l.jour.slice(0, 4)}</td></tr>` : (() => {
+      const a = l.e.arrivee, pl = a == null || a >= 90 ? "non classé" : a === 1 ? "1er" : a + "e", k = a === 1 ? "g" : a && a <= 3 ? "p" : "x";
+      return `<tr><td>${esc(l.c.code)} · ${l.c.np} part.</td><td><b>${esc(l.e.numPmu)} ${esc(l.e.cheval)}</b></td><td class="n">${l.rang}</td><td><span class="pill ${k}">${pl}</span></td><td class="n">${a === 1 ? fr(l.e.coteGagnant || 0) : "—"}</td><td class="n">${fr(l.mise)}</td><td class="n ${l.r > 0 ? "pos" : ""}">${l.r > 0 ? "+" + fr(l.r - l.mise) : "−" + fr(l.mise)}</td><td class="n">${fr(l.bk)}</td></tr>`; })()).join("") + `</tbody></table>`;
+}
+
+// ---------- Graphique : une seule série, ligne 2px, survol par journée ----------
+function dessiner(points, depart){
+  const g = $("graph"), tip = $("tip");
+  g.querySelectorAll("svg,.vide").forEach(x => x.remove());
+  if(points.length < 2){ g.insertAdjacentHTML("afterbegin", `<div class="vide">Pas encore de journée sur cette période.</div>`); return; }
+  const W = Math.max(Math.round(g.clientWidth - 26), 300), H = W < 600 ? 240 : 320, L = 58, R = 14, T = 14, B = 32;
+  const vals = points.map(p => p.bk).concat(depart);
+  let lo = Math.min(...vals), hi = Math.max(...vals); const pad = (hi - lo) * .12 || depart * .05; lo -= pad; hi += pad;
+  const x = i => L + i * (W - L - R) / (points.length - 1), y = v => T + (hi - v) * (H - T - B) / (hi - lo);
+  const ticks = 4, tv = Array.from({length: ticks + 1}, (_, i) => lo + (hi - lo) * i / ticks);
+  const lab = i => i === 0 ? "départ" : jourC(points[i].d);
+  const pas = Math.ceil(points.length / Math.max(3, Math.floor(W / 110)));
+  const svg = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Évolution de la bankroll, de ${eur(depart)} à ${eur(points[points.length - 1].bk)}">
+    ${tv.map(v => `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" stroke="var(--grid)" stroke-width="1"/><text x="${L - 8}" y="${y(v) + 4}" text-anchor="end" font-size="12" fill="var(--muted)" font-family="var(--mono)">${Math.round(v).toLocaleString("fr-FR")}</text>`).join("")}
+    <line x1="${L}" x2="${W - R}" y1="${y(depart)}" y2="${y(depart)}" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="5 5"/>
+    ${points.map((p, i) => i % pas === 0 || i === points.length - 1 ? `<text x="${x(i)}" y="${H - 10}" text-anchor="middle" font-size="12" fill="var(--muted)" font-family="var(--mono)">${lab(i)}</text>` : "").join("")}
+    <polyline fill="none" stroke="var(--silk)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" points="${points.map((p, i) => `${x(i)},${y(p.bk)}`).join(" ")}"/>
+    <circle r="5" fill="var(--silk)" stroke="var(--sheet)" stroke-width="2" cx="${x(points.length - 1)}" cy="${y(points[points.length - 1].bk)}"/>
+    <line id="cross" x1="0" x2="0" y1="${T}" y2="${H - B}" stroke="var(--ink)" stroke-width="1" opacity="0"/>
+    <circle id="dot" r="6" fill="var(--silk)" stroke="var(--sheet)" stroke-width="2" opacity="0"/>
+    <rect x="${L}" y="${T}" width="${W - L - R}" height="${H - T - B}" fill="transparent" id="hit"/>
+  </svg>`;
+  g.insertAdjacentHTML("afterbegin", svg);
+  const s = g.querySelector("svg"), hit = s.querySelector("#hit"), cross = s.querySelector("#cross"), dot = s.querySelector("#dot");
+  const montrer = ev => {
+    const r = s.getBoundingClientRect(), px = (ev.clientX - r.left) * W / r.width;
+    const i = Math.max(0, Math.min(points.length - 1, Math.round((px - L) / ((W - L - R) / (points.length - 1)))));
+    const p = points[i], d = p.bk - depart;
+    cross.setAttribute("x1", x(i)); cross.setAttribute("x2", x(i)); cross.setAttribute("opacity", .35);
+    dot.setAttribute("cx", x(i)); dot.setAttribute("cy", y(p.bk)); dot.setAttribute("opacity", 1);
+    tip.innerHTML = `<b>${i === 0 ? "Départ" : jourC(p.d)}</b><br>Bankroll ${eur(p.bk)}<br>${d >= 0 ? "+" : "−"}${eur(Math.abs(d))} depuis le départ`;
+    const gr = g.getBoundingClientRect(), tx = x(i) * r.width / W + (r.left - gr.left), ty = y(p.bk) * r.height / H + (r.top - gr.top);
+    tip.style.left = Math.min(Math.max(tx - 70, 4), gr.width - 160) + "px"; tip.style.top = Math.max(ty - 78, 4) + "px"; tip.style.opacity = 1;
+  };
+  hit.addEventListener("pointermove", montrer); hit.addEventListener("pointerdown", montrer);
+  hit.addEventListener("pointerleave", () => { tip.style.opacity = 0; cross.setAttribute("opacity", 0); dot.setAttribute("opacity", 0); });
+}
+
+["jeu", "depuis", "bankroll", "mode", "mise"].forEach(id => $(id).addEventListener("input", () => {
+  if(id === "mode") $("mise").value = $("mode").value === "pct" ? 2 : 10;
+  simuler();
+}));
+let largeur = 0;
+window.addEventListener("resize", () => { const w = $("graph").clientWidth; if(Math.abs(w - largeur) > 40 && COURSES.length){ largeur = w; simuler(); } });
+charger();
+</script>
+</body>
+</html>
