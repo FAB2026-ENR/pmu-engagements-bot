@@ -213,6 +213,8 @@ td.n,th.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-
           <select id="disc"><option value="galop">Galop (plat, obstacles)</option><option value="attelé">Trot attelé</option><option value="monté">Trot monté</option></select>
         </label>
       </div>
+      <div class="actions"><button class="btn leger" id="presetHand" type="button">🏇 Réglage de la stratégie Handicaps</button>
+        <span class="statut">Handicaps de plat, 13 partants et plus, classement combiné à 9 critères : jouer nos 2 premiers.</span></div>
       <div class="grille">
         <label for="typeProno">Type de course
           <select id="typeProno"><option value="tous">Toutes les courses</option><option value="handicap">Handicaps seulement</option><option value="autres">Hors handicaps</option></select>
@@ -227,8 +229,8 @@ td.n,th.n{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-
       <div class="grille">
         <label for="tri">Classer les partants
           <select id="tri">
+            <option value="combi" selected>⭐ Classement combiné (mes critères)</option>
             <option value="note">Note de forme</option>
-            <option value="combi">⭐ Classement combiné (mes critères)</option>
             <option value="jv">Jockey / driver : % de victoires</option>
             <option value="jp">Jockey / driver : % de podiums</option>
             <option value="ev">Entraîneur : % de victoires</option>
@@ -658,7 +660,7 @@ const CRIT = {
   corde: {lib: "Corde : la plus petite", sens: 1, val: e => (e.infosCheval || {}).placeCorde || null},
   avis:  {lib: "Avis de l'entraîneur (trot)", sens: 1, val: e => ({POSITIF: 0, NEUTRE: 1, NEGATIF: 2})[(e.infosCheval || {}).avisEntraineur] ?? null}
 };
-const CRIT_COMBI_DEFAUT = ["note", "jv", "ev"];
+const CRIT_COMBI_DEFAUT = ["note", "jv", "jp", "ev", "ep", "cv", "cp", "niv", "corde"];  // réglage de la stratégie Handicaps
 function remplirCases(){
   let coches = CRIT_COMBI_DEFAUT;
   try{ const s = JSON.parse(localStorage.getItem("ld-criteres") || "null"); if(Array.isArray(s) && s.length) coches = s; }catch(e){}
@@ -859,6 +861,13 @@ $("course").addEventListener("change", () => { coche.clear(); bases.clear(); aff
 async function changerJour(){ coche.clear(); bases.clear(); $("course").value = ""; if(!(await chargerPasse())) return; remplirCourses(); if(SRC().passe && $("tri").value === "note") {} afficherProno(); }
 $("disc").addEventListener("change", () => { remplirJours(); changerJour(); });
 $("jourSel").addEventListener("change", changerJour);
+$("presetHand").addEventListener("click", () => {
+  if($("disc").value !== "galop"){ $("disc").value = "galop"; remplirJours(); }
+  $("typeProno").value = "handicap"; $("partMinProno").value = "13"; $("tri").value = "combi"; $("depuis").value = "20";
+  document.querySelectorAll("#cases input").forEach(i => i.checked = CRIT_COMBI_DEFAUT.includes(i.value));
+  try{ localStorage.setItem("ld-criteres", JSON.stringify(CRIT_COMBI_DEFAUT)); }catch(e){}
+  coche.clear(); bases.clear(); $("course").value = ""; remplirCourses(); afficherProno();
+});
 ["typeProno", "partMinProno"].forEach(id => $(id).addEventListener("input", () => { coche.clear(); bases.clear(); $("course").value = ""; remplirCourses(); afficherProno(); }));
 $("tri").addEventListener("change", afficherProno);
 $("depuis").addEventListener("change", afficherProno);
