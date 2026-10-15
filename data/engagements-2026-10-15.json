@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T09:59:04.109411+00:00",
+  "generatedAt": "2026-10-15T10:27:38.734740+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -412,7 +412,7 @@
       "reunion": "R1",
       "course": "C1",
       "cheval": "PRINCE AUBOIS",
-      "jockey": "T.TRULLIER",
+      "jockey": "J. MOUTARD",
       "entraineur": "MME S.PENOT",
       "musique": "8p1p4p4p8p0p8p3p(25)0p",
       "prixJour": 50900,
@@ -430,7 +430,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 4,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,

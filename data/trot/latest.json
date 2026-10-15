@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T09:59:08.992582+00:00",
+  "generatedAt": "2026-10-15T10:27:43.335930+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -733,7 +733,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -782,7 +782,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -832,7 +832,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -882,7 +882,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -931,7 +931,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -980,7 +980,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -1029,7 +1029,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -1079,7 +1079,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -3681,7 +3681,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -3731,7 +3731,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -3782,7 +3782,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -3833,7 +3833,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -3884,7 +3884,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -3934,7 +3934,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -3985,7 +3985,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -4036,7 +4036,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -4087,7 +4087,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -4138,7 +4138,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -4189,7 +4189,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -4240,7 +4240,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FEUILLETTE"
@@ -18603,7 +18603,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -18662,7 +18662,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FEUILLETTE"
@@ -20171,7 +20171,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -22353,7 +22353,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FEUILLETTE"
@@ -25569,7 +25569,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -26289,7 +26289,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FEUILLETTE"
@@ -27332,7 +27332,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -27384,7 +27384,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE BÂLE                            SUISSE"
@@ -27718,7 +27718,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FEUILLETTE"
@@ -29093,7 +29093,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE BÂLE                            SUISSE"
