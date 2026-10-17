@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T19:14:33.272459+00:00",
+  "generatedAt": "2026-10-17T19:46:23.036290+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -11596,7 +11596,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HANDICAP JERRY HONOR"
@@ -11652,7 +11652,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HANDICAP JERRY HONOR"
@@ -11708,7 +11708,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HANDICAP JERRY HONOR"
@@ -11764,7 +11764,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HANDICAP JERRY HONOR"
@@ -11820,7 +11820,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HANDICAP JERRY HONOR"
@@ -11876,7 +11876,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HANDICAP JERRY HONOR"
@@ -11932,7 +11932,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HANDICAP JERRY HONOR"
@@ -12794,6 +12794,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 11,
         "nombreVictoires": 1,
@@ -16370,7 +16371,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -16429,7 +16430,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -16487,7 +16488,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -16545,7 +16546,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -16603,7 +16604,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -16661,7 +16662,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -16719,7 +16720,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -16768,8 +16769,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -16825,8 +16826,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -16882,8 +16883,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -16939,8 +16940,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -16996,8 +16997,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -17053,8 +17054,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -17110,8 +17111,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -17167,8 +17168,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -17224,8 +17225,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
@@ -17281,8 +17282,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -17338,8 +17339,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -17395,8 +17396,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -17452,8 +17453,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -17509,8 +17510,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -17566,8 +17567,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -17623,8 +17624,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -17681,8 +17682,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
@@ -18262,8 +18263,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18319,8 +18320,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18376,8 +18377,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18433,8 +18434,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18490,8 +18491,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18548,8 +18549,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18605,8 +18606,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18663,8 +18664,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18720,8 +18721,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18777,8 +18778,8 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "heureMesure": "2026-10-17T16:45",
-          "intitule": "PSF LENTE",
+          "heureMesure": "2026-10-17T21:34",
+          "intitule": "PSF RAPIDE",
           "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
@@ -18969,7 +18970,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -19021,8 +19022,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -22624,7 +22625,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HANDICAP JERRY HONOR"
@@ -23427,8 +23428,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -23487,8 +23488,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -23608,8 +23609,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
@@ -24491,7 +24492,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -24544,8 +24545,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -24604,8 +24605,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
@@ -24678,7 +24679,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -24739,7 +24740,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -26728,7 +26729,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -26780,8 +26781,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -26840,8 +26841,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -26900,8 +26901,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -26960,8 +26961,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -27082,8 +27083,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
@@ -27142,8 +27143,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
@@ -27656,7 +27657,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -27708,8 +27709,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
@@ -28016,8 +28017,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
@@ -28076,8 +28077,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
@@ -28262,8 +28263,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -30265,7 +30266,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER ALLOWANCE (3 YO & UP - TURF)"
@@ -30322,8 +30323,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -30383,8 +30384,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
@@ -30448,8 +30449,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -30508,8 +30509,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
@@ -31208,8 +31209,8 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "heureMesure": "2026-10-17T16:45",
-              "intitule": "PSF LENTE",
+              "heureMesure": "2026-10-17T21:34",
+              "intitule": "PSF RAPIDE",
               "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
