@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T14:50:19.873717+00:00",
+  "generatedAt": "2026-10-17T15:14:21.111913+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -3284,7 +3284,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3335,7 +3335,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3386,7 +3386,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3437,7 +3437,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3488,7 +3488,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3539,7 +3539,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3590,7 +3590,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3641,7 +3641,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3692,7 +3692,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -3743,7 +3743,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CHAMP DE MARS"
@@ -7894,6 +7894,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 2,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1609,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -8244,6 +8245,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 9,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1609,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -9847,6 +9849,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 1,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1609,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -10297,6 +10300,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 10,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1609,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -10647,6 +10651,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 7,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2600,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 9,
@@ -20960,7 +20965,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21011,7 +21016,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21061,7 +21066,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21112,7 +21117,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21163,7 +21168,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21214,7 +21219,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21265,7 +21270,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21315,7 +21320,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21366,7 +21371,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21417,7 +21422,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21468,7 +21473,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21518,7 +21523,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21569,7 +21574,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -21620,7 +21625,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -26611,7 +26616,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -26662,7 +26667,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -26713,7 +26718,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -26764,7 +26769,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -26815,7 +26820,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -26866,7 +26871,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -26916,7 +26921,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -26967,7 +26972,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27018,7 +27023,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27069,7 +27074,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27119,7 +27124,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27169,7 +27174,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27220,7 +27225,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27271,7 +27276,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27322,7 +27327,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27372,7 +27377,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE FATINES (GR.A)"
@@ -27646,6 +27651,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2950,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
@@ -27948,6 +27954,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2950,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 9,
@@ -29351,7 +29358,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -30017,7 +30024,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -31357,7 +31364,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CHAMP DE MARS"
@@ -31968,7 +31975,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -32587,7 +32594,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -34684,7 +34691,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CHAMP DE MARS"
@@ -35076,7 +35083,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CHAMP DE MARS"
@@ -36751,7 +36758,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -37110,6 +37117,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 1,
+            "poidsConditionMonte": 0,
             "handicapDistance": 1609,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -37163,6 +37171,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 10,
+            "poidsConditionMonte": 0,
             "handicapDistance": 1609,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -38423,7 +38432,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CHAMP DE MARS"
@@ -38755,7 +38764,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -38783,6 +38792,7 @@
           "prixPrec": null,
           "prixMoyen": null,
           "infosCheval": {
+            "poidsConditionMonte": 0,
             "handicapDistance": 2950,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 6,
@@ -38837,6 +38847,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "deferre": "DEFERRE_POSTERIEURS",
+            "poidsConditionMonte": 0,
             "handicapDistance": 2950,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 9,
@@ -39590,7 +39601,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -41374,7 +41385,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -41650,7 +41661,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -41703,7 +41714,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -42776,7 +42787,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -43388,7 +43399,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -45107,7 +45118,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CHAMP DE MARS"
@@ -45161,7 +45172,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CHAMP DE MARS"
@@ -45824,7 +45835,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -45992,7 +46003,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -46221,7 +46232,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CHAMP DE MARS"
@@ -46894,7 +46905,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -47790,7 +47801,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MARCO BONHEUR (GR A)"
@@ -47902,7 +47913,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"
@@ -48122,7 +48133,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE FATINES (GR.A)"

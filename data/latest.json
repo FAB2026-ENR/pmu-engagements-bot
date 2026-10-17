@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T14:50:10.073595+00:00",
+  "generatedAt": "2026-10-17T15:14:12.462609+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -7288,7 +7288,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -7346,7 +7346,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -7404,7 +7404,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -7462,7 +7462,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -7520,7 +7520,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -7578,7 +7578,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -10553,7 +10553,7 @@
       "reunion": "R8",
       "course": "C6",
       "cheval": "DONACIANO",
-      "jockey": "NON COMMUNIQUE",
+      "jockey": "JUAN CRUZ VILLAGRA",
       "entraineur": "MARIA CRISTINA MUNOZ",
       "musique": "0p",
       "prixJour": 4848,
@@ -10570,7 +10570,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -10587,6 +10587,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10612,6 +10617,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 520,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 1,
         "nombreVictoires": 0,
@@ -10637,6 +10643,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10653,7 +10664,7 @@
       "reunion": "R8",
       "course": "C6",
       "cheval": "PASSAPORTO",
-      "jockey": "NON COMMUNIQUE.",
+      "jockey": "LUCIANO MATIAS RECUERO",
       "entraineur": "JAVIER MARTIN BRUN",
       "musique": "0p",
       "prixJour": 4848,
@@ -10670,7 +10681,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -10687,6 +10698,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10737,6 +10753,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10787,6 +10808,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10837,6 +10863,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10887,6 +10918,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10937,6 +10973,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -10987,6 +11028,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11037,6 +11083,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11087,6 +11138,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11137,6 +11194,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11187,6 +11250,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11237,6 +11306,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11287,6 +11362,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11337,6 +11418,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11387,6 +11474,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11437,6 +11530,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11487,6 +11586,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -11537,6 +11642,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -11587,6 +11698,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -11637,6 +11754,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -11687,6 +11810,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -11737,6 +11866,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -11787,6 +11922,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -11837,6 +11978,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11887,6 +12034,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11937,6 +12090,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11987,6 +12146,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12037,6 +12202,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12087,6 +12258,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12137,6 +12314,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12187,6 +12370,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12237,6 +12426,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12287,6 +12482,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12337,6 +12538,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12387,6 +12594,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12412,6 +12625,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 15,
         "nombreVictoires": 1,
@@ -12437,6 +12651,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12487,6 +12707,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12537,6 +12763,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12587,6 +12819,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12637,6 +12875,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12687,6 +12931,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12737,6 +12987,12 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12787,6 +13043,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12837,6 +13099,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12887,6 +13155,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12937,6 +13211,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12987,6 +13267,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13037,6 +13323,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13087,6 +13379,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13137,6 +13435,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13187,6 +13491,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13237,6 +13547,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13287,6 +13603,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13337,6 +13659,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13387,6 +13715,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13437,6 +13771,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13487,6 +13827,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13537,6 +13883,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "4,2",
+          "heureMesure": "2026-10-17T17:08",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -19170,7 +19522,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -20765,6 +21117,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20818,6 +21176,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -20876,6 +21240,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20929,6 +21299,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21694,7 +22070,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -21870,6 +22246,12 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -21923,6 +22305,12 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21976,6 +22364,12 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22161,6 +22555,12 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -22214,6 +22614,12 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -22267,6 +22673,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22320,6 +22732,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22373,6 +22791,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22885,7 +23309,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -23578,7 +24002,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -25074,7 +25498,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -25135,7 +25559,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "QATAR RACING CHAMPION STAKES (GR 1) - WORLD POOL"
@@ -25372,6 +25796,11 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -25425,6 +25854,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25478,6 +25913,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -26898,6 +27339,12 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -26951,6 +27398,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27004,6 +27457,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28419,7 +28878,7 @@
           "reunion": "R8",
           "course": "C6",
           "cheval": "DONACIANO",
-          "jockey": "NON COMMUNIQUE",
+          "jockey": "JUAN CRUZ VILLAGRA",
           "entraineur": "MARIA CRISTINA MUNOZ",
           "musique": "0p",
           "prixJour": 4848,
@@ -28436,7 +28895,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -28453,6 +28912,11 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -28506,6 +28970,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28559,6 +29029,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28617,6 +29093,12 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -28670,6 +29152,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "4,2",
+              "heureMesure": "2026-10-17T17:08",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
