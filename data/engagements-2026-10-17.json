@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T10:15:12.860147+00:00",
+  "generatedAt": "2026-10-17T10:50:35.235798+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -916,7 +916,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -974,7 +974,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -1032,7 +1032,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -1090,7 +1090,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -1148,7 +1148,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -1207,7 +1207,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -1265,7 +1265,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -8962,6 +8962,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9014,6 +9020,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9066,6 +9078,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9118,6 +9136,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9170,6 +9194,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9222,6 +9252,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9274,6 +9310,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9327,6 +9369,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9380,6 +9428,12 @@
         "parcours": "1400 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9432,6 +9486,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9483,6 +9543,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9534,6 +9600,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9585,6 +9657,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9638,6 +9716,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9689,6 +9773,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9741,6 +9831,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9792,6 +9888,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9844,6 +9946,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9895,6 +10003,12 @@
         "parcours": "2300 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9947,6 +10061,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10000,6 +10120,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10053,6 +10179,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10106,6 +10238,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10158,6 +10296,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10210,6 +10354,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10263,6 +10413,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10316,6 +10472,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10369,6 +10531,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-17T09:00",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18565,6 +18733,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18624,6 +18798,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18996,6 +19176,12 @@
             "parcours": "2300 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19054,6 +19240,12 @@
             "parcours": "2300 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19380,7 +19572,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -19444,7 +19636,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -21875,6 +22067,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21933,6 +22131,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22524,6 +22728,12 @@
             "parcours": "2300 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22582,6 +22792,12 @@
             "parcours": "2300 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22640,6 +22856,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23695,7 +23917,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -23759,7 +23981,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -27030,6 +27252,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27088,6 +27316,12 @@
             "parcours": "1400 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27147,6 +27381,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-17T09:00",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28468,7 +28708,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -29129,7 +29369,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
@@ -29758,7 +29998,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SALAUN HOLIDAYS (PRIX DE RATONNEAU)"
