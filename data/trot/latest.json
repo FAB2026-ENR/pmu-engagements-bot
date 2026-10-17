@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T13:27:44.805852+00:00",
+  "generatedAt": "2026-10-17T13:53:57.770915+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -3098,6 +3098,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
         "placeCorde": 12,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2150,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 26,
@@ -14213,7 +14214,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14264,7 +14265,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14315,7 +14316,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14366,7 +14367,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14417,7 +14418,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14468,7 +14469,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14519,7 +14520,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14570,7 +14571,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14621,7 +14622,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14672,7 +14673,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14723,7 +14724,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14774,7 +14775,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14825,7 +14826,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -14876,7 +14877,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -19435,7 +19436,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19485,7 +19486,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19536,7 +19537,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19587,7 +19588,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19638,7 +19639,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19689,7 +19690,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19740,7 +19741,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19791,7 +19792,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19842,7 +19843,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19892,7 +19893,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19943,7 +19944,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -19994,7 +19995,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -20045,7 +20046,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -20096,7 +20097,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -20147,7 +20148,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -20198,7 +20199,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ANDRE GOSSE"
@@ -24484,7 +24485,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24534,7 +24535,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24585,7 +24586,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24635,7 +24636,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24685,7 +24686,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24735,7 +24736,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24785,7 +24786,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24835,7 +24836,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24885,7 +24886,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24935,7 +24936,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -24985,7 +24986,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -25036,7 +25037,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -25087,7 +25088,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -25137,7 +25138,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -29130,7 +29131,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ANDRE GOSSE"
@@ -29184,7 +29185,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ANDRE GOSSE"
@@ -29740,7 +29741,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -30903,7 +30904,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -31634,7 +31635,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ANDRE GOSSE"
@@ -33250,7 +33251,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ANDRE GOSSE"
@@ -34119,7 +34120,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -34342,7 +34343,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -36298,7 +36299,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -37858,7 +37859,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -38589,7 +38590,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -39536,7 +39537,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ANDRE GOSSE"
@@ -39987,7 +39988,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -40643,7 +40644,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ANDRE GOSSE"
@@ -43609,7 +43610,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -43915,6 +43916,7 @@
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
             "placeCorde": 12,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2150,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 26,
@@ -44218,7 +44220,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX TEAM LECLERC DROUILLET"
@@ -44657,7 +44659,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -45768,7 +45770,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU PERCHE SARTHOIS (GR.B)"
@@ -46780,7 +46782,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ANDRE GOSSE"
