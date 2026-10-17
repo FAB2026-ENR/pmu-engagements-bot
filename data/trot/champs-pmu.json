@@ -8,6 +8,7 @@
       "categorieStatut",
       "conditionSexe",
       "conditions",
+      "corde",
       "courseExclusiveInternet",
       "courseTrackee",
       "departImminent",
@@ -44,17 +45,18 @@
       "pariSpecial",
       "paris",
       "participants",
-      "pronosticsExpires",
       "rapportsDefinitifsDisponibles",
       "replayDisponible",
       "specialite",
       "statut",
-      "timezoneOffset"
+      "timezoneOffset",
+      "typePiste"
     ],
     "cheval": [
       "age",
       "allure",
       "dernierRapportDirect",
+      "dernierRapportReference",
       "driver",
       "driverChange",
       "eleveur",
