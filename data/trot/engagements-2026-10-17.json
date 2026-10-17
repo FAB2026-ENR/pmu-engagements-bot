@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T10:50:41.389924+00:00",
+  "generatedAt": "2026-10-17T11:14:46.597554+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -1584,7 +1584,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1636,7 +1636,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1687,7 +1687,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1738,7 +1738,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1789,7 +1789,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1840,7 +1840,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1891,7 +1891,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1942,7 +1942,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -1993,7 +1993,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -11341,6 +11341,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2000,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -28402,7 +28403,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -28958,7 +28959,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -35568,7 +35569,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -36130,7 +36131,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -37464,7 +37465,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -39420,7 +39421,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
@@ -41199,7 +41200,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PREMI DUGUESCLIN II                     ESPAGNE"
