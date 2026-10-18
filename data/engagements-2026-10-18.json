@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T11:14:11.145268+00:00",
+  "generatedAt": "2026-10-18T11:48:50.807481+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -7230,7 +7230,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -7281,7 +7281,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -7332,7 +7332,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -7383,7 +7383,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -7434,7 +7434,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -7485,7 +7485,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -7536,7 +7536,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -16476,6 +16476,12 @@
         "parcours": "2500 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16529,6 +16535,12 @@
         "parcours": "2500 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16582,6 +16594,12 @@
         "parcours": "2500 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16635,6 +16653,12 @@
         "parcours": "2500 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16688,6 +16712,12 @@
         "parcours": "2500 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16714,6 +16744,7 @@
         "placeCorde": 4,
         "handicapValeur": 26.5,
         "handicapPoids": 545,
+        "poidsConditionMonte": 550,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 11,
         "nombreVictoires": 0,
@@ -16740,6 +16771,12 @@
         "parcours": "2500 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16793,6 +16830,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16846,6 +16889,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16899,6 +16948,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16951,6 +17006,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17003,6 +17064,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17056,6 +17123,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17109,6 +17182,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17162,6 +17241,12 @@
         "parcours": "1850 M.",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,1",
+          "heureMesure": "2026-10-18T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17222,7 +17307,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "CINQ_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU CERCLE DE L'ETRIER"
@@ -17277,7 +17362,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "CINQ_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU CERCLE DE L'ETRIER"
@@ -17332,7 +17417,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "CINQ_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU CERCLE DE L'ETRIER"
@@ -17387,7 +17472,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "CINQ_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU CERCLE DE L'ETRIER"
@@ -17442,7 +17527,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "CINQ_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "CROSS",
         "specialite": "OBSTACLE",
         "libelle": "PRIX DU CERCLE DE L'ETRIER"
@@ -18650,7 +18735,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -19654,6 +19739,12 @@
             "parcours": "2500 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,1",
+              "heureMesure": "2026-10-18T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21081,7 +21172,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "CINQ_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "CROSS",
             "specialite": "OBSTACLE",
             "libelle": "PRIX DU CERCLE DE L'ETRIER"
@@ -21142,7 +21233,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "CINQ_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "CROSS",
             "specialite": "OBSTACLE",
             "libelle": "PRIX DU CERCLE DE L'ETRIER"
@@ -23005,6 +23096,12 @@
             "parcours": "2500 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,1",
+              "heureMesure": "2026-10-18T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23064,6 +23161,12 @@
             "parcours": "1850 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,1",
+              "heureMesure": "2026-10-18T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24004,7 +24107,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -24058,7 +24161,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -24810,7 +24913,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -24864,7 +24967,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -27923,7 +28026,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -28144,7 +28247,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "SCHWEIZER ST. LEGER - ST. LEGER CLUB UND HULL'S SCHOOL"
@@ -28460,6 +28563,12 @@
             "parcours": "2500 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,1",
+              "heureMesure": "2026-10-18T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28519,6 +28628,12 @@
             "parcours": "1850 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,1",
+              "heureMesure": "2026-10-18T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28716,6 +28831,12 @@
             "parcours": "1850 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,1",
+              "heureMesure": "2026-10-18T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28774,6 +28895,12 @@
             "parcours": "1850 M.",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,1",
+              "heureMesure": "2026-10-18T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
