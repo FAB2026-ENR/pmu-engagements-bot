@@ -2,6 +2,7 @@
   "date": "2026-10-18",
   "champs": {
     "course": [
+      "arriveeDefinitive",
       "cached",
       "cagnottes",
       "categorieParticularite",
@@ -24,6 +25,7 @@
       "hasEParis",
       "heureDepart",
       "hippodrome",
+      "isArriveeDefinitive",
       "isDepartAJPlusUn",
       "isDepartImminent",
       "libelle",
@@ -60,8 +62,10 @@
     "cheval": [
       "age",
       "allure",
+      "commentaireApresCourse",
       "dernierRapportDirect",
       "dernierRapportReference",
+      "distanceChevalPrecedent",
       "driver",
       "driverChange",
       "eleveur",
@@ -83,6 +87,7 @@
       "nombreVictoires",
       "numPmu",
       "oeilleres",
+      "ordreArrivee",
       "pays",
       "paysEntrainement",
       "placeCorde",
