@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T06:17:40.629505+00:00",
+  "generatedAt": "2026-10-18T07:05:48.171456+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -1763,6 +1763,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -1814,6 +1815,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -1865,6 +1867,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -1916,6 +1919,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -1966,6 +1970,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -2016,6 +2021,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -2066,6 +2072,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -2116,6 +2123,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -2167,6 +2175,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -2217,6 +2226,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -2267,6 +2277,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -3005,6 +3016,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
         "handicapPoids": 650,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2450,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 43,
@@ -3707,6 +3719,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3758,6 +3771,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3809,6 +3823,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3860,6 +3875,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3911,6 +3927,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -3962,6 +3979,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4013,6 +4031,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4065,6 +4084,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4116,6 +4136,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4167,6 +4188,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4218,6 +4240,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4268,6 +4291,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4319,6 +4343,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4371,6 +4396,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4421,6 +4447,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4472,6 +4499,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4522,6 +4550,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4572,6 +4601,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "NATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4622,6 +4652,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4672,6 +4703,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4723,6 +4755,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4774,6 +4807,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4825,6 +4859,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4876,6 +4911,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4927,6 +4963,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4978,6 +5015,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5029,6 +5067,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5080,6 +5119,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5131,6 +5171,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5182,6 +5223,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5233,6 +5275,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5283,6 +5326,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5334,6 +5378,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5384,6 +5429,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5434,6 +5480,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5485,6 +5532,7 @@
       "infosCourse": {
         "distance": 2200,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6758,6 +6806,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -6809,6 +6858,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -6860,6 +6910,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -6911,6 +6962,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -6962,6 +7014,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7013,6 +7066,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7064,6 +7118,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7115,6 +7170,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7166,6 +7222,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7217,6 +7274,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7268,6 +7326,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7319,6 +7378,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7370,6 +7430,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -7420,6 +7481,7 @@
       "infosCourse": {
         "distance": 2400,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10704,6 +10766,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10754,6 +10817,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10804,6 +10868,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10854,6 +10919,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10904,6 +10970,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10954,6 +11021,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11004,6 +11072,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11055,6 +11124,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11105,6 +11175,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11155,6 +11226,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11205,6 +11277,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11255,6 +11328,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11305,6 +11379,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11355,6 +11430,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11406,6 +11482,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11456,6 +11533,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11506,6 +11584,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11557,6 +11636,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11607,6 +11687,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11657,6 +11738,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11707,6 +11789,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11757,6 +11840,7 @@
       "infosCourse": {
         "distance": 2050,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12519,6 +12603,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12570,6 +12655,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12620,6 +12706,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12671,6 +12758,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12722,6 +12810,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12773,6 +12862,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12824,6 +12914,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12875,6 +12966,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12925,6 +13017,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12976,6 +13069,7 @@
       "infosCourse": {
         "distance": 2650,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13734,6 +13828,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13784,6 +13879,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13834,6 +13930,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13884,6 +13981,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13934,6 +14032,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13984,6 +14083,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14034,6 +14134,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14084,6 +14185,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14135,6 +14237,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14185,6 +14288,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14235,6 +14339,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14285,6 +14390,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14335,6 +14441,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14385,6 +14492,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14435,6 +14543,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14485,6 +14594,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14535,6 +14645,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14585,6 +14696,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14635,6 +14747,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14685,6 +14798,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14736,6 +14850,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14786,6 +14901,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14836,6 +14952,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14887,6 +15004,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14937,6 +15055,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14987,6 +15106,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15037,6 +15157,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15087,6 +15208,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15138,6 +15260,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15188,6 +15311,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15238,6 +15362,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15288,6 +15413,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15339,6 +15465,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15390,6 +15517,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15441,6 +15569,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15492,6 +15621,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15543,6 +15673,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15594,6 +15725,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15645,6 +15777,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15696,6 +15829,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15747,6 +15881,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15798,6 +15933,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15849,6 +15985,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15900,6 +16037,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15951,6 +16089,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16001,6 +16140,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16052,6 +16192,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17930,6 +18071,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17981,6 +18123,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18032,6 +18175,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18082,6 +18226,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18133,6 +18278,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18184,6 +18330,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18235,6 +18382,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18286,6 +18434,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18337,6 +18486,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18388,6 +18538,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18438,6 +18589,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18489,6 +18641,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18539,6 +18692,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18590,6 +18744,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18641,6 +18796,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18692,6 +18848,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18743,6 +18900,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18793,6 +18951,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18844,6 +19003,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18895,6 +19055,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18946,6 +19107,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18997,6 +19159,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19048,6 +19211,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19099,6 +19263,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19149,6 +19314,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19199,6 +19365,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19250,6 +19417,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19301,6 +19469,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19351,6 +19520,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19402,6 +19572,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19453,6 +19624,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19503,6 +19675,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19554,6 +19727,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19604,6 +19778,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19655,6 +19830,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19705,6 +19881,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19755,6 +19932,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19806,6 +19984,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19856,6 +20035,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19906,6 +20086,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -19956,6 +20137,7 @@
       "infosCourse": {
         "distance": 2550,
         "parcours": "",
+        "corde": "CORDE_DROITE",
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -33584,6 +33766,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33696,6 +33879,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33970,6 +34154,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -34082,6 +34267,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -34195,6 +34381,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -34421,6 +34608,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -34588,6 +34776,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -34647,6 +34836,7 @@
           "infosCourse": {
             "distance": 2400,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -35316,6 +35506,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -35757,6 +35948,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -35816,6 +36008,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -35870,6 +36063,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36261,6 +36455,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36314,6 +36509,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36368,6 +36564,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36537,6 +36734,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36760,6 +36958,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36813,6 +37012,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36867,6 +37067,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36920,6 +37121,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37092,6 +37294,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37146,6 +37349,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37371,6 +37575,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37536,6 +37741,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37756,6 +37962,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37922,6 +38129,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38036,6 +38244,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -38090,6 +38299,7 @@
           "infosCourse": {
             "distance": 2400,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -38203,6 +38413,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38477,6 +38688,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38531,6 +38743,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38693,6 +38906,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38747,6 +38961,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38805,6 +39020,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38858,6 +39074,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -38916,6 +39133,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39137,6 +39355,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39195,6 +39414,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39248,6 +39468,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39354,6 +39575,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39412,6 +39634,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39465,6 +39688,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39634,6 +39858,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39971,6 +40196,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -40024,6 +40250,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -40195,6 +40422,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -40248,6 +40476,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -40302,6 +40531,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -40360,6 +40590,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -40581,6 +40812,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -40640,6 +40872,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -41143,6 +41376,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -41256,6 +41490,7 @@
           "infosCourse": {
             "distance": 2400,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -41758,6 +41993,7 @@
           "infosCourse": {
             "distance": 2400,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -41981,6 +42217,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -42035,6 +42272,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -42089,6 +42327,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -42143,6 +42382,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -42305,6 +42545,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -42359,6 +42600,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -42695,6 +42937,7 @@
           "infosCourse": {
             "distance": 2400,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -43527,6 +43770,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -43860,6 +44104,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -43967,6 +44212,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -44303,6 +44549,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -44616,6 +44863,7 @@
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
             "handicapPoids": 650,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2450,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 43,
@@ -44697,6 +44945,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -44921,6 +45170,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -45356,6 +45606,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -45464,6 +45715,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -45681,6 +45933,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -45901,6 +46154,7 @@
           "infosCourse": {
             "distance": 2400,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -46125,6 +46379,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -46178,6 +46433,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -46452,6 +46708,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -46505,6 +46762,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -47060,6 +47318,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -47114,6 +47373,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -47278,6 +47538,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -47332,6 +47593,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48057,6 +48319,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48111,6 +48374,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48164,6 +48428,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48218,6 +48483,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48272,6 +48538,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -49261,6 +49528,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -49865,6 +50133,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -49918,6 +50187,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -49971,6 +50241,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -50025,6 +50296,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -50191,6 +50463,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -50244,6 +50517,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -51074,6 +51348,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -51187,6 +51462,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -51466,6 +51742,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -51520,6 +51797,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -51908,6 +52186,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52126,6 +52405,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52239,6 +52519,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52350,6 +52631,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52404,6 +52686,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53241,6 +53524,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53349,6 +53633,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53408,6 +53693,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53462,6 +53748,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53515,6 +53802,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53573,6 +53861,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53626,6 +53915,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53797,6 +54087,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53850,6 +54141,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53903,6 +54195,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -54127,6 +54420,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -54181,6 +54475,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -54408,6 +54703,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -54467,6 +54763,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -54521,6 +54818,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -55302,6 +55600,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -55580,6 +55879,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -55635,6 +55935,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -55689,6 +55990,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56246,6 +56548,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "NATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56357,6 +56660,7 @@
           "infosCourse": {
             "distance": 2050,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56464,6 +56768,7 @@
           "infosCourse": {
             "distance": 2650,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56739,6 +57044,7 @@
           "infosCourse": {
             "distance": 2200,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -57350,6 +57656,7 @@
           "infosCourse": {
             "distance": 2400,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -57626,6 +57933,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -57679,6 +57987,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -58064,6 +58373,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -58118,6 +58428,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -58172,6 +58483,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -58231,6 +58543,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -58285,6 +58598,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -58455,6 +58769,7 @@
           "infosCourse": {
             "distance": 2550,
             "parcours": "",
+            "corde": "CORDE_DROITE",
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
