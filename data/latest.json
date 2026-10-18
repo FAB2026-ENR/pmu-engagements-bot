@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T13:54:27.111898+00:00",
+  "generatedAt": "2026-10-18T14:14:57.219123+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -2177,7 +2177,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2235,7 +2235,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2293,7 +2293,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2351,7 +2351,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2409,7 +2409,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2467,7 +2467,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2525,7 +2525,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2583,7 +2583,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -2641,7 +2641,7 @@
         "categorieParticularite": "GROUPE_II",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -3244,6 +3244,7 @@
         "placeCorde": 1,
         "handicapValeur": 42.5,
         "handicapPoids": 555,
+        "poidsConditionMonte": 560,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 10,
         "nombreVictoires": 1,
@@ -8373,6 +8374,7 @@
       "infosCheval": {
         "placeCorde": 1,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 5,
         "nombreVictoires": 0,
@@ -8424,6 +8426,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 530,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 9,
         "nombreVictoires": 0,
@@ -9648,6 +9651,7 @@
       "infosCheval": {
         "placeCorde": 15,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 0,
@@ -9699,6 +9703,7 @@
       "infosCheval": {
         "placeCorde": 16,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 1,
         "nombreVictoires": 0,
@@ -9750,6 +9755,7 @@
       "infosCheval": {
         "placeCorde": 17,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 0,
@@ -10515,6 +10521,7 @@
       "infosCheval": {
         "placeCorde": 15,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 10,
         "nombreVictoires": 1,
@@ -14830,7 +14837,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -14888,7 +14895,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -14945,7 +14952,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -15002,7 +15009,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -15059,7 +15066,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -15116,7 +15123,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -15173,7 +15180,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -15230,7 +15237,7 @@
         "categorieParticularite": "COURSE_INTERNATIONALE",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -17710,7 +17717,7 @@
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -17774,7 +17781,7 @@
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -17838,7 +17845,7 @@
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -18158,7 +18165,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -20153,6 +20160,7 @@
           "infosCheval": {
             "placeCorde": 1,
             "handicapPoids": 570,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 5,
             "nombreVictoires": 0,
@@ -20847,7 +20855,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -20910,7 +20918,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -21042,7 +21050,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -21966,6 +21974,7 @@
           "infosCheval": {
             "placeCorde": 15,
             "handicapPoids": 580,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 10,
             "nombreVictoires": 1,
@@ -22910,7 +22919,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -26352,7 +26361,7 @@
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -27244,7 +27253,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -29098,7 +29107,7 @@
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -30031,6 +30040,7 @@
           "infosCheval": {
             "placeCorde": 15,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 0,
@@ -30085,6 +30095,7 @@
           "infosCheval": {
             "placeCorde": 16,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 1,
             "nombreVictoires": 0,
@@ -30139,6 +30150,7 @@
           "infosCheval": {
             "placeCorde": 17,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 3,
             "nombreVictoires": 0,
@@ -30680,7 +30692,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -30743,7 +30755,7 @@
             "categorieParticularite": "COURSE_INTERNATIONALE",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MINISTERE DE L'AGRICULTURE A 37,5%"
@@ -31426,7 +31438,7 @@
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CONSEIL DE PARIS"
@@ -32336,7 +32348,7 @@
             "categorieParticularite": "GROUPE_II",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CONSEIL DE PARIS"
