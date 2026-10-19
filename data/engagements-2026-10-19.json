@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generatedAt": "2026-10-19T08:10:24.100925+00:00",
+  "generatedAt": "2026-10-19T09:07:07.760590+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -6817,7 +6817,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -6868,7 +6868,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -6880,7 +6880,7 @@
       "reunion": "R2",
       "course": "C1",
       "cheval": "NUIT DE GALA",
-      "jockey": "FADDOUL KACEM",
+      "jockey": "O. LAKJAL",
       "entraineur": "SAFIR ABDELFETTAH",
       "musique": "5p6p1p4p3p",
       "prixJour": 7688,
@@ -6897,7 +6897,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -6919,7 +6919,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -6970,7 +6970,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -7021,7 +7021,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -7072,7 +7072,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -7093,6 +7093,7 @@
       "infosCheval": {
         "placeCorde": 7,
         "handicapPoids": 565,
+        "poidsConditionMonte": 570,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 76,
         "nombreVictoires": 3,
@@ -7123,7 +7124,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -7174,7 +7175,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -7195,6 +7196,7 @@
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 555,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 48,
         "nombreVictoires": 1,
@@ -7225,7 +7227,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GROOM DANCER"
@@ -7756,6 +7758,7 @@
       "infosCheval": {
         "placeCorde": 1,
         "handicapPoids": 530,
+        "poidsConditionMonte": 530,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 13,
         "nombreVictoires": 0,
@@ -15832,6 +15835,7 @@
         "placeCorde": 6,
         "handicapValeur": 31.5,
         "handicapPoids": 605,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 15,
         "nombreVictoires": 1,
@@ -22830,7 +22834,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GROOM DANCER"
@@ -23915,7 +23919,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GROOM DANCER"
@@ -29986,6 +29990,7 @@
             "placeCorde": 6,
             "handicapValeur": 31.5,
             "handicapPoids": 605,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 15,
             "nombreVictoires": 1,
@@ -32564,7 +32569,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GROOM DANCER"
@@ -32588,6 +32593,7 @@
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 555,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 48,
             "nombreVictoires": 1,
@@ -32618,7 +32624,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GROOM DANCER"
