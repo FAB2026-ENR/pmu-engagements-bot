@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generatedAt": "2026-10-19T19:08:36.470863+00:00",
+  "generatedAt": "2026-10-19T19:59:05.381898+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -15953,7 +15953,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -16010,7 +16010,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -16067,7 +16067,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -16125,7 +16125,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -16182,7 +16182,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -16239,7 +16239,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -16296,7 +16296,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -16689,7 +16689,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -16745,7 +16745,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -16800,7 +16800,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -16821,6 +16821,7 @@
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 570,
+        "poidsConditionMonte": 550,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 5,
         "nombreVictoires": 0,
@@ -16855,7 +16856,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -16910,7 +16911,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -16931,6 +16932,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 1,
         "nombreVictoires": 0,
@@ -16965,7 +16967,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17020,7 +17022,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17032,7 +17034,7 @@
       "reunion": "R6",
       "course": "C7",
       "cheval": "CHICO DEL MONTE",
-      "jockey": "SIN NOMBRE",
+      "jockey": "GERSON PERADA",
       "entraineur": "JUAN CARLOS SILVA SERRANO",
       "musique": "0p0p",
       "prixJour": 2565,
@@ -17049,7 +17051,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -17075,7 +17077,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17087,7 +17089,7 @@
       "reunion": "R6",
       "course": "C7",
       "cheval": "VADO VELOCE",
-      "jockey": "RICARDO ANDRES SOLORZA FERNANDEZ",
+      "jockey": "DARIEN ALEXANDER CHEUQUE ROJAS",
       "entraineur": "ROBERTO CARLOS TOLEDO",
       "musique": "0p0p0p",
       "prixJour": 2565,
@@ -17104,7 +17106,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -17130,7 +17132,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17185,7 +17187,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17240,7 +17242,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17295,7 +17297,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17307,7 +17309,7 @@
       "reunion": "R6",
       "course": "C7",
       "cheval": "RUDIGUER",
-      "jockey": "JORGE EDUARDO ZUNIGA",
+      "jockey": "RODOLFO S DORES",
       "entraineur": "JOSE CATALAN KLAUSER",
       "musique": "",
       "prixJour": 2565,
@@ -17324,7 +17326,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": true,
         "supplement": 0,
@@ -17350,7 +17352,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HIELO SUR"
@@ -17405,7 +17407,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17461,7 +17463,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17516,7 +17518,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17571,7 +17573,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17626,7 +17628,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17681,7 +17683,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17736,7 +17738,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17791,7 +17793,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -17846,7 +17848,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "HAY AURORA H."
@@ -19405,7 +19407,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "SIX_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO LOVES HOPE"
@@ -19461,7 +19463,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "SIX_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO LOVES HOPE"
@@ -19516,7 +19518,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "SIX_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO LOVES HOPE"
@@ -19571,7 +19573,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "SIX_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO LOVES HOPE"
@@ -19626,7 +19628,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "SIX_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO LOVES HOPE"
@@ -19681,7 +19683,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "SIX_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO LOVES HOPE"
@@ -19736,7 +19738,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "SIX_ANS_ET_PLUS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO LOVES HOPE"
@@ -19792,7 +19794,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -19848,7 +19850,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -19904,7 +19906,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -19960,7 +19962,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -20016,7 +20018,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -20072,7 +20074,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -20128,7 +20130,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -20184,7 +20186,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -20240,7 +20242,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREMIO JUDEA"
@@ -22135,7 +22137,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
@@ -22159,6 +22161,7 @@
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 570,
+            "poidsConditionMonte": 550,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 5,
             "nombreVictoires": 0,
@@ -22193,7 +22196,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
@@ -22251,7 +22254,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
@@ -22309,7 +22312,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HAY AURORA H."
@@ -24495,7 +24498,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HAY AURORA H."
@@ -25038,7 +25041,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HAY AURORA H."
@@ -25160,7 +25163,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREMIO JUDEA"
@@ -25914,7 +25917,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREMIO JUDEA"
@@ -26403,7 +26406,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -26467,7 +26470,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREMIO JUDEA"
@@ -26783,7 +26786,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -27914,7 +27917,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
@@ -28111,7 +28114,7 @@
           "reunion": "R6",
           "course": "C7",
           "cheval": "RUDIGUER",
-          "jockey": "JORGE EDUARDO ZUNIGA",
+          "jockey": "RODOLFO S DORES",
           "entraineur": "JOSE CATALAN KLAUSER",
           "musique": "",
           "prixJour": 2565,
@@ -28128,7 +28131,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 2,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": true,
             "supplement": 0,
@@ -28154,7 +28157,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
@@ -28357,7 +28360,7 @@
           "reunion": "R6",
           "course": "C7",
           "cheval": "CHICO DEL MONTE",
-          "jockey": "SIN NOMBRE",
+          "jockey": "GERSON PERADA",
           "entraineur": "JUAN CARLOS SILVA SERRANO",
           "musique": "0p0p",
           "prixJour": 2565,
@@ -28374,7 +28377,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -28400,7 +28403,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
@@ -28458,7 +28461,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HAY AURORA H."
@@ -29301,7 +29304,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREMIO JUDEA"
@@ -30321,7 +30324,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -31145,7 +31148,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -31208,7 +31211,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HAY AURORA H."
@@ -32660,7 +32663,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
@@ -32718,7 +32721,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HAY AURORA H."
@@ -33316,7 +33319,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "FILLIES' HANDICAP (CLASS 5)"
@@ -33878,7 +33881,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "HIELO SUR"
