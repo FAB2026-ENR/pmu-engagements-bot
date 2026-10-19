@@ -1,6 +1,6 @@
 {
   "version": "9-trot2",
-  "generatedAt": "2026-10-18T21:55:13.402159+00:00",
+  "generatedAt": "2026-10-19T21:59:46.413270+00:00",
   "jours": [
     {
       "date": "2026-10-07",
@@ -61,154 +61,159 @@
       "date": "2026-10-18",
       "partants": 659,
       "avecArrivee": 646
+    },
+    {
+      "date": "2026-10-19",
+      "partants": 361,
+      "avecArrivee": 357
     }
   ],
-  "nPartants": 4158,
+  "nPartants": 4515,
   "classShiftDepuis": "9999-12-31",
   "buckets": [
     {
       "label": "< 0",
-      "n": 43,
-      "nRoi": 43,
+      "n": 44,
+      "nRoi": 44,
       "nGagnants": 9,
       "nPlaces": 22,
-      "tauxGagnant": 20.9,
-      "tauxPlace": 51.2,
+      "tauxGagnant": 20.5,
+      "tauxPlace": 50.0,
       "coteGagnantMoyenne": 4.93,
-      "roiGagnant": 3.3,
-      "roiPlace": -16.5
+      "roiGagnant": 0.9,
+      "roiPlace": -18.4
     },
     {
       "label": "0",
-      "n": 105,
-      "nRoi": 105,
+      "n": 106,
+      "nRoi": 106,
       "nGagnants": 25,
       "nPlaces": 48,
-      "tauxGagnant": 23.8,
-      "tauxPlace": 45.7,
+      "tauxGagnant": 23.6,
+      "tauxPlace": 45.3,
       "coteGagnantMoyenne": 2.27,
-      "roiGagnant": -45.9,
-      "roiPlace": -29.0
+      "roiGagnant": -46.4,
+      "roiPlace": -29.7
     },
     {
       "label": "1",
-      "n": 187,
-      "nRoi": 187,
+      "n": 194,
+      "nRoi": 194,
       "nGagnants": 18,
-      "nPlaces": 71,
-      "tauxGagnant": 9.6,
-      "tauxPlace": 38.0,
+      "nPlaces": 74,
+      "tauxGagnant": 9.3,
+      "tauxPlace": 38.1,
       "coteGagnantMoyenne": 4.99,
-      "roiGagnant": -51.9,
-      "roiPlace": -28.9
+      "roiGagnant": -53.7,
+      "roiPlace": -28.6
     },
     {
       "label": "2",
-      "n": 302,
-      "nRoi": 302,
-      "nGagnants": 41,
-      "nPlaces": 109,
-      "tauxGagnant": 13.6,
-      "tauxPlace": 36.1,
-      "coteGagnantMoyenne": 4.24,
-      "roiGagnant": -42.5,
-      "roiPlace": -25.6
+      "n": 318,
+      "nRoi": 318,
+      "nGagnants": 42,
+      "nPlaces": 114,
+      "tauxGagnant": 13.2,
+      "tauxPlace": 35.8,
+      "coteGagnantMoyenne": 4.29,
+      "roiGagnant": -43.3,
+      "roiPlace": -26.6
     },
     {
       "label": "3",
-      "n": 477,
-      "nRoi": 477,
-      "nGagnants": 47,
-      "nPlaces": 135,
-      "tauxGagnant": 9.9,
-      "tauxPlace": 28.3,
-      "coteGagnantMoyenne": 8.37,
-      "roiGagnant": -17.5,
-      "roiPlace": -23.2
+      "n": 499,
+      "nRoi": 499,
+      "nGagnants": 51,
+      "nPlaces": 143,
+      "tauxGagnant": 10.2,
+      "tauxPlace": 28.7,
+      "coteGagnantMoyenne": 8.68,
+      "roiGagnant": -11.3,
+      "roiPlace": -22.5
     },
     {
       "label": "4",
-      "n": 546,
-      "nRoi": 546,
-      "nGagnants": 50,
-      "nPlaces": 143,
-      "tauxGagnant": 9.2,
+      "n": 580,
+      "nRoi": 580,
+      "nGagnants": 52,
+      "nPlaces": 152,
+      "tauxGagnant": 9.0,
       "tauxPlace": 26.2,
-      "coteGagnantMoyenne": 7.84,
-      "roiGagnant": -28.2,
-      "roiPlace": -25.9
+      "coteGagnantMoyenne": 7.93,
+      "roiGagnant": -28.9,
+      "roiPlace": -26.7
     },
     {
       "label": "5",
-      "n": 607,
-      "nRoi": 607,
-      "nGagnants": 50,
-      "nPlaces": 138,
-      "tauxGagnant": 8.2,
-      "tauxPlace": 22.7,
-      "coteGagnantMoyenne": 11.06,
-      "roiGagnant": -8.9,
-      "roiPlace": -26.5
+      "n": 651,
+      "nRoi": 651,
+      "nGagnants": 56,
+      "nPlaces": 149,
+      "tauxGagnant": 8.6,
+      "tauxPlace": 22.9,
+      "coteGagnantMoyenne": 11.23,
+      "roiGagnant": -3.4,
+      "roiPlace": -27.1
     },
     {
       "label": "6",
-      "n": 641,
-      "nRoi": 641,
-      "nGagnants": 36,
-      "nPlaces": 139,
-      "tauxGagnant": 5.6,
-      "tauxPlace": 21.7,
-      "coteGagnantMoyenne": 12.43,
-      "roiGagnant": -30.2,
-      "roiPlace": -15.8
+      "n": 687,
+      "nRoi": 687,
+      "nGagnants": 37,
+      "nPlaces": 144,
+      "tauxGagnant": 5.4,
+      "tauxPlace": 21.0,
+      "coteGagnantMoyenne": 12.21,
+      "roiGagnant": -34.2,
+      "roiPlace": -19.0
     },
     {
       "label": "7",
-      "n": 550,
-      "nRoi": 550,
-      "nGagnants": 25,
-      "nPlaces": 93,
-      "tauxGagnant": 4.5,
-      "tauxPlace": 16.9,
-      "coteGagnantMoyenne": 11.4,
-      "roiGagnant": -48.2,
-      "roiPlace": -18.0
+      "n": 608,
+      "nRoi": 608,
+      "nGagnants": 29,
+      "nPlaces": 101,
+      "tauxGagnant": 4.8,
+      "tauxPlace": 16.6,
+      "coteGagnantMoyenne": 11.75,
+      "roiGagnant": -43.9,
+      "roiPlace": -21.7
     },
     {
       "label": "8",
-      "n": 357,
-      "nRoi": 357,
-      "nGagnants": 14,
-      "nPlaces": 44,
-      "tauxGagnant": 3.9,
-      "tauxPlace": 12.3,
-      "coteGagnantMoyenne": 11.74,
-      "roiGagnant": -53.9,
-      "roiPlace": -41.1
+      "n": 410,
+      "nRoi": 410,
+      "nGagnants": 17,
+      "nPlaces": 52,
+      "tauxGagnant": 4.1,
+      "tauxPlace": 12.7,
+      "coteGagnantMoyenne": 10.95,
+      "roiGagnant": -54.6,
+      "roiPlace": -42.4
     },
     {
       "label": "9",
-      "n": 171,
-      "nRoi": 171,
-      "nGagnants": 5,
-      "nPlaces": 15,
-      "tauxGagnant": 2.9,
-      "tauxPlace": 8.8,
-      "coteGagnantMoyenne": 14.18,
-      "roiGagnant": -58.5,
-      "roiPlace": -38.8
+      "n": 211,
+      "nRoi": 211,
+      "nGagnants": 6,
+      "nPlaces": 22,
+      "tauxGagnant": 2.8,
+      "tauxPlace": 10.4,
+      "coteGagnantMoyenne": 15.65,
+      "roiGagnant": -55.5,
+      "roiPlace": -32.5
     },
     {
       "label": "10+",
-      "n": 89,
-      "nRoi": 89,
-      "nGagnants": 3,
-      "nPlaces": 14,
-      "tauxGagnant": 3.4,
-      "tauxPlace": 15.7,
-      "coteGagnantMoyenne": 14.03,
-      "roiGagnant": -52.7,
-      "roiPlace": -34.7
+      "n": 113,
+      "nRoi": 113,
+      "nGagnants": 5,
+      "nPlaces": 20,
+      "tauxGagnant": 4.4,
+      "tauxPlace": 17.7,
+      "coteGagnantMoyenne": 13.1,
+      "roiGagnant": -42.0,
+      "roiPlace": -26.7
     }
   ],
   "classShiftBuckets": {
@@ -412,7 +417,7 @@
   "croisements": {
     "noteMin": 0,
     "noteMax": 1,
-    "n": 105,
+    "n": 106,
     "cote": [
       {
         "label": "moins de 3",
@@ -452,15 +457,15 @@
       },
       {
         "label": "12 et plus",
-        "n": 19,
-        "nRoi": 19,
+        "n": 20,
+        "nRoi": 20,
         "nGagnants": 0,
         "nPlaces": 1,
         "tauxGagnant": 0.0,
-        "tauxPlace": 5.3,
+        "tauxPlace": 5.0,
         "coteGagnantMoyenne": null,
         "roiGagnant": -100.0,
-        "roiPlace": -80.5
+        "roiPlace": -81.5
       },
       {
         "label": "inconnu",
@@ -478,15 +483,15 @@
     "nbCourses": [
       {
         "label": "1 à 2 courses",
-        "n": 22,
-        "nRoi": 22,
+        "n": 23,
+        "nRoi": 23,
         "nGagnants": 4,
         "nPlaces": 11,
-        "tauxGagnant": 18.2,
-        "tauxPlace": 50.0,
+        "tauxGagnant": 17.4,
+        "tauxPlace": 47.8,
         "coteGagnantMoyenne": 1.73,
-        "roiGagnant": -68.6,
-        "roiPlace": -23.2
+        "roiGagnant": -70.0,
+        "roiPlace": -26.5
       },
       {
         "label": "3 à 4 courses",
@@ -528,15 +533,15 @@
       },
       {
         "label": "autre cheval d'un entraîneur à 2+ partants",
-        "n": 12,
-        "nRoi": 12,
+        "n": 13,
+        "nRoi": 13,
         "nGagnants": 3,
         "nPlaces": 5,
-        "tauxGagnant": 25.0,
-        "tauxPlace": 41.7,
+        "tauxGagnant": 23.1,
+        "tauxPlace": 38.5,
         "coteGagnantMoyenne": 2.4,
-        "roiGagnant": -40.0,
-        "roiPlace": -42.5
+        "roiGagnant": -44.6,
+        "roiPlace": -46.9
       },
       {
         "label": "entraîneur à un seul partant",
@@ -554,15 +559,15 @@
     "pays": [
       {
         "label": "France",
-        "n": 71,
-        "nRoi": 71,
+        "n": 72,
+        "nRoi": 72,
         "nGagnants": 13,
         "nPlaces": 32,
-        "tauxGagnant": 18.3,
-        "tauxPlace": 45.1,
+        "tauxGagnant": 18.1,
+        "tauxPlace": 44.4,
         "coteGagnantMoyenne": 2.54,
-        "roiGagnant": -53.5,
-        "roiPlace": -20.7
+        "roiGagnant": -54.2,
+        "roiPlace": -21.8
       },
       {
         "label": "étranger",
@@ -580,15 +585,15 @@
     "discipline": [
       {
         "label": "attelé",
-        "n": 102,
-        "nRoi": 102,
+        "n": 103,
+        "nRoi": 103,
         "nGagnants": 25,
         "nPlaces": 47,
-        "tauxGagnant": 24.5,
-        "tauxPlace": 46.1,
+        "tauxGagnant": 24.3,
+        "tauxPlace": 45.6,
         "coteGagnantMoyenne": 2.27,
-        "roiGagnant": -44.3,
-        "roiPlace": -28.4
+        "roiGagnant": -44.9,
+        "roiPlace": -29.1
       },
       {
         "label": "monté",
