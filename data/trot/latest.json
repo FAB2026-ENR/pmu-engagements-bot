@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T09:58:45.250505+00:00",
+  "generatedAt": "2026-10-20T10:25:07.968638+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -637,7 +637,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -686,7 +686,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -735,7 +735,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -784,7 +784,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -805,6 +805,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2425,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -834,7 +835,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -883,7 +884,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -932,7 +933,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -981,7 +982,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -1030,7 +1031,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -10375,7 +10376,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -11131,6 +11132,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS",
+            "poidsConditionMonte": 0,
             "handicapDistance": 2425,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -11160,7 +11162,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -13507,7 +13509,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -14280,7 +14282,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -15052,7 +15054,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DES COLCHIQUES                     SUISSE"
@@ -15645,7 +15647,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DES COLCHIQUES                     SUISSE"
