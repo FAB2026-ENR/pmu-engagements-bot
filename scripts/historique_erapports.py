@@ -15,6 +15,7 @@ import json
 import re
 import sys
 import time
+from datetime import date, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -61,21 +62,47 @@ def codes_du_jour(jour):
     return sorted(codes)
 
 
+def bilans_galop():
+    """{jour: fichier bilan} : historique avant le 02/10, bilans du bot ensuite (jusqu'à hier)."""
+    out = {}
+    for f in DOSSIER.glob("bilan-*.json"):
+        jour = f.stem.replace("bilan-", "")
+        if jour < "2026-10-02":
+            out[jour] = f
+    hier = (date.today() - timedelta(days=1)).isoformat()
+    for f in (DOSSIER.parent).glob("bilan-20*.json"):
+        jour = f.stem.replace("bilan-", "")
+        if "2026-10-02" <= jour <= hier:
+            out[jour] = f
+    return out
+
+
 def main():
-    jours = sorted({f.stem.split("-", 1)[1] for f in DOSSIER.glob("rapports-*.json")}
+    """Toutes les courses de galop des bilans (pour tester par exemple un jockey),
+    en complétant les fichiers déjà faits sans refaire ce qui y est."""
+    bilans = bilans_galop()
+    jours = sorted(set(bilans) | {f.stem.split("-", 1)[1] for f in DOSSIER.glob("rapports-*.json")}
                    | {f.stem.split("-", 1)[1] for f in DOSSIER.glob("large-*.json")})
     depart = time.time()
     faits = 0
     for jour in jours:
         sortie = DOSSIER / f"erapports-{jour}.json"
-        if sortie.exists():
+        resultat = json.loads(sortie.read_text(encoding="utf-8")) if sortie.exists() else {}
+        codes = set(codes_du_jour(jour))
+        if jour in bilans:
+            try:
+                entries = json.loads(bilans[jour].read_text(encoding="utf-8")).get("entries", [])
+                codes |= {e["reunion"] + e["course"] for e in entries if e.get("reunion") and e.get("course")}
+            except ValueError:
+                pass
+        manquants = sorted(codes - set(resultat))
+        if not manquants:
             continue
         if time.time() - depart > BUDGET_SECONDES:
             print("Temps écoulé : relancez pour continuer.")
             break
         ddmmyyyy = jour[8:10] + jour[5:7] + jour[0:4]
-        resultat = {}
-        for code in codes_du_jour(jour):
+        for code in manquants:
             num_r, num_c = code[1:].split("C")
             try:
                 data = fetch_json(f"{ONLINE_BASE_URL}/{ddmmyyyy}/R{num_r}/C{num_c}/{RAPPORTS_URL_SUFFIX}?specialisation=INTERNET")
@@ -87,7 +114,7 @@ def main():
         sortie.write_text(json.dumps(resultat, separators=(",", ":")), encoding="utf-8")
         faits += 1
         types = sorted({t for v in resultat.values() for t in v})
-        print(f"{jour} : {len(resultat)} course(s) ; paris : {', '.join(types)}")
+        print(f"{jour} : +{len(manquants)} course(s), {len(resultat)} au total ; paris : {', '.join(types)}")
     print(f"{faits} journée(s) complétée(s).")
 
 
