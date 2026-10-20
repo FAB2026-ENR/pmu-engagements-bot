@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T10:25:07.968638+00:00",
+  "generatedAt": "2026-10-20T10:57:29.275831+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -1080,7 +1080,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1129,7 +1129,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1179,7 +1179,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1228,7 +1228,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1277,7 +1277,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1326,7 +1326,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1376,7 +1376,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1425,7 +1425,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -1474,7 +1474,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -5738,6 +5738,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
         "handicapPoids": 630,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 36,
@@ -9822,7 +9823,7 @@
       "reunion": "R5",
       "course": "C5",
       "cheval": "NARCIS DURAN",
-      "jockey": "O. PUIGSERVER",
+      "jockey": "B. MASCARO",
       "entraineur": "O. PUIGSERVER",
       "musique": "0a2a2a2aRa4a",
       "prixJour": 3500,
@@ -9830,6 +9831,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 2,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2150,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -9839,7 +9841,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -11215,7 +11217,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -12558,7 +12560,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -14334,7 +14336,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -14958,7 +14960,7 @@
           "reunion": "R5",
           "course": "C5",
           "cheval": "NARCIS DURAN",
-          "jockey": "O. PUIGSERVER",
+          "jockey": "B. MASCARO",
           "entraineur": "O. PUIGSERVER",
           "musique": "0a2a2a2aRa4a",
           "prixJour": 3500,
@@ -14966,6 +14968,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 2,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2150,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -14975,7 +14978,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -15329,7 +15332,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -15382,7 +15385,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -15434,7 +15437,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LAVAL                           SUISSE"
@@ -15486,7 +15489,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LAVAL                           SUISSE"
