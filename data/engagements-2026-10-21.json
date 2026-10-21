@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T09:04:32.080421+00:00",
+  "generatedAt": "2026-10-21T10:00:30.094067+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -51,7 +51,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -109,7 +109,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -166,7 +166,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -223,7 +223,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -280,7 +280,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -337,7 +337,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -395,7 +395,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -453,7 +453,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -511,7 +511,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -569,7 +569,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -627,7 +627,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ALPILLES"
@@ -684,7 +684,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -696,7 +696,7 @@
       "reunion": "R2",
       "course": "C2",
       "cheval": "TOLOMEIH",
-      "jockey": "D.PROVOST",
+      "jockey": "M. ROMARY",
       "entraineur": "J.ANDREU (S)",
       "musique": "",
       "prixJour": 21000,
@@ -713,7 +713,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": true,
         "supplement": 0,
@@ -740,7 +740,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -752,7 +752,7 @@
       "reunion": "R2",
       "course": "C2",
       "cheval": "CHRIS SOUFFRE",
-      "jockey": "M.GRANDIN",
+      "jockey": "A. ORANI",
       "entraineur": "C.ESCUDER",
       "musique": "",
       "prixJour": 21000,
@@ -769,7 +769,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": true,
         "supplement": 0,
@@ -796,7 +796,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -852,7 +852,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -909,7 +909,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -921,7 +921,7 @@
       "reunion": "R2",
       "course": "C2",
       "cheval": "HOLYGLEN",
-      "jockey": "M.VELON",
+      "jockey": "M. WALDHAUSER",
       "entraineur": "C.ESCUDER",
       "musique": "",
       "prixJour": 21000,
@@ -939,7 +939,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": true,
         "supplement": 0,
@@ -966,7 +966,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -987,6 +987,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 565,
+        "poidsConditionMonte": 570,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -1022,7 +1023,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -1034,7 +1035,7 @@
       "reunion": "R2",
       "course": "C2",
       "cheval": "FOX DANCE",
-      "jockey": "A.CRASTUS",
+      "jockey": "C. PACAUT",
       "entraineur": "R.CHOTARD",
       "musique": "",
       "prixJour": 21000,
@@ -1043,6 +1044,7 @@
       "infosCheval": {
         "placeCorde": 7,
         "handicapPoids": 565,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -1051,7 +1053,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": true,
         "supplement": 0,
@@ -1078,7 +1080,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -1135,7 +1137,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -1192,7 +1194,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -1248,7 +1250,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX JEUNE GENERATION"
@@ -4863,13 +4865,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -4917,13 +4921,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -4971,13 +4977,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -5025,13 +5033,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -5080,13 +5090,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -5135,13 +5147,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -5190,13 +5204,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -5245,13 +5261,15 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE BILLERE"
@@ -5300,7 +5318,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5356,7 +5376,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5411,7 +5433,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5466,7 +5490,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5521,7 +5547,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5576,7 +5604,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5631,7 +5661,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5686,7 +5718,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5741,7 +5775,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5796,7 +5832,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5850,7 +5888,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5904,7 +5944,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -5958,7 +6000,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6012,7 +6056,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6068,7 +6114,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6123,7 +6171,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6178,7 +6228,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6233,7 +6285,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6287,7 +6341,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6343,7 +6399,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6398,7 +6456,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6453,7 +6513,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6508,7 +6570,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6563,7 +6627,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6618,7 +6684,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6673,7 +6741,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6727,7 +6797,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6782,7 +6854,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6836,7 +6910,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6892,7 +6968,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -6946,7 +7024,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7000,7 +7080,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7056,7 +7138,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7111,7 +7195,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7165,7 +7251,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7219,7 +7307,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7274,7 +7364,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7329,7 +7421,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7383,7 +7477,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7437,7 +7533,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7491,7 +7589,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7546,7 +7646,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7601,7 +7703,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7655,7 +7759,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7709,7 +7815,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7763,7 +7871,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7817,7 +7927,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7871,7 +7983,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -7926,7 +8040,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -7981,7 +8097,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8036,7 +8154,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8091,7 +8211,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8146,7 +8268,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8201,7 +8325,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8256,7 +8382,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8311,7 +8439,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8366,7 +8496,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8422,7 +8554,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8478,7 +8612,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8533,7 +8669,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8588,7 +8726,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8643,7 +8783,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8699,7 +8841,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8754,7 +8898,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8809,7 +8955,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8864,7 +9012,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8919,7 +9069,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -8974,7 +9126,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9029,7 +9183,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9084,7 +9240,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9140,7 +9298,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9195,7 +9355,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9250,7 +9412,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9305,7 +9469,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9361,7 +9527,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9416,7 +9584,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9471,7 +9641,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9526,7 +9698,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9581,7 +9755,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9637,7 +9813,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9692,7 +9870,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9747,7 +9927,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9802,7 +9984,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9857,7 +10041,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9912,7 +10098,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -9967,7 +10155,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -10022,7 +10212,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -10077,7 +10269,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -10133,7 +10327,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -10188,7 +10384,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -10243,7 +10441,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -10298,7 +10498,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-21T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -29014,13 +29216,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -29075,7 +29279,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -29136,7 +29342,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -29640,7 +29848,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -30499,7 +30709,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -30517,7 +30727,7 @@
           "reunion": "R2",
           "course": "C2",
           "cheval": "CHRIS SOUFFRE",
-          "jockey": "M.GRANDIN",
+          "jockey": "A. ORANI",
           "entraineur": "C.ESCUDER",
           "musique": "",
           "prixJour": 21000,
@@ -30534,7 +30744,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 2,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": true,
             "supplement": 0,
@@ -30561,7 +30771,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -30620,7 +30830,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -30635,7 +30845,7 @@
           "reunion": "R2",
           "course": "C2",
           "cheval": "HOLYGLEN",
-          "jockey": "M.VELON",
+          "jockey": "M. WALDHAUSER",
           "entraineur": "C.ESCUDER",
           "musique": "",
           "prixJour": 21000,
@@ -30653,7 +30863,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 2,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": true,
             "supplement": 0,
@@ -30680,7 +30890,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -31309,7 +31519,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -31370,7 +31582,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -31432,7 +31646,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -32248,7 +32464,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -32308,7 +32526,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -32371,7 +32591,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -32432,7 +32654,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -32493,7 +32717,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -32553,7 +32779,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -32611,7 +32839,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -32797,7 +33027,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -32861,7 +33091,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -33057,7 +33287,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -33121,7 +33351,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -33308,7 +33538,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -33369,7 +33601,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -34375,7 +34609,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -34878,13 +35112,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -34939,7 +35175,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -34999,7 +35237,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -35059,7 +35299,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -35120,7 +35362,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -35187,13 +35431,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -35248,7 +35494,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -35309,7 +35557,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -35806,7 +36056,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -35867,7 +36119,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -35928,7 +36182,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -36126,7 +36382,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -36187,7 +36445,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -37483,13 +37743,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -37543,7 +37805,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -37572,7 +37836,7 @@
           "reunion": "R2",
           "course": "C2",
           "cheval": "TOLOMEIH",
-          "jockey": "D.PROVOST",
+          "jockey": "M. ROMARY",
           "entraineur": "J.ANDREU (S)",
           "musique": "",
           "prixJour": 21000,
@@ -37589,7 +37853,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 2,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": true,
             "supplement": 0,
@@ -37616,7 +37880,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -37735,7 +37999,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -37797,7 +38063,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -37863,7 +38131,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -37923,7 +38193,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -37984,7 +38256,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -38045,7 +38319,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -38107,7 +38383,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -38169,7 +38447,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -38230,7 +38510,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -38291,7 +38573,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -38353,7 +38637,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -38428,7 +38714,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -38491,7 +38777,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -38675,7 +38961,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -41186,7 +41474,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -41247,7 +41537,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -41567,7 +41859,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -41628,7 +41922,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -41694,7 +41990,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -41755,7 +42053,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -41821,7 +42121,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -41878,7 +42180,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -41952,7 +42256,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -42262,7 +42566,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -42323,7 +42629,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -42586,7 +42894,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -42647,7 +42957,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -42708,7 +43020,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -42769,7 +43083,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -43421,7 +43737,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -43484,7 +43800,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -43547,7 +43863,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -44473,7 +44789,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -44533,7 +44851,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -44593,7 +44913,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -44651,7 +44973,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -45070,7 +45394,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -45190,7 +45514,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -45251,7 +45577,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -45316,13 +45644,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -45376,13 +45706,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -45503,13 +45835,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -45563,7 +45897,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -45621,7 +45957,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -45695,7 +46033,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ALPILLES"
@@ -45713,7 +46051,7 @@
           "reunion": "R2",
           "course": "C2",
           "cheval": "FOX DANCE",
-          "jockey": "A.CRASTUS",
+          "jockey": "C. PACAUT",
           "entraineur": "R.CHOTARD",
           "musique": "",
           "prixJour": 21000,
@@ -45722,6 +46060,7 @@
           "infosCheval": {
             "placeCorde": 7,
             "handicapPoids": 565,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
             "nombreVictoires": 0,
@@ -45730,7 +46069,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 2,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": true,
             "supplement": 0,
@@ -45757,7 +46096,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -45817,7 +46156,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
@@ -46125,13 +46464,15 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE BILLERE"
@@ -46187,7 +46528,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -46248,7 +46591,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -46310,7 +46655,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -48898,7 +49245,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -48959,7 +49308,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -49019,7 +49370,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -50138,7 +50491,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -50198,7 +50553,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -50258,7 +50615,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-21T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -50480,6 +50839,7 @@
           "infosCheval": {
             "placeCorde": 6,
             "handicapPoids": 565,
+            "poidsConditionMonte": 570,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
             "nombreVictoires": 0,
@@ -50515,7 +50875,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX JEUNE GENERATION"
