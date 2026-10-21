@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T16:23:01.121090+00:00",
+  "generatedAt": "2026-10-21T17:00:38.139744+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -13478,7 +13478,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13535,7 +13535,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13593,7 +13593,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13651,7 +13651,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13708,7 +13708,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13766,7 +13766,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13823,7 +13823,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13880,7 +13880,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13938,7 +13938,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -13995,7 +13995,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -14052,7 +14052,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -14109,7 +14109,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA FORET DE BIZY"
@@ -15255,7 +15255,7 @@
       "reunion": "R4",
       "course": "C8",
       "cheval": "ROSAPENNA",
-      "jockey": "S.PASQUIER",
+      "jockey": "R. MANGIONE",
       "entraineur": "S.NIGGE (S)",
       "musique": "9p9p6p8p(25)1p1p8p0p7p",
       "prixJour": 21000,
@@ -15273,7 +15273,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 4,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -15921,7 +15921,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -15977,7 +15977,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -16033,7 +16033,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -16089,7 +16089,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -16145,7 +16145,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -16201,7 +16201,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -16257,7 +16257,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -16313,7 +16313,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -20589,7 +20589,7 @@
       "reunion": "R5",
       "course": "C8",
       "cheval": "PINK DIAMOND GIRL",
-      "jockey": "JOSEPHINE GORDON",
+      "jockey": "JACK DACE",
       "entraineur": "KEIRAN BURKE",
       "musique": "0p0p9p7p7p",
       "prixJour": 7229,
@@ -20607,7 +20607,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -30658,7 +30658,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -40274,7 +40274,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORET DE BIZY"
@@ -41281,7 +41281,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORET DE BIZY"
@@ -41344,7 +41344,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORET DE BIZY"
@@ -42188,7 +42188,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA FORET DE BIZY"
@@ -45573,7 +45573,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -47337,7 +47337,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
@@ -48536,7 +48536,7 @@
           "reunion": "R4",
           "course": "C8",
           "cheval": "ROSAPENNA",
-          "jockey": "S.PASQUIER",
+          "jockey": "R. MANGIONE",
           "entraineur": "S.NIGGE (S)",
           "musique": "9p9p6p8p(25)1p1p8p0p7p",
           "prixJour": 21000,
@@ -48554,7 +48554,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 4,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -50954,7 +50954,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "EBF FILLIES' NOVICE STAKES (CLASS 3)"
