@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T07:27:47.667781+00:00",
+  "generatedAt": "2026-10-21T08:05:21.304707+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -292,7 +292,7 @@
       "reunion": "R2",
       "course": "C1",
       "cheval": "YELLOW DONUTS",
-      "jockey": "H.BOUTIN",
+      "jockey": "H. BESNIER",
       "entraineur": "N.PERRET (S)",
       "musique": "4p6p9p9p",
       "prixJour": 17300,
@@ -310,7 +310,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -41646,7 +41646,7 @@
           "reunion": "R2",
           "course": "C1",
           "cheval": "YELLOW DONUTS",
-          "jockey": "H.BOUTIN",
+          "jockey": "H. BESNIER",
           "entraineur": "N.PERRET (S)",
           "musique": "4p6p9p9p",
           "prixJour": 17300,
@@ -41664,7 +41664,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 2,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
