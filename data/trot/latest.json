@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T17:20:58.126328+00:00",
+  "generatedAt": "2026-10-22T17:55:25.456626+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -7072,7 +7072,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7093,6 +7093,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 2,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -7122,7 +7123,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7172,7 +7173,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7222,7 +7223,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7272,7 +7273,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7322,7 +7323,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7372,7 +7373,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7422,7 +7423,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7472,7 +7473,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7522,7 +7523,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -7573,7 +7574,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -9283,6 +9284,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 2,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2100,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -9312,7 +9314,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -9365,7 +9367,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -11200,7 +11202,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
@@ -12146,7 +12148,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX D'ITALIE                           ALLEMAGNE"
