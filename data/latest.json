@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T17:55:23.221647+00:00",
+  "generatedAt": "2026-10-22T18:20:40.918379+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -3268,8 +3268,8 @@
       "entraineur": "S.GOUYETTE (S)",
       "musique": "5p",
       "prixJour": 10100,
-      "prixPrec": 8000.0,
-      "prixMoyen": 8000,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 615,
@@ -3325,8 +3325,8 @@
       "entraineur": "CH.HERPIN (S)",
       "musique": "4p",
       "prixJour": 10100,
-      "prixPrec": 8000.0,
-      "prixMoyen": 8000,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 615,
@@ -3382,8 +3382,8 @@
       "entraineur": "D.SATALIA",
       "musique": "6p",
       "prixJour": 10100,
-      "prixPrec": 8000.0,
-      "prixMoyen": 8000,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 3,
         "handicapPoids": 610,
@@ -3497,8 +3497,8 @@
       "entraineur": "F.HAYERES (S)",
       "musique": "Jp",
       "prixJour": 10100,
-      "prixPrec": 8000.0,
-      "prixMoyen": 8000,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 9,
         "handicapPoids": 610,
@@ -3611,8 +3611,8 @@
       "entraineur": "A.COUETIL (S)",
       "musique": "9p",
       "prixJour": 10100,
-      "prixPrec": 15600.0,
-      "prixMoyen": 15600,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 11,
         "handicapPoids": 610,
@@ -3897,8 +3897,8 @@
       "entraineur": "FR.MONFORT (S)",
       "musique": "6p7p",
       "prixJour": 10100,
-      "prixPrec": 8000.0,
-      "prixMoyen": 8000,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 610,
@@ -3955,8 +3955,8 @@
       "entraineur": "E.LECOIFFIER",
       "musique": "0p",
       "prixJour": 10100,
-      "prixPrec": 10100.0,
-      "prixMoyen": 10100,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 10,
         "handicapPoids": 595,
@@ -8818,8 +8818,8 @@
       "entraineur": "J.BOISNARD (S)",
       "musique": "5p6p4p",
       "prixJour": 25900,
-      "prixPrec": 14600.0,
-      "prixMoyen": 18867,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 1,
         "handicapValeur": 33.0,
@@ -8875,8 +8875,8 @@
       "entraineur": "D.WATRIGANT (S)",
       "musique": "2p2p8p7p",
       "prixJour": 25900,
-      "prixPrec": 21000.0,
-      "prixMoyen": 18800,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 2,
         "handicapValeur": 32.5,
@@ -8932,8 +8932,8 @@
       "entraineur": "MME J.LE STANG",
       "musique": "7p7p7p",
       "prixJour": 25900,
-      "prixPrec": 27400.0,
-      "prixMoyen": 33500,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 6,
         "handicapValeur": 32.0,
@@ -8989,8 +8989,8 @@
       "entraineur": "JP.CARVALHO",
       "musique": "1p3p7p2p",
       "prixJour": 25900,
-      "prixPrec": 12000.0,
-      "prixMoyen": 13667,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 8,
         "handicapValeur": 31.5,
@@ -9046,8 +9046,8 @@
       "entraineur": "ED.MONFORT (S)",
       "musique": "3p9p6p",
       "prixJour": 25900,
-      "prixPrec": 11000.0,
-      "prixMoyen": 17667,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 7,
         "handicapValeur": 30.5,
@@ -9103,8 +9103,8 @@
       "entraineur": "P.ADDA (S)",
       "musique": "0p5p7p",
       "prixJour": 25900,
-      "prixPrec": 23000.0,
-      "prixMoyen": 23000,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 5,
         "handicapValeur": 30.5,
@@ -9161,8 +9161,8 @@
       "entraineur": "B.LEGROS (S)",
       "musique": "5p2p7p",
       "prixJour": 25900,
-      "prixPrec": 11000.0,
-      "prixMoyen": 11467,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 3,
         "handicapValeur": 30.0,
@@ -9219,8 +9219,8 @@
       "entraineur": "HA.PANTALL (S)",
       "musique": "8p5p0p",
       "prixJour": 25900,
-      "prixPrec": 21000.0,
-      "prixMoyen": 21000,
+      "prixPrec": null,
+      "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 4,
         "handicapValeur": 30.0,
@@ -9659,7 +9659,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -9715,7 +9715,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -9772,7 +9772,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -9829,7 +9829,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -9885,7 +9885,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -9943,7 +9943,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -9999,7 +9999,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -10056,7 +10056,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -10112,7 +10112,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -10169,7 +10169,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -10225,7 +10225,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -10282,7 +10282,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PUTANGES"
@@ -10968,7 +10968,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -11026,7 +11026,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -11084,7 +11084,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -11142,7 +11142,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -11199,7 +11199,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -11257,7 +11257,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -11315,7 +11315,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -11373,7 +11373,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -18541,7 +18541,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PUTANGES"
@@ -18604,7 +18604,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PUTANGES"
@@ -20739,8 +20739,8 @@
           "entraineur": "E.LECOIFFIER",
           "musique": "0p",
           "prixJour": 10100,
-          "prixPrec": 10100.0,
-          "prixMoyen": 10100,
+          "prixPrec": null,
+          "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 10,
             "handicapPoids": 595,
@@ -20789,10 +20789,7 @@
           "france": true,
           "numPmu": 13,
           "score": 10.0,
-          "classShift": {
-            "type": "stable",
-            "pct": 0
-          },
+          "classShift": null,
           "meilleurEngagement": false
         }
       ]
@@ -21351,7 +21348,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PUTANGES"
@@ -21571,8 +21568,8 @@
           "entraineur": "FR.MONFORT (S)",
           "musique": "6p7p",
           "prixJour": 10100,
-          "prixPrec": 8000.0,
-          "prixMoyen": 8000,
+          "prixPrec": null,
+          "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 610,
@@ -21620,11 +21617,8 @@
           },
           "france": true,
           "numPmu": 12,
-          "score": 6.54,
-          "classShift": {
-            "type": "monte",
-            "pct": 26
-          },
+          "score": 6.33,
+          "classShift": null,
           "meilleurEngagement": false
         },
         {
@@ -23154,7 +23148,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PUTANGES"
@@ -23436,8 +23430,8 @@
           "entraineur": "HA.PANTALL (S)",
           "musique": "8p5p0p",
           "prixJour": 25900,
-          "prixPrec": 21000.0,
-          "prixMoyen": 21000,
+          "prixPrec": null,
+          "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 4,
             "handicapValeur": 30.0,
@@ -23484,11 +23478,8 @@
           },
           "france": true,
           "numPmu": 8,
-          "score": 7.73,
-          "classShift": {
-            "type": "monte",
-            "pct": 23
-          },
+          "score": 7.55,
+          "classShift": null,
           "meilleurEngagement": false
         }
       ]
@@ -24059,8 +24050,8 @@
           "entraineur": "J.BOISNARD (S)",
           "musique": "5p6p4p",
           "prixJour": 25900,
-          "prixPrec": 14600.0,
-          "prixMoyen": 18867,
+          "prixPrec": null,
+          "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 1,
             "handicapValeur": 33.0,
@@ -24107,11 +24098,8 @@
           },
           "france": true,
           "numPmu": 1,
-          "score": 5.71,
-          "classShift": {
-            "type": "monte",
-            "pct": 77
-          },
+          "score": 5.09,
+          "classShift": null,
           "meilleurEngagement": false
         },
         {
@@ -25613,7 +25601,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -25673,7 +25661,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN SPECIAL WEIGHT 1400"
@@ -26050,7 +26038,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PUTANGES"
@@ -28388,8 +28376,8 @@
           "entraineur": "MME J.LE STANG",
           "musique": "7p7p7p",
           "prixJour": 25900,
-          "prixPrec": 27400.0,
-          "prixMoyen": 33500,
+          "prixPrec": null,
+          "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 6,
             "handicapValeur": 32.0,
@@ -28437,10 +28425,7 @@
           "france": true,
           "numPmu": 3,
           "score": 7.0,
-          "classShift": {
-            "type": "stable",
-            "pct": 5
-          },
+          "classShift": null,
           "meilleurEngagement": false
         }
       ]
@@ -28820,7 +28805,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PUTANGES"
@@ -30986,8 +30971,8 @@
           "entraineur": "S.GOUYETTE (S)",
           "musique": "5p",
           "prixJour": 10100,
-          "prixPrec": 8000.0,
-          "prixMoyen": 8000,
+          "prixPrec": null,
+          "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 8,
             "handicapPoids": 615,
@@ -31034,11 +31019,8 @@
           },
           "france": true,
           "numPmu": 1,
-          "score": 5.21,
-          "classShift": {
-            "type": "monte",
-            "pct": 26
-          },
+          "score": 5.0,
+          "classShift": null,
           "meilleurEngagement": false
         }
       ]
@@ -31857,7 +31839,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PUTANGES"
