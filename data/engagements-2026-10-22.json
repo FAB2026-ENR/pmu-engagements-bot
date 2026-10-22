@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T19:08:20.487695+00:00",
+  "generatedAt": "2026-10-22T19:59:13.627172+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -3268,8 +3268,8 @@
       "entraineur": "S.GOUYETTE (S)",
       "musique": "5p",
       "prixJour": 10100,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 8000.0,
+      "prixMoyen": 8000,
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 615,
@@ -3325,8 +3325,8 @@
       "entraineur": "CH.HERPIN (S)",
       "musique": "4p",
       "prixJour": 10100,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 8000.0,
+      "prixMoyen": 8000,
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 615,
@@ -3382,8 +3382,8 @@
       "entraineur": "D.SATALIA",
       "musique": "6p",
       "prixJour": 10100,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 8000.0,
+      "prixMoyen": 8000,
       "infosCheval": {
         "placeCorde": 3,
         "handicapPoids": 610,
@@ -3497,8 +3497,8 @@
       "entraineur": "F.HAYERES (S)",
       "musique": "Jp",
       "prixJour": 10100,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 8000.0,
+      "prixMoyen": 8000,
       "infosCheval": {
         "placeCorde": 9,
         "handicapPoids": 610,
@@ -3611,8 +3611,8 @@
       "entraineur": "A.COUETIL (S)",
       "musique": "9p",
       "prixJour": 10100,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 15600.0,
+      "prixMoyen": 15600,
       "infosCheval": {
         "placeCorde": 11,
         "handicapPoids": 610,
@@ -3897,8 +3897,8 @@
       "entraineur": "FR.MONFORT (S)",
       "musique": "6p7p",
       "prixJour": 10100,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 8000.0,
+      "prixMoyen": 8000,
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 610,
@@ -3955,8 +3955,8 @@
       "entraineur": "E.LECOIFFIER",
       "musique": "0p",
       "prixJour": 10100,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 10100.0,
+      "prixMoyen": 10100,
       "infosCheval": {
         "placeCorde": 10,
         "handicapPoids": 595,
@@ -8818,8 +8818,8 @@
       "entraineur": "J.BOISNARD (S)",
       "musique": "5p6p4p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 14600.0,
+      "prixMoyen": 18867,
       "infosCheval": {
         "placeCorde": 1,
         "handicapValeur": 33.0,
@@ -8875,8 +8875,8 @@
       "entraineur": "D.WATRIGANT (S)",
       "musique": "2p2p8p7p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 21000.0,
+      "prixMoyen": 18800,
       "infosCheval": {
         "placeCorde": 2,
         "handicapValeur": 32.5,
@@ -8932,8 +8932,8 @@
       "entraineur": "MME J.LE STANG",
       "musique": "7p7p7p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 27400.0,
+      "prixMoyen": 33500,
       "infosCheval": {
         "placeCorde": 6,
         "handicapValeur": 32.0,
@@ -8989,8 +8989,8 @@
       "entraineur": "JP.CARVALHO",
       "musique": "1p3p7p2p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 12000.0,
+      "prixMoyen": 13667,
       "infosCheval": {
         "placeCorde": 8,
         "handicapValeur": 31.5,
@@ -9046,8 +9046,8 @@
       "entraineur": "ED.MONFORT (S)",
       "musique": "3p9p6p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 11000.0,
+      "prixMoyen": 17667,
       "infosCheval": {
         "placeCorde": 7,
         "handicapValeur": 30.5,
@@ -9103,8 +9103,8 @@
       "entraineur": "P.ADDA (S)",
       "musique": "0p5p7p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 23000.0,
+      "prixMoyen": 23000,
       "infosCheval": {
         "placeCorde": 5,
         "handicapValeur": 30.5,
@@ -9161,8 +9161,8 @@
       "entraineur": "B.LEGROS (S)",
       "musique": "5p2p7p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 11000.0,
+      "prixMoyen": 11467,
       "infosCheval": {
         "placeCorde": 3,
         "handicapValeur": 30.0,
@@ -9219,8 +9219,8 @@
       "entraineur": "HA.PANTALL (S)",
       "musique": "8p5p0p",
       "prixJour": 25900,
-      "prixPrec": null,
-      "prixMoyen": null,
+      "prixPrec": 21000.0,
+      "prixMoyen": 21000,
       "infosCheval": {
         "placeCorde": 4,
         "handicapValeur": 30.0,
@@ -11832,7 +11832,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -11890,7 +11890,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -11948,7 +11948,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12005,7 +12005,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12062,7 +12062,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12120,7 +12120,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12178,7 +12178,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12236,7 +12236,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12294,7 +12294,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12351,7 +12351,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -12408,7 +12408,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -15101,7 +15101,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15157,7 +15157,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15213,7 +15213,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15269,7 +15269,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15325,7 +15325,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15381,7 +15381,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15437,7 +15437,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15493,7 +15493,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15549,7 +15549,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15605,7 +15605,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15661,7 +15661,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15717,7 +15717,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ESTE SI H."
@@ -15794,6 +15794,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 600,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 43,
         "nombreVictoires": 6,
@@ -19181,7 +19182,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -19240,7 +19241,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -19865,7 +19866,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -20739,8 +20740,8 @@
           "entraineur": "E.LECOIFFIER",
           "musique": "0p",
           "prixJour": 10100,
-          "prixPrec": null,
-          "prixMoyen": null,
+          "prixPrec": 10100.0,
+          "prixMoyen": 10100,
           "infosCheval": {
             "placeCorde": 10,
             "handicapPoids": 595,
@@ -20789,7 +20790,10 @@
           "france": true,
           "numPmu": 13,
           "score": 10.0,
-          "classShift": null,
+          "classShift": {
+            "type": "stable",
+            "pct": 0
+          },
           "meilleurEngagement": false
         }
       ]
@@ -21568,8 +21572,8 @@
           "entraineur": "FR.MONFORT (S)",
           "musique": "6p7p",
           "prixJour": 10100,
-          "prixPrec": null,
-          "prixMoyen": null,
+          "prixPrec": 8000.0,
+          "prixMoyen": 8000,
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 610,
@@ -21617,8 +21621,11 @@
           },
           "france": true,
           "numPmu": 12,
-          "score": 6.33,
-          "classShift": null,
+          "score": 6.54,
+          "classShift": {
+            "type": "monte",
+            "pct": 26
+          },
           "meilleurEngagement": false
         },
         {
@@ -23430,8 +23437,8 @@
           "entraineur": "HA.PANTALL (S)",
           "musique": "8p5p0p",
           "prixJour": 25900,
-          "prixPrec": null,
-          "prixMoyen": null,
+          "prixPrec": 21000.0,
+          "prixMoyen": 21000,
           "infosCheval": {
             "placeCorde": 4,
             "handicapValeur": 30.0,
@@ -23478,8 +23485,11 @@
           },
           "france": true,
           "numPmu": 8,
-          "score": 7.55,
-          "classShift": null,
+          "score": 7.73,
+          "classShift": {
+            "type": "monte",
+            "pct": 23
+          },
           "meilleurEngagement": false
         }
       ]
@@ -23808,6 +23818,7 @@
           "infosCheval": {
             "placeCorde": 2,
             "handicapPoids": 600,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 43,
             "nombreVictoires": 6,
@@ -24050,8 +24061,8 @@
           "entraineur": "J.BOISNARD (S)",
           "musique": "5p6p4p",
           "prixJour": 25900,
-          "prixPrec": null,
-          "prixMoyen": null,
+          "prixPrec": 14600.0,
+          "prixMoyen": 18867,
           "infosCheval": {
             "placeCorde": 1,
             "handicapValeur": 33.0,
@@ -24098,8 +24109,11 @@
           },
           "france": true,
           "numPmu": 1,
-          "score": 5.09,
-          "classShift": null,
+          "score": 5.71,
+          "classShift": {
+            "type": "monte",
+            "pct": 77
+          },
           "meilleurEngagement": false
         },
         {
@@ -24662,7 +24676,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -24721,7 +24735,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -27916,7 +27930,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -28376,8 +28390,8 @@
           "entraineur": "MME J.LE STANG",
           "musique": "7p7p7p",
           "prixJour": 25900,
-          "prixPrec": null,
-          "prixMoyen": null,
+          "prixPrec": 27400.0,
+          "prixMoyen": 33500,
           "infosCheval": {
             "placeCorde": 6,
             "handicapValeur": 32.0,
@@ -28425,7 +28439,10 @@
           "france": true,
           "numPmu": 3,
           "score": 7.0,
-          "classShift": null,
+          "classShift": {
+            "type": "stable",
+            "pct": 5
+          },
           "meilleurEngagement": false
         }
       ]
@@ -28874,7 +28891,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -28934,7 +28951,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -29553,7 +29570,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -29614,7 +29631,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN SPECIAL WEIGHT 1200"
@@ -30100,7 +30117,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -30518,7 +30535,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -30577,7 +30594,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -30636,7 +30653,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
@@ -30971,8 +30988,8 @@
           "entraineur": "S.GOUYETTE (S)",
           "musique": "5p",
           "prixJour": 10100,
-          "prixPrec": null,
-          "prixMoyen": null,
+          "prixPrec": 8000.0,
+          "prixMoyen": 8000,
           "infosCheval": {
             "placeCorde": 8,
             "handicapPoids": 615,
@@ -31019,8 +31036,11 @@
           },
           "france": true,
           "numPmu": 1,
-          "score": 5.0,
-          "classShift": null,
+          "score": 5.21,
+          "classShift": {
+            "type": "monte",
+            "pct": 26
+          },
           "meilleurEngagement": false
         }
       ]
@@ -31207,7 +31227,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ESTE SI H."
