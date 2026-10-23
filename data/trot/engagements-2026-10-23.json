@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T09:02:03.133161+00:00",
+  "generatedAt": "2026-10-23T10:00:03.917855+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -163,6 +163,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 12,
@@ -1037,6 +1038,7 @@
       "infosCheval": {
         "deferre": "PROTEGE_ANTERIEURS_POSTERIEURS",
         "placeCorde": 7,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 50,
@@ -5957,7 +5959,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6014,7 +6016,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6071,7 +6073,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6129,7 +6131,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6185,7 +6187,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6242,7 +6244,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6298,7 +6300,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6355,7 +6357,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6411,7 +6413,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6468,7 +6470,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6525,7 +6527,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6581,7 +6583,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6638,7 +6640,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6695,7 +6697,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6751,7 +6753,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE LA MEINAU"
@@ -6808,7 +6810,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -6866,7 +6868,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -6923,7 +6925,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -6981,7 +6983,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -7038,7 +7040,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -7096,7 +7098,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -7154,7 +7156,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -7212,7 +7214,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -7270,7 +7272,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FLORESTAN"
@@ -10148,7 +10150,7 @@
       "reunion": "R3",
       "course": "C6",
       "cheval": "KISS MAKER",
-      "jockey": "G. GELORMINI",
+      "jockey": "CH. MARTENS",
       "entraineur": "P. VAN ACHTER",
       "musique": "Dm9a6a0a2a4a5a(25)7a2a",
       "prixJour": 19500,
@@ -10166,7 +10168,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 6,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -12396,7 +12398,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -12455,7 +12457,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -12997,7 +12999,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FLORESTAN"
@@ -13310,7 +13312,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FLORESTAN"
@@ -13890,7 +13892,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -14751,7 +14753,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -14812,7 +14814,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FLORESTAN"
@@ -15592,7 +15594,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -16391,7 +16393,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -16517,7 +16519,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FLORESTAN"
@@ -16643,7 +16645,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -16703,7 +16705,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -16763,7 +16765,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -16823,7 +16825,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE LA MEINAU"
@@ -17251,6 +17253,7 @@
           "prixPrec": null,
           "prixMoyen": null,
           "infosCheval": {
+            "poidsConditionMonte": 0,
             "handicapDistance": 2700,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 12,
