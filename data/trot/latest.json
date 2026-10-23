@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T07:27:36.675074+00:00",
+  "generatedAt": "2026-10-23T08:04:11.798711+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -8317,6 +8317,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 9,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2750,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 16,
@@ -16846,6 +16847,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 9,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2750,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 16,
