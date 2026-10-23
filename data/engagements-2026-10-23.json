@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T08:04:07.575559+00:00",
+  "generatedAt": "2026-10-23T09:01:59.604066+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -48,7 +48,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -102,7 +102,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -156,7 +156,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -210,7 +210,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -264,7 +264,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -318,7 +318,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -372,7 +372,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -427,7 +427,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -481,7 +481,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -535,7 +535,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -589,7 +589,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -643,7 +643,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -1366,6 +1366,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 545,
+        "poidsConditionMonte": 550,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -1420,6 +1421,7 @@
       "infosCheval": {
         "placeCorde": 11,
         "handicapPoids": 640,
+        "poidsConditionMonte": 645,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 13,
         "nombreVictoires": 2,
@@ -15372,8 +15374,8 @@
       "entraineur": "MF.WEISSMEIER",
       "musique": "2p8p6p5p8p",
       "prixJour": 11500,
-      "prixPrec": 22100.0,
-      "prixMoyen": 18100,
+      "prixPrec": 5000.0,
+      "prixMoyen": 16400,
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 545,
@@ -17018,6 +17020,7 @@
           "infosCheval": {
             "placeCorde": 11,
             "handicapPoids": 640,
+            "poidsConditionMonte": 645,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 13,
             "nombreVictoires": 2,
@@ -19535,7 +19538,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -21741,7 +21744,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -22235,7 +22238,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -23421,8 +23424,8 @@
           "entraineur": "MF.WEISSMEIER",
           "musique": "2p8p6p5p8p",
           "prixJour": 11500,
-          "prixPrec": 22100.0,
-          "prixMoyen": 18100,
+          "prixPrec": 5000.0,
+          "prixMoyen": 16400,
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 545,
@@ -23467,10 +23470,10 @@
           },
           "france": true,
           "numPmu": 6,
-          "score": 3.63,
+          "score": 5.15,
           "classShift": {
-            "type": "descend",
-            "pct": 48
+            "type": "monte",
+            "pct": 130
           },
           "meilleurEngagement": false
         },
@@ -23586,7 +23589,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -25366,7 +25369,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -26883,7 +26886,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -26941,7 +26944,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
@@ -27345,7 +27348,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX FEDERATION BELGE DES COURSES HIPPIQUES"
