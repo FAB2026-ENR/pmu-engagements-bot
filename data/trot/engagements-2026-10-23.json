@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-22T22:01:52.157484+00:00",
+  "generatedAt": "2026-10-23T06:24:13.963322+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -6025,6 +6025,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2800,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 65,
@@ -9227,6 +9228,7 @@
       "infosCheval": {
         "deferre": "PROTEGE_ANTERIEURS_DEFERRRE_POSTERIEURS",
         "placeCorde": 6,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2150,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 42,
