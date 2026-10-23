@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T11:02:42.990796+00:00",
+  "generatedAt": "2026-10-23T11:58:15.678946+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -3860,6 +3860,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2175,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 8,
@@ -8702,7 +8703,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -8759,7 +8760,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -8816,7 +8817,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -8873,7 +8874,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -8929,7 +8930,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -8986,7 +8987,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -9043,7 +9044,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -9100,7 +9101,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -9157,7 +9158,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -9214,7 +9215,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -9271,7 +9272,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -9328,7 +9329,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -9385,7 +9386,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE GROSBOIS"
@@ -12152,7 +12153,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -12518,7 +12519,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -13188,7 +13189,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -14441,7 +14442,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -16948,7 +16949,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -17692,7 +17693,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -18118,7 +18119,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -18580,7 +18581,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
@@ -19554,7 +19555,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE GROSBOIS"
