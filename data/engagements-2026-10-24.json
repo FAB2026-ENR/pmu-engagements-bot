@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T08:20:52.733897+00:00",
+  "generatedAt": "2026-10-24T08:57:02.854868+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -42,7 +42,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -63,7 +63,7 @@
       "reunion": "R2",
       "course": "C1",
       "cheval": "LILA DE BRAVONE AA",
-      "jockey": "J.PLATEAUX",
+      "jockey": "P. LE DIGABEL",
       "entraineur": "A.LORENZONI",
       "musique": "3p4p4p4p6p2p5p(25)4p1p",
       "prixJour": 15200,
@@ -80,7 +80,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -98,7 +98,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -154,7 +154,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -211,7 +211,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -268,7 +268,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -325,7 +325,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -382,7 +382,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -438,7 +438,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -495,7 +495,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -552,7 +552,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -608,7 +608,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -664,7 +664,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -720,7 +720,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -776,7 +776,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -833,7 +833,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -890,7 +890,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -946,7 +946,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1002,7 +1002,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1059,7 +1059,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1115,7 +1115,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1172,7 +1172,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1228,7 +1228,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1285,7 +1285,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1341,7 +1341,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1397,7 +1397,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1454,7 +1454,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1512,7 +1512,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1570,7 +1570,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1627,7 +1627,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1684,7 +1684,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1742,7 +1742,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1800,7 +1800,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1857,7 +1857,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1915,7 +1915,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -1973,7 +1973,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -2031,7 +2031,7 @@
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
         "penetrometre": {
-          "valeurMesure": "4,0",
+          "valeurMesure": "3,8",
           "heureMesure": "2026-10-24T09:30",
           "intitule": "Très souple",
           "commentaire": ""
@@ -13652,7 +13652,7 @@
           "reunion": "R2",
           "course": "C1",
           "cheval": "LILA DE BRAVONE AA",
-          "jockey": "J.PLATEAUX",
+          "jockey": "P. LE DIGABEL",
           "entraineur": "A.LORENZONI",
           "musique": "3p4p4p4p6p2p5p(25)4p1p",
           "prixJour": 15200,
@@ -13669,7 +13669,7 @@
             "nombrePlacesTroisieme": 1,
             "age": 4,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -13687,7 +13687,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -13749,7 +13749,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -13812,7 +13812,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -14377,7 +14377,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -14439,7 +14439,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15435,7 +15435,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15498,7 +15498,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15560,7 +15560,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15623,7 +15623,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15691,7 +15691,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15753,7 +15753,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15815,7 +15815,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15877,7 +15877,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -15940,7 +15940,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -16003,7 +16003,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -16066,7 +16066,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -16128,7 +16128,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -16192,7 +16192,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -16255,7 +16255,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -16319,7 +16319,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -16383,7 +16383,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -19512,7 +19512,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -19576,7 +19576,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -21541,7 +21541,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -21605,7 +21605,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -21673,7 +21673,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
@@ -21736,7 +21736,7 @@
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
             "penetrometre": {
-              "valeurMesure": "4,0",
+              "valeurMesure": "3,8",
               "heureMesure": "2026-10-24T09:30",
               "intitule": "Très souple",
               "commentaire": ""
