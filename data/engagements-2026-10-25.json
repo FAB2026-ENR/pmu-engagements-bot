@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T15:16:49.085092+00:00",
+  "generatedAt": "2026-10-25T15:53:53.686658+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -3359,7 +3359,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3417,7 +3417,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3475,7 +3475,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3533,7 +3533,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3591,7 +3591,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3649,7 +3649,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3706,7 +3706,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3764,7 +3764,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3822,7 +3822,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3880,7 +3880,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3939,7 +3939,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -3997,7 +3997,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -4055,7 +4055,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX BELLE DE NUIT"
@@ -4892,6 +4892,7 @@
         "placeCorde": 6,
         "handicapValeur": 25.5,
         "handicapPoids": 545,
+        "poidsConditionMonte": 550,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 37,
         "nombreVictoires": 1,
@@ -11194,6 +11195,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11244,6 +11251,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11294,6 +11307,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11344,6 +11363,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11394,6 +11419,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11444,6 +11475,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11494,6 +11531,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11544,6 +11587,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11594,6 +11643,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11644,6 +11699,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11694,6 +11755,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11744,6 +11811,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11794,6 +11867,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11844,6 +11923,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11894,6 +11979,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11944,6 +12035,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -11994,6 +12091,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12044,6 +12147,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12069,6 +12178,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 5,
         "nombreVictoires": 0,
@@ -12094,6 +12204,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12144,6 +12260,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12194,6 +12316,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12244,6 +12372,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12294,6 +12428,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12344,6 +12484,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12394,6 +12540,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12444,6 +12596,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -12494,6 +12652,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12544,6 +12708,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12594,6 +12764,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12644,6 +12820,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12694,6 +12876,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12744,6 +12932,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12794,6 +12988,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12844,6 +13044,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12894,6 +13100,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12944,6 +13156,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12994,6 +13212,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13044,6 +13268,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13094,6 +13324,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13144,6 +13380,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13194,6 +13436,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13219,6 +13467,7 @@
       "infosCheval": {
         "placeCorde": 16,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 0,
@@ -13244,6 +13493,12 @@
         "distance": 1600,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13294,6 +13549,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13319,6 +13579,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
         "nombreVictoires": 2,
@@ -13344,6 +13605,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13394,6 +13660,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13444,6 +13715,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13494,6 +13770,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13544,6 +13825,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13594,6 +13880,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13644,6 +13935,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13694,6 +13990,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13744,6 +14045,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13769,6 +14075,7 @@
       "infosCheval": {
         "placeCorde": 11,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 2,
@@ -13794,6 +14101,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -13844,6 +14156,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -13894,6 +14211,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -13944,6 +14266,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -13994,6 +14321,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -14044,6 +14376,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -14094,6 +14431,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -14144,6 +14486,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -14194,6 +14541,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -14219,6 +14571,7 @@
       "infosCheval": {
         "placeCorde": 9,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
         "nombreVictoires": 1,
@@ -14244,6 +14597,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -14294,6 +14652,11 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -14344,6 +14707,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14394,6 +14763,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14444,6 +14819,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14494,6 +14875,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14544,6 +14931,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14594,6 +14987,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14644,6 +15043,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14694,6 +15099,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14744,6 +15155,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14794,6 +15211,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14844,6 +15267,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14894,6 +15323,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14944,6 +15379,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14994,6 +15435,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15044,6 +15491,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15094,6 +15547,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15144,6 +15603,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15194,6 +15659,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15244,6 +15715,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15294,6 +15771,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15344,6 +15827,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15394,6 +15883,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15444,6 +15939,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15494,6 +15995,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15544,6 +16051,12 @@
         "distance": 2300,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-10-25T16:53",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -15594,6 +16107,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15644,6 +16162,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15694,6 +16217,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15744,6 +16272,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15794,6 +16327,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15844,6 +16382,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15894,6 +16437,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15944,6 +16492,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -15994,6 +16547,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16044,6 +16602,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16094,6 +16657,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16144,6 +16712,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16194,6 +16767,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16244,6 +16822,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16294,6 +16877,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16344,6 +16932,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16394,6 +16987,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16444,6 +17042,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16494,6 +17097,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16544,6 +17152,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16594,6 +17207,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16644,6 +17262,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16669,6 +17292,7 @@
       "infosCheval": {
         "placeCorde": 11,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 1,
         "nombreVictoires": 0,
@@ -16694,6 +17318,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16744,6 +17373,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16794,6 +17428,11 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
@@ -16844,6 +17483,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16894,6 +17538,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16944,6 +17593,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16994,6 +17648,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17044,6 +17703,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17094,6 +17758,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17144,6 +17813,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17194,6 +17868,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17244,6 +17923,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17294,6 +17978,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17344,6 +18033,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17394,6 +18088,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -17444,6 +18143,11 @@
         "distance": 1500,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-10-25T16:52",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -18372,7 +19076,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -18429,7 +19133,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -18486,7 +19190,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -18543,7 +19247,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -18601,7 +19305,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -18658,7 +19362,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -18715,7 +19419,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -18772,7 +19476,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -21454,7 +22158,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21512,7 +22216,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21571,7 +22275,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21630,7 +22334,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21688,7 +22392,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21747,7 +22451,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21805,7 +22509,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21863,7 +22567,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -21921,7 +22625,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX OCTOBRE ROSE"
@@ -22514,7 +23218,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
@@ -22578,7 +23282,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
@@ -22909,7 +23613,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX OCTOBRE ROSE"
@@ -24352,6 +25056,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24405,6 +25115,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24458,6 +25174,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24511,6 +25233,11 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24564,6 +25291,11 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -24617,6 +25349,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24670,6 +25408,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24723,6 +25467,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -24776,6 +25526,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -24829,6 +25585,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -24882,6 +25644,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -24935,6 +25703,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -24988,6 +25762,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25041,6 +25820,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -25094,6 +25878,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -25147,6 +25936,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25476,7 +26270,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX OCTOBRE ROSE"
@@ -26758,6 +27552,7 @@
             "placeCorde": 6,
             "handicapValeur": 25.5,
             "handicapPoids": 545,
+            "poidsConditionMonte": 550,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 37,
             "nombreVictoires": 1,
@@ -26984,6 +27779,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -27037,6 +27838,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -27090,6 +27897,11 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -27143,6 +27955,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -27276,7 +28093,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -28016,7 +28833,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -28340,6 +29157,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -28393,6 +29216,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -28446,6 +29275,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -28499,6 +29334,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -28552,6 +29393,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28605,6 +29452,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28658,6 +29511,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28711,6 +29570,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28764,6 +29629,11 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -28817,6 +29687,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28870,6 +29746,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28923,6 +29805,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28976,6 +29864,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29029,6 +29923,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -29082,6 +29982,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -29135,6 +30040,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -29188,6 +30098,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29698,6 +30613,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -29751,6 +30672,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -29804,6 +30730,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -29837,6 +30768,7 @@
           "infosCheval": {
             "placeCorde": 6,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 5,
             "nombreVictoires": 0,
@@ -29862,6 +30794,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -29915,6 +30853,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -29973,6 +30917,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -30026,6 +30976,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -31080,7 +32036,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX OCTOBRE ROSE"
@@ -31334,6 +32290,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -31387,6 +32349,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31445,6 +32412,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -31498,6 +32471,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31556,6 +32535,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -31609,6 +32594,11 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -31662,6 +32652,11 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -31720,6 +32715,11 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -31773,6 +32773,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -32099,7 +33104,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
@@ -32599,6 +33604,11 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -32652,6 +33662,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33065,6 +34081,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33118,6 +34140,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -33171,6 +34198,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33342,6 +34374,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -33395,6 +34433,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33661,7 +34704,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE L'ILE DE BREHAT"
@@ -34112,6 +35155,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -34165,6 +35213,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -35132,7 +36185,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
@@ -35323,6 +36376,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -35376,6 +36435,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -35429,6 +36494,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -35482,6 +36553,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -35535,6 +36612,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -35588,6 +36671,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -35646,6 +36735,11 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -35699,6 +36793,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -35752,6 +36851,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -35810,6 +36914,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -35863,6 +36972,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -36149,6 +37263,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -36202,6 +37322,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -36255,6 +37381,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -36308,6 +37440,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -36361,6 +37499,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -36389,6 +37533,7 @@
           "infosCheval": {
             "placeCorde": 16,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 3,
             "nombreVictoires": 0,
@@ -36414,6 +37559,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -36467,6 +37618,11 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -36520,6 +37676,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -36573,6 +37735,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -36626,6 +37793,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -36679,6 +37851,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -36732,6 +37909,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -36915,6 +38097,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -36968,6 +38156,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -37021,6 +38215,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -37074,6 +38274,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -37127,6 +38333,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -37180,6 +38392,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -37233,6 +38451,11 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -37286,6 +38509,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37339,6 +38568,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37392,6 +38627,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37445,6 +38686,12 @@
             "distance": 2300,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -37498,6 +38745,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -37551,6 +38803,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -37604,6 +38861,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -37802,7 +39064,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
@@ -37866,7 +39128,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
@@ -38093,6 +39355,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -38146,6 +39413,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39064,6 +40336,11 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -39117,6 +40394,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39396,6 +40679,12 @@
             "distance": 1600,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -39449,6 +40738,11 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -39502,6 +40796,11 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -39555,6 +40854,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -39608,6 +40912,11 @@
             "distance": 1500,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39791,6 +41100,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-10-25T16:53",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -39844,6 +41159,11 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-10-25T16:52",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
@@ -40039,7 +41359,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
@@ -40103,7 +41423,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX BELLE DE NUIT"
