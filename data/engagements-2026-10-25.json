@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T19:21:48.822444+00:00",
+  "generatedAt": "2026-10-25T19:49:17.848480+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -14165,7 +14165,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14220,7 +14220,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14275,7 +14275,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14330,7 +14330,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14385,7 +14385,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14440,7 +14440,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14495,7 +14495,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14550,7 +14550,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14606,7 +14606,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -14661,7 +14661,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -15298,6 +15298,7 @@
       "infosCheval": {
         "placeCorde": 12,
         "handicapPoids": 540,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 14,
         "nombreVictoires": 1,
@@ -32661,7 +32662,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -32724,7 +32725,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -33613,7 +33614,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -33637,6 +33638,7 @@
           "infosCheval": {
             "placeCorde": 12,
             "handicapPoids": 540,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 14,
             "nombreVictoires": 1,
@@ -36744,7 +36746,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -38460,7 +38462,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -40345,7 +40347,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "190 ANOS DEL PARTIDO NACIONAL"
@@ -40805,7 +40807,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "190 ANOS DEL PARTIDO NACIONAL"
