@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T11:05:56.681333+00:00",
+  "generatedAt": "2026-10-26T13:45:10.856166+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -1189,6 +1189,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
         "placeCorde": 8,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 37,
@@ -6025,7 +6026,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6075,7 +6076,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6125,7 +6126,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6175,7 +6176,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6225,7 +6226,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6275,7 +6276,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6325,7 +6326,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6375,7 +6376,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6425,7 +6426,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6475,7 +6476,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6526,7 +6527,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6576,7 +6577,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6626,7 +6627,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6676,7 +6677,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -6727,7 +6728,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -6777,7 +6778,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -6828,7 +6829,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -6878,7 +6879,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -6929,7 +6930,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -6942,7 +6943,7 @@
       "reunion": "R7",
       "course": "C2",
       "cheval": "NANOVERO",
-      "jockey": "E. VARIN",
+      "jockey": "S. BAUDE",
       "entraineur": "E. VARIN",
       "musique": "DaDa8aDaDaDa7aDaDa",
       "prixJour": 12000,
@@ -6958,7 +6959,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -6979,7 +6980,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7029,7 +7030,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7079,7 +7080,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7129,7 +7130,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7180,7 +7181,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7230,7 +7231,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7281,7 +7282,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7332,7 +7333,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -7382,7 +7383,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7433,7 +7434,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7483,7 +7484,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7533,7 +7534,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7584,7 +7585,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7635,7 +7636,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7686,7 +7687,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7736,7 +7737,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7787,7 +7788,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7837,7 +7838,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7887,7 +7888,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7938,7 +7939,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -7989,7 +7990,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -8002,7 +8003,7 @@
       "reunion": "R7",
       "course": "C3",
       "cheval": "MIRA DES ILES",
-      "jockey": "E. VARIN",
+      "jockey": "S. BAUDE",
       "entraineur": "E. VARIN",
       "musique": "DaDa1aDaDaDa3aDaDmDa",
       "prixJour": 12000,
@@ -8019,7 +8020,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -8040,7 +8041,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -8090,7 +8091,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -8141,7 +8142,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -8192,7 +8193,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -12437,7 +12438,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -13838,7 +13839,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -13950,7 +13951,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -14062,7 +14063,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -14246,7 +14247,7 @@
           "reunion": "R7",
           "course": "C2",
           "cheval": "NANOVERO",
-          "jockey": "E. VARIN",
+          "jockey": "S. BAUDE",
           "entraineur": "E. VARIN",
           "musique": "DaDa8aDaDaDa7aDaDa",
           "prixJour": 12000,
@@ -14262,7 +14263,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -14283,7 +14284,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -14336,7 +14337,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -14352,7 +14353,7 @@
           "reunion": "R7",
           "course": "C3",
           "cheval": "MIRA DES ILES",
-          "jockey": "E. VARIN",
+          "jockey": "S. BAUDE",
           "entraineur": "E. VARIN",
           "musique": "DaDa1aDaDaDa3aDaDmDa",
           "prixJour": 12000,
@@ -14369,7 +14370,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 4,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -14390,7 +14391,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -14562,7 +14563,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -14616,7 +14617,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -14835,7 +14836,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -14947,7 +14948,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -15060,7 +15061,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -15173,7 +15174,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -15285,7 +15286,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -15507,7 +15508,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -16066,7 +16067,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -16905,7 +16906,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -18363,7 +18364,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.B)"
@@ -18475,7 +18476,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -19246,7 +19247,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -19299,7 +19300,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -19353,7 +19354,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -19406,7 +19407,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"
@@ -19788,7 +19789,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX FOIRE A L'ANDOUILLE (GR.A)"
@@ -19900,7 +19901,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ECURIE TROT A PONEY (GR.A)"

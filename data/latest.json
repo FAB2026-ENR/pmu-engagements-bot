@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T11:05:53.898098+00:00",
+  "generatedAt": "2026-10-26T13:45:07.686622+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -514,7 +514,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ISONOMY"
@@ -571,7 +571,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ISONOMY"
@@ -628,7 +628,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ISONOMY"
@@ -684,7 +684,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ISONOMY"
@@ -741,7 +741,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ISONOMY"
@@ -798,7 +798,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ISONOMY"
@@ -855,7 +855,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ISONOMY"
@@ -912,7 +912,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -969,7 +969,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -981,7 +981,7 @@
       "reunion": "R1",
       "course": "C3",
       "cheval": "COAXED",
-      "jockey": "C.SOUMILLON",
+      "jockey": "C. DEMURO",
       "entraineur": "JOHN & THADY GOSDEN",
       "musique": "3p1p",
       "prixJour": 73200,
@@ -998,7 +998,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 2,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -1026,7 +1026,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -1084,7 +1084,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -1142,7 +1142,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -1200,7 +1200,7 @@
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -1257,7 +1257,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1314,7 +1314,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1371,7 +1371,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1428,7 +1428,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1485,7 +1485,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1542,7 +1542,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1599,7 +1599,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1656,7 +1656,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1668,7 +1668,7 @@
       "reunion": "R1",
       "course": "C4",
       "cheval": "KRASKHOV",
-      "jockey": "C.SOUMILLON",
+      "jockey": "T. PICCONE",
       "entraineur": "M.DELCHER SANCHEZ",
       "musique": "3p9p0p6p6p3p3p4p(25)1p",
       "prixJour": 50900,
@@ -1686,7 +1686,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 4,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -1713,7 +1713,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1770,7 +1770,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1827,7 +1827,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1884,7 +1884,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1941,7 +1941,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -1998,7 +1998,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -2055,7 +2055,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -2112,7 +2112,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -2170,7 +2170,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2228,7 +2228,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2286,7 +2286,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2344,7 +2344,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2365,6 +2365,7 @@
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 555,
+        "poidsConditionMonte": 560,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 2,
         "nombreVictoires": 2,
@@ -2401,7 +2402,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2459,7 +2460,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2516,7 +2517,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2573,7 +2574,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2630,7 +2631,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2688,7 +2689,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2746,7 +2747,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2804,7 +2805,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -2862,7 +2863,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE VITESSE"
@@ -4480,7 +4481,7 @@
       "reunion": "R1",
       "course": "C8",
       "cheval": "DOSTOIEVSKY",
-      "jockey": "C.SOUMILLON",
+      "jockey": "T. PICCONE",
       "entraineur": "M.DELCHER SANCHEZ",
       "musique": "0p6p1p0p(25)1p1p3p",
       "prixJour": 73200,
@@ -4498,7 +4499,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -4833,8 +4834,8 @@
       "entraineur": "EDDIE & PATRICK HARTY",
       "musique": "1p6p(25)1p0p3p2p0p3p4p",
       "prixJour": 73200,
-      "prixPrec": 150000.0,
-      "prixMoyen": 466554,
+      "prixPrec": 66550.0,
+      "prixMoyen": 333219,
       "infosCheval": {
         "placeCorde": 16,
         "handicapValeur": 49.5,
@@ -4892,7 +4893,7 @@
       "musique": "1p(25)0p2p2p0p9p4p0p5p",
       "prixJour": 73200,
       "prixPrec": 50000.0,
-      "prixMoyen": 74400,
+      "prixMoyen": 63250,
       "infosCheval": {
         "placeCorde": 11,
         "handicapValeur": 46.5,
@@ -5919,7 +5920,7 @@
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -5978,7 +5979,7 @@
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -6036,7 +6037,7 @@
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -6094,7 +6095,7 @@
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -6153,7 +6154,7 @@
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -6211,7 +6212,7 @@
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -6268,7 +6269,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -6326,7 +6327,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -6384,7 +6385,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -6442,7 +6443,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -6499,7 +6500,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -6557,7 +6558,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -6615,7 +6616,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -6672,7 +6673,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -6730,7 +6731,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -6787,7 +6788,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -6845,7 +6846,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -6903,7 +6904,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -6962,7 +6963,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -7020,7 +7021,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -7078,7 +7079,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -7135,7 +7136,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -7192,7 +7193,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -7250,7 +7251,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -7309,7 +7310,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -7367,7 +7368,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -7426,7 +7427,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -7484,7 +7485,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -7542,7 +7543,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -7600,7 +7601,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -7659,7 +7660,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -7718,7 +7719,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'ENSUES"
@@ -12399,6 +12400,7 @@
         "placeCorde": 7,
         "handicapValeur": 30.5,
         "handicapPoids": 535,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 61,
         "nombreVictoires": 11,
@@ -12503,6 +12505,7 @@
         "placeCorde": 10,
         "handicapValeur": 30.0,
         "handicapPoids": 530,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 51,
         "nombreVictoires": 8,
@@ -21226,7 +21229,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -21290,7 +21293,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -21381,6 +21384,7 @@
             "placeCorde": 7,
             "handicapValeur": 30.5,
             "handicapPoids": 535,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 61,
             "nombreVictoires": 11,
@@ -21439,6 +21443,7 @@
             "placeCorde": 10,
             "handicapValeur": 30.0,
             "handicapPoids": 530,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 51,
             "nombreVictoires": 8,
@@ -21660,7 +21665,7 @@
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -21724,7 +21729,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -21788,7 +21793,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -21853,7 +21858,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -21917,7 +21922,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -21982,7 +21987,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -22296,7 +22301,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ISONOMY"
@@ -22360,7 +22365,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -22725,7 +22730,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ISONOMY"
@@ -22789,7 +22794,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -22917,7 +22922,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -23050,7 +23055,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -23115,7 +23120,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -23804,7 +23809,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ISONOMY"
@@ -23867,7 +23872,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -23930,7 +23935,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -24275,6 +24280,7 @@
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 555,
+            "poidsConditionMonte": 560,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 2,
             "nombreVictoires": 2,
@@ -24311,7 +24317,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -24563,7 +24569,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -25044,7 +25050,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ISONOMY"
@@ -25108,7 +25114,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -25176,7 +25182,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ISONOMY"
@@ -25772,7 +25778,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -26557,7 +26563,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -26620,7 +26626,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -27239,7 +27245,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -27303,7 +27309,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -28131,7 +28137,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -28341,7 +28347,7 @@
           "reunion": "R1",
           "course": "C4",
           "cheval": "KRASKHOV",
-          "jockey": "C.SOUMILLON",
+          "jockey": "T. PICCONE",
           "entraineur": "M.DELCHER SANCHEZ",
           "musique": "3p9p0p6p6p3p3p4p(25)1p",
           "prixJour": 50900,
@@ -28359,7 +28365,7 @@
             "nombrePlacesTroisieme": 3,
             "age": 4,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -28386,7 +28392,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -28468,7 +28474,7 @@
           "reunion": "R1",
           "course": "C8",
           "cheval": "DOSTOIEVSKY",
-          "jockey": "C.SOUMILLON",
+          "jockey": "T. PICCONE",
           "entraineur": "M.DELCHER SANCHEZ",
           "musique": "0p6p1p0p(25)1p1p3p",
           "prixJour": 73200,
@@ -28486,7 +28492,7 @@
             "nombrePlacesTroisieme": 1,
             "age": 3,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -28704,7 +28710,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -30105,7 +30111,7 @@
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -30169,7 +30175,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -30232,7 +30238,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -30294,7 +30300,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -30358,7 +30364,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -30737,7 +30743,7 @@
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -31050,7 +31056,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -31115,7 +31121,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -31437,7 +31443,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -31501,7 +31507,7 @@
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -31566,7 +31572,7 @@
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -31630,7 +31636,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -32251,7 +32257,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -32384,7 +32390,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -32453,7 +32459,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE PROVENCE - PRIX LUCIEN PLANARD"
@@ -32580,7 +32586,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -32955,7 +32961,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
@@ -33088,7 +33094,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'ENSUES"
@@ -33221,7 +33227,7 @@
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA METROPOLE AIX - MARSEILLE - PROVENCE"
@@ -33284,7 +33290,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -34052,7 +34058,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA REGION SUD - PROVENCE - ALPES-COTE D'AZUR"
@@ -35161,7 +35167,7 @@
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "DARLEY PRIX DES RESERVOIRS"
@@ -35224,7 +35230,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -35287,7 +35293,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA ROUTE DES PRINCES"
@@ -35351,7 +35357,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CRITERIUM DE VITESSE"
