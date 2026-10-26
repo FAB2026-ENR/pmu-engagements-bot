@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T08:14:49.966691+00:00",
+  "generatedAt": "2026-10-26T09:10:50.969183+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -42,6 +42,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -94,6 +100,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -145,6 +157,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -197,6 +215,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -249,6 +273,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -301,6 +331,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -353,6 +389,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -405,6 +447,12 @@
         "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -458,7 +506,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -513,7 +563,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -568,7 +620,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -622,7 +676,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -677,7 +733,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -732,7 +790,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -787,7 +847,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -840,6 +902,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -891,6 +959,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -911,7 +985,7 @@
       "entraineur": "JOHN & THADY GOSDEN",
       "musique": "3p1p",
       "prixJour": 73200,
-      "prixPrec": 13000.0,
+      "prixPrec": null,
       "prixMoyen": 13000,
       "infosCheval": {
         "placeCorde": 1,
@@ -942,6 +1016,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -994,6 +1074,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -1046,6 +1132,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -1098,6 +1190,12 @@
         "parcours": "1600 M. (PISTE RONDE)",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "FEMELLES",
@@ -1151,7 +1249,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1206,7 +1306,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1261,7 +1363,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1316,7 +1420,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1371,7 +1477,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1426,7 +1534,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1481,7 +1591,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1536,7 +1648,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1591,7 +1705,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1646,7 +1762,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1701,7 +1819,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1756,7 +1876,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1811,7 +1933,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1866,7 +1990,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1921,7 +2047,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -1976,7 +2104,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -2030,6 +2160,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2082,6 +2218,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2134,6 +2276,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2186,6 +2334,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2237,6 +2391,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2289,6 +2449,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2340,6 +2506,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2391,6 +2563,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2442,6 +2620,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2494,6 +2678,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2546,6 +2736,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2598,6 +2794,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2650,6 +2852,12 @@
         "parcours": "1100 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -2703,7 +2911,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -2759,7 +2969,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -2814,7 +3026,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -2869,7 +3083,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -2924,7 +3140,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -2980,7 +3198,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3035,7 +3255,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3090,7 +3312,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3145,7 +3369,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3200,7 +3426,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3256,7 +3484,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3311,7 +3541,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3366,7 +3598,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3421,7 +3655,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3476,7 +3712,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3531,7 +3769,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3586,7 +3826,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3642,7 +3884,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3697,7 +3941,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3752,7 +3998,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3807,7 +4055,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3863,7 +4113,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3919,7 +4171,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -3975,7 +4229,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -4030,7 +4286,9 @@
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -4084,6 +4342,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4136,6 +4400,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4188,6 +4458,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4240,6 +4516,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4292,6 +4574,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4344,6 +4632,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4396,6 +4690,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4448,6 +4748,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4474,6 +4780,7 @@
         "placeCorde": 9,
         "handicapValeur": 45.5,
         "handicapPoids": 555,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 8,
         "nombreVictoires": 1,
@@ -4500,6 +4807,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4552,6 +4865,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4604,6 +4923,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4657,6 +4982,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4709,6 +5040,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4761,6 +5098,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4813,6 +5156,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4865,6 +5214,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4917,6 +5272,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4969,6 +5330,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5021,6 +5388,12 @@
         "parcours": "1200 M. (LIGNE DROITE)",
         "corde": "LIGNE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,0",
+          "heureMesure": "2026-10-26T10:00",
+          "intitule": "Très souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 19,
         "categorieParticularite": "GROUPE_III",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11831,7 +12204,7 @@
         "placeCorde": 5,
         "handicapValeur": 34.0,
         "handicapPoids": 580,
-        "poidsConditionMonte": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
         "nombreVictoires": 2,
@@ -19442,7 +19815,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -19974,7 +20349,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -20036,7 +20413,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -20318,6 +20697,12 @@
             "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20377,7 +20762,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -20437,6 +20824,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21385,7 +21778,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -21445,6 +21840,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21794,7 +22195,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -21854,6 +22257,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21912,6 +22321,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22799,7 +23214,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -22858,6 +23275,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -22915,6 +23338,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22973,6 +23402,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23031,6 +23466,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23089,6 +23530,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23272,6 +23719,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23331,7 +23784,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -23392,7 +23847,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -23516,7 +23973,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -23577,7 +24036,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -23611,6 +24072,7 @@
             "placeCorde": 9,
             "handicapValeur": 45.5,
             "handicapPoids": 555,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 8,
             "nombreVictoires": 1,
@@ -23637,6 +24099,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23986,7 +24454,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -24046,6 +24516,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -24110,7 +24586,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -24171,7 +24649,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -25350,6 +25830,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26131,6 +26617,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26189,6 +26681,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26244,6 +26742,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26431,7 +26935,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -26492,6 +26998,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26990,7 +27502,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -27050,6 +27564,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27237,7 +27757,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -27297,6 +27819,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27355,6 +27883,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27541,7 +28075,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -27602,7 +28138,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -29914,7 +30452,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -29976,7 +30516,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -30164,7 +30706,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -30869,6 +31413,12 @@
             "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30928,7 +31478,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -31390,7 +31942,7 @@
             "placeCorde": 5,
             "handicapValeur": 34.0,
             "handicapPoids": 580,
-            "poidsConditionMonte": 545,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 11,
             "nombreVictoires": 2,
@@ -31598,6 +32150,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31658,7 +32216,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -33591,6 +34151,12 @@
             "parcours": "2000 M. (PISTE DU JOCKEY-CLUB)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33649,6 +34215,12 @@
             "parcours": "1200 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 19,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33712,6 +34284,12 @@
             "parcours": "1600 M. (PISTE RONDE)",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "GROUPE_III",
             "conditionSexe": "FEMELLES",
@@ -33771,7 +34349,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -33832,7 +34412,9 @@
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -33892,6 +34474,12 @@
             "parcours": "1100 M. (LIGNE DROITE)",
             "corde": "LIGNE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,0",
+              "heureMesure": "2026-10-26T10:00",
+              "intitule": "Très souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
