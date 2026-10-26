@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T09:10:50.969183+00:00",
+  "generatedAt": "2026-10-26T10:10:22.939702+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -4368,7 +4368,7 @@
       "entraineur": "KR.BURKE",
       "musique": "0p7p0p0p(25)1p1p3p9p2p",
       "prixJour": 73200,
-      "prixPrec": 130000.0,
+      "prixPrec": null,
       "prixMoyen": 87733,
       "infosCheval": {
         "placeCorde": 6,
@@ -4542,7 +4542,7 @@
       "entraineur": "WJ.HAGGAS",
       "musique": "1p7p4p1p1p(25)1p",
       "prixJour": 73200,
-      "prixPrec": 150000.0,
+      "prixPrec": null,
       "prixMoyen": 150000,
       "infosCheval": {
         "placeCorde": 2,
@@ -4891,8 +4891,8 @@
       "entraineur": "M.O'CALLAGHAN",
       "musique": "1p(25)0p2p2p0p9p4p0p5p",
       "prixJour": 73200,
-      "prixPrec": 73200.0,
-      "prixMoyen": 95616,
+      "prixPrec": 50000.0,
+      "prixMoyen": 74400,
       "infosCheval": {
         "placeCorde": 11,
         "handicapValeur": 46.5,
@@ -5462,7 +5462,7 @@
       "reunion": "R2",
       "course": "C1",
       "cheval": "FAHRENHEIT",
-      "jockey": "A.HAMELIN",
+      "jockey": "JB. EYQUEM",
       "entraineur": "C.ESCUDER",
       "musique": "3p4p8p",
       "prixJour": 21000,
@@ -5480,7 +5480,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 2,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -21094,7 +21094,7 @@
           "reunion": "R2",
           "course": "C1",
           "cheval": "FAHRENHEIT",
-          "jockey": "A.HAMELIN",
+          "jockey": "JB. EYQUEM",
           "entraineur": "C.ESCUDER",
           "musique": "3p4p8p",
           "prixJour": 21000,
@@ -21112,7 +21112,7 @@
             "nombrePlacesTroisieme": 1,
             "age": 2,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -26710,7 +26710,7 @@
           "entraineur": "KR.BURKE",
           "musique": "0p7p0p0p(25)1p1p3p9p2p",
           "prixJour": 73200,
-          "prixPrec": 130000.0,
+          "prixPrec": null,
           "prixMoyen": 87733,
           "infosCheval": {
             "placeCorde": 6,
@@ -26759,11 +26759,8 @@
           },
           "france": true,
           "numPmu": 2,
-          "score": 6.53,
-          "classShift": {
-            "type": "descend",
-            "pct": 44
-          },
+          "score": 7.19,
+          "classShift": null,
           "meilleurEngagement": false
         }
       ]
