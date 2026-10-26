@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T10:10:22.939702+00:00",
+  "generatedAt": "2026-10-26T11:05:53.898098+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -52,7 +52,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -110,7 +110,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -167,7 +167,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -225,7 +225,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -283,7 +283,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -341,7 +341,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -399,7 +399,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -457,7 +457,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DU NORD"
@@ -4369,7 +4369,7 @@
       "musique": "0p7p0p0p(25)1p1p3p9p2p",
       "prixJour": 73200,
       "prixPrec": null,
-      "prixMoyen": 87733,
+      "prixMoyen": 95000,
       "infosCheval": {
         "placeCorde": 6,
         "handicapValeur": 47.5,
@@ -5446,11 +5446,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5498,11 +5504,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5549,11 +5561,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5600,11 +5618,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5652,11 +5676,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5705,11 +5735,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5758,11 +5794,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5809,11 +5851,17 @@
         "parcours": "1200 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SERENA"
@@ -5825,7 +5873,7 @@
       "reunion": "R2",
       "course": "C2",
       "cheval": "SKALI",
-      "jockey": "A.HAMELIN",
+      "jockey": "JB. EYQUEM",
       "entraineur": "C.ESCUDER",
       "musique": "1p3p4p4p7p4p6p5p5p",
       "prixJour": 13700,
@@ -5843,7 +5891,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 3,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -5861,6 +5909,12 @@
         "parcours": "2600 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5914,6 +5968,12 @@
         "parcours": "2600 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5966,6 +6026,12 @@
         "parcours": "2600 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6018,6 +6084,12 @@
         "parcours": "2600 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6071,6 +6143,12 @@
         "parcours": "2600 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6123,6 +6201,12 @@
         "parcours": "2600 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6174,6 +6258,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6226,6 +6316,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6278,6 +6374,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6330,6 +6432,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6381,6 +6489,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6433,6 +6547,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6485,6 +6605,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6536,6 +6662,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6588,6 +6720,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6639,6 +6777,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6691,6 +6835,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6743,6 +6893,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6796,6 +6952,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6848,6 +7010,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6900,6 +7068,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6951,6 +7125,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7002,6 +7182,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7054,6 +7240,12 @@
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7107,6 +7299,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7159,6 +7357,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7212,6 +7416,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7264,6 +7474,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7316,6 +7532,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7368,6 +7590,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7421,6 +7649,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7474,6 +7708,12 @@
         "parcours": "1700 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7526,6 +7766,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7579,6 +7825,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7632,6 +7884,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7684,6 +7942,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7736,6 +8000,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7789,6 +8059,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7842,6 +8118,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7894,6 +8176,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7947,6 +8235,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7999,6 +8293,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8051,6 +8351,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8104,6 +8410,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8157,6 +8469,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8209,6 +8527,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8261,6 +8585,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8314,6 +8644,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8366,6 +8702,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8419,6 +8761,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8471,6 +8819,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8524,6 +8878,12 @@
         "parcours": "2100 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8577,6 +8937,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8629,6 +8995,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8681,6 +9053,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8733,6 +9111,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8785,6 +9169,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8838,6 +9228,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8890,6 +9286,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8943,6 +9345,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8996,6 +9404,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9049,6 +9463,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9102,6 +9522,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9154,6 +9580,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9207,6 +9639,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9259,6 +9697,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9312,6 +9756,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9365,6 +9815,12 @@
         "parcours": "1800 M.",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,5",
+          "heureMesure": "2026-10-26T09:00",
+          "intitule": "Collant",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -20707,7 +21163,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DU NORD"
@@ -21130,11 +21586,17 @@
             "parcours": "1200 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SERENA"
@@ -21152,7 +21614,7 @@
           "reunion": "R2",
           "course": "C2",
           "cheval": "SKALI",
-          "jockey": "A.HAMELIN",
+          "jockey": "JB. EYQUEM",
           "entraineur": "C.ESCUDER",
           "musique": "1p3p4p4p7p4p6p5p5p",
           "prixJour": 13700,
@@ -21170,7 +21632,7 @@
             "nombrePlacesTroisieme": 1,
             "age": 3,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -21188,6 +21650,12 @@
             "parcours": "2600 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21246,6 +21714,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21304,6 +21778,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21363,6 +21843,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21421,6 +21907,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21480,6 +21972,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21539,6 +22037,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21598,6 +22102,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21910,6 +22420,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21968,6 +22484,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22385,6 +22907,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22448,11 +22976,17 @@
             "parcours": "1200 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SERENA"
@@ -22506,6 +23040,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22565,6 +23105,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22624,6 +23170,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22682,6 +23234,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22741,6 +23299,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22800,6 +23364,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22859,6 +23429,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22917,6 +23493,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25180,6 +25762,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25235,6 +25823,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25893,11 +26487,17 @@
             "parcours": "1200 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SERENA"
@@ -25947,6 +26547,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26004,6 +26610,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26711,7 +27323,7 @@
           "musique": "0p7p0p0p(25)1p1p3p9p2p",
           "prixJour": 73200,
           "prixPrec": null,
-          "prixMoyen": 87733,
+          "prixMoyen": 95000,
           "infosCheval": {
             "placeCorde": 6,
             "handicapValeur": 47.5,
@@ -26809,6 +27421,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26868,6 +27486,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28260,6 +28884,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29204,6 +29834,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29262,6 +29898,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29324,11 +29966,17 @@
             "parcours": "1200 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SERENA"
@@ -29383,11 +30031,17 @@
             "parcours": "1200 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SERENA"
@@ -29441,6 +30095,12 @@
             "parcours": "2600 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29499,6 +30159,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29556,6 +30222,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29612,6 +30284,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29670,6 +30348,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29728,6 +30412,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29787,6 +30477,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -29846,6 +30542,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30025,6 +30727,12 @@
             "parcours": "2600 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30084,6 +30792,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30326,6 +31040,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30385,6 +31105,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30765,6 +31491,12 @@
             "parcours": "2600 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30824,6 +31556,12 @@
             "parcours": "2600 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30882,6 +31620,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30940,6 +31684,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -30998,6 +31748,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31056,6 +31812,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31115,6 +31877,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31420,7 +32188,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DU NORD"
@@ -31542,11 +32310,17 @@
             "parcours": "1200 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SERENA"
@@ -31600,6 +32374,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31663,6 +32443,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31784,6 +32570,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -31843,6 +32635,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -32280,6 +33078,12 @@
             "parcours": "1700 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -32338,6 +33142,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -32401,6 +33211,12 @@
             "parcours": "2600 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITION_QUALIF_HP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -32458,6 +33274,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -32516,6 +33338,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -32574,6 +33402,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -32632,6 +33466,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33139,11 +33979,17 @@
             "parcours": "1200 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SERENA"
@@ -33196,6 +34042,12 @@
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33254,6 +34106,12 @@
             "parcours": "2100 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33313,6 +34171,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -33371,6 +34235,12 @@
             "parcours": "1800 M.",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,5",
+              "heureMesure": "2026-10-26T09:00",
+              "intitule": "Collant",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -34158,7 +35028,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DU NORD"
