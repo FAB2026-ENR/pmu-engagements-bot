@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T08:10:34.016963+00:00",
+  "generatedAt": "2026-10-27T09:08:00.656347+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -1936,8 +1936,8 @@
       "entraineur": "MME J.MANOVA",
       "musique": "0p0p2p1p1p4p0p(25)9p0p",
       "prixJour": 15400,
-      "prixPrec": 9000.0,
-      "prixMoyen": 11100,
+      "prixPrec": null,
+      "prixMoyen": 8333,
       "infosCheval": {
         "placeCorde": 4,
         "handicapValeur": 27.0,
@@ -12331,8 +12331,8 @@
           "entraineur": "MME J.MANOVA",
           "musique": "0p0p2p1p1p4p0p(25)9p0p",
           "prixJour": 15400,
-          "prixPrec": 9000.0,
-          "prixMoyen": 11100,
+          "prixPrec": null,
+          "prixMoyen": 8333,
           "infosCheval": {
             "placeCorde": 4,
             "handicapValeur": 27.0,
@@ -12378,11 +12378,8 @@
           },
           "france": true,
           "numPmu": 2,
-          "score": 6.6,
-          "classShift": {
-            "type": "monte",
-            "pct": 71
-          },
+          "score": 6.03,
+          "classShift": null,
           "meilleurEngagement": false
         },
         {
