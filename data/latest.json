@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T17:09:32.958611+00:00",
+  "generatedAt": "2026-10-27T18:04:14.360126+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -5888,6 +5888,7 @@
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 19,
         "nombreVictoires": 6,
@@ -7288,6 +7289,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 25,
         "nombreVictoires": 1,
@@ -7588,6 +7590,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 55,
         "nombreVictoires": 3,
@@ -8950,6 +8953,7 @@
           "infosCheval": {
             "placeCorde": 8,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 25,
             "nombreVictoires": 1,
@@ -9503,6 +9507,7 @@
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 19,
             "nombreVictoires": 6,
@@ -11411,6 +11416,7 @@
           "infosCheval": {
             "placeCorde": 5,
             "handicapPoids": 570,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 55,
             "nombreVictoires": 3,
