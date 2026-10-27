@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T12:00:24.277651+00:00",
+  "generatedAt": "2026-10-27T13:18:19.505829+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -51,7 +51,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -108,7 +108,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -165,7 +165,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -222,7 +222,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -279,7 +279,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -336,7 +336,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -393,7 +393,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -450,7 +450,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -472,6 +472,7 @@
         "placeCorde": 3,
         "handicapValeur": 38.0,
         "handicapPoids": 550,
+        "poidsConditionMonte": 555,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 39,
         "nombreVictoires": 7,
@@ -507,7 +508,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -564,7 +565,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -621,7 +622,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -678,7 +679,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -735,7 +736,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -792,7 +793,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -849,7 +850,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -907,7 +908,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX D'UTAH BEACH"
@@ -8477,7 +8478,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -9148,7 +9149,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -10986,7 +10987,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -11049,7 +11050,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -12101,7 +12102,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -12495,7 +12496,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -12884,7 +12885,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -13180,7 +13181,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -13311,7 +13312,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
@@ -13444,7 +13445,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX D'UTAH BEACH"
