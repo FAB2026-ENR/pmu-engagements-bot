@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T09:35:21.880938+00:00",
+  "generatedAt": "2026-10-28T10:33:36.564649+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -5299,6 +5299,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 4,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2140,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -6105,6 +6106,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 8,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2140,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -6257,6 +6259,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
         "placeCorde": 3,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1640,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -8459,6 +8462,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_POSTERIEURS",
         "placeCorde": 7,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2140,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -9070,6 +9074,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 7,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2140,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -12212,6 +12217,7 @@
           "infosCheval": {
             "deferre": "DEFERRE_POSTERIEURS",
             "placeCorde": 7,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2140,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
