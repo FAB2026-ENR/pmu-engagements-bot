@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T19:21:12.079337+00:00",
+  "generatedAt": "2026-10-28T20:09:10.309024+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -3711,7 +3711,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -3761,7 +3761,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -3812,7 +3812,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -3862,7 +3862,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -3913,7 +3913,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -3964,7 +3964,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -3984,6 +3984,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2650,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
@@ -4014,7 +4015,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -4065,7 +4066,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -4116,7 +4117,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DU CLOS SIMONETTE"
@@ -4167,7 +4168,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4218,7 +4219,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4268,7 +4269,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4319,7 +4320,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4370,7 +4371,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4421,7 +4422,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4472,7 +4473,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4522,7 +4523,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4573,7 +4574,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4624,7 +4625,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -4674,7 +4675,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MALMOUSQUE"
@@ -7448,7 +7449,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7497,7 +7498,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7547,7 +7548,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7596,7 +7597,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7645,7 +7646,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7694,7 +7695,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7744,7 +7745,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7793,7 +7794,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7842,7 +7843,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7891,7 +7892,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7941,7 +7942,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -7991,7 +7992,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -8041,7 +8042,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -8091,7 +8092,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -8140,7 +8141,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CIARAN                             SUEDE"
@@ -8191,7 +8192,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8242,7 +8243,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8293,7 +8294,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8343,7 +8344,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8393,7 +8394,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8444,7 +8445,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8496,7 +8497,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8547,7 +8548,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8598,7 +8599,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8649,7 +8650,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8700,7 +8701,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8751,7 +8752,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX GORETTI                            SUEDE"
@@ -8802,7 +8803,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -8853,7 +8854,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -8904,7 +8905,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -8955,7 +8956,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9006,7 +9007,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9057,7 +9058,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9108,7 +9109,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9159,7 +9160,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9210,7 +9211,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9260,7 +9261,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9311,7 +9312,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -9362,7 +9363,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX WALTER                             SUEDE"
@@ -11145,7 +11146,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -11199,7 +11200,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX WALTER                             SUEDE"
@@ -11641,7 +11642,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX WALTER                             SUEDE"
@@ -11698,7 +11699,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CIARAN                             SUEDE"
@@ -12251,7 +12252,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -12637,7 +12638,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
@@ -12748,7 +12749,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -12802,7 +12803,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -12973,7 +12974,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CIARAN                             SUEDE"
@@ -13026,7 +13027,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -13478,7 +13479,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -13919,7 +13920,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
@@ -13972,7 +13973,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
@@ -14468,7 +14469,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -14581,7 +14582,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -14753,7 +14754,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -15026,7 +15027,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX WALTER                             SUEDE"
@@ -15190,7 +15191,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CIARAN                             SUEDE"
@@ -15249,7 +15250,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -15417,7 +15418,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -15530,7 +15531,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
@@ -15976,7 +15977,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -16195,7 +16196,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -16249,7 +16250,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -16303,7 +16304,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX WALTER                             SUEDE"
@@ -16523,7 +16524,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
@@ -16633,7 +16634,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CIARAN                             SUEDE"
@@ -16799,7 +16800,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -16858,7 +16859,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX WALTER                             SUEDE"
@@ -16970,7 +16971,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX GORETTI                            SUEDE"
@@ -17024,7 +17025,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX WALTER                             SUEDE"
@@ -17517,7 +17518,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
@@ -17571,7 +17572,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
@@ -17625,7 +17626,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -17737,7 +17738,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX WALTER                             SUEDE"
@@ -17955,7 +17956,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MALMOUSQUE"
@@ -18123,7 +18124,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DU CLOS SIMONETTE"
