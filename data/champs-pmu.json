@@ -45,6 +45,7 @@
       "pariSpecial",
       "paris",
       "participants",
+      "pronosticsExpires",
       "rapportsDefinitifsDisponibles",
       "replayDisponible",
       "specialite",
@@ -54,6 +55,7 @@
     "cheval": [
       "age",
       "allure",
+      "dernierRapportDirect",
       "driver",
       "driverChange",
       "eleveur",
