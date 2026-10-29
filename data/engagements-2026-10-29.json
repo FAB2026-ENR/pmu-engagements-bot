@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T16:40:25.263263+00:00",
+  "generatedAt": "2026-10-29T17:36:37.670332+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -2412,7 +2412,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING 1200"
@@ -2469,7 +2469,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING 1200"
@@ -2525,7 +2525,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING 1200"
@@ -2582,7 +2582,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING 1200"
@@ -2639,7 +2639,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING 1200"
@@ -2696,7 +2696,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING 1200"
@@ -2753,7 +2753,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING 1200"
@@ -2810,7 +2810,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING 1200"
@@ -2867,7 +2867,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING 1200"
@@ -2889,6 +2889,7 @@
         "placeCorde": 4,
         "handicapValeur": 35.0,
         "handicapPoids": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 23,
         "nombreVictoires": 6,
@@ -2924,7 +2925,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING 1200"
@@ -2981,7 +2982,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING 1200"
@@ -3038,7 +3039,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING 1200"
@@ -5516,7 +5517,7 @@
       "reunion": "R6",
       "course": "C8",
       "cheval": "WE BE MISCHIEF",
-      "jockey": "I ORTIZ, JR.",
+      "jockey": "K J ASMUSSEN",
       "entraineur": "S M ASMUSSEN",
       "musique": "2p",
       "prixJour": 115415,
@@ -5534,7 +5535,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -12530,7 +12531,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING 1200"
@@ -15359,7 +15360,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING 1200"
@@ -18732,7 +18733,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING 1200"
@@ -18792,7 +18793,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING 1200"
@@ -18927,7 +18928,7 @@
           "reunion": "R6",
           "course": "C8",
           "cheval": "WE BE MISCHIEF",
-          "jockey": "I ORTIZ, JR.",
+          "jockey": "K J ASMUSSEN",
           "entraineur": "S M ASMUSSEN",
           "musique": "2p",
           "prixJour": 115415,
@@ -18945,7 +18946,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
