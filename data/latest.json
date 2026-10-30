@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T11:26:16.676771+00:00",
+  "generatedAt": "2026-10-30T12:07:55.803740+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -1830,7 +1830,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -1881,7 +1881,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -1932,7 +1932,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -1983,7 +1983,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -2034,7 +2034,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -3418,7 +3418,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3476,7 +3476,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3498,6 +3498,7 @@
         "placeCorde": 6,
         "handicapValeur": 36.0,
         "handicapPoids": 590,
+        "poidsConditionMonte": 595,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 17,
         "nombreVictoires": 4,
@@ -3534,7 +3535,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3593,7 +3594,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3651,7 +3652,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3710,7 +3711,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3768,7 +3769,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3826,7 +3827,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3884,7 +3885,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LACROIX-LAVAL"
@@ -3941,7 +3942,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -3998,7 +3999,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4054,7 +4055,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4111,7 +4112,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4169,7 +4170,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4226,7 +4227,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4283,7 +4284,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4340,7 +4341,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4398,7 +4399,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -4455,7 +4456,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -7490,6 +7491,7 @@
         "placeCorde": 2,
         "handicapValeur": 29.0,
         "handicapPoids": 575,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 0,
@@ -8807,6 +8809,7 @@
         "placeCorde": 3,
         "handicapValeur": 25.0,
         "handicapPoids": 600,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 30,
         "nombreVictoires": 2,
@@ -15451,7 +15454,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -15505,7 +15508,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -16833,7 +16836,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LACROIX-LAVAL"
@@ -17532,7 +17535,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LACROIX-LAVAL"
@@ -19120,7 +19123,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -19454,7 +19457,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -21189,7 +21192,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -21319,7 +21322,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -21450,7 +21453,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -21513,7 +21516,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -22075,7 +22078,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LACROIX-LAVAL"
@@ -22520,7 +22523,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE DES GALOPEURS"
@@ -22765,7 +22768,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LACROIX-LAVAL"
@@ -22833,7 +22836,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
@@ -22967,7 +22970,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LACROIX-LAVAL"
@@ -23323,7 +23326,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU BUSTE DE FRANCOIS-ANDRE"
