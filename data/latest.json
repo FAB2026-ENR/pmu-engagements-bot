@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T13:28:26.081989+00:00",
+  "generatedAt": "2026-10-30T14:24:24.893563+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -6614,7 +6614,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -6671,7 +6671,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -6728,7 +6728,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -6785,7 +6785,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -6842,7 +6842,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -6899,7 +6899,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -6956,7 +6956,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -7014,7 +7014,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -7071,7 +7071,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -7128,7 +7128,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -7186,7 +7186,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -7265,6 +7265,7 @@
         "placeCorde": 5,
         "handicapValeur": 30.5,
         "handicapPoids": 590,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 0,
@@ -8170,7 +8171,7 @@
       "reunion": "R4",
       "course": "C7",
       "cheval": "GALILEE DREAM",
-      "jockey": "A.BARON",
+      "jockey": "P. BAZIRE",
       "entraineur": "JV.TOUX",
       "musique": "7p7p3p6p8p6p0p(25)6p5p",
       "prixJour": 14400,
@@ -8188,7 +8189,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 6,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -11405,7 +11406,7 @@
       "reunion": "R6",
       "course": "C6",
       "cheval": "RUIVA",
-      "jockey": "RESERVISTE 1",
+      "jockey": "J J HERNANDEZ",
       "entraineur": "W A WARD",
       "musique": "4p2p3p1p",
       "prixJour": 961790,
@@ -11423,7 +11424,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 2,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -14863,7 +14864,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -16459,7 +16460,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -19762,7 +19763,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -20299,7 +20300,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -20429,7 +20430,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -20493,7 +20494,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -20521,6 +20522,7 @@
             "placeCorde": 5,
             "handicapValeur": 30.5,
             "handicapPoids": 590,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 3,
             "nombreVictoires": 0,
@@ -23050,7 +23052,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE SAINT-LOYER-DES-CHAMPS"
@@ -24649,7 +24651,7 @@
           "reunion": "R6",
           "course": "C6",
           "cheval": "RUIVA",
-          "jockey": "RESERVISTE 1",
+          "jockey": "J J HERNANDEZ",
           "entraineur": "W A WARD",
           "musique": "4p2p3p1p",
           "prixJour": 961790,
@@ -24667,7 +24669,7 @@
             "nombrePlacesTroisieme": 1,
             "age": 2,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
