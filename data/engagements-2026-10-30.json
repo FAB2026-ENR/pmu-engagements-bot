@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T19:15:49.648945+00:00",
+  "generatedAt": "2026-10-30T20:05:01.541777+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -11811,7 +11811,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -11867,7 +11867,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -11923,7 +11923,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -11979,7 +11979,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12035,7 +12035,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12091,7 +12091,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12103,7 +12103,7 @@
       "reunion": "R6",
       "course": "C7",
       "cheval": "LEXI'S CHARM",
-      "jockey": "J L ORTIZ",
+      "jockey": "U RISPOLI",
       "entraineur": "M E CASSE",
       "musique": "1p4p1p",
       "prixJour": 1923580,
@@ -12121,7 +12121,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -12147,7 +12147,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12203,7 +12203,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12259,7 +12259,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12315,7 +12315,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12371,7 +12371,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -12427,7 +12427,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -16078,7 +16078,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -16260,7 +16260,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -16319,7 +16319,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -16491,7 +16491,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -18426,7 +18426,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -20640,7 +20640,7 @@
           "reunion": "R6",
           "course": "C7",
           "cheval": "LEXI'S CHARM",
-          "jockey": "J L ORTIZ",
+          "jockey": "U RISPOLI",
           "entraineur": "M E CASSE",
           "musique": "1p4p1p",
           "prixJour": 1923580,
@@ -20658,7 +20658,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 2,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -20684,7 +20684,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -20743,7 +20743,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -24461,7 +24461,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
@@ -24520,7 +24520,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE FILLIES"
