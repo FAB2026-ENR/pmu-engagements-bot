@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T18:02:14.160678+00:00",
+  "generatedAt": "2026-10-30T19:15:49.648945+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -10277,7 +10277,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10328,7 +10328,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10379,7 +10379,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10431,7 +10431,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10482,7 +10482,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10534,7 +10534,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10585,7 +10585,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10637,7 +10637,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10688,7 +10688,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10739,7 +10739,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10790,7 +10790,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -10846,7 +10846,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -10904,7 +10904,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -10916,7 +10916,7 @@
       "reunion": "R6",
       "course": "C6",
       "cheval": "LIBERTANGO",
-      "jockey": "F PRAT",
+      "jockey": "B LOUGHNANE",
       "entraineur": "G BOUGHEY",
       "musique": "2p1p2p1p1p",
       "prixJour": 961790,
@@ -10933,7 +10933,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 2,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -10960,7 +10960,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11017,7 +11017,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11073,7 +11073,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11129,7 +11129,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11185,7 +11185,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11241,7 +11241,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11297,7 +11297,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11354,7 +11354,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11410,7 +11410,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11466,7 +11466,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11523,7 +11523,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11581,7 +11581,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11639,7 +11639,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11697,7 +11697,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -11755,7 +11755,7 @@
         "categorieParticularite": "GROUPE_I",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -14746,7 +14746,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -16019,7 +16019,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -16378,7 +16378,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -16432,7 +16432,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING"
@@ -17851,7 +17851,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -18367,7 +18367,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -20181,7 +20181,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -20499,7 +20499,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -23689,7 +23689,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -25316,7 +25316,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"
@@ -25377,7 +25377,7 @@
             "categorieParticularite": "GROUPE_I",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "BREEDERS' CUP JUVENILE TURF SPRINT"

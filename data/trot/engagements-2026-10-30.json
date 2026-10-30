@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T18:02:18.528775+00:00",
+  "generatedAt": "2026-10-30T19:15:51.604697+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -1309,7 +1309,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1361,7 +1361,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1413,7 +1413,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1465,7 +1465,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1517,7 +1517,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1569,7 +1569,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1621,7 +1621,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1673,7 +1673,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1725,7 +1725,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1777,7 +1777,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1828,7 +1828,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BARBARA"
@@ -1878,7 +1878,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -1929,7 +1929,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -1980,7 +1980,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2031,7 +2031,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2082,7 +2082,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2133,7 +2133,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2183,7 +2183,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2234,7 +2234,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2285,7 +2285,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2336,7 +2336,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2387,7 +2387,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2438,7 +2438,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2489,7 +2489,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2541,7 +2541,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2592,7 +2592,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2643,7 +2643,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2694,7 +2694,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -2745,7 +2745,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX MERAK"
@@ -10536,7 +10536,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10588,7 +10588,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10640,7 +10640,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10692,7 +10692,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10744,7 +10744,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10796,7 +10796,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10848,7 +10848,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10900,7 +10900,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -10951,7 +10951,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11003,7 +11003,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11055,7 +11055,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11107,7 +11107,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11159,7 +11159,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11211,7 +11211,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11262,7 +11262,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11313,7 +11313,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CLAUDE AMOROS"
@@ -11364,7 +11364,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11416,7 +11416,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11468,7 +11468,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11519,7 +11519,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11570,7 +11570,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11621,7 +11621,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11672,7 +11672,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11723,7 +11723,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11774,7 +11774,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11825,7 +11825,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11876,7 +11876,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11927,7 +11927,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -11979,7 +11979,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -12031,7 +12031,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -12083,7 +12083,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -12134,7 +12134,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX JEAN DIEBOLD"
@@ -12244,7 +12244,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BARBARA"
@@ -12303,7 +12303,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -12472,7 +12472,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -12587,7 +12587,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -12642,7 +12642,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -12756,7 +12756,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BARBARA"
@@ -12985,7 +12985,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -13210,7 +13210,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -13437,7 +13437,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -13722,7 +13722,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -14000,7 +14000,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -14230,7 +14230,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -14345,7 +14345,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -14400,7 +14400,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -14848,7 +14848,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -14963,7 +14963,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -15469,7 +15469,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -15524,7 +15524,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -16088,7 +16088,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -16200,7 +16200,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -16315,7 +16315,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -16374,7 +16374,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -16652,7 +16652,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -16997,7 +16997,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -17110,7 +17110,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -17169,7 +17169,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -17447,7 +17447,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -17506,7 +17506,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -17561,7 +17561,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -17620,7 +17620,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -18005,7 +18005,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -18119,7 +18119,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -18958,7 +18958,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -19183,7 +19183,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -19243,7 +19243,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BARBARA"
@@ -19469,7 +19469,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CLAUDE AMOROS"
@@ -19635,7 +19635,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX MERAK"
@@ -19803,7 +19803,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -19857,7 +19857,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
@@ -19970,7 +19970,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BARBARA"
@@ -20194,7 +20194,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX JEAN DIEBOLD"
