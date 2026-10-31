@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T11:29:12.318887+00:00",
+  "generatedAt": "2026-10-31T12:04:11.138921+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -1738,7 +1738,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -1790,7 +1790,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -1841,7 +1841,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -1893,7 +1893,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -1945,7 +1945,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -1997,7 +1997,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2049,7 +2049,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2101,7 +2101,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2153,7 +2153,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2204,7 +2204,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2255,7 +2255,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2307,7 +2307,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2359,7 +2359,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2411,7 +2411,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -2463,7 +2463,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX CUSTOM"
@@ -9083,6 +9083,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2650,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
@@ -23057,7 +23058,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23108,7 +23109,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23158,7 +23159,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23208,7 +23209,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23259,7 +23260,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23310,7 +23311,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23360,7 +23361,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23411,7 +23412,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23462,7 +23463,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23513,7 +23514,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23564,7 +23565,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23614,7 +23615,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23665,7 +23666,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23716,7 +23717,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX OURASI"
@@ -23766,7 +23767,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -23818,7 +23819,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -23870,7 +23871,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -23921,7 +23922,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -23971,7 +23972,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24022,7 +24023,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24073,7 +24074,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24124,7 +24125,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24174,7 +24175,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24225,7 +24226,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24276,7 +24277,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24326,7 +24327,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24377,7 +24378,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24428,7 +24429,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -24479,7 +24480,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -35542,7 +35543,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -36219,7 +36220,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -36767,7 +36768,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -37212,7 +37213,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -37266,7 +37267,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -37320,7 +37321,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -39568,7 +39569,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -42360,7 +42361,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -42414,7 +42415,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -42474,7 +42475,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -43090,7 +43091,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -45203,7 +45204,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -46428,7 +46429,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -46481,7 +46482,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -47859,7 +47860,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -47913,7 +47914,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -49123,7 +49124,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -49790,7 +49791,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -50349,7 +50350,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -50403,7 +50404,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -51687,7 +51688,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -52523,7 +52524,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -53640,7 +53641,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -53698,7 +53699,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX GENET DU HAUT BOIS (GR A)"
@@ -56284,7 +56285,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -59414,7 +59415,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -59469,7 +59470,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX CUSTOM"
@@ -59523,7 +59524,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -59746,7 +59747,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
@@ -59799,7 +59800,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX OURASI"
