@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T09:30:58.804456+00:00",
+  "generatedAt": "2026-11-01T10:27:30.644748+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -1993,7 +1993,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2050,7 +2050,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2107,7 +2107,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2164,7 +2164,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2221,7 +2221,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2278,7 +2278,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2334,7 +2334,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2391,7 +2391,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2448,7 +2448,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2505,7 +2505,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2562,7 +2562,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2619,7 +2619,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GUANGZHOU HANDICAP"
@@ -2641,6 +2641,7 @@
         "placeCorde": 8,
         "handicapValeur": 32.0,
         "handicapPoids": 580,
+        "poidsConditionMonte": 585,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 0,
@@ -3726,7 +3727,7 @@
       "reunion": "R3",
       "course": "C4",
       "cheval": "AVEC PLAISIR",
-      "jockey": "G.ROTH LE VAILLANT",
+      "jockey": "S. TISON",
       "entraineur": "U.SCHWINN",
       "musique": "0p",
       "prixJour": 11900,
@@ -3744,7 +3745,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -6469,7 +6470,7 @@
       "reunion": "R3",
       "course": "C8",
       "cheval": "HAPPY VALENTINE",
-      "jockey": "G.ROTH LE VAILLANT",
+      "jockey": "A. MOLINS",
       "entraineur": "U.SCHWINN",
       "musique": "4p7p6p2p7p3p0p4p6p",
       "prixJour": 19200,
@@ -6488,7 +6489,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 5,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -7179,7 +7180,7 @@
         "placeCorde": 9,
         "handicapValeur": 26.0,
         "handicapPoids": 520,
-        "poidsConditionMonte": 505,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 16,
         "nombreVictoires": 1,
@@ -7267,7 +7268,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -7318,7 +7319,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -7369,7 +7370,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -7420,7 +7421,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -7471,7 +7472,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -7522,7 +7523,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -7573,7 +7574,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -20050,7 +20051,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -20104,7 +20105,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -21224,7 +21225,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -21726,7 +21727,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -22478,7 +22479,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -22532,7 +22533,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -23366,7 +23367,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -24115,7 +24116,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -25601,7 +25602,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -26189,6 +26190,7 @@
             "placeCorde": 8,
             "handicapValeur": 32.0,
             "handicapPoids": 580,
+            "poidsConditionMonte": 585,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 0,
@@ -26814,7 +26816,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -28441,7 +28443,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -30573,7 +30575,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PREIS DES GESTUT ROTTGEN - HALLENSER JUGENDPREIS"
@@ -31040,7 +31042,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -32193,7 +32195,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
@@ -32213,7 +32215,7 @@
           "reunion": "R3",
           "course": "C4",
           "cheval": "AVEC PLAISIR",
-          "jockey": "G.ROTH LE VAILLANT",
+          "jockey": "S. TISON",
           "entraineur": "U.SCHWINN",
           "musique": "0p",
           "prixJour": 11900,
@@ -32231,7 +32233,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 4,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -32407,7 +32409,7 @@
           "reunion": "R3",
           "course": "C8",
           "cheval": "HAPPY VALENTINE",
-          "jockey": "G.ROTH LE VAILLANT",
+          "jockey": "A. MOLINS",
           "entraineur": "U.SCHWINN",
           "musique": "4p7p6p2p7p3p0p4p6p",
           "prixJour": 19200,
@@ -32426,7 +32428,7 @@
             "nombrePlacesTroisieme": 3,
             "age": 5,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -33053,7 +33055,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GUANGZHOU HANDICAP"
