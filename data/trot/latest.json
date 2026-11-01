@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T07:46:35.210727+00:00",
+  "generatedAt": "2026-11-01T08:37:04.465250+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -14739,6 +14739,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2775,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 57,
@@ -77910,6 +77911,7 @@
           "prixPrec": null,
           "prixMoyen": null,
           "infosCheval": {
+            "poidsConditionMonte": 0,
             "handicapDistance": 2775,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 57,

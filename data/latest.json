@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T07:46:21.242140+00:00",
+  "generatedAt": "2026-11-01T08:36:49.527325+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -51,7 +51,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -108,7 +108,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -165,7 +165,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -222,7 +222,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -279,7 +279,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -336,7 +336,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -358,6 +358,7 @@
         "placeCorde": 1,
         "handicapValeur": 38.5,
         "handicapPoids": 545,
+        "poidsConditionMonte": 545,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 45,
         "nombreVictoires": 8,
@@ -393,7 +394,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -450,7 +451,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -472,6 +473,7 @@
         "placeCorde": 10,
         "handicapValeur": 37.5,
         "handicapPoids": 535,
+        "poidsConditionMonte": 540,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 16,
         "nombreVictoires": 5,
@@ -507,7 +509,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -564,7 +566,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -9076,7 +9078,7 @@
       "reunion": "R4",
       "course": "C5",
       "cheval": "VUKOVINO",
-      "jockey": "ALEXANDER PIETSCH",
+      "jockey": "MICHAL ABIK",
       "entraineur": "ROLAND DZUBASZ",
       "musique": "4p1p7p4p(25)",
       "prixJour": 37000,
@@ -9094,7 +9096,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -11943,6 +11945,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 7,
         "nombreVictoires": 0,
@@ -12081,7 +12084,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12138,7 +12141,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12195,7 +12198,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12252,7 +12255,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12309,7 +12312,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12366,7 +12369,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12423,7 +12426,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12480,7 +12483,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -12537,7 +12540,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12594,7 +12597,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12651,7 +12654,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12708,7 +12711,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12765,7 +12768,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12823,7 +12826,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12880,7 +12883,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12937,7 +12940,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -12994,7 +12997,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -19439,7 +19442,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -19787,7 +19790,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -21120,6 +21123,7 @@
             "placeCorde": 1,
             "handicapValeur": 38.5,
             "handicapPoids": 545,
+            "poidsConditionMonte": 545,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 45,
             "nombreVictoires": 8,
@@ -21155,7 +21159,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -23443,7 +23447,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -24958,7 +24962,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -25083,7 +25087,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -26504,7 +26508,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -26564,7 +26568,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -27556,6 +27560,7 @@
             "placeCorde": 10,
             "handicapValeur": 37.5,
             "handicapPoids": 535,
+            "poidsConditionMonte": 540,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 16,
             "nombreVictoires": 5,
@@ -27591,7 +27596,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -27776,7 +27781,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -28182,7 +28187,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -28242,7 +28247,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -28955,7 +28960,7 @@
           "reunion": "R4",
           "course": "C5",
           "cheval": "VUKOVINO",
-          "jockey": "ALEXANDER PIETSCH",
+          "jockey": "MICHAL ABIK",
           "entraineur": "ROLAND DZUBASZ",
           "musique": "4p1p7p4p(25)",
           "prixJour": 37000,
@@ -28973,7 +28978,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -29230,7 +29235,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -29290,7 +29295,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -29597,7 +29602,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -30363,7 +30368,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -30423,7 +30428,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -30833,7 +30838,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -30893,7 +30898,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STATEWIDE HORSE TRANSPORT HANDICAP (1500 METRES)"
@@ -31194,7 +31199,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAHAM MANLEY AUTO REPIARS HANDICAP (1000 METRES)"
@@ -32744,7 +32749,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
@@ -32804,7 +32809,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "THE KWANGTUNG HANDICAP CUP (HANDICAP)"
