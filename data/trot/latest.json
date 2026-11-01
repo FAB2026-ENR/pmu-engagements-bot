@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T11:06:10.295283+00:00",
+  "generatedAt": "2026-11-01T11:58:35.303268+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -16459,7 +16459,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16509,7 +16509,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16559,7 +16559,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16609,7 +16609,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16659,7 +16659,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16709,7 +16709,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16759,7 +16759,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16809,7 +16809,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16859,7 +16859,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -16909,7 +16909,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -40449,6 +40449,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40499,6 +40505,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40549,6 +40561,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40599,6 +40617,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40649,6 +40673,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40699,6 +40729,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40749,6 +40785,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40799,6 +40841,12 @@
         "distance": 2200,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40850,6 +40898,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40901,6 +40955,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -40952,6 +41012,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41003,6 +41069,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41055,6 +41127,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41106,6 +41184,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41158,6 +41242,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41209,6 +41299,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41260,6 +41356,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41311,6 +41413,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41362,6 +41470,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41414,6 +41528,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41465,6 +41585,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41516,6 +41642,12 @@
         "distance": 2150,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -41568,6 +41700,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41620,6 +41758,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41672,6 +41816,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41724,6 +41874,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41776,6 +41932,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41828,6 +41990,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41880,6 +42048,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41932,6 +42106,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -41984,6 +42164,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -42035,6 +42221,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -42087,6 +42279,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -42139,6 +42337,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42190,6 +42394,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42241,6 +42451,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42292,6 +42508,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42344,6 +42566,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42396,6 +42624,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42447,6 +42681,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42498,6 +42738,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42550,6 +42796,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42602,6 +42854,12 @@
         "distance": 2750,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -42653,6 +42911,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -42704,6 +42968,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -42755,6 +43025,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -42806,6 +43082,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -42857,6 +43139,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -42907,6 +43195,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -42958,6 +43252,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43009,6 +43309,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43060,6 +43366,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43111,6 +43423,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43162,6 +43480,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43213,6 +43537,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43264,6 +43594,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43315,6 +43651,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43366,6 +43708,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43417,6 +43765,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43468,6 +43822,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43519,6 +43879,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43570,6 +43936,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43621,6 +43993,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43672,6 +44050,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43723,6 +44107,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43773,6 +44163,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43824,6 +44220,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43874,6 +44276,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43925,6 +44333,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -43975,6 +44389,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44025,6 +44445,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44075,6 +44501,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44126,6 +44558,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44176,6 +44614,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44226,6 +44670,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44276,6 +44726,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44327,6 +44783,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44378,6 +44840,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44429,6 +44897,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44479,6 +44953,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -44530,6 +45010,12 @@
         "distance": 2800,
         "parcours": "",
         "corde": "CORDE_DROITE",
+        "penetrometre": {
+          "valeurMesure": "3,0",
+          "heureMesure": "2026-11-01T09:00",
+          "intitule": "Bon",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AMATEURS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -45793,6 +46279,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -45848,6 +46340,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -46298,6 +46796,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -46353,6 +46857,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -46408,6 +46918,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -46462,6 +46978,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -46516,6 +47038,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -47916,6 +48444,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -47969,6 +48503,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48022,6 +48562,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48075,6 +48621,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -48300,7 +48852,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -48693,7 +49245,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -48743,6 +49295,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -49303,6 +49861,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -49358,6 +49922,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -49412,6 +49982,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -50585,6 +51161,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52011,6 +52593,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -52066,6 +52654,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -52120,6 +52714,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -52174,6 +52774,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52843,6 +53449,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52898,6 +53510,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -52952,6 +53570,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -53957,6 +54581,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -54011,6 +54641,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56791,6 +57427,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56845,6 +57487,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56903,6 +57551,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -56956,6 +57610,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -57923,6 +58583,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -57977,6 +58643,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -58868,6 +59540,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -58921,6 +59599,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -59263,6 +59947,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -59317,6 +60007,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -59371,6 +60067,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -59932,6 +60634,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -59985,6 +60693,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -60039,6 +60753,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -60315,6 +61035,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -60369,6 +61095,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -63696,7 +64428,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -63749,7 +64481,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -63802,7 +64534,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -63855,7 +64587,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -64719,6 +65451,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -64773,6 +65511,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -64827,6 +65571,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -65597,6 +66347,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -65652,6 +66408,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -66045,6 +66807,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -66098,6 +66866,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -67251,6 +68025,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -67306,6 +68086,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -67360,6 +68146,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -67414,6 +68206,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -67694,6 +68492,12 @@
             "distance": 2200,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -67748,6 +68552,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -68459,7 +69269,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -69407,6 +70217,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -69461,6 +70277,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -69515,6 +70337,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -69574,6 +70402,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -69628,6 +70462,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -70242,6 +71082,12 @@
             "distance": 2150,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -70296,6 +71142,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -72510,6 +73362,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -72564,6 +73422,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -72618,6 +73482,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -72672,6 +73542,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AMATEURS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -73516,6 +74392,12 @@
             "distance": 2750,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -73570,6 +74452,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -76611,7 +77499,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -76664,7 +77552,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX PHILIPPE DIBILIO - PX DES ALOUETTES"
@@ -78559,6 +79447,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -78613,6 +79507,12 @@
             "distance": 2800,
             "parcours": "",
             "corde": "CORDE_DROITE",
+            "penetrometre": {
+              "valeurMesure": "3,0",
+              "heureMesure": "2026-11-01T09:00",
+              "intitule": "Bon",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
