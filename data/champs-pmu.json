@@ -52,11 +52,13 @@
       "replayDisponible",
       "specialite",
       "statut",
-      "timezoneOffset"
+      "timezoneOffset",
+      "typePiste"
     ],
     "cheval": [
       "age",
       "allure",
+      "dernierRapportDirect",
       "driver",
       "driverChange",
       "eleveur",
