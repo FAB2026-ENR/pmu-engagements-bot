@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T01:36:45.190589+00:00",
+  "generatedAt": "2026-11-04T13:39:10.815608+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -45,7 +45,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -96,7 +96,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -147,7 +147,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -199,7 +199,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -250,7 +250,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -301,7 +301,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -323,6 +323,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "handicapDistance": 3000,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 25,
@@ -353,7 +354,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -405,7 +406,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -457,7 +458,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -508,7 +509,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -560,7 +561,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -612,7 +613,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -664,7 +665,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -716,7 +717,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -768,7 +769,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -819,7 +820,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX ONIRIS"
@@ -870,7 +871,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -920,7 +921,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -971,7 +972,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1022,7 +1023,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1072,7 +1073,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1123,7 +1124,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1174,7 +1175,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1225,7 +1226,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1276,7 +1277,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1327,7 +1328,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1378,7 +1379,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1429,7 +1430,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1480,7 +1481,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND NATIONAL DU TROT"
@@ -1531,7 +1532,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1582,7 +1583,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1632,7 +1633,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1683,7 +1684,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1733,7 +1734,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1784,7 +1785,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1835,7 +1836,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1886,7 +1887,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1936,7 +1937,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -1986,7 +1987,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -2036,7 +2037,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -2087,7 +2088,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -2138,7 +2139,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -2189,7 +2190,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -2240,7 +2241,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -2291,7 +2292,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AMATEURS_NATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CCMB"
@@ -5709,6 +5710,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 3000,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 24,
@@ -6444,7 +6446,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -6493,7 +6495,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -6542,7 +6544,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -6591,7 +6593,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -6640,7 +6642,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -6689,7 +6691,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -6738,7 +6740,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -6788,7 +6790,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -6837,7 +6839,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -6886,7 +6888,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -6936,7 +6938,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -6986,7 +6988,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7035,7 +7037,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7085,7 +7087,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7134,7 +7136,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7155,6 +7157,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2400,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 19,
@@ -7184,7 +7187,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7234,7 +7237,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7283,7 +7286,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7333,7 +7336,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7383,7 +7386,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -7433,7 +7436,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7482,7 +7485,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7532,7 +7535,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7581,7 +7584,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7631,7 +7634,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7681,7 +7684,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7730,7 +7733,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7780,7 +7783,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7829,7 +7832,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -7878,7 +7881,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -7928,7 +7931,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -7978,7 +7981,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8027,7 +8030,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8077,7 +8080,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8127,7 +8130,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8176,7 +8179,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8225,7 +8228,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8274,7 +8277,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8324,7 +8327,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8374,7 +8377,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "INTERNATIONALE",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE MORGES                          SUISSE"
@@ -8420,6 +8423,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8469,6 +8473,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8518,6 +8523,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8567,6 +8573,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8616,6 +8623,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8665,6 +8673,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8714,6 +8723,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9024,7 +9034,7 @@
       "reunion": "R7",
       "course": "C2",
       "cheval": "JOE RICKEY",
-      "jockey": "C.J. JEPSON",
+      "jockey": "R. BAKKER",
       "entraineur": "C. NILSSON",
       "musique": "8aDa0aDaDa",
       "prixJour": 10489,
@@ -9040,7 +9050,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 7,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -9574,6 +9584,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2160,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -9847,6 +9858,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9896,6 +9908,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9945,6 +9958,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9994,6 +10008,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10018,6 +10033,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 5,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1640,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -10043,6 +10059,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10092,6 +10109,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10141,6 +10159,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10190,6 +10209,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10239,6 +10259,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10289,6 +10310,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10339,6 +10361,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10388,6 +10411,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10438,6 +10462,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10488,6 +10513,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10538,6 +10564,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10588,6 +10615,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
@@ -10637,6 +10665,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10687,6 +10716,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10737,6 +10767,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10787,6 +10818,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10837,6 +10869,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10887,6 +10920,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10936,6 +10970,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10986,6 +11021,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11036,6 +11072,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11085,6 +11122,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11135,6 +11173,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11184,6 +11223,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11234,6 +11274,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11284,6 +11325,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11334,6 +11376,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11384,6 +11427,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11434,6 +11478,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11484,6 +11529,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11534,6 +11580,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11584,6 +11631,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11633,6 +11681,7 @@
       "infosCourse": {
         "distance": 1640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11683,6 +11732,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11733,6 +11783,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11782,6 +11833,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11832,6 +11884,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11881,6 +11934,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11931,6 +11985,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11981,6 +12036,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12031,6 +12087,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12081,6 +12138,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12131,6 +12189,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12180,6 +12239,7 @@
       "infosCourse": {
         "distance": 2640,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12230,6 +12290,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12280,6 +12341,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12330,6 +12392,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12380,6 +12443,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12429,6 +12493,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12479,6 +12544,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12529,6 +12595,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12578,6 +12645,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12628,6 +12696,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12677,6 +12746,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12727,6 +12797,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12776,6 +12847,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
@@ -12826,6 +12898,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12876,6 +12949,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12926,6 +13000,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12976,6 +13051,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13026,6 +13102,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13076,6 +13153,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13125,6 +13203,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13175,6 +13254,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13225,6 +13305,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13274,6 +13355,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13324,6 +13406,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13374,6 +13457,7 @@
       "infosCourse": {
         "distance": 2140,
         "parcours": "",
+        "corde": "CORDE_GAUCHE",
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13428,6 +13512,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -13585,6 +13670,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -13637,6 +13723,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -13690,6 +13777,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -13743,6 +13831,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -13795,6 +13884,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -13855,7 +13945,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -13908,7 +13998,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
@@ -14066,6 +14156,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14119,6 +14210,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14176,6 +14268,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14228,6 +14321,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14291,7 +14385,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -14345,7 +14439,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AMATEURS_NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CCMB"
@@ -14404,7 +14498,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -14732,6 +14826,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14784,6 +14879,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14837,6 +14933,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14889,6 +14986,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15051,6 +15149,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15104,6 +15203,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -15157,6 +15257,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -15215,6 +15316,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -15268,6 +15370,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -15321,6 +15424,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15373,6 +15477,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -15425,6 +15530,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -15488,7 +15594,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -15541,7 +15647,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AMATEURS_NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CCMB"
@@ -15599,7 +15705,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -15651,7 +15757,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -15873,7 +15979,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -15927,7 +16033,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AMATEURS_NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CCMB"
@@ -15981,6 +16087,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -16034,6 +16141,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -16208,7 +16316,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -16261,7 +16369,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -16478,6 +16586,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16530,6 +16639,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16641,6 +16751,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16699,6 +16810,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16752,6 +16864,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16805,6 +16918,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17297,7 +17411,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -17788,7 +17902,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AMATEURS_NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CCMB"
@@ -17901,7 +18015,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -18012,7 +18126,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -18065,7 +18179,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -18124,7 +18238,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -18237,7 +18351,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -18880,6 +18994,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -18933,6 +19048,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -18986,6 +19102,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19039,6 +19156,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19092,6 +19210,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19370,7 +19489,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -19422,7 +19541,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -19481,7 +19600,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -19696,6 +19815,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -19749,6 +19869,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19809,7 +19930,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -19861,7 +19982,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -19914,7 +20035,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -19967,7 +20088,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -20020,7 +20141,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -20073,7 +20194,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -20126,7 +20247,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
@@ -20179,7 +20300,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
@@ -20236,7 +20357,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -20288,7 +20409,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
@@ -20343,6 +20464,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20396,6 +20518,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20459,7 +20582,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -20567,6 +20690,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20620,6 +20744,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20729,6 +20854,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20781,6 +20907,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
@@ -20834,6 +20961,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20886,6 +21014,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -20995,6 +21124,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21057,7 +21187,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AMATEURS_NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CCMB"
@@ -21284,7 +21414,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -21450,7 +21580,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MUNCHENBUCHSEE                  SUISSE"
@@ -21502,7 +21632,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -21554,7 +21684,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -21606,7 +21736,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -21658,7 +21788,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
@@ -21711,7 +21841,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
@@ -21768,7 +21898,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX D'AUTOMNE - PRIX YVAN PITTET SUISSE"
@@ -21820,7 +21950,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
@@ -21879,7 +22009,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -21992,7 +22122,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -22105,7 +22235,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -22159,7 +22289,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -22213,6 +22343,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22265,6 +22396,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22317,6 +22449,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22473,6 +22606,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22525,6 +22659,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22578,6 +22713,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22635,6 +22771,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22687,6 +22824,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22750,7 +22888,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "APPRENTIS_LADS_JOCKEYS",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX ONIRIS"
@@ -22804,7 +22942,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND NATIONAL DU TROT"
@@ -22858,7 +22996,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AMATEURS_NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CCMB"
@@ -22972,7 +23110,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AMATEURS_NATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CCMB"
@@ -23108,6 +23246,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS",
+            "poidsConditionMonte": 0,
             "handicapDistance": 2160,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -23187,6 +23326,7 @@
           "infosCourse": {
             "distance": 1640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23239,6 +23379,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23292,6 +23433,7 @@
           "infosCourse": {
             "distance": 2640,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -23345,6 +23487,7 @@
           "infosCourse": {
             "distance": 2140,
             "parcours": "",
+            "corde": "CORDE_GAUCHE",
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
@@ -23629,7 +23772,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'ÉLEVAGE                       SUISSE"
@@ -23681,7 +23824,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "INTERNATIONALE",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE MORGES                          SUISSE"
