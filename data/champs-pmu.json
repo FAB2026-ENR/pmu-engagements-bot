@@ -47,15 +47,19 @@
       "paris",
       "participants",
       "penetrometre",
+      "pronosticsExpires",
       "rapportsDefinitifsDisponibles",
       "replayDisponible",
       "specialite",
       "statut",
-      "timezoneOffset"
+      "timezoneOffset",
+      "typePiste"
     ],
     "cheval": [
       "age",
       "allure",
+      "dernierRapportDirect",
+      "dernierRapportReference",
       "driver",
       "driverChange",
       "eleveur",
