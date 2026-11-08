@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T12:37:06.979581+00:00",
+  "generatedAt": "2026-11-08T13:52:49.268627+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -1092,7 +1092,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1150,7 +1150,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1208,7 +1208,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1266,7 +1266,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1324,7 +1324,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1382,7 +1382,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1440,7 +1440,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1498,7 +1498,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1556,7 +1556,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1614,7 +1614,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1672,7 +1672,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DOUVE"
@@ -1694,6 +1694,7 @@
         "placeCorde": 8,
         "handicapValeur": 48.5,
         "handicapPoids": 575,
+        "poidsConditionMonte": 580,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 12,
         "nombreVictoires": 7,
@@ -1730,7 +1731,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -1752,6 +1753,7 @@
         "placeCorde": 5,
         "handicapValeur": 48.0,
         "handicapPoids": 575,
+        "poidsConditionMonte": 580,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
         "nombreVictoires": 3,
@@ -1788,7 +1790,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -1810,6 +1812,7 @@
         "placeCorde": 3,
         "handicapValeur": 47.0,
         "handicapPoids": 575,
+        "poidsConditionMonte": 580,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 12,
         "nombreVictoires": 3,
@@ -1846,7 +1849,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -1868,6 +1871,7 @@
         "placeCorde": 1,
         "handicapValeur": 47.0,
         "handicapPoids": 565,
+        "poidsConditionMonte": 570,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
         "nombreVictoires": 4,
@@ -1904,7 +1908,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -1926,6 +1930,7 @@
         "placeCorde": 4,
         "handicapValeur": 47.0,
         "handicapPoids": 565,
+        "poidsConditionMonte": 570,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 7,
         "nombreVictoires": 2,
@@ -1962,7 +1967,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -1984,6 +1989,7 @@
         "placeCorde": 2,
         "handicapValeur": 43.5,
         "handicapPoids": 560,
+        "poidsConditionMonte": 565,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 15,
         "nombreVictoires": 2,
@@ -2020,7 +2026,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -2042,6 +2048,7 @@
         "placeCorde": 7,
         "handicapValeur": 43.0,
         "handicapPoids": 550,
+        "poidsConditionMonte": 555,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 2,
@@ -2078,7 +2085,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -2100,6 +2107,7 @@
         "placeCorde": 6,
         "handicapValeur": 46.5,
         "handicapPoids": 550,
+        "poidsConditionMonte": 555,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 5,
         "nombreVictoires": 1,
@@ -2136,7 +2144,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX TANTIEME"
@@ -2158,6 +2166,7 @@
         "placeCorde": 9,
         "handicapValeur": 40.5,
         "handicapPoids": 610,
+        "poidsConditionMonte": 615,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 17,
         "nombreVictoires": 3,
@@ -2216,6 +2225,7 @@
         "placeCorde": 10,
         "handicapValeur": 39.5,
         "handicapPoids": 600,
+        "poidsConditionMonte": 605,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 47,
         "nombreVictoires": 12,
@@ -2274,6 +2284,7 @@
         "placeCorde": 8,
         "handicapValeur": 39.0,
         "handicapPoids": 595,
+        "poidsConditionMonte": 600,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 24,
         "nombreVictoires": 4,
@@ -2332,6 +2343,7 @@
         "placeCorde": 16,
         "handicapValeur": 39.0,
         "handicapPoids": 595,
+        "poidsConditionMonte": 600,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 22,
         "nombreVictoires": 3,
@@ -2390,6 +2402,7 @@
         "placeCorde": 14,
         "handicapValeur": 38.5,
         "handicapPoids": 590,
+        "poidsConditionMonte": 595,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 23,
         "nombreVictoires": 4,
@@ -2448,6 +2461,7 @@
         "placeCorde": 2,
         "handicapValeur": 38.0,
         "handicapPoids": 585,
+        "poidsConditionMonte": 590,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 42,
         "nombreVictoires": 7,
@@ -2506,6 +2520,7 @@
         "placeCorde": 1,
         "handicapValeur": 37.5,
         "handicapPoids": 580,
+        "poidsConditionMonte": 585,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 3,
@@ -2564,6 +2579,7 @@
         "placeCorde": 4,
         "handicapValeur": 37.0,
         "handicapPoids": 575,
+        "poidsConditionMonte": 580,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 19,
         "nombreVictoires": 2,
@@ -2622,6 +2638,7 @@
         "placeCorde": 3,
         "handicapValeur": 36.5,
         "handicapPoids": 570,
+        "poidsConditionMonte": 575,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 14,
         "nombreVictoires": 2,
@@ -2680,6 +2697,7 @@
         "placeCorde": 6,
         "handicapValeur": 36.5,
         "handicapPoids": 570,
+        "poidsConditionMonte": 575,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 5,
         "nombreVictoires": 1,
@@ -2738,6 +2756,7 @@
         "placeCorde": 12,
         "handicapValeur": 35.0,
         "handicapPoids": 555,
+        "poidsConditionMonte": 560,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 30,
         "nombreVictoires": 3,
@@ -2854,6 +2873,7 @@
         "placeCorde": 5,
         "handicapValeur": 33.0,
         "handicapPoids": 535,
+        "poidsConditionMonte": 540,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 26,
         "nombreVictoires": 1,
@@ -2912,6 +2932,7 @@
         "placeCorde": 7,
         "handicapValeur": 31.5,
         "handicapPoids": 520,
+        "poidsConditionMonte": 525,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
         "nombreVictoires": 2,
@@ -2970,6 +2991,7 @@
         "placeCorde": 13,
         "handicapValeur": 30.5,
         "handicapPoids": 510,
+        "poidsConditionMonte": 515,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 11,
         "nombreVictoires": 2,
@@ -8404,7 +8426,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8462,7 +8484,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8520,7 +8542,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8578,7 +8600,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8636,7 +8658,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8694,7 +8716,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8752,7 +8774,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8810,7 +8832,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8868,7 +8890,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8926,7 +8948,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -8984,7 +9006,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -9042,7 +9064,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -9100,7 +9122,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "EN_COURS",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HUBERT BASSOT"
@@ -9121,6 +9143,7 @@
       "infosCheval": {
         "placeCorde": 9,
         "handicapPoids": 670,
+        "poidsConditionMonte": 675,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
         "nombreVictoires": 1,
@@ -9157,7 +9180,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9215,7 +9238,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9273,7 +9296,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9294,6 +9317,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 655,
+        "poidsConditionMonte": 660,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -9330,7 +9354,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9351,6 +9375,7 @@
       "infosCheval": {
         "placeCorde": 10,
         "handicapPoids": 655,
+        "poidsConditionMonte": 660,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 1,
@@ -9387,7 +9412,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9408,6 +9433,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 655,
+        "poidsConditionMonte": 660,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 12,
         "nombreVictoires": 1,
@@ -9444,7 +9470,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9465,6 +9491,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 655,
+        "poidsConditionMonte": 660,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 1,
@@ -9501,7 +9528,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9559,7 +9586,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9580,7 +9607,7 @@
       "infosCheval": {
         "placeCorde": 4,
         "handicapPoids": 655,
-        "poidsConditionMonte": 640,
+        "poidsConditionMonte": 645,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 5,
         "nombreVictoires": 1,
@@ -9617,7 +9644,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -9638,6 +9665,7 @@
       "infosCheval": {
         "placeCorde": 7,
         "handicapPoids": 640,
+        "poidsConditionMonte": 645,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -9674,7 +9702,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_CINQ_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KATKO"
@@ -13387,7 +13415,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CATHARINA"
@@ -13444,7 +13472,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CATHARINA"
@@ -13501,7 +13529,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CATHARINA"
@@ -13558,7 +13586,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CATHARINA"
@@ -13615,7 +13643,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CATHARINA"
@@ -13672,7 +13700,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX CATHARINA"
@@ -13731,7 +13759,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -13789,7 +13817,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -13847,7 +13875,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -13905,7 +13933,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -13964,7 +13992,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -14021,7 +14049,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -14079,7 +14107,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -14136,7 +14164,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ANDRE SUBRA"
@@ -14194,7 +14222,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE GABARRET"
@@ -14253,7 +14281,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE GABARRET"
@@ -14311,7 +14339,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE GABARRET"
@@ -14369,7 +14397,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE GABARRET"
@@ -14427,7 +14455,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE GABARRET"
@@ -14486,7 +14514,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE GABARRET"
@@ -14727,7 +14755,7 @@
       "prixMoyen": 24667,
       "infosCheval": {
         "handicapPoids": 690,
-        "poidsConditionMonte": 670,
+        "poidsConditionMonte": 680,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 16,
         "nombreVictoires": 3,
@@ -14997,7 +15025,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -15191,7 +15219,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -15255,7 +15283,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KATKO"
@@ -15282,7 +15310,7 @@
           "infosCheval": {
             "placeCorde": 4,
             "handicapPoids": 655,
-            "poidsConditionMonte": 640,
+            "poidsConditionMonte": 645,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 5,
             "nombreVictoires": 1,
@@ -15319,7 +15347,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KATKO"
@@ -15387,7 +15415,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX CATHARINA"
@@ -15450,7 +15478,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX CATHARINA"
@@ -15513,7 +15541,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX CATHARINA"
@@ -15577,7 +15605,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ANDRE SUBRA"
@@ -15771,7 +15799,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -15999,6 +16027,7 @@
             "placeCorde": 8,
             "handicapValeur": 48.5,
             "handicapPoids": 575,
+            "poidsConditionMonte": 580,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 12,
             "nombreVictoires": 7,
@@ -16035,7 +16064,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX TANTIEME"
@@ -16227,7 +16256,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -16251,6 +16280,7 @@
           "infosCheval": {
             "placeCorde": 10,
             "handicapPoids": 655,
+            "poidsConditionMonte": 660,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 1,
@@ -16287,7 +16317,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KATKO"
@@ -17023,7 +17053,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ANDRE SUBRA"
@@ -17088,7 +17118,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE GABARRET"
@@ -17978,6 +18008,7 @@
             "placeCorde": 3,
             "handicapValeur": 36.5,
             "handicapPoids": 570,
+            "poidsConditionMonte": 575,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 14,
             "nombreVictoires": 2,
@@ -18241,6 +18272,7 @@
             "placeCorde": 4,
             "handicapValeur": 37.0,
             "handicapPoids": 575,
+            "poidsConditionMonte": 580,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 19,
             "nombreVictoires": 2,
@@ -18341,7 +18373,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -18405,7 +18437,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -18474,7 +18506,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -18498,6 +18530,7 @@
           "infosCheval": {
             "placeCorde": 5,
             "handicapPoids": 655,
+            "poidsConditionMonte": 660,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 1,
@@ -18534,7 +18567,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KATKO"
@@ -19211,7 +19244,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -19495,6 +19528,7 @@
             "placeCorde": 10,
             "handicapValeur": 39.5,
             "handicapPoids": 600,
+            "poidsConditionMonte": 605,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 47,
             "nombreVictoires": 12,
@@ -19758,6 +19792,7 @@
             "placeCorde": 7,
             "handicapValeur": 43.0,
             "handicapPoids": 550,
+            "poidsConditionMonte": 555,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 3,
             "nombreVictoires": 2,
@@ -19794,7 +19829,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX TANTIEME"
@@ -20048,7 +20083,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -20075,6 +20110,7 @@
           "infosCheval": {
             "placeCorde": 6,
             "handicapPoids": 655,
+            "poidsConditionMonte": 660,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
             "nombreVictoires": 0,
@@ -20111,7 +20147,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KATKO"
@@ -20141,6 +20177,7 @@
             "placeCorde": 1,
             "handicapValeur": 37.5,
             "handicapPoids": 580,
+            "poidsConditionMonte": 585,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 3,
@@ -21119,7 +21156,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -21144,6 +21181,7 @@
             "placeCorde": 6,
             "handicapValeur": 46.5,
             "handicapPoids": 550,
+            "poidsConditionMonte": 555,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 5,
             "nombreVictoires": 1,
@@ -21180,7 +21218,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX TANTIEME"
@@ -21369,7 +21407,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -21430,7 +21468,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -21763,7 +21801,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE GABARRET"
@@ -21789,7 +21827,7 @@
           "prixMoyen": 24667,
           "infosCheval": {
             "handicapPoids": 690,
-            "poidsConditionMonte": 670,
+            "poidsConditionMonte": 680,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 16,
             "nombreVictoires": 3,
@@ -21959,7 +21997,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_CINQ_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KATKO"
@@ -22283,7 +22321,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -22807,6 +22845,7 @@
             "placeCorde": 4,
             "handicapValeur": 47.0,
             "handicapPoids": 565,
+            "poidsConditionMonte": 570,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 7,
             "nombreVictoires": 2,
@@ -22843,7 +22882,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX TANTIEME"
@@ -22871,6 +22910,7 @@
             "placeCorde": 9,
             "handicapValeur": 40.5,
             "handicapPoids": 610,
+            "poidsConditionMonte": 615,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 17,
             "nombreVictoires": 3,
@@ -23004,6 +23044,7 @@
             "placeCorde": 1,
             "handicapValeur": 47.0,
             "handicapPoids": 565,
+            "poidsConditionMonte": 570,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 11,
             "nombreVictoires": 4,
@@ -23040,7 +23081,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX TANTIEME"
@@ -23994,6 +24035,7 @@
             "placeCorde": 6,
             "handicapValeur": 36.5,
             "handicapPoids": 570,
+            "poidsConditionMonte": 575,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 5,
             "nombreVictoires": 1,
@@ -24164,7 +24206,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -24228,7 +24270,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "EN_COURS",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HUBERT BASSOT"
@@ -25393,7 +25435,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
@@ -25418,6 +25460,7 @@
             "placeCorde": 2,
             "handicapValeur": 38.0,
             "handicapPoids": 585,
+            "poidsConditionMonte": 590,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 42,
             "nombreVictoires": 7,
@@ -25837,7 +25880,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DOUVE"
