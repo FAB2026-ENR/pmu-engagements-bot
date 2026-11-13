@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T13:47:01.665311+00:00",
+  "generatedAt": "2026-11-13T14:55:42.264038+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -164,6 +164,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 29,
@@ -10706,7 +10707,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -10757,7 +10758,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -10808,7 +10809,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -10858,7 +10859,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -10909,7 +10910,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -10960,7 +10961,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11011,7 +11012,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11062,7 +11063,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11112,7 +11113,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11163,7 +11164,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11214,7 +11215,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11265,7 +11266,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11316,7 +11317,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11367,7 +11368,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11418,7 +11419,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11469,7 +11470,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11520,7 +11521,7 @@
         "nombreDeclaresPartants": 17,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -11570,7 +11571,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11621,7 +11622,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11671,7 +11672,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11722,7 +11723,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11773,7 +11774,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11823,7 +11824,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11874,7 +11875,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11925,7 +11926,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -11975,7 +11976,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12025,7 +12026,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12076,7 +12077,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12126,7 +12127,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12176,7 +12177,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12226,7 +12227,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12277,7 +12278,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12327,7 +12328,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12377,7 +12378,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -12428,7 +12429,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -16784,6 +16785,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 4,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1609,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -17674,7 +17676,7 @@
       "reunion": "R6",
       "course": "C4",
       "cheval": "JAGUAR V ASSUM",
-      "jockey": "RUUD POOLS",
+      "jockey": "Christian Eisel",
       "entraineur": "N. SPRENGERS",
       "musique": "3a2a4a4a2a",
       "prixJour": 11000,
@@ -17691,7 +17693,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 10,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -18137,6 +18139,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_POSTERIEURS",
         "placeCorde": 5,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1609,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -19455,6 +19458,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 1,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -19755,6 +19759,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 7,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -19955,6 +19960,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 11,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -20560,7 +20566,7 @@
       "reunion": "R6",
       "course": "C10",
       "cheval": "INFINIMENT CITRON",
-      "jockey": "DOMINIQUE RAFFINI",
+      "jockey": "Jaap van Rijn",
       "entraineur": "D. RAFFINI",
       "musique": "3a0a3a1a0a",
       "prixJour": 55000,
@@ -20578,7 +20584,7 @@
         "nombrePlacesTroisieme": 6,
         "age": 8,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -21838,7 +21844,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -22228,7 +22234,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -22281,7 +22287,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -23065,7 +23071,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -23179,7 +23185,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -23233,7 +23239,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -24220,7 +24226,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -25646,6 +25652,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 4,
+            "poidsConditionMonte": 0,
             "handicapDistance": 1609,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -25700,6 +25707,7 @@
           "infosCheval": {
             "deferre": "DEFERRE_POSTERIEURS",
             "placeCorde": 5,
+            "poidsConditionMonte": 0,
             "handicapDistance": 1609,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -25753,6 +25761,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 1,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2100,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -25806,6 +25815,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 7,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2100,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -25912,6 +25922,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 11,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2100,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -26220,7 +26231,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -27671,7 +27682,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -28230,7 +28241,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -28283,7 +28294,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -29619,7 +29630,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -31456,7 +31467,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -32455,7 +32466,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -32508,7 +32519,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -33172,7 +33183,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -33948,7 +33959,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -34001,7 +34012,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -34169,7 +34180,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -34222,7 +34233,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -34394,7 +34405,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -35159,7 +35170,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -36268,7 +36279,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -36322,7 +36333,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -36376,7 +36387,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -37920,7 +37931,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
@@ -38088,7 +38099,7 @@
             "nombreDeclaresPartants": 17,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'EAUZE"
@@ -38142,7 +38153,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE FLEURANCE"
