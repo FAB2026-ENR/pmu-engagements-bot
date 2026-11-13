@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T02:03:18.198995+00:00",
+  "generatedAt": "2026-11-13T13:46:54.674798+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -44,7 +44,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HARVEST"
@@ -94,7 +94,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HARVEST"
@@ -144,7 +144,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HARVEST"
@@ -165,6 +165,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 580,
+        "poidsConditionMonte": 585,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 30,
         "nombreVictoires": 2,
@@ -194,7 +195,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HARVEST"
@@ -244,7 +245,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HARVEST"
@@ -294,7 +295,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HARVEST"
@@ -344,7 +345,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX HARVEST"
@@ -394,7 +395,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -415,6 +416,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 585,
+        "poidsConditionMonte": 590,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 6,
         "nombreVictoires": 1,
@@ -444,7 +446,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -494,7 +496,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -544,7 +546,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -594,7 +596,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -644,7 +646,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -665,6 +667,7 @@
       "infosCheval": {
         "placeCorde": 10,
         "handicapPoids": 555,
+        "poidsConditionMonte": 560,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 11,
         "nombreVictoires": 0,
@@ -694,7 +697,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -715,6 +718,7 @@
       "infosCheval": {
         "placeCorde": 3,
         "handicapPoids": 550,
+        "poidsConditionMonte": 565,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -744,7 +748,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -765,6 +769,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 565,
+        "poidsConditionMonte": 565,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 6,
         "nombreVictoires": 0,
@@ -794,7 +799,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -844,7 +849,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ELMIRA"
@@ -894,7 +899,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -944,7 +949,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -994,7 +999,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1044,7 +1049,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1094,7 +1099,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1144,7 +1149,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1194,7 +1199,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1244,7 +1249,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1294,7 +1299,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1344,7 +1349,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1394,7 +1399,7 @@
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX MARTINICO"
@@ -1444,7 +1449,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1494,7 +1499,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1544,7 +1549,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1594,7 +1599,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1644,7 +1649,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1694,7 +1699,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1744,7 +1749,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1765,6 +1770,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 555,
+        "poidsConditionMonte": 560,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 101,
         "nombreVictoires": 13,
@@ -1794,7 +1800,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1844,7 +1850,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1865,6 +1871,7 @@
       "infosCheval": {
         "placeCorde": 9,
         "handicapPoids": 545,
+        "poidsConditionMonte": 550,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 33,
         "nombreVictoires": 1,
@@ -1894,7 +1901,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1944,7 +1951,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX ARIKA"
@@ -1992,11 +1999,18 @@
         "distance": 1600,
         "parcours": "1600 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU PAYS D'YVELINES"
@@ -2043,11 +2057,18 @@
         "distance": 1600,
         "parcours": "1600 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU PAYS D'YVELINES"
@@ -2095,11 +2116,18 @@
         "distance": 1600,
         "parcours": "1600 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU PAYS D'YVELINES"
@@ -2146,11 +2174,18 @@
         "distance": 1600,
         "parcours": "1600 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU PAYS D'YVELINES"
@@ -2198,11 +2233,18 @@
         "distance": 1600,
         "parcours": "1600 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU PAYS D'YVELINES"
@@ -2250,11 +2292,18 @@
         "distance": 1600,
         "parcours": "1600 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU PAYS D'YVELINES"
@@ -2302,11 +2351,18 @@
         "distance": 1600,
         "parcours": "1600 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU PAYS D'YVELINES"
@@ -2352,11 +2408,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2402,11 +2465,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2452,11 +2522,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2502,11 +2579,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2552,11 +2636,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2602,11 +2693,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2652,11 +2750,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2703,11 +2808,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2753,11 +2865,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX KANTAR"
@@ -2804,11 +2923,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -2854,11 +2980,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -2904,11 +3037,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -2954,11 +3094,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -3004,11 +3151,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -3054,11 +3208,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -3104,11 +3265,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -3155,11 +3323,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -3205,11 +3380,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -3256,11 +3438,18 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX PHARSALE"
@@ -3307,11 +3496,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3358,11 +3554,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3409,11 +3612,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3459,11 +3669,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3475,7 +3692,7 @@
       "reunion": "R4",
       "course": "C4",
       "cheval": "ACOTANGO",
-      "jockey": "L.GALLO",
+      "jockey": "H. BOUTIN",
       "entraineur": "M.BOUTIN (S)",
       "musique": "5p0p3p0p2p1p1p1p6p2p",
       "prixJour": 18200,
@@ -3494,7 +3711,7 @@
         "nombrePlacesTroisieme": 6,
         "age": 5,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -3511,11 +3728,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3562,11 +3786,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3613,11 +3844,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3663,11 +3901,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3713,11 +3958,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3763,11 +4015,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3815,11 +4074,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3865,11 +4131,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3917,11 +4190,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -3942,6 +4222,7 @@
       "infosCheval": {
         "placeCorde": 14,
         "handicapPoids": 530,
+        "poidsConditionMonte": 535,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 8,
         "nombreVictoires": 1,
@@ -3967,11 +4248,18 @@
         "distance": 2500,
         "parcours": "2500 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE JUZIERS"
@@ -4019,11 +4307,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4070,11 +4365,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4121,11 +4423,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4172,11 +4481,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4224,11 +4540,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4275,11 +4598,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4327,11 +4657,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4353,7 +4690,7 @@
         "placeCorde": 12,
         "handicapValeur": 29.0,
         "handicapPoids": 570,
-        "poidsConditionMonte": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 16,
         "nombreVictoires": 1,
@@ -4379,11 +4716,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4430,11 +4774,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4482,11 +4833,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4533,11 +4891,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4584,11 +4949,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4636,11 +5008,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4687,11 +5066,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4738,11 +5124,18 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA GOUBINIERE"
@@ -4789,6 +5182,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4841,6 +5241,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4892,6 +5299,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4944,6 +5358,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -4995,6 +5416,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5046,6 +5474,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5097,6 +5532,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5148,6 +5590,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5199,6 +5648,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5250,6 +5706,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5301,6 +5764,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5352,6 +5822,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5403,6 +5880,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5454,6 +5938,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5505,6 +5996,13 @@
         "distance": 2400,
         "parcours": "2400 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5556,6 +6054,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5608,6 +6113,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5660,6 +6172,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5711,6 +6230,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5763,6 +6289,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5814,6 +6347,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5865,6 +6405,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5917,6 +6464,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5968,6 +6522,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6019,6 +6580,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6070,6 +6638,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6122,6 +6697,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6174,6 +6756,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6226,6 +6815,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6277,6 +6873,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6328,6 +6931,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6380,6 +6990,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6431,6 +7048,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6483,6 +7107,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6534,6 +7165,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6585,6 +7223,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6636,6 +7281,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6687,6 +7339,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6738,6 +7397,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6790,6 +7456,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6841,6 +7514,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6892,6 +7572,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6943,6 +7630,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6995,6 +7689,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7046,6 +7747,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7097,6 +7805,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7148,6 +7863,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7200,6 +7922,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7251,6 +7980,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7302,6 +8038,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7354,6 +8097,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7405,6 +8155,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7456,6 +8213,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7507,6 +8271,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7559,6 +8330,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7610,6 +8388,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7661,6 +8446,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7712,6 +8504,13 @@
         "distance": 2000,
         "parcours": "2000 M.",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "4,6",
+          "heureMesure": "2026-11-13T09:00",
+          "intitule": "Lourd",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7769,11 +8568,18 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA GOUBINIERE"
@@ -7827,6 +8633,13 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -7889,6 +8702,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -7946,6 +8766,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -7982,6 +8809,7 @@
           "infosCheval": {
             "placeCorde": 3,
             "handicapPoids": 550,
+            "poidsConditionMonte": 565,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 2,
             "nombreVictoires": 0,
@@ -8011,7 +8839,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ELMIRA"
@@ -8064,7 +8892,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -8122,7 +8950,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HARVEST"
@@ -8146,6 +8974,7 @@
           "infosCheval": {
             "placeCorde": 5,
             "handicapPoids": 580,
+            "poidsConditionMonte": 585,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 30,
             "nombreVictoires": 2,
@@ -8175,7 +9004,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HARVEST"
@@ -8228,7 +9057,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX MARTINICO"
@@ -8284,11 +9113,18 @@
             "distance": 1600,
             "parcours": "1600 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU PAYS D'YVELINES"
@@ -8341,11 +9177,18 @@
             "distance": 1600,
             "parcours": "1600 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU PAYS D'YVELINES"
@@ -8404,11 +9247,18 @@
             "distance": 1600,
             "parcours": "1600 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU PAYS D'YVELINES"
@@ -8461,11 +9311,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -8518,11 +9375,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -8576,6 +9440,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -8638,11 +9509,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -8695,6 +9573,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -8758,6 +9643,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -8815,6 +9707,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -8878,11 +9777,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -8935,6 +9841,13 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -8993,6 +9906,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9051,6 +9971,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9109,6 +10036,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9166,6 +10100,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9229,11 +10170,18 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA GOUBINIERE"
@@ -9287,11 +10235,18 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA GOUBINIERE"
@@ -9323,6 +10278,7 @@
           "infosCheval": {
             "placeCorde": 8,
             "handicapPoids": 585,
+            "poidsConditionMonte": 590,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 6,
             "nombreVictoires": 1,
@@ -9352,7 +10308,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ELMIRA"
@@ -9405,7 +10361,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX MARTINICO"
@@ -9463,7 +10419,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HARVEST"
@@ -9487,6 +10443,7 @@
           "infosCheval": {
             "placeCorde": 5,
             "handicapPoids": 565,
+            "poidsConditionMonte": 565,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 6,
             "nombreVictoires": 0,
@@ -9516,7 +10473,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ELMIRA"
@@ -9569,7 +10526,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX MARTINICO"
@@ -9624,6 +10581,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9681,6 +10645,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9742,11 +10713,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KANTAR"
@@ -9799,11 +10777,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PHARSALE"
@@ -9858,6 +10843,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9915,6 +10907,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -9976,11 +10975,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PHARSALE"
@@ -10033,6 +11039,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -10090,6 +11103,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -10126,6 +11146,7 @@
           "infosCheval": {
             "placeCorde": 9,
             "handicapPoids": 545,
+            "poidsConditionMonte": 550,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 33,
             "nombreVictoires": 1,
@@ -10155,7 +11176,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -10208,7 +11229,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -10263,11 +11284,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KANTAR"
@@ -10319,11 +11347,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PHARSALE"
@@ -10375,11 +11410,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PHARSALE"
@@ -10436,11 +11478,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KANTAR"
@@ -10492,11 +11541,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PHARSALE"
@@ -10519,7 +11575,7 @@
           "reunion": "R4",
           "course": "C4",
           "cheval": "ACOTANGO",
-          "jockey": "L.GALLO",
+          "jockey": "H. BOUTIN",
           "entraineur": "M.BOUTIN (S)",
           "musique": "5p0p3p0p2p1p1p1p6p2p",
           "prixJour": 18200,
@@ -10538,7 +11594,7 @@
             "nombrePlacesTroisieme": 6,
             "age": 5,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -10555,11 +11611,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -10613,11 +11676,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -10645,7 +11715,7 @@
             "placeCorde": 12,
             "handicapValeur": 29.0,
             "handicapPoids": 570,
-            "poidsConditionMonte": 545,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 16,
             "nombreVictoires": 1,
@@ -10671,11 +11741,18 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA GOUBINIERE"
@@ -10733,6 +11810,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -10790,6 +11874,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -10851,11 +11942,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX PHARSALE"
@@ -10909,11 +12007,18 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA GOUBINIERE"
@@ -10971,6 +12076,13 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -11028,6 +12140,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -11089,11 +12208,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KANTAR"
@@ -11143,6 +12269,13 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -11200,6 +12333,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -11261,11 +12401,18 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX KANTAR"
@@ -11318,6 +12465,13 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -11380,11 +12534,18 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA GOUBINIERE"
@@ -11437,6 +12598,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -11495,6 +12663,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -11560,7 +12735,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX MARTINICO"
@@ -11613,7 +12788,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -11666,7 +12841,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -11719,7 +12894,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -11772,7 +12947,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -11825,7 +13000,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ARIKA"
@@ -11879,11 +13054,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -11932,11 +13114,18 @@
             "distance": 2500,
             "parcours": "2500 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE JUZIERS"
@@ -11989,11 +13178,18 @@
             "distance": 2400,
             "parcours": "2400 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA GOUBINIERE"
@@ -12047,6 +13243,13 @@
             "distance": 2000,
             "parcours": "2000 M.",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "4,6",
+              "heureMesure": "2026-11-13T09:00",
+              "intitule": "Lourd",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -12083,6 +13286,7 @@
           "infosCheval": {
             "placeCorde": 10,
             "handicapPoids": 555,
+            "poidsConditionMonte": 560,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 11,
             "nombreVictoires": 0,
@@ -12112,7 +13316,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX ELMIRA"
@@ -12165,7 +13369,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX MARTINICO"
@@ -12223,7 +13427,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX HARVEST"
@@ -12276,7 +13480,7 @@
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX MARTINICO"
