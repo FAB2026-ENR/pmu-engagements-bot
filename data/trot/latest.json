@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T14:55:42.264038+00:00",
+  "generatedAt": "2026-11-13T20:43:58.489653+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -44,7 +44,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -94,7 +94,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -144,7 +144,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -195,7 +195,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -246,7 +246,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -297,7 +297,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -348,7 +348,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -399,7 +399,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -450,7 +450,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -501,7 +501,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -552,7 +552,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -603,7 +603,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -654,7 +654,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -705,7 +705,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -725,6 +725,7 @@
       "prixPrec": null,
       "prixMoyen": null,
       "infosCheval": {
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 16,
@@ -755,7 +756,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -806,7 +807,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -858,7 +859,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -909,7 +910,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX CAMPANUS"
@@ -961,7 +962,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1014,7 +1015,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1066,7 +1067,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1118,7 +1119,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1170,7 +1171,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1222,7 +1223,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1273,7 +1274,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1325,7 +1326,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1377,7 +1378,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1429,7 +1430,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES_ET_MALES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -1481,7 +1482,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1533,7 +1534,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1585,7 +1586,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1637,7 +1638,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1689,7 +1690,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1741,7 +1742,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1793,7 +1794,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1845,7 +1846,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1897,7 +1898,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -1948,7 +1949,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ADELHEID"
@@ -2000,7 +2001,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2052,7 +2053,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2104,7 +2105,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2156,7 +2157,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2208,7 +2209,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2260,7 +2261,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2312,7 +2313,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2364,7 +2365,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2415,7 +2416,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2466,7 +2467,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2518,7 +2519,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2570,7 +2571,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2622,7 +2623,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2674,7 +2675,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2726,7 +2727,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2778,7 +2779,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2830,7 +2831,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2882,7 +2883,7 @@
         "nombreDeclaresPartants": 18,
         "categorieParticularite": "EUROPEENNE_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -2933,7 +2934,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -2984,7 +2985,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3036,7 +3037,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3088,7 +3089,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3140,7 +3141,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3191,7 +3192,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3243,7 +3244,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3295,7 +3296,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3347,7 +3348,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3399,7 +3400,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX FRIZZA"
@@ -3449,7 +3450,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3499,7 +3500,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3549,7 +3550,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3599,7 +3600,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3649,7 +3650,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3699,7 +3700,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3749,7 +3750,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3799,7 +3800,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3849,7 +3850,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3899,7 +3900,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3949,7 +3950,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -3999,7 +4000,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX EDNA"
@@ -12480,7 +12481,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12531,7 +12532,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12582,7 +12583,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12632,7 +12633,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12683,7 +12684,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12734,7 +12735,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12785,7 +12786,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12836,7 +12837,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12887,7 +12888,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12938,7 +12939,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -12989,7 +12990,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -13039,7 +13040,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -13089,7 +13090,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -13140,7 +13141,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -13191,7 +13192,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -13242,7 +13243,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -13292,7 +13293,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13343,7 +13344,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13394,7 +13395,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13445,7 +13446,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13495,7 +13496,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13546,7 +13547,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13597,7 +13598,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13647,7 +13648,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13698,7 +13699,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13749,7 +13750,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13800,7 +13801,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13851,7 +13852,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -13902,7 +13903,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -13952,7 +13953,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14002,7 +14003,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14053,7 +14054,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14103,7 +14104,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14154,7 +14155,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14205,7 +14206,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14256,7 +14257,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14307,7 +14308,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14358,7 +14359,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -14410,7 +14411,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14461,7 +14462,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14513,7 +14514,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14565,7 +14566,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14617,7 +14618,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14669,7 +14670,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14721,7 +14722,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14773,7 +14774,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14825,7 +14826,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14877,7 +14878,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14929,7 +14930,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -14981,7 +14982,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -15032,7 +15033,7 @@
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -15084,7 +15085,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15136,7 +15137,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15187,7 +15188,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15239,7 +15240,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15291,7 +15292,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15342,7 +15343,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15394,7 +15395,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15446,7 +15447,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15498,7 +15499,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -15549,7 +15550,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15600,7 +15601,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15651,7 +15652,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15702,7 +15703,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15754,7 +15755,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15805,7 +15806,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15856,7 +15857,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15907,7 +15908,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -15958,7 +15959,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -16009,7 +16010,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -16060,7 +16061,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -16112,7 +16113,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -16163,7 +16164,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -16214,7 +16215,7 @@
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -16264,7 +16265,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16314,7 +16315,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16364,7 +16365,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16414,7 +16415,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16464,7 +16465,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16514,7 +16515,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16564,7 +16565,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16614,7 +16615,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -16664,7 +16665,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -16714,7 +16715,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -16764,7 +16765,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -16815,7 +16816,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -16865,7 +16866,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -16915,7 +16916,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -16965,7 +16966,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -17015,7 +17016,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -17065,7 +17066,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17115,7 +17116,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17165,7 +17166,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17215,7 +17216,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17265,7 +17266,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17315,7 +17316,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17365,7 +17366,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17415,7 +17416,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -17464,7 +17465,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17514,7 +17515,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17563,7 +17564,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17613,7 +17614,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17663,7 +17664,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17713,7 +17714,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17762,7 +17763,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17812,7 +17813,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17862,7 +17863,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17912,7 +17913,7 @@
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "INCONNU",
         "conditionSexe": "MALES_ET_HONGRES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -17963,7 +17964,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18014,7 +18015,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18065,7 +18066,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18117,7 +18118,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18169,7 +18170,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18220,7 +18221,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18270,7 +18271,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18321,7 +18322,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18372,7 +18373,7 @@
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -18422,7 +18423,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -18473,7 +18474,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -18524,7 +18525,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -18575,7 +18576,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -18626,7 +18627,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -18676,7 +18677,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -18727,7 +18728,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -18778,7 +18779,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -18828,7 +18829,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -18878,7 +18879,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -18929,7 +18930,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -18980,7 +18981,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -19030,7 +19031,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -19081,7 +19082,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "MONTE",
         "specialite": "TROT_MONTE",
         "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -19132,7 +19133,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -19183,7 +19184,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -19233,7 +19234,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -19284,7 +19285,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -19335,7 +19336,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -19386,7 +19387,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -19437,7 +19438,7 @@
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -19488,7 +19489,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19538,7 +19539,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19588,7 +19589,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19638,7 +19639,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19688,7 +19689,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19738,7 +19739,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19789,7 +19790,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19839,7 +19840,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19889,7 +19890,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19939,7 +19940,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -19990,7 +19991,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -20041,7 +20042,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20092,7 +20093,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20143,7 +20144,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20194,7 +20195,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20246,7 +20247,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20298,7 +20299,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20349,7 +20350,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20400,7 +20401,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20451,7 +20452,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20503,7 +20504,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20553,7 +20554,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20604,7 +20605,7 @@
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -20655,7 +20656,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -20706,7 +20707,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -20757,7 +20758,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -20808,7 +20809,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -20858,7 +20859,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -20909,7 +20910,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -20960,7 +20961,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -21010,7 +21011,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -21061,7 +21062,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -21112,7 +21113,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -21162,7 +21163,7 @@
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -21212,7 +21213,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21262,7 +21263,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21312,7 +21313,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21362,7 +21363,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21412,7 +21413,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21462,7 +21463,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21512,7 +21513,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21562,7 +21563,7 @@
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "FEMELLES",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "EN_COURS",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -21617,7 +21618,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -21672,7 +21673,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -21731,7 +21732,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -21785,7 +21786,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -21898,7 +21899,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -21958,7 +21959,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES_ET_MALES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -22341,7 +22342,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -22400,7 +22401,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -22454,7 +22455,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES_ET_MALES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -22509,7 +22510,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FRIZZA"
@@ -22568,7 +22569,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -22622,7 +22623,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -22680,7 +22681,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -22733,7 +22734,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -22786,7 +22787,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -22958,7 +22959,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -23126,7 +23127,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -23293,7 +23294,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -23347,7 +23348,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -23402,7 +23403,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -23462,7 +23463,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FRIZZA"
@@ -23576,7 +23577,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -23631,7 +23632,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -23689,7 +23690,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -23741,7 +23742,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -23794,7 +23795,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -23847,7 +23848,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -23901,7 +23902,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -23955,7 +23956,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -24008,7 +24009,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -24061,7 +24062,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -24114,7 +24115,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -24167,7 +24168,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -24281,7 +24282,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -24335,7 +24336,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -24394,7 +24395,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -24449,7 +24450,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -24504,7 +24505,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -24562,7 +24563,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -24615,7 +24616,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -24668,7 +24669,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -24721,7 +24722,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -24774,7 +24775,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -24827,7 +24828,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -24880,7 +24881,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -24933,7 +24934,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -24986,7 +24987,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -25039,7 +25040,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -25092,7 +25093,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -25144,7 +25145,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -25198,7 +25199,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -25252,7 +25253,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -25305,7 +25306,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -25358,7 +25359,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -25411,7 +25412,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -25464,7 +25465,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -25517,7 +25518,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -25570,7 +25571,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -25623,7 +25624,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -25682,7 +25683,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -25737,7 +25738,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -25791,7 +25792,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -25845,7 +25846,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -25898,7 +25899,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -25952,7 +25953,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -26011,7 +26012,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -26064,7 +26065,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -26117,7 +26118,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -26172,7 +26173,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -26285,7 +26286,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -26344,7 +26345,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -26399,7 +26400,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -26453,7 +26454,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -26733,7 +26734,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -26787,7 +26788,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -26846,7 +26847,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ADELHEID"
@@ -27126,7 +27127,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -27180,7 +27181,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -27234,7 +27235,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -27288,7 +27289,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -27342,7 +27343,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -27396,7 +27397,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -27455,7 +27456,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -27509,7 +27510,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -27569,7 +27570,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -27736,7 +27737,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -27790,7 +27791,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -27845,7 +27846,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -27903,7 +27904,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -27957,7 +27958,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -28016,7 +28017,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -28069,7 +28070,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX EDNA"
@@ -28348,7 +28349,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -28402,7 +28403,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -28901,7 +28902,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ADELHEID"
@@ -28956,7 +28957,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ADELHEID"
@@ -29009,7 +29010,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX EDNA"
@@ -29068,7 +29069,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -29123,7 +29124,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ADELHEID"
@@ -29349,7 +29350,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -29403,7 +29404,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -29456,7 +29457,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -29516,7 +29517,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FRIZZA"
@@ -29684,7 +29685,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -29737,7 +29738,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -29791,7 +29792,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -30626,7 +30627,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -30680,7 +30681,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -30905,7 +30906,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -30958,7 +30959,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -31018,7 +31019,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ADELHEID"
@@ -31243,7 +31244,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -31296,7 +31297,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -31355,7 +31356,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "BROWNIE JUNIOREN GIGANTEN               PAYS BAS"
@@ -31409,7 +31410,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ZOVEA GIGANTEN MIJL                     PAYS BAS"
@@ -31522,7 +31523,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -31581,7 +31582,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -31636,7 +31637,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES_ET_MALES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -31691,7 +31692,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -31804,7 +31805,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -32188,7 +32189,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -32242,7 +32243,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX BOONSTRA ASSURANTIËN               PAYS BAS"
@@ -32300,7 +32301,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -32353,7 +32354,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -32407,7 +32408,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -32573,7 +32574,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -32628,7 +32629,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -32683,7 +32684,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -33237,7 +33238,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -33291,7 +33292,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -33568,7 +33569,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -33627,7 +33628,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -33682,7 +33683,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ADELHEID"
@@ -33737,7 +33738,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ADELHEID"
@@ -34067,7 +34068,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -34121,7 +34122,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -34293,7 +34294,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES_ET_MALES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -34346,7 +34347,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX EDNA"
@@ -34459,7 +34460,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE BIARRITZ"
@@ -34513,7 +34514,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -34571,7 +34572,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "VAN KAMMEN TENTEN TROPHY                PAYS BAS"
@@ -34624,7 +34625,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -34677,7 +34678,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "STAL FAN BEINTEMAHUS TROPHY             PAYS BAS"
@@ -34730,7 +34731,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -34783,7 +34784,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -34838,7 +34839,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -34892,7 +34893,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -34946,7 +34947,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -34999,7 +35000,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -35059,7 +35060,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES_ET_MALES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -35224,7 +35225,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -35277,7 +35278,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -35335,7 +35336,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -35389,7 +35390,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -35443,7 +35444,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -35838,7 +35839,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -35892,7 +35893,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -35946,7 +35947,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -35999,7 +36000,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -36441,7 +36442,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -36495,7 +36496,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -36550,7 +36551,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX DE L'HIPPODROME DE VILLENEUVE-SUR-LOT"
@@ -36604,7 +36605,7 @@
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTERA-VERDUZAN"
@@ -36632,6 +36633,7 @@
           "prixPrec": null,
           "prixMoyen": null,
           "infosCheval": {
+            "poidsConditionMonte": 0,
             "handicapDistance": 2700,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 16,
@@ -36662,7 +36664,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -36717,7 +36719,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES_ET_MALES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX XAVIER DE SAINT PALAIS"
@@ -36772,7 +36774,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -37000,7 +37002,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -37055,7 +37057,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -37114,7 +37116,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -37168,7 +37170,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -37222,7 +37224,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "PRIX FRIZZA"
@@ -37280,7 +37282,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX CAMPANUS"
@@ -37333,7 +37335,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX EDNA"
@@ -37446,7 +37448,7 @@
             "nombreDeclaresPartants": 18,
             "categorieParticularite": "EUROPEENNE_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GRAND PRIX DU VENDREDI 13 (PRIX MIZAR)"
@@ -37499,7 +37501,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "ALLERT POL FYSIOTHERAPIE TROPHY         PAYS BAS"
@@ -37551,7 +37553,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "GEMEENTE WESTSTELLINGWERF GIGANTEN      PAYS BAS"
@@ -37605,7 +37607,7 @@
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "TCT SPEEDY VOLITA CUP                   PAYS BAS"
@@ -37659,7 +37661,7 @@
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "MONTE",
             "specialite": "TROT_MONTE",
             "libelle": "TROTR MEDIA MONTÉ GIGANTEN              PAYS BAS"
@@ -37712,7 +37714,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -37765,7 +37767,7 @@
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "KLAAS J. BOOTSMAN TCT DERBY             PAYS BAS"
@@ -37819,7 +37821,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "MERWESTAAL PRIJS DER GIGANTEN           PAYS BAS"
@@ -37872,7 +37874,7 @@
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "EN_COURS",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "NEWPORT BREEDING TCT FILLY DERBY        PAYS BAS"
@@ -37985,7 +37987,7 @@
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "FEMELLES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE MONTAUBAN"
@@ -38040,7 +38042,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
@@ -38207,7 +38209,7 @@
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "INCONNU",
             "conditionSexe": "MALES_ET_HONGRES",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME D'AUCH"
@@ -38262,7 +38264,7 @@
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX DE L'HIPPODROME DE CASTELSARRASIN"
