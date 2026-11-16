@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T14:31:44.440956+00:00",
+  "generatedAt": "2026-11-16T16:27:35.662135+00:00",
   "entries": [
     {
       "reunion": "R2",
@@ -6947,7 +6947,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7005,7 +7005,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7063,7 +7063,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7121,7 +7121,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7180,7 +7180,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7238,7 +7238,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7296,7 +7296,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7354,7 +7354,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7412,7 +7412,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7470,7 +7470,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7529,7 +7529,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7587,7 +7587,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MESNIL"
@@ -7636,13 +7636,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -7692,13 +7694,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -7710,7 +7714,7 @@
       "reunion": "R4",
       "course": "C1",
       "cheval": "GO LOVE",
-      "jockey": "A.CRASTUS",
+      "jockey": "H. BESNIER",
       "entraineur": "N.PERRET (S)",
       "musique": "6p7p0p1p3p6p2p1p(25)2p",
       "prixJour": 19200,
@@ -7728,7 +7732,7 @@
         "nombrePlacesTroisieme": 8,
         "age": 7,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -7747,13 +7751,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -7802,13 +7808,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -7858,13 +7866,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -7914,13 +7924,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -7970,13 +7982,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -8026,13 +8040,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -8082,13 +8098,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -8137,13 +8155,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX SAINTE-ANNE"
@@ -8191,13 +8211,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8209,7 +8231,7 @@
       "reunion": "R4",
       "course": "C2",
       "cheval": "PARKER",
-      "jockey": "T.TRULLIER",
+      "jockey": "M. GERMAIN",
       "entraineur": "E.MIKHALIDES (S)",
       "musique": "8p4h4h5h5h5p",
       "prixJour": 15600,
@@ -8226,7 +8248,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -8245,13 +8267,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8300,13 +8324,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8354,13 +8380,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8408,13 +8436,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8463,13 +8493,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8519,13 +8551,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8574,13 +8608,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8629,13 +8665,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8684,13 +8722,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8739,13 +8779,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8766,6 +8808,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -8793,13 +8836,15 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA CRIDE"
@@ -8849,7 +8894,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -8904,7 +8951,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -8959,7 +9008,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9015,7 +9066,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9070,7 +9123,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9125,7 +9180,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9180,7 +9237,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9235,7 +9294,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9291,7 +9352,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9347,7 +9410,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9402,7 +9467,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9458,7 +9525,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9513,7 +9582,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9569,7 +9640,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9625,7 +9698,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9680,7 +9755,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9735,7 +9812,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9790,7 +9869,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9845,7 +9926,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -9899,7 +9982,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -9954,7 +10039,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10009,7 +10096,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10065,7 +10154,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10120,7 +10211,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10174,7 +10267,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10228,7 +10323,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10284,7 +10381,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10339,7 +10438,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10395,7 +10496,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10451,7 +10554,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10506,7 +10611,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10560,7 +10667,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10615,7 +10724,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10670,7 +10781,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "INCONNU",
@@ -10725,7 +10838,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10780,7 +10895,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10835,7 +10952,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10890,7 +11009,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10945,7 +11066,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -10999,7 +11122,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -11054,7 +11179,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -11109,7 +11236,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -11164,7 +11293,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -11219,7 +11350,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -11274,7 +11407,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -11330,7 +11465,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -11386,7 +11523,9 @@
         "corde": "CORDE_GAUCHE",
         "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-16T16:03",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -11439,6 +11578,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11490,6 +11635,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11541,6 +11692,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11592,6 +11749,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11643,6 +11806,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11694,6 +11863,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11745,6 +11920,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11796,6 +11977,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11847,6 +12034,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11898,6 +12091,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11949,6 +12148,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12000,6 +12205,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12051,6 +12262,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12102,6 +12319,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12153,6 +12376,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12204,6 +12433,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12255,6 +12490,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12306,6 +12547,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12357,6 +12604,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12408,6 +12661,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12459,6 +12718,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12510,6 +12775,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12561,6 +12832,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12612,6 +12889,12 @@
         "parcours": "",
         "corde": "CORDE_DROITE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "3,5",
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "Souple",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12663,6 +12946,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12714,6 +13002,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12765,6 +13058,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12816,6 +13114,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12867,6 +13170,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12918,6 +13226,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -12969,6 +13282,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13020,6 +13338,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13071,6 +13394,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13122,6 +13450,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13173,6 +13506,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13224,6 +13562,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13275,6 +13618,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13326,6 +13674,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13377,6 +13730,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13428,6 +13786,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13479,6 +13842,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13530,6 +13898,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13581,6 +13954,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13632,6 +14010,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13683,6 +14066,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13734,6 +14122,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13785,6 +14178,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13836,6 +14234,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13887,6 +14290,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13938,6 +14346,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13989,6 +14402,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14040,6 +14458,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14091,6 +14514,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14142,6 +14570,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14193,6 +14626,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14244,6 +14682,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14295,6 +14738,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14346,6 +14794,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14397,6 +14850,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14448,6 +14906,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14499,6 +14962,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14550,6 +15018,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14601,6 +15074,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14652,6 +15130,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14703,6 +15186,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14754,6 +15242,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14805,6 +15298,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14856,6 +15354,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14907,6 +15410,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -14958,6 +15466,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15009,6 +15522,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15060,6 +15578,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15111,6 +15634,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15162,6 +15690,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15213,6 +15746,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15264,6 +15802,11 @@
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
         "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:05",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15314,6 +15857,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15364,6 +15912,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15414,6 +15967,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15464,6 +16022,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15514,6 +16077,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15564,6 +16132,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15614,6 +16187,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15664,6 +16242,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15714,6 +16297,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15764,6 +16352,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15814,6 +16407,11 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15864,6 +16462,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15914,6 +16517,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -15964,6 +16572,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16014,6 +16627,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16064,6 +16682,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16114,6 +16737,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16164,6 +16792,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16214,6 +16847,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16264,6 +16902,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16314,6 +16957,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16364,6 +17012,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16414,6 +17067,11 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -16464,6 +17122,11 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 5,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16514,6 +17177,11 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 5,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16564,6 +17232,11 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 5,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16614,6 +17287,11 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 5,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16664,6 +17342,11 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "penetrometre": {
+          "heureMesure": "2026-11-16T16:48",
+          "intitule": "PSF RAPIDE",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 5,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -16795,7 +17478,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MESNIL"
@@ -16991,7 +17674,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MESNIL"
@@ -17182,6 +17865,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17236,6 +17924,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17290,6 +17983,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17349,6 +18047,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17403,6 +18107,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17462,6 +18171,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17516,6 +18230,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17570,6 +18289,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17946,7 +18670,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MESNIL"
@@ -18007,13 +18731,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -18068,13 +18794,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -18129,13 +18857,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -18190,7 +18920,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -18250,7 +18982,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -18310,7 +19044,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -18371,7 +19107,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
@@ -18433,7 +19171,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
@@ -18494,7 +19234,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -18555,7 +19297,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -18619,6 +19363,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18673,6 +19422,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18727,6 +19481,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19113,6 +19872,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19167,6 +19931,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19221,6 +19990,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19280,6 +20054,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19334,6 +20114,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19358,7 +20143,7 @@
           "reunion": "R4",
           "course": "C2",
           "cheval": "PARKER",
-          "jockey": "T.TRULLIER",
+          "jockey": "M. GERMAIN",
           "entraineur": "E.MIKHALIDES (S)",
           "musique": "8p4h4h5h5h5p",
           "prixJour": 15600,
@@ -19375,7 +20160,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -19394,13 +20179,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -19455,7 +20242,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -19747,6 +20536,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19801,6 +20595,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19862,7 +20661,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -19923,7 +20724,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
@@ -19990,13 +20793,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -20051,13 +20856,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -20112,7 +20919,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -20173,7 +20982,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -20234,7 +21045,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -20296,7 +21109,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -20358,7 +21173,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -20693,7 +21510,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MESNIL"
@@ -20826,7 +21643,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MESNIL"
@@ -21015,6 +21832,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21069,6 +21891,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21127,6 +21954,11 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:48",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21180,6 +22012,11 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:48",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21240,13 +22077,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -21300,13 +22139,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -21361,7 +22202,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -21422,7 +22265,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -21489,7 +22334,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -21551,7 +22398,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -21786,6 +22635,7 @@
           "infosCheval": {
             "placeCorde": 6,
             "handicapPoids": 545,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
             "nombreVictoires": 0,
@@ -21813,13 +22663,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -21870,7 +22722,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -21931,7 +22785,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -21993,7 +22849,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -22057,6 +22915,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22111,6 +22974,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22170,6 +23038,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22224,6 +23098,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22278,6 +23157,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22332,6 +23216,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22386,6 +23275,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22440,6 +23334,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22494,6 +23393,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22553,6 +23457,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22607,6 +23516,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22666,6 +23580,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22720,6 +23640,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22774,6 +23699,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22828,6 +23758,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22882,6 +23817,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22936,6 +23876,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22995,6 +23940,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23049,6 +24000,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -23111,13 +24068,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -23173,13 +24132,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -23235,7 +24196,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -23296,7 +24259,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -23362,7 +24327,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -23424,7 +24391,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
@@ -24241,6 +25210,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24295,6 +25270,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24354,6 +25335,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24408,6 +25394,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -24543,7 +25534,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MESNIL"
@@ -24603,13 +25594,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -24665,13 +25658,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -24727,7 +25722,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
@@ -25048,13 +26045,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -25072,7 +26071,7 @@
           "reunion": "R4",
           "course": "C1",
           "cheval": "GO LOVE",
-          "jockey": "A.CRASTUS",
+          "jockey": "H. BESNIER",
           "entraineur": "N.PERRET (S)",
           "musique": "6p7p0p1p3p6p2p1p(25)2p",
           "prixJour": 19200,
@@ -25090,7 +26089,7 @@
             "nombrePlacesTroisieme": 8,
             "age": 7,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -25109,13 +26108,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -25171,13 +26172,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -25231,13 +26234,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -25292,7 +26297,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -25356,6 +26363,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25410,6 +26422,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -25471,7 +26488,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -25532,7 +26551,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -25592,7 +26613,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -25650,7 +26673,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -25711,7 +26736,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "COURSE_A_CONDITIONS",
@@ -25772,7 +26799,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "HANDICAP_DE_CATEGORIE",
@@ -25836,6 +26865,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25890,6 +26925,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25944,6 +26985,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -25998,6 +27045,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -26060,13 +27113,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -26121,7 +27176,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -26188,7 +27245,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -26249,7 +27308,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "INCONNU",
@@ -26313,6 +27374,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26367,6 +27434,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26868,6 +27940,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26922,6 +27999,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -26981,6 +28063,12 @@
             "parcours": "",
             "corde": "CORDE_DROITE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "3,5",
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "Souple",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -27035,6 +28123,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27089,6 +28182,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -27150,13 +28248,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX SAINTE-ANNE"
@@ -27211,13 +28311,15 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA CRIDE"
@@ -27270,7 +28372,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -27332,7 +28436,9 @@
             "corde": "CORDE_GAUCHE",
             "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-16T16:03",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
@@ -28153,6 +29259,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -28207,6 +29318,11 @@
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
             "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-16T16:05",
+              "intitule": "PSF RAPIDE",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
