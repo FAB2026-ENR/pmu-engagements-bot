@@ -1,6 +1,6 @@
 {
   "version": 9,
-  "generatedAt": "2026-11-15T01:13:29.255678+00:00",
+  "generatedAt": "2026-11-16T01:20:07.266616+00:00",
   "jours": [
     {
       "date": "2026-10-02",
@@ -225,6 +225,11 @@
     {
       "date": "2026-11-15",
       "partants": 332,
+      "avecArrivee": 0
+    },
+    {
+      "date": "2026-11-16",
+      "partants": 310,
       "avecArrivee": 0
     }
   ],
