@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "champs": {
     "course": [
       "cached",
@@ -45,7 +45,6 @@
       "pariSpecial",
       "paris",
       "participants",
-      "pronosticsExpires",
       "rapportsDefinitifsDisponibles",
       "replayDisponible",
       "specialite",
@@ -56,9 +55,6 @@
       "age",
       "allure",
       "avisEntraineur",
-      "deferre",
-      "dernierRapportDirect",
-      "dernierRapportReference",
       "driver",
       "driverChange",
       "eleveur",
@@ -80,7 +76,6 @@
       "nombreVictoires",
       "numPmu",
       "oeilleres",
-      "placeCorde",
       "poidsConditionMonteChange",
       "proprietaire",
       "race",
