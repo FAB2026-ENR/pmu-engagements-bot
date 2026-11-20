@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T14:45:50.669538+00:00",
+  "generatedAt": "2026-11-20T15:46:51.461028+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -266,7 +266,7 @@
       "reunion": "R1",
       "course": "C1",
       "cheval": "LOVELY DU VALLON",
-      "jockey": "Y. LEBOURGEOIS",
+      "jockey": "P.Y VERVA",
       "entraineur": "V. RENAULT",
       "musique": "Da6aDa6a3a0a9m4a(25)4a",
       "prixJour": 53000,
@@ -275,6 +275,7 @@
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
         "placeCorde": 6,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 31,
@@ -284,7 +285,7 @@
         "nombrePlacesTroisieme": 5,
         "age": 5,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -1039,7 +1040,7 @@
       "reunion": "R1",
       "course": "C2",
       "cheval": "LOVE ACTUALLY",
-      "jockey": "Y. LEBOURGEOIS",
+      "jockey": "M. MOTTIER",
       "entraineur": "CH.A. MARY",
       "musique": "Dm1aDa7a5aDa6a4a7aAa",
       "prixJour": 41000,
@@ -1047,6 +1048,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 30,
@@ -1056,7 +1058,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 5,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -2320,7 +2322,7 @@
       "reunion": "R1",
       "course": "C4",
       "cheval": "KIKI AND CO",
-      "jockey": "Y. LEBOURGEOIS",
+      "jockey": "J.M BAZIRE",
       "entraineur": "N. BAZIRE",
       "musique": "DmDm0aDaDm0a3mDmDaDm",
       "prixJour": 56000,
@@ -2328,6 +2330,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 41,
@@ -2337,7 +2340,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 6,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -2875,7 +2878,7 @@
       "reunion": "R1",
       "course": "C5",
       "cheval": "MOON DU VIVIER",
-      "jockey": "Y. LEBOURGEOIS",
+      "jockey": "E. RAFFIN",
       "entraineur": "G. SALLES",
       "musique": "3a1aDa1a(25)1a1a1a",
       "prixJour": 40000,
@@ -2883,6 +2886,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 7,
@@ -2892,7 +2896,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -3138,6 +3142,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "PROTEGE_ANTERIEURS_POSTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 12,
@@ -4719,7 +4724,7 @@
       "reunion": "R1",
       "course": "C7",
       "cheval": "NEW ATOUT",
-      "jockey": "Y. LEBOURGEOIS",
+      "jockey": "P. PH. PLOQUIN",
       "entraineur": "A. CHAVATTE",
       "musique": "Da1a1aDaDaDa(25)3a1aDa",
       "prixJour": 52000,
@@ -4727,6 +4732,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "deferre": "PROTEGE_ANTERIEURS",
+        "poidsConditionMonte": 0,
         "handicapDistance": 2700,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 9,
@@ -4736,7 +4742,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 3,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -5537,7 +5543,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5590,7 +5596,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5643,7 +5649,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5695,7 +5701,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5747,7 +5753,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5800,7 +5806,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5853,7 +5859,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5906,7 +5912,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -5958,7 +5964,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -6011,7 +6017,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -6063,7 +6069,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -6116,7 +6122,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -6169,7 +6175,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -6222,7 +6228,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -6275,7 +6281,7 @@
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "AMATEURS_AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX INDISCRET D'AX"
@@ -6327,7 +6333,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6379,7 +6385,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6431,7 +6437,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6483,7 +6489,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6535,7 +6541,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6587,7 +6593,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6639,7 +6645,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6691,7 +6697,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6743,7 +6749,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6795,7 +6801,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6847,7 +6853,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6899,7 +6905,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -6951,7 +6957,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -7003,7 +7009,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -7055,7 +7061,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -7107,7 +7113,7 @@
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "AUTOSTART",
         "conditionSexe": "TOUS_CHEVAUX",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "ATTELE",
         "specialite": "TROT_ATTELE",
         "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -12034,6 +12040,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 2,
+        "poidsConditionMonte": 0,
         "handicapDistance": 1609,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -12837,6 +12844,7 @@
       "prixMoyen": null,
       "infosCheval": {
         "placeCorde": 6,
+        "poidsConditionMonte": 0,
         "handicapDistance": 2100,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
@@ -13918,7 +13926,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -14588,7 +14596,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -14718,7 +14726,7 @@
           "reunion": "R1",
           "course": "C2",
           "cheval": "LOVE ACTUALLY",
-          "jockey": "Y. LEBOURGEOIS",
+          "jockey": "M. MOTTIER",
           "entraineur": "CH.A. MARY",
           "musique": "Dm1aDa7a5aDa6a4a7aAa",
           "prixJour": 41000,
@@ -14726,6 +14734,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+            "poidsConditionMonte": 0,
             "handicapDistance": 2700,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 30,
@@ -14735,7 +14744,7 @@
             "nombrePlacesTroisieme": 1,
             "age": 5,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -15738,7 +15747,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -15793,7 +15802,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -15968,7 +15977,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -16107,6 +16116,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "deferre": "PROTEGE_ANTERIEURS_POSTERIEURS",
+            "poidsConditionMonte": 0,
             "handicapDistance": 2700,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 12,
@@ -16197,7 +16207,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -17608,7 +17618,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -17835,7 +17845,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -18797,7 +18807,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -18852,7 +18862,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -18907,7 +18917,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -18962,7 +18972,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -19017,7 +19027,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -19744,7 +19754,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -19859,7 +19869,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -20309,7 +20319,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -20364,7 +20374,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -20664,7 +20674,7 @@
           "reunion": "R1",
           "course": "C4",
           "cheval": "KIKI AND CO",
-          "jockey": "Y. LEBOURGEOIS",
+          "jockey": "J.M BAZIRE",
           "entraineur": "N. BAZIRE",
           "musique": "DmDm0aDaDm0a3mDmDaDm",
           "prixJour": 56000,
@@ -20672,6 +20682,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
+            "poidsConditionMonte": 0,
             "handicapDistance": 2700,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 41,
@@ -20681,7 +20692,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 6,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -20929,7 +20940,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -20985,7 +20996,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -21100,7 +21111,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -21664,7 +21675,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -21890,7 +21901,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -21946,7 +21957,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -22117,7 +22128,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -22397,7 +22408,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -22649,6 +22660,7 @@
           "prixMoyen": null,
           "infosCheval": {
             "placeCorde": 6,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2100,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 0,
@@ -23188,7 +23200,7 @@
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "AMATEURS_AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX INDISCRET D'AX"
@@ -23243,7 +23255,7 @@
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "AUTOSTART",
             "conditionSexe": "TOUS_CHEVAUX",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "ATTELE",
             "specialite": "TROT_ATTELE",
             "libelle": "PRIX ICI SAINT-ETIENNE LOIRE"
@@ -23888,7 +23900,7 @@
           "reunion": "R1",
           "course": "C1",
           "cheval": "LOVELY DU VALLON",
-          "jockey": "Y. LEBOURGEOIS",
+          "jockey": "P.Y VERVA",
           "entraineur": "V. RENAULT",
           "musique": "Da6aDa6a3a0a9m4a(25)4a",
           "prixJour": 53000,
@@ -23897,6 +23909,7 @@
           "infosCheval": {
             "deferre": "DEFERRE_ANTERIEURS_POSTERIEURS",
             "placeCorde": 6,
+            "poidsConditionMonte": 0,
             "handicapDistance": 2100,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 31,
@@ -23906,7 +23919,7 @@
             "nombrePlacesTroisieme": 5,
             "age": 5,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
