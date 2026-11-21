@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T02:42:47.383489+00:00",
+  "generatedAt": "2026-11-21T14:01:31.864228+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -15,6 +15,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 1,
         "nombreVictoires": 1,
@@ -615,6 +616,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 565,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 9,
         "nombreVictoires": 0,
@@ -892,6 +894,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -945,6 +948,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -999,6 +1003,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1053,6 +1058,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1106,6 +1112,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1159,6 +1166,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1212,6 +1220,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1265,6 +1274,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1319,6 +1329,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1373,6 +1384,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1428,6 +1440,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1482,6 +1495,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1537,6 +1551,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1591,6 +1606,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1645,6 +1661,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1698,6 +1715,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1751,6 +1769,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1804,6 +1823,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1859,6 +1879,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1914,6 +1935,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -1968,6 +1990,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2022,6 +2045,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2076,6 +2100,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2130,6 +2155,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2184,6 +2210,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2213,6 +2240,7 @@
         "placeCorde": 2,
         "handicapValeur": 30.0,
         "handicapPoids": 610,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 26,
         "nombreVictoires": 3,
@@ -2238,6 +2266,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2293,6 +2322,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2348,6 +2378,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2402,6 +2433,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2456,6 +2488,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2510,6 +2543,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2565,6 +2599,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2619,6 +2654,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2674,6 +2710,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2728,6 +2765,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2782,6 +2820,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2837,6 +2876,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2891,6 +2931,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -2946,6 +2987,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3000,6 +3042,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3054,6 +3097,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3109,6 +3153,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3163,6 +3208,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3217,6 +3263,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3272,6 +3319,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3326,6 +3374,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3381,6 +3430,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3435,6 +3485,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3490,6 +3541,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3519,6 +3571,7 @@
         "placeCorde": 13,
         "handicapValeur": 21.5,
         "handicapPoids": 585,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 49,
         "nombreVictoires": 3,
@@ -3544,6 +3597,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3598,6 +3652,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3653,6 +3708,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3708,6 +3764,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3762,6 +3819,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3791,6 +3849,7 @@
         "placeCorde": 12,
         "handicapValeur": 18.0,
         "handicapPoids": 550,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 80,
         "nombreVictoires": 9,
@@ -3816,6 +3875,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3845,6 +3905,7 @@
         "placeCorde": 3,
         "handicapValeur": 16.5,
         "handicapPoids": 535,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 51,
         "nombreVictoires": 2,
@@ -3870,6 +3931,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3924,6 +3986,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -3979,6 +4042,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4033,6 +4097,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4088,6 +4153,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4143,6 +4209,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4198,6 +4265,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4252,6 +4320,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4307,6 +4376,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4362,6 +4432,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4417,6 +4488,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4472,6 +4544,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4527,6 +4600,7 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4582,6 +4656,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4637,6 +4712,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4691,6 +4767,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4746,6 +4823,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4800,6 +4878,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4855,6 +4934,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4909,6 +4989,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -4963,6 +5044,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5017,6 +5099,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5046,6 +5129,7 @@
         "placeCorde": 11,
         "handicapValeur": 26.0,
         "handicapPoids": 575,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 19,
         "nombreVictoires": 2,
@@ -5071,6 +5155,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5125,6 +5210,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5179,6 +5265,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5233,6 +5320,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5262,6 +5350,7 @@
         "placeCorde": 9,
         "handicapValeur": 22.5,
         "handicapPoids": 575,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 61,
         "nombreVictoires": 4,
@@ -5287,6 +5376,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5341,6 +5431,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5395,6 +5486,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5450,6 +5542,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5505,6 +5598,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5559,6 +5653,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5614,6 +5709,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5668,6 +5764,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5697,6 +5794,7 @@
         "placeCorde": 1,
         "handicapValeur": 15.0,
         "handicapPoids": 510,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 40,
         "nombreVictoires": 3,
@@ -5722,6 +5820,7 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
           "intitule": "PSF"
         },
@@ -5775,6 +5874,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5826,6 +5926,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5877,6 +5978,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5928,6 +6030,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -5979,6 +6082,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6030,6 +6134,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6081,6 +6186,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6132,6 +6238,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6183,6 +6290,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6234,6 +6342,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6285,6 +6394,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6336,6 +6446,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6387,6 +6498,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6438,6 +6550,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6489,6 +6602,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6539,6 +6653,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6589,6 +6704,7 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -6640,6 +6756,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6691,6 +6808,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6742,6 +6860,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6793,6 +6912,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6844,6 +6964,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6895,6 +7016,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6946,6 +7068,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6997,6 +7120,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7048,6 +7172,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7099,6 +7224,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7149,6 +7275,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7200,6 +7327,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7250,6 +7378,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7301,6 +7430,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7352,6 +7482,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7403,6 +7534,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7454,6 +7586,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7505,6 +7638,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7556,6 +7690,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7607,6 +7742,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7658,6 +7794,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7709,6 +7846,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -7760,6 +7898,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7811,6 +7950,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7862,6 +8002,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7913,6 +8054,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7964,6 +8106,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8015,6 +8158,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8066,6 +8210,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8117,6 +8262,7 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8168,6 +8314,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8219,6 +8366,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8270,6 +8418,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8321,6 +8470,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8372,6 +8522,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8423,6 +8574,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8474,6 +8626,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8525,6 +8678,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8576,6 +8730,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8627,6 +8782,7 @@
         "distance": 1100,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -8678,6 +8834,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8729,6 +8886,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8780,6 +8938,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8831,6 +8990,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8882,6 +9042,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8933,6 +9094,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8984,6 +9146,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9035,6 +9198,7 @@
         "distance": 1600,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9086,6 +9250,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -9136,6 +9301,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -9187,6 +9353,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -9238,6 +9405,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -9289,6 +9457,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -9340,6 +9509,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -9391,6 +9561,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
@@ -9442,6 +9613,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9493,6 +9665,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9544,6 +9717,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9595,6 +9769,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9646,6 +9821,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9697,6 +9873,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9748,6 +9925,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9799,6 +9977,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9850,6 +10029,7 @@
         "distance": 1400,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9901,6 +10081,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9952,6 +10133,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10003,6 +10185,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10054,6 +10237,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10105,6 +10289,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10156,6 +10341,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10207,6 +10393,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10258,6 +10445,7 @@
         "distance": 1670,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "GAZON",
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10308,6 +10496,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10358,6 +10547,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10408,6 +10598,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10458,6 +10649,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10508,6 +10700,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10558,6 +10751,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10608,6 +10802,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10658,6 +10853,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10708,6 +10904,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -10758,6 +10955,7 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10808,6 +11006,7 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10858,6 +11057,7 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10908,6 +11108,7 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10958,6 +11159,7 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11008,6 +11210,7 @@
         "distance": 2000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11058,6 +11261,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11108,6 +11312,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11158,6 +11363,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11208,6 +11414,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11258,6 +11465,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11308,6 +11516,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11358,6 +11567,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11408,6 +11618,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11458,6 +11669,7 @@
         "distance": 1200,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11508,6 +11720,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11558,6 +11771,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11608,6 +11822,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11658,6 +11873,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11708,6 +11924,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11758,6 +11975,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11808,6 +12026,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11858,6 +12077,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11908,6 +12128,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11958,6 +12179,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12008,6 +12230,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12058,6 +12281,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12108,6 +12332,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12158,6 +12383,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12208,6 +12434,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12258,6 +12485,7 @@
         "distance": 1000,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12308,6 +12536,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12358,6 +12587,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12408,6 +12638,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12458,6 +12689,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12508,6 +12740,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12558,6 +12791,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12608,6 +12842,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12658,6 +12893,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12708,6 +12944,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12758,6 +12995,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12808,6 +13046,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12858,6 +13097,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12908,6 +13148,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12958,6 +13199,7 @@
         "distance": 1400,
         "parcours": "",
         "corde": "CORDE_GAUCHE",
+        "typePiste": "HERBE",
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13014,6 +13256,7 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -13068,6 +13311,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -13126,6 +13370,7 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -13180,6 +13425,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -13239,6 +13485,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13300,6 +13547,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13360,6 +13608,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13425,6 +13674,7 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -13479,6 +13729,7 @@
             "distance": 1600,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -13538,6 +13789,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13598,6 +13850,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13658,6 +13911,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13718,6 +13972,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13783,6 +14038,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -13837,6 +14093,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -13896,6 +14153,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -13956,6 +14214,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -14017,6 +14276,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -14081,6 +14341,7 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14134,6 +14395,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14187,6 +14449,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14245,6 +14508,7 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -14298,6 +14562,7 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14351,6 +14616,7 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14404,6 +14670,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14457,6 +14724,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14510,6 +14778,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14563,6 +14832,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14622,6 +14892,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -14676,6 +14947,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14730,6 +15002,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14789,6 +15062,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -14849,6 +15123,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -14913,6 +15188,7 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -14966,6 +15242,7 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15019,6 +15296,7 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15077,6 +15355,7 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15130,6 +15409,7 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15189,6 +15469,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -15250,6 +15531,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -15315,6 +15597,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -15375,6 +15658,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -15440,6 +15724,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15494,6 +15779,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15553,6 +15839,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15607,6 +15894,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15661,6 +15949,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -15715,6 +16004,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -15769,6 +16059,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15823,6 +16114,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -15877,6 +16169,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -15931,6 +16224,7 @@
             "distance": 1600,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15985,6 +16279,7 @@
             "distance": 1600,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16044,6 +16339,7 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -16098,6 +16394,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16152,6 +16449,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16210,6 +16508,7 @@
             "distance": 1200,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -16263,6 +16562,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -16321,6 +16621,7 @@
             "distance": 2000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16374,6 +16675,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -16433,6 +16735,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16487,6 +16790,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16547,6 +16851,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -16608,6 +16913,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -16783,6 +17089,7 @@
             "distance": 1000,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -16836,6 +17143,7 @@
             "distance": 1400,
             "parcours": "",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "HERBE",
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -16895,6 +17203,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16949,6 +17258,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17003,6 +17313,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -17057,6 +17368,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -17111,6 +17423,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -17169,6 +17482,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17223,6 +17537,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17282,6 +17597,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -17336,6 +17652,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17395,6 +17712,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17449,6 +17767,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17509,6 +17828,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -17569,6 +17889,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -17630,6 +17951,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -17691,6 +18013,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -17755,6 +18078,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -17816,6 +18140,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -17881,6 +18206,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -17942,6 +18268,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18008,6 +18335,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18068,6 +18396,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18129,6 +18458,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18190,6 +18520,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18255,6 +18586,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18316,6 +18648,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18356,6 +18689,7 @@
             "placeCorde": 13,
             "handicapValeur": 21.5,
             "handicapPoids": 585,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 49,
             "nombreVictoires": 3,
@@ -18381,6 +18715,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18416,6 +18751,7 @@
             "placeCorde": 12,
             "handicapValeur": 18.0,
             "handicapPoids": 550,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 80,
             "nombreVictoires": 9,
@@ -18441,6 +18777,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18476,6 +18813,7 @@
             "placeCorde": 3,
             "handicapValeur": 16.5,
             "handicapPoids": 535,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 51,
             "nombreVictoires": 2,
@@ -18501,6 +18839,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18566,6 +18905,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18626,6 +18966,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18691,6 +19032,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18752,6 +19094,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18792,6 +19135,7 @@
             "placeCorde": 2,
             "handicapValeur": 30.0,
             "handicapPoids": 610,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 26,
             "nombreVictoires": 3,
@@ -18817,6 +19161,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18852,6 +19197,7 @@
             "placeCorde": 9,
             "handicapValeur": 22.5,
             "handicapPoids": 575,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 61,
             "nombreVictoires": 4,
@@ -18877,6 +19223,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -18942,6 +19289,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18996,6 +19344,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -19055,6 +19404,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -19109,6 +19459,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19167,6 +19518,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -19227,6 +19579,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -19292,6 +19645,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -19346,6 +19700,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19405,6 +19760,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -19464,6 +19820,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -19525,6 +19882,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19578,6 +19936,7 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -19631,6 +19990,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19685,6 +20045,7 @@
             "distance": 1600,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19738,6 +20099,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -19792,6 +20154,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -19846,6 +20209,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19905,6 +20269,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -19965,6 +20330,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -20031,6 +20397,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -20092,6 +20459,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -20132,6 +20500,7 @@
             "placeCorde": 11,
             "handicapValeur": 26.0,
             "handicapPoids": 575,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 19,
             "nombreVictoires": 2,
@@ -20157,6 +20526,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -20192,6 +20562,7 @@
             "placeCorde": 1,
             "handicapValeur": 15.0,
             "handicapPoids": 510,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 40,
             "nombreVictoires": 3,
@@ -20217,6 +20588,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -20282,6 +20654,7 @@
             "distance": 1670,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20336,6 +20709,7 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
@@ -20390,6 +20764,7 @@
             "distance": 1100,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 7,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20444,6 +20819,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20498,6 +20874,7 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20552,6 +20929,7 @@
             "distance": 1600,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20606,6 +20984,7 @@
             "distance": 1400,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_GAUCHE",
+            "typePiste": "GAZON",
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20666,6 +21045,7 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
@@ -20727,6 +21107,7 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
               "intitule": "PSF"
             },
