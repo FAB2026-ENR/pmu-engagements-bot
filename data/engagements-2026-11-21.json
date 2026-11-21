@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generatedAt": "2026-11-21T14:56:41.308313+00:00",
+  "generatedAt": "2026-11-21T20:37:16.728213+00:00",
   "entries": [
     {
       "reunion": "R3",
@@ -45,7 +45,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -95,7 +95,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -145,7 +145,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -166,6 +166,7 @@
       "infosCheval": {
         "placeCorde": 12,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 1,
         "nombreVictoires": 0,
@@ -195,7 +196,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -245,7 +246,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -266,6 +267,7 @@
       "infosCheval": {
         "placeCorde": 8,
         "handicapPoids": 570,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 0,
         "nombreVictoires": 0,
@@ -295,7 +297,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -345,7 +347,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -395,7 +397,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -445,7 +447,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -495,7 +497,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -545,7 +547,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -595,7 +597,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -646,7 +648,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -696,7 +698,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -746,7 +748,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -767,6 +769,7 @@
       "infosCheval": {
         "placeCorde": 9,
         "handicapPoids": 565,
+        "poidsConditionMonte": 575,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 41,
         "nombreVictoires": 8,
@@ -796,7 +799,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -817,6 +820,7 @@
       "infosCheval": {
         "placeCorde": 1,
         "handicapPoids": 565,
+        "poidsConditionMonte": 570,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 50,
         "nombreVictoires": 7,
@@ -846,7 +850,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -904,7 +908,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -925,6 +929,7 @@
       "infosCheval": {
         "placeCorde": 7,
         "handicapPoids": 595,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 16,
         "nombreVictoires": 4,
@@ -960,7 +965,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1017,7 +1022,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1074,7 +1079,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1130,7 +1135,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1186,7 +1191,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1242,7 +1247,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1298,7 +1303,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1355,7 +1360,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1412,7 +1417,7 @@
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -1470,7 +1475,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1527,7 +1532,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1585,7 +1590,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1642,7 +1647,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1699,7 +1704,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1720,6 +1725,7 @@
       "infosCheval": {
         "placeCorde": 12,
         "handicapPoids": 565,
+        "poidsConditionMonte": 570,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -1755,7 +1761,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1811,7 +1817,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1867,7 +1873,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1925,7 +1931,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -1983,7 +1989,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -2040,7 +2046,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -2097,7 +2103,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -2154,7 +2160,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -2211,7 +2217,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2268,7 +2274,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2326,7 +2332,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2384,7 +2390,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2442,7 +2448,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2499,7 +2505,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2556,7 +2562,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2613,7 +2619,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2671,7 +2677,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2683,7 +2689,7 @@
       "reunion": "R5",
       "course": "C3",
       "cheval": "GRAN HABANO",
-      "jockey": "K.VANDERBEKE",
+      "jockey": "J. CLAUDIC",
       "entraineur": "D.DE WAELE",
       "musique": "0p8p6p6p5p4p5p6p9p6p",
       "prixJour": 16300,
@@ -2701,7 +2707,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 5,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -2728,7 +2734,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2786,7 +2792,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2843,7 +2849,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2900,7 +2906,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CROISE-LAROCHE"
@@ -2958,7 +2964,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3015,7 +3021,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3073,7 +3079,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3130,7 +3136,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3187,7 +3193,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3245,7 +3251,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3302,7 +3308,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3359,7 +3365,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3417,7 +3423,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3474,7 +3480,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA BRIQUETERIE"
@@ -3532,7 +3538,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3544,7 +3550,7 @@
       "reunion": "R5",
       "course": "C5",
       "cheval": "CIRCO MASSIMO",
-      "jockey": "K.VANDERBEKE",
+      "jockey": "A. HAMELIN",
       "entraineur": "MME N.VERMEULEN",
       "musique": "6p0p2p6p5p1p0p0p0p",
       "prixJour": 14400,
@@ -3562,7 +3568,7 @@
         "nombrePlacesTroisieme": 4,
         "age": 7,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -3589,7 +3595,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3647,7 +3653,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3705,7 +3711,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3762,7 +3768,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3820,7 +3826,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3878,7 +3884,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3935,7 +3941,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -3993,7 +3999,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -4051,7 +4057,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -4108,7 +4114,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -4166,7 +4172,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -4223,7 +4229,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE CLOTURE"
@@ -4235,7 +4241,7 @@
       "reunion": "R5",
       "course": "C6",
       "cheval": "PLAY THE GAME",
-      "jockey": "A.DAIFI",
+      "jockey": "A. MADAMET",
       "entraineur": "T.SPEICHER",
       "musique": "3p3p8p1p0p6p8p3p7p4p",
       "prixJour": 14400,
@@ -4245,7 +4251,7 @@
         "placeCorde": 5,
         "handicapValeur": 27.0,
         "handicapPoids": 600,
-        "poidsConditionMonte": 565,
+        "poidsConditionMonte": 600,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 22,
         "nombreVictoires": 1,
@@ -4254,7 +4260,7 @@
         "nombrePlacesTroisieme": 6,
         "age": 3,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -4281,7 +4287,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4339,7 +4345,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4397,7 +4403,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4454,7 +4460,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4512,7 +4518,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4570,7 +4576,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4628,7 +4634,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4686,7 +4692,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4744,7 +4750,7 @@
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DES ROUGES BARRES"
@@ -4802,7 +4808,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -4860,7 +4866,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -4917,7 +4923,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -4975,7 +4981,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5032,7 +5038,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5090,7 +5096,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5147,7 +5153,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5204,7 +5210,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5261,7 +5267,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5319,7 +5325,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5376,7 +5382,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE LA RUE EGALITE"
@@ -5433,7 +5439,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5490,7 +5496,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5548,7 +5554,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5605,7 +5611,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5662,7 +5668,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5720,7 +5726,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5778,7 +5784,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5835,7 +5841,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5847,7 +5853,7 @@
       "reunion": "R5",
       "course": "C8",
       "cheval": "L'ENNEMI",
-      "jockey": "A.DUQUESNOY",
+      "jockey": "W. LEVESQUE",
       "entraineur": "MME G.RARICK",
       "musique": "0p7p0p6p4p8p0p0p0p",
       "prixJour": 14400,
@@ -5857,7 +5863,7 @@
         "placeCorde": 6,
         "handicapValeur": 15.0,
         "handicapPoids": 510,
-        "poidsConditionMonte": 485,
+        "poidsConditionMonte": 500,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 34,
         "nombreVictoires": 0,
@@ -5866,7 +5872,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 5,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -5893,7 +5899,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -5950,7 +5956,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -6008,7 +6014,7 @@
         "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU QUESNE"
@@ -6059,7 +6065,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6071,7 +6077,7 @@
       "reunion": "R8",
       "course": "C1",
       "cheval": "COUSIN VINNY",
-      "jockey": "F VASQUEZ, JR.",
+      "jockey": "C. MARAGH",
       "entraineur": "J E MORZAN",
       "musique": "4p5p6p2p7p",
       "prixJour": 24045,
@@ -6089,7 +6095,7 @@
         "nombrePlacesTroisieme": 0,
         "age": 3,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -6111,7 +6117,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6163,7 +6169,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6215,7 +6221,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6267,7 +6273,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6319,7 +6325,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6341,6 +6347,7 @@
         "placeCorde": 7,
         "handicapValeur": 25.5,
         "handicapPoids": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 0,
@@ -6371,7 +6378,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6423,7 +6430,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6475,7 +6482,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -6527,7 +6534,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6579,7 +6586,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6601,6 +6608,7 @@
         "placeCorde": 3,
         "handicapValeur": 29.0,
         "handicapPoids": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 0,
@@ -6631,7 +6639,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6683,7 +6691,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6735,7 +6743,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6787,7 +6795,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6838,7 +6846,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6889,7 +6897,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -6911,6 +6919,7 @@
         "placeCorde": 1,
         "handicapValeur": 35.5,
         "handicapPoids": 565,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 45,
         "nombreVictoires": 7,
@@ -6941,7 +6950,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -6993,7 +7002,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -7045,7 +7054,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -7097,7 +7106,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -7149,7 +7158,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -7201,7 +7210,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -7253,7 +7262,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -7305,7 +7314,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -7357,7 +7366,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -7409,7 +7418,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -7460,7 +7469,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -7512,7 +7521,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -7563,7 +7572,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -7615,7 +7624,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -7667,7 +7676,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -7719,7 +7728,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -7771,7 +7780,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -7823,7 +7832,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -7875,7 +7884,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -7927,7 +7936,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -7979,7 +7988,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -8031,7 +8040,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -8083,7 +8092,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8135,7 +8144,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8187,7 +8196,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8239,7 +8248,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8291,7 +8300,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8343,7 +8352,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8365,6 +8374,7 @@
         "placeCorde": 7,
         "handicapValeur": 30.5,
         "handicapPoids": 555,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 3,
         "nombreVictoires": 1,
@@ -8395,7 +8405,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8447,7 +8457,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -8469,6 +8479,7 @@
         "placeCorde": 1,
         "handicapValeur": 35.0,
         "handicapPoids": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 1,
@@ -8499,7 +8510,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8551,7 +8562,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8573,6 +8584,7 @@
         "placeCorde": 3,
         "handicapValeur": 35.5,
         "handicapPoids": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 6,
         "nombreVictoires": 2,
@@ -8603,7 +8615,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8655,7 +8667,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8707,7 +8719,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8759,7 +8771,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8811,7 +8823,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8863,7 +8875,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8915,7 +8927,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -8967,7 +8979,7 @@
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "FEMELLES",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -9301,6 +9313,7 @@
         "placeCorde": 7,
         "handicapValeur": 31.0,
         "handicapPoids": 545,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 1,
         "nombreVictoires": 0,
@@ -9768,6 +9781,7 @@
         "placeCorde": 1,
         "handicapValeur": 36.0,
         "handicapPoids": 535,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 8,
         "nombreVictoires": 2,
@@ -10340,6 +10354,7 @@
         "placeCorde": 3,
         "handicapValeur": 21.0,
         "handicapPoids": 555,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 4,
         "nombreVictoires": 0,
@@ -10677,11 +10692,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -10728,11 +10749,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -10779,11 +10806,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -10795,7 +10828,7 @@
       "reunion": "R9",
       "course": "C1",
       "cheval": "DONA TAIFA",
-      "jockey": "NON COMMUNIQUE 1",
+      "jockey": "FRANCISCO LEANDRO FERNANDES GONC",
       "entraineur": "MARIA FERNANDA ALVAREZ",
       "musique": "2p3p1p3p8p",
       "prixJour": 6569,
@@ -10812,7 +10845,7 @@
         "nombrePlacesTroisieme": 3,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -10830,11 +10863,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -10881,11 +10920,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -10932,11 +10977,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -10983,11 +11034,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -10999,7 +11056,7 @@
       "reunion": "R9",
       "course": "C1",
       "cheval": "THUNDER TIME",
-      "jockey": "NON COMMUNIQUE 2",
+      "jockey": "LUIS CORDOBA",
       "entraineur": "JULIO OSCAR PENNA",
       "musique": "7p4p7p1p2p",
       "prixJour": 6569,
@@ -11016,7 +11073,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 4,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -11034,11 +11091,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -11085,11 +11148,17 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "QUATRE_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "INCASICO 2009"
@@ -11101,7 +11170,7 @@
       "reunion": "R9",
       "course": "C2",
       "cheval": "FRUIT HUNTER",
-      "jockey": "MAXIMILIANO HERNAN MACHADO",
+      "jockey": "RAFAEL FACUNDO TONANEZ",
       "entraineur": "SANDRA  CABALLERO",
       "musique": "3p9p1p3p1p",
       "prixJour": 15484,
@@ -11118,7 +11187,7 @@
         "nombrePlacesTroisieme": 4,
         "age": 6,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -11136,6 +11205,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11187,6 +11262,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11238,6 +11319,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11289,6 +11376,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11340,6 +11433,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11391,6 +11490,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 6,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -11442,6 +11547,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11458,7 +11569,7 @@
       "reunion": "R9",
       "course": "C3",
       "cheval": "DONA PICHO",
-      "jockey": "NON COMMUNIQUE 1",
+      "jockey": "NEHUEN NICOLAS SANCHEZ",
       "entraineur": "EDUARDO GASTON ACCOSANO",
       "musique": "6p2p1p8p1p",
       "prixJour": 4927,
@@ -11475,7 +11586,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 5,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -11493,6 +11604,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11544,6 +11661,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11595,6 +11718,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11646,6 +11775,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11697,6 +11832,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11713,7 +11854,7 @@
       "reunion": "R9",
       "course": "C3",
       "cheval": "POINT UP",
-      "jockey": "NON COMMUNIQUE 2",
+      "jockey": "OSVALOD ADRIAN ALDERETE",
       "entraineur": "ELVIO RAMON BORTULE",
       "musique": "3p1p1p2p1p",
       "prixJour": 4927,
@@ -11730,7 +11871,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 5,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -11748,6 +11889,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11799,6 +11946,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11850,6 +12003,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -11901,6 +12060,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -11952,6 +12117,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12003,6 +12174,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12054,6 +12231,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12105,6 +12288,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12130,6 +12319,7 @@
       "infosCheval": {
         "placeCorde": 6,
         "handicapPoids": 540,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 10,
         "nombreVictoires": 0,
@@ -12156,6 +12346,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12207,6 +12403,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 7,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12258,6 +12460,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12274,7 +12482,7 @@
       "reunion": "R9",
       "course": "C5",
       "cheval": "LADY TRIGGER",
-      "jockey": "NON COMMUNIQUE",
+      "jockey": "WILLIAM PEREYRA",
       "entraineur": "ALFREDO JOSE MOLLO",
       "musique": "0p2p6p3p6p",
       "prixJour": 4692,
@@ -12291,7 +12499,7 @@
         "nombrePlacesTroisieme": 2,
         "age": 5,
         "sexe": "FEMELLES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -12309,6 +12517,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12360,6 +12574,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12411,6 +12631,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12436,6 +12662,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 540,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 18,
         "nombreVictoires": 1,
@@ -12462,6 +12689,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12513,6 +12746,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12564,6 +12803,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12615,6 +12860,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12666,6 +12917,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
@@ -12717,6 +12974,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12768,6 +13031,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12819,6 +13088,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12870,6 +13145,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12921,6 +13202,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -12972,6 +13259,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13023,6 +13316,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13074,6 +13373,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13125,6 +13430,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13176,6 +13487,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13227,6 +13544,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13278,6 +13601,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13329,6 +13658,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13345,7 +13680,7 @@
       "reunion": "R9",
       "course": "C6",
       "cheval": "SIMPLE RULE",
-      "jockey": "NON COMMUNIQUE",
+      "jockey": "MARTIN MONTOYA",
       "entraineur": "CRISTIAN PATRICIO VILLABONA",
       "musique": "6p4p3p1p2p",
       "prixJour": 7116,
@@ -13362,7 +13697,7 @@
         "nombrePlacesTroisieme": 1,
         "age": 4,
         "sexe": "MALES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -13380,6 +13715,12 @@
         "parcours": "",
         "corde": "CORDE_GAUCHE",
         "typePiste": "HERBE",
+        "penetrometre": {
+          "valeurMesure": "2,3",
+          "heureMesure": "2026-11-21T16:29",
+          "intitule": "Léger",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES_ET_MALES",
@@ -13441,7 +13782,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -13555,7 +13896,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -13675,7 +14016,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA BRIQUETERIE"
@@ -13739,7 +14080,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ROUGES BARRES"
@@ -13802,7 +14143,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
@@ -13865,7 +14206,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -13985,7 +14326,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -14048,7 +14389,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
@@ -14111,7 +14452,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -14174,7 +14515,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -14237,7 +14578,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -14357,7 +14698,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CROISE-LAROCHE"
@@ -14420,7 +14761,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ROUGES BARRES"
@@ -14484,7 +14825,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
@@ -14542,6 +14883,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14596,6 +14943,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14650,6 +15003,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14709,11 +15068,17 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "QUATRE_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "INCASICO 2009"
@@ -14763,6 +15128,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14817,6 +15188,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14871,6 +15248,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14925,6 +15308,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14979,6 +15368,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -14998,7 +15393,7 @@
           "reunion": "R9",
           "course": "C6",
           "cheval": "SIMPLE RULE",
-          "jockey": "NON COMMUNIQUE",
+          "jockey": "MARTIN MONTOYA",
           "entraineur": "CRISTIAN PATRICIO VILLABONA",
           "musique": "6p4p3p1p2p",
           "prixJour": 7116,
@@ -15015,7 +15410,7 @@
             "nombrePlacesTroisieme": 1,
             "age": 4,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -15033,6 +15428,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -15097,7 +15498,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -15227,7 +15628,7 @@
           "reunion": "R5",
           "course": "C3",
           "cheval": "GRAN HABANO",
-          "jockey": "K.VANDERBEKE",
+          "jockey": "J. CLAUDIC",
           "entraineur": "D.DE WAELE",
           "musique": "0p8p6p6p5p4p5p6p9p6p",
           "prixJour": 16300,
@@ -15245,7 +15646,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 5,
             "sexe": "MALES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -15272,7 +15673,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CROISE-LAROCHE"
@@ -15335,7 +15736,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -15393,11 +15794,17 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "QUATRE_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "INCASICO 2009"
@@ -15412,7 +15819,7 @@
           "reunion": "R9",
           "course": "C3",
           "cheval": "DONA PICHO",
-          "jockey": "NON COMMUNIQUE 1",
+          "jockey": "NEHUEN NICOLAS SANCHEZ",
           "entraineur": "EDUARDO GASTON ACCOSANO",
           "musique": "6p2p1p8p1p",
           "prixJour": 4927,
@@ -15429,7 +15836,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 5,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -15447,6 +15854,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15501,6 +15914,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15525,7 +15944,7 @@
           "reunion": "R9",
           "course": "C3",
           "cheval": "POINT UP",
-          "jockey": "NON COMMUNIQUE 2",
+          "jockey": "OSVALOD ADRIAN ALDERETE",
           "entraineur": "ELVIO RAMON BORTULE",
           "musique": "3p1p1p2p1p",
           "prixJour": 4927,
@@ -15542,7 +15961,7 @@
             "nombrePlacesTroisieme": 2,
             "age": 5,
             "sexe": "FEMELLES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -15560,6 +15979,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15614,6 +16039,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -15683,7 +16114,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CROISE-LAROCHE"
@@ -15747,7 +16178,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
@@ -15815,7 +16246,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -15878,7 +16309,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CROISE-LAROCHE"
@@ -15901,7 +16332,7 @@
           "reunion": "R8",
           "course": "C1",
           "cheval": "COUSIN VINNY",
-          "jockey": "F VASQUEZ, JR.",
+          "jockey": "C. MARAGH",
           "entraineur": "J E MORZAN",
           "musique": "4p5p6p2p7p",
           "prixJour": 24045,
@@ -15919,7 +16350,7 @@
             "nombrePlacesTroisieme": 0,
             "age": 3,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -15941,7 +16372,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -16056,7 +16487,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -16111,7 +16542,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -16166,7 +16597,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -16221,7 +16652,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -16276,7 +16707,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -16301,6 +16732,7 @@
             "placeCorde": 3,
             "handicapValeur": 35.5,
             "handicapPoids": 545,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 6,
             "nombreVictoires": 2,
@@ -16331,7 +16763,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -16386,7 +16818,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -16556,7 +16988,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -16611,7 +17043,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -16721,6 +17153,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
@@ -16775,6 +17213,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -16834,6 +17278,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 6,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16888,6 +17338,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -16952,7 +17408,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -17007,7 +17463,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -17073,7 +17529,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -17137,7 +17593,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ROUGES BARRES"
@@ -17198,7 +17654,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -17251,7 +17707,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DE SA MAJESTE LE ROI MOHAMMED VI - DEFI DU GALOP"
@@ -17306,11 +17762,17 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "QUATRE_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "INCASICO 2009"
@@ -17360,6 +17822,12 @@
             "parcours": "",
             "corde": "CORDE_GAUCHE",
             "typePiste": "HERBE",
+            "penetrometre": {
+              "valeurMesure": "2,3",
+              "heureMesure": "2026-11-21T16:29",
+              "intitule": "Léger",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES_ET_MALES",
@@ -17424,7 +17892,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -17479,7 +17947,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -17534,7 +18002,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -17589,7 +18057,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -17703,7 +18171,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -17758,7 +18226,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -17788,6 +18256,7 @@
             "placeCorde": 1,
             "handicapValeur": 35.0,
             "handicapPoids": 545,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 1,
@@ -17818,7 +18287,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -17933,7 +18402,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -17958,6 +18427,7 @@
             "placeCorde": 3,
             "handicapValeur": 21.0,
             "handicapPoids": 555,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 0,
@@ -18054,7 +18524,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -18117,7 +18587,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA BRIQUETERIE"
@@ -18181,7 +18651,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA BRIQUETERIE"
@@ -18245,7 +18715,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ROUGES BARRES"
@@ -18312,7 +18782,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -18376,7 +18846,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DES ROUGES BARRES"
@@ -18444,7 +18914,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -18508,7 +18978,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA BRIQUETERIE"
@@ -18577,7 +19047,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -18640,7 +19110,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -18704,7 +19174,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -18768,7 +19238,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -18836,7 +19306,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CENTRE EQUESTRE"
@@ -18854,7 +19324,7 @@
           "reunion": "R5",
           "course": "C8",
           "cheval": "L'ENNEMI",
-          "jockey": "A.DUQUESNOY",
+          "jockey": "W. LEVESQUE",
           "entraineur": "MME G.RARICK",
           "musique": "0p7p0p6p4p8p0p0p0p",
           "prixJour": 14400,
@@ -18864,7 +19334,7 @@
             "placeCorde": 6,
             "handicapValeur": 15.0,
             "handicapPoids": 510,
-            "poidsConditionMonte": 485,
+            "poidsConditionMonte": 500,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 34,
             "nombreVictoires": 0,
@@ -18873,7 +19343,7 @@
             "nombrePlacesTroisieme": 3,
             "age": 5,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -18900,7 +19370,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -18969,7 +19439,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -19033,7 +19503,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -19097,7 +19567,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -19165,7 +19635,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA BRIQUETERIE"
@@ -19228,7 +19698,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -19296,7 +19766,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CROISE-LAROCHE"
@@ -19360,7 +19830,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CROISE-LAROCHE"
@@ -19429,7 +19899,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CROISE-LAROCHE"
@@ -19493,7 +19963,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -19556,7 +20026,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -19611,7 +20081,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "ALLOWANCE OPTIONAL CLAIMING (3 YO & UP - FILLIES & MARES - AWT)"
@@ -19671,7 +20141,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -19726,7 +20196,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -19790,7 +20260,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -19853,7 +20323,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
@@ -19916,7 +20386,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "STARTER OPTIONAL CLAIMING (2 YO - FILLIES - AWT)"
@@ -20036,7 +20506,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -20098,7 +20568,7 @@
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "GRAND PRIX DE MARCQ-EN-BAROEUL"
@@ -20157,7 +20627,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -20211,7 +20681,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -20265,7 +20735,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN CLAIMING (3 YO & UP - AWT)"
@@ -20549,7 +21019,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
@@ -20612,7 +21082,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -20681,7 +21151,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -20745,7 +21215,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -20814,7 +21284,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
@@ -20878,7 +21348,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU QUESNE"
@@ -20911,6 +21381,7 @@
             "placeCorde": 7,
             "handicapValeur": 25.5,
             "handicapPoids": 545,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 4,
             "nombreVictoires": 0,
@@ -20941,7 +21412,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEZN CLAIMING (3 YO & UP - AWT)"
@@ -20996,7 +21467,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "MAIDEN OPTIONAL CLAIMING 2 YO - FILLIES - DIRT"
@@ -21051,7 +21522,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -21106,7 +21577,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -21131,6 +21602,7 @@
             "placeCorde": 7,
             "handicapValeur": 30.5,
             "handicapPoids": 555,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 3,
             "nombreVictoires": 1,
@@ -21161,7 +21633,7 @@
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "CLAIMING (3 YO & UP - AWT)"
@@ -21186,6 +21658,7 @@
             "placeCorde": 7,
             "handicapValeur": 31.0,
             "handicapPoids": 545,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 1,
             "nombreVictoires": 0,
@@ -21337,7 +21810,7 @@
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE CLOTURE"
@@ -21401,7 +21874,7 @@
             "categorieParticularite": "HANDICAP_CATEGORIE_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE LA RUE EGALITE"
