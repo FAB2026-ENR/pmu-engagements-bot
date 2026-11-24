@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T05:27:44.823432+00:00",
+  "generatedAt": "2026-11-24T16:51:37.834965+00:00",
   "entries": [
     {
       "reunion": "R1",
@@ -41,14 +41,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -95,14 +98,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -149,14 +155,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -178,6 +187,7 @@
         "placeCorde": 12,
         "handicapValeur": 37.0,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 20,
         "nombreVictoires": 2,
@@ -203,14 +213,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -257,14 +270,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -311,14 +327,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -365,14 +384,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -419,14 +441,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -473,14 +498,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -527,14 +555,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -581,14 +612,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -635,14 +669,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -689,14 +726,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -743,14 +783,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -797,14 +840,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -851,14 +897,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 16,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -905,14 +954,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -960,14 +1012,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1014,14 +1069,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1069,14 +1127,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1092,8 +1153,8 @@
       "entraineur": "H.GREWE",
       "musique": "9p6p4p7p1p5p3p(25)2p3p",
       "prixJour": 25000,
-      "prixPrec": 25000.0,
-      "prixMoyen": 22500,
+      "prixPrec": 22000.0,
+      "prixMoyen": 22333,
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 540,
@@ -1122,14 +1183,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1176,14 +1240,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1229,14 +1296,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1283,14 +1353,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1311,6 +1384,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 525,
+        "poidsConditionMonte": 530,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 21,
         "nombreVictoires": 4,
@@ -1336,14 +1410,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "A_RECLAMER",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "QUATRE_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE VADALLIERE"
@@ -1389,14 +1466,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1442,14 +1522,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1495,14 +1578,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1549,14 +1635,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1602,14 +1691,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1656,14 +1748,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1709,14 +1804,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1763,14 +1861,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1816,14 +1917,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1870,14 +1974,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1923,14 +2030,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "FEMELLES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE PREAUX"
@@ -1976,14 +2086,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2030,14 +2143,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2083,14 +2199,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2136,14 +2255,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2189,14 +2311,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2242,14 +2367,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2295,14 +2423,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2348,14 +2479,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2401,14 +2535,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2454,14 +2591,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2507,14 +2647,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2561,14 +2704,17 @@
         "distance": 1900,
         "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 12,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "MALES_ET_HONGRES",
         "conditionAge": "DEUX_ANS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE MONTFORT"
@@ -2615,14 +2761,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -2670,14 +2819,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -2725,14 +2877,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -2779,14 +2934,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -2833,14 +2991,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -2888,14 +3049,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -2942,14 +3106,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -2996,14 +3163,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -3051,14 +3221,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -3105,14 +3278,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -3160,14 +3336,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -3214,14 +3393,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -3269,14 +3451,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -3324,14 +3509,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 14,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -3378,14 +3566,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3432,14 +3623,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3487,14 +3681,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3542,14 +3739,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3596,14 +3796,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3651,14 +3854,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3706,14 +3912,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3760,14 +3969,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3815,14 +4027,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3869,14 +4084,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3924,14 +4142,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -3978,14 +4199,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -4032,14 +4256,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -4086,14 +4313,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -4115,6 +4345,7 @@
         "placeCorde": 12,
         "handicapValeur": 19.0,
         "handicapPoids": 560,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 29,
         "nombreVictoires": 1,
@@ -4140,14 +4371,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -4194,14 +4428,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4249,14 +4486,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4304,14 +4544,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4358,14 +4601,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4387,6 +4633,7 @@
         "placeCorde": 8,
         "handicapValeur": 30.5,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 31,
         "nombreVictoires": 3,
@@ -4412,14 +4659,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4466,14 +4716,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4520,14 +4773,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4575,14 +4831,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4629,14 +4888,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4683,14 +4945,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4737,14 +5002,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4791,14 +5059,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4845,14 +5116,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4899,14 +5173,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -4953,14 +5230,17 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -5007,8 +5287,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5061,8 +5344,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5116,8 +5402,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5170,8 +5459,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5225,8 +5517,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5279,8 +5574,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5333,8 +5631,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5388,8 +5689,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5443,8 +5747,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5497,8 +5804,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5551,8 +5861,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5580,7 +5893,7 @@
         "placeCorde": 14,
         "handicapValeur": 24.0,
         "handicapPoids": 565,
-        "poidsConditionMonte": 550,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 17,
         "nombreVictoires": 1,
@@ -5606,8 +5919,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5660,8 +5976,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5714,8 +6033,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5769,8 +6091,11 @@
         "distance": 2500,
         "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
         "penetrometre": {
-          "intitule": "PSF"
+          "heureMesure": "2026-11-24T09:00",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
         },
         "nombreDeclaresPartants": 15,
         "categorieParticularite": "HANDICAP_DIVISE",
@@ -5823,11 +6148,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -5874,11 +6205,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -5925,11 +6262,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -5976,11 +6319,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6027,11 +6376,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6078,11 +6433,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6129,11 +6490,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6180,11 +6547,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6231,11 +6604,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6282,11 +6661,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6333,11 +6718,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6349,7 +6740,7 @@
       "reunion": "R5",
       "course": "C1",
       "cheval": "DILIGENT HENRY",
-      "jockey": "MOLLY KEEGAN-PRICE",
+      "jockey": "OLIVER CARMICHAEL",
       "entraineur": "GEMMA TUTTY",
       "musique": "7p6p5p0p5p",
       "prixJour": 7229,
@@ -6359,6 +6750,7 @@
         "placeCorde": 7,
         "handicapValeur": 21.0,
         "handicapPoids": 545,
+        "poidsConditionMonte": 555,
         "oeilleres": "OEILLERES_CLASSIQUE",
         "nombreCourses": 29,
         "nombreVictoires": 2,
@@ -6367,7 +6759,7 @@
         "nombrePlacesTroisieme": 4,
         "age": 5,
         "sexe": "HONGRES",
-        "driverChange": false,
+        "driverChange": true,
         "jumentPleine": false,
         "indicateurInedit": false,
         "supplement": 0,
@@ -6384,11 +6776,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6435,11 +6833,17 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
         "conditionAge": "TROIS_ANS_ET_PLUS",
-        "categorieStatut": "A_PARTIR",
+        "categorieStatut": "ARRIVEE",
         "discipline": "PLAT",
         "specialite": "PLAT",
         "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -6485,6 +6889,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6535,6 +6945,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6585,6 +7001,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6610,6 +7032,7 @@
       "infosCheval": {
         "placeCorde": 5,
         "handicapPoids": 590,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -6635,6 +7058,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6685,6 +7114,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6736,6 +7171,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6787,6 +7228,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6837,6 +7284,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6887,6 +7340,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6937,6 +7396,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -6987,6 +7452,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7038,6 +7509,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7088,6 +7565,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 13,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7138,6 +7621,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7188,6 +7677,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7238,6 +7733,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7288,6 +7789,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7338,6 +7845,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7388,6 +7901,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7438,6 +7957,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7488,6 +8013,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7538,6 +8069,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7588,6 +8125,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7638,6 +8181,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7688,6 +8237,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7738,6 +8293,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7788,6 +8349,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7838,6 +8405,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7888,6 +8461,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7938,6 +8517,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 8,
         "categorieParticularite": "COURSE_A_CONDITIONS",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -7988,6 +8573,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 4,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8039,6 +8630,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 4,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8090,6 +8687,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 4,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8115,6 +8718,7 @@
       "infosCheval": {
         "placeCorde": 2,
         "handicapPoids": 585,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 2,
         "nombreVictoires": 0,
@@ -8140,6 +8744,12 @@
         "distance": 1750,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 4,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8191,6 +8801,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8242,6 +8858,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8293,6 +8915,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8344,6 +8972,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8395,6 +9029,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8446,6 +9086,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8497,6 +9143,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8548,6 +9200,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8574,6 +9232,7 @@
         "placeCorde": 10,
         "handicapValeur": 38.5,
         "handicapPoids": 580,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 34,
         "nombreVictoires": 5,
@@ -8599,6 +9258,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8650,6 +9315,12 @@
         "distance": 1200,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -8701,6 +9372,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -8752,6 +9429,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -8803,6 +9486,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -8854,6 +9543,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -8880,6 +9575,7 @@
         "placeCorde": 9,
         "handicapValeur": 35.5,
         "handicapPoids": 590,
+        "poidsConditionMonte": 0,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 9,
         "nombreVictoires": 2,
@@ -8905,6 +9601,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -8956,6 +9658,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -9007,6 +9715,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -9058,6 +9772,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -9084,6 +9804,7 @@
         "placeCorde": 8,
         "handicapValeur": 30.0,
         "handicapPoids": 560,
+        "poidsConditionMonte": 565,
         "oeilleres": "SANS_OEILLERES",
         "nombreCourses": 18,
         "nombreVictoires": 2,
@@ -9109,6 +9830,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -9160,6 +9887,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -9211,6 +9944,12 @@
         "distance": 1450,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 11,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "FEMELLES",
@@ -9262,6 +10001,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9313,6 +10058,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9364,6 +10115,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9415,6 +10172,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9466,6 +10229,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9517,6 +10286,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9568,6 +10343,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9619,6 +10400,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9670,6 +10457,12 @@
         "distance": 2800,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 9,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9721,6 +10514,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9772,6 +10571,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9823,6 +10628,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9874,6 +10685,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9925,6 +10742,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -9976,6 +10799,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10002,6 +10831,7 @@
         "placeCorde": 6,
         "handicapValeur": 31.0,
         "handicapPoids": 595,
+        "poidsConditionMonte": 0,
         "oeilleres": "OEILLERES_AUSTRALIENNES",
         "nombreCourses": 15,
         "nombreVictoires": 3,
@@ -10027,6 +10857,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10078,6 +10914,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10129,6 +10971,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -10180,6 +11028,12 @@
         "distance": 1000,
         "parcours": "PISTE EN SABLE(DIRT)",
         "corde": "CORDE_DROITE",
+        "typePiste": "GAZON",
+        "penetrometre": {
+          "heureMesure": "2026-11-24T09:44",
+          "intitule": "PSF STANDARD",
+          "commentaire": ""
+        },
         "nombreDeclaresPartants": 10,
         "categorieParticularite": "HANDICAP",
         "conditionSexe": "TOUS_CHEVAUX",
@@ -13636,14 +14490,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -13696,14 +14553,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE MONTFORT"
@@ -13761,11 +14621,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -13814,6 +14680,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14407,6 +15279,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14460,6 +15338,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14514,6 +15398,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -14568,6 +15458,12 @@
             "distance": 1450,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -14627,14 +15523,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -14661,6 +15560,7 @@
           "infosCheval": {
             "placeCorde": 5,
             "handicapPoids": 525,
+            "poidsConditionMonte": 530,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 21,
             "nombreVictoires": 4,
@@ -14686,14 +15586,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VADALLIERE"
@@ -14746,14 +15649,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -14806,8 +15712,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -14866,8 +15775,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -15470,6 +16382,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15523,6 +16441,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15581,6 +16505,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15634,6 +16564,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15688,6 +16624,12 @@
             "distance": 1450,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -15747,11 +16689,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -15801,6 +16749,12 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15860,11 +16814,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -15913,6 +16873,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -15972,14 +16938,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -16032,14 +17001,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -16093,8 +17065,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -16158,14 +17133,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -16218,14 +17196,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -16279,14 +17260,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -16343,6 +17327,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -16396,6 +17386,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -17587,14 +18583,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -17647,14 +18646,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE MONTFORT"
@@ -17710,14 +18712,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -17770,8 +18775,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -18052,14 +19060,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -18087,7 +19098,7 @@
             "placeCorde": 14,
             "handicapValeur": 24.0,
             "handicapPoids": 565,
-            "poidsConditionMonte": 550,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 17,
             "nombreVictoires": 1,
@@ -18113,8 +19124,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -18177,14 +19191,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -18236,14 +19253,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -18295,14 +19315,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE MONTFORT"
@@ -18355,8 +19378,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -18419,14 +19445,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -18479,8 +19508,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -18509,7 +19541,7 @@
           "reunion": "R5",
           "course": "C1",
           "cheval": "DILIGENT HENRY",
-          "jockey": "MOLLY KEEGAN-PRICE",
+          "jockey": "OLIVER CARMICHAEL",
           "entraineur": "GEMMA TUTTY",
           "musique": "7p6p5p0p5p",
           "prixJour": 7229,
@@ -18519,6 +19551,7 @@
             "placeCorde": 7,
             "handicapValeur": 21.0,
             "handicapPoids": 545,
+            "poidsConditionMonte": 555,
             "oeilleres": "OEILLERES_CLASSIQUE",
             "nombreCourses": 29,
             "nombreVictoires": 2,
@@ -18527,7 +19560,7 @@
             "nombrePlacesTroisieme": 4,
             "age": 5,
             "sexe": "HONGRES",
-            "driverChange": false,
+            "driverChange": true,
             "jumentPleine": false,
             "indicateurInedit": false,
             "supplement": 0,
@@ -18544,11 +19577,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -18598,6 +19637,12 @@
             "distance": 1450,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -18657,14 +19702,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -18717,14 +19765,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -18781,6 +19832,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18835,6 +19892,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18889,6 +19952,12 @@
             "distance": 2800,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -18943,6 +20012,12 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19001,6 +20076,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19054,6 +20135,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19108,6 +20195,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19167,14 +20260,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -19227,14 +20323,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU MANOIR DE LA CAILLERIE"
@@ -19291,6 +20390,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19344,6 +20449,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19398,6 +20509,12 @@
             "distance": 2800,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19456,6 +20573,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19510,6 +20633,12 @@
             "distance": 1450,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -19564,6 +20693,12 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19733,6 +20868,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19786,6 +20927,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19844,6 +20991,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -19898,6 +21051,12 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20173,14 +21332,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -20233,14 +21395,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -20298,11 +21463,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -20352,6 +21523,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -20576,14 +21753,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VADALLIERE"
@@ -20636,8 +21816,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -20700,14 +21883,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
@@ -20759,14 +21945,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE MONTFORT"
@@ -20824,14 +22013,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -20885,14 +22077,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -20920,6 +22115,7 @@
             "placeCorde": 12,
             "handicapValeur": 19.0,
             "handicapPoids": 560,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 29,
             "nombreVictoires": 1,
@@ -20945,14 +22141,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -21010,14 +22209,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -21070,14 +22272,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -21135,14 +22340,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -21195,14 +22403,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -21261,14 +22472,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VADALLIERE"
@@ -21321,14 +22535,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "A_RECLAMER",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "QUATRE_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE VADALLIERE"
@@ -21381,8 +22598,11 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
@@ -21446,14 +22666,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -21506,14 +22729,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -21565,14 +22791,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 12,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "MALES_ET_HONGRES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE MONTFORT"
@@ -21630,11 +22859,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -21684,11 +22919,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -21718,6 +22959,7 @@
             "placeCorde": 9,
             "handicapValeur": 35.5,
             "handicapPoids": 590,
+            "poidsConditionMonte": 0,
             "oeilleres": "SANS_OEILLERES",
             "nombreCourses": 9,
             "nombreVictoires": 2,
@@ -21743,6 +22985,12 @@
             "distance": 1450,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "FEMELLES",
@@ -21772,6 +23020,7 @@
             "placeCorde": 6,
             "handicapValeur": 31.0,
             "handicapPoids": 595,
+            "poidsConditionMonte": 0,
             "oeilleres": "OEILLERES_AUSTRALIENNES",
             "nombreCourses": 15,
             "nombreVictoires": 3,
@@ -21797,6 +23046,12 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -21856,14 +23111,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -21917,14 +23175,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -21978,14 +23239,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 14,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE L'HOTEL DU CROISSANT"
@@ -22039,14 +23303,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 15,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU GRAND HOTEL D'ARGOUGES"
@@ -22104,11 +23371,17 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 13,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "APPRENTICE HANDICAP (CLASS 6) (2ND)"
@@ -22158,6 +23431,12 @@
             "distance": 1000,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22751,6 +24030,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 8,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22805,6 +24090,12 @@
             "distance": 1750,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 4,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22859,6 +24150,12 @@
             "distance": 1200,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 10,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22913,6 +24210,12 @@
             "distance": 2800,
             "parcours": "PISTE EN SABLE(DIRT)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
+            "penetrometre": {
+              "heureMesure": "2026-11-24T09:44",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
+            },
             "nombreDeclaresPartants": 9,
             "categorieParticularite": "HANDICAP",
             "conditionSexe": "TOUS_CHEVAUX",
@@ -22972,14 +24275,17 @@
             "distance": 2500,
             "parcours": "2500 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 16,
             "categorieParticularite": "HANDICAP_DIVISE",
             "conditionSexe": "TOUS_CHEVAUX",
             "conditionAge": "TROIS_ANS_ET_PLUS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DU CHATEAU DE BAYEUX"
@@ -23031,14 +24337,17 @@
             "distance": 1900,
             "parcours": "1900 M. (PISTE EN SABLE FIBRE)",
             "corde": "CORDE_DROITE",
+            "typePiste": "GAZON",
             "penetrometre": {
-              "intitule": "PSF"
+              "heureMesure": "2026-11-24T09:00",
+              "intitule": "PSF STANDARD",
+              "commentaire": ""
             },
             "nombreDeclaresPartants": 11,
             "categorieParticularite": "COURSE_A_CONDITIONS",
             "conditionSexe": "FEMELLES",
             "conditionAge": "DEUX_ANS",
-            "categorieStatut": "A_PARTIR",
+            "categorieStatut": "ARRIVEE",
             "discipline": "PLAT",
             "specialite": "PLAT",
             "libelle": "PRIX DE PREAUX"
