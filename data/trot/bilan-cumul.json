@@ -1,6 +1,6 @@
 {
   "version": "9-trot2",
-  "generatedAt": "2026-11-26T03:43:59.842090+00:00",
+  "generatedAt": "2026-11-27T03:44:47.448478+00:00",
   "jours": [
     {
       "date": "2026-10-07",
@@ -255,6 +255,11 @@
     {
       "date": "2026-11-26",
       "partants": 298,
+      "avecArrivee": 0
+    },
+    {
+      "date": "2026-11-27",
+      "partants": 391,
       "avecArrivee": 0
     }
   ],
